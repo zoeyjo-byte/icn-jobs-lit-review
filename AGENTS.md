@@ -1,16 +1,22 @@
-# LLM Wiki Schema — ICN Skills Research Lit Review
+# ICN Jobs Literature Review — Skills Gap Research Wiki
 
 ## Architecture
 
 This vault follows Karpathy's LLM Wiki pattern: raw/         → Immutable source documents. Never edit files here.
 wiki/        → Agent-compiled knowledge base. The agent writes and maintains this.
-concepts/  → Cross-cutting ideas, trends, frameworks
-entities/  → Companies, products, people, newsletters tracked
-synthesis/ → Timeline pages, trend reports, comparison pages
+concepts/  → Cross-cutting ideas, trends, frameworks in market research
+skills/    → Skills, competencies, requirements found in job listings
+roles/     → Market research job roles, positions, career paths
+entities/  → Companies, research firms, tools, platforms mentioned
+studies/   → Research studies, papers, reports on skills gaps
+methodologies/ → Research methodologies used in literature
+synthesis/ → Timeline pages, trend reports, comparison pages, gap analysis
 index.md     → Master catalog of all wiki pages and their relationships
-log.md       → Chronological ingest log ## Source Format
+log.md       → Chronological ingest log
 
-Files in `raw/` are source materials identified by individuals contributing to the research project.
+## Source Format
+
+Files in `raw/` are source materials identified by researchers working on the Insights Career Network skills gap research project. Includes job listings, research papers, industry reports, and literature review notes.
 
 ## Ingest Workflow
 
@@ -18,9 +24,12 @@ When new files appear in `raw/`:
 
 1. **Read** the new file(s) completely.
 2. **Extract**:
-   - Companies, products, and people mentioned (→ `wiki/entities/`)
-   - AI trends, MRX developments, frameworks, recurring themes (→ `wiki/concepts/`)
-   - Notable launches, funding rounds, partnerships, policy changes
+   - Companies, research firms, tools, platforms mentioned (→ `wiki/entities/`)
+   - Market research trends, skills frameworks, recurring themes (→ `wiki/concepts/`)
+   - Skills, competencies, requirements found in job listings (→ `wiki/skills/`)
+   - Job roles, positions, career paths in market research (→ `wiki/roles/`)
+   - Research methodologies used in studies (→ `wiki/methodologies/`)
+   - Key findings from research papers and reports (→ `wiki/studies/`)
 3. **Create or update** wiki pages. If a page exists, append a dated "Update" section rather than rewriting. Link between related pages using `[[wikilinks]]`.
 4. **Update `index.md`** — add any new pages to the catalog under the appropriate section.
 5. **Update `log.md`** — append a line: `YYYY-MM-DD: Ingested [filename]. Created X new pages, updated Y existing pages.`

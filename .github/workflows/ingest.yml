@@ -3,7 +3,10 @@ name: ingest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "0 * * * *"
+  push:
+    paths:
+      - 'raw/**'
 
 permissions:
   contents: write
@@ -26,7 +29,7 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests pdfplumber Pillow
 
       - name: Configure git
         run: |
@@ -39,7 +42,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Preprocess sources
+        run: python bin/preprocess.py
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          VISION_MODEL: ${{ secrets.VISION_MODEL }}
+
       - name: Run ingest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          MAX_CHARS: 50000
         run: python ingest.py

@@ -1,3 +1,0 @@
-This is a test digest file.
-It has some content.
-Multiple lines.

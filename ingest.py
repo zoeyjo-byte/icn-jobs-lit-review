@@ -5,11 +5,12 @@ Processes one uningested file at a time to keep token costs low.
 """
 
 import os
+import re
+import shutil
 import json
 import requests
 import subprocess
 from datetime import datetime, timezone
-import json
 
 # ── Config (template-friendly) ───────────────────────────────
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
@@ -78,7 +79,8 @@ def get_next_file():
     ingested = get_ingested_files()
     if os.path.exists(RAW_DIR):
         for f in sorted(os.listdir(RAW_DIR)):
-            if f.endswith(".txt") and f not in ingested:
+            # support txt, md, and basic text-extracted docs
+            if (f.endswith(".txt") or f.endswith(".md")) and f not in ingested:
                 return os.path.join(RAW_DIR, f)
     return None
 
@@ -104,6 +106,22 @@ def read_prompt_template():
     raise FileNotFoundError("prompt.txt not found")
 
 
+# Only wiki/ markdown pages may be created/updated via model output.
+# index.md and log.md are handled by dedicated fields, not arbitrary paths.
+SAFE_PATH_RE = re.compile(r"^wiki/[a-z0-9][a-z0-9\-/]*\.md$")
+
+
+def assert_safe_path(p):
+    """Reject any path that isn't a wiki/*.md file. Prevents prompt-injection
+    driven writes to .github/, ingest.py, AGENTS.md, etc."""
+    if not isinstance(p, str) or not SAFE_PATH_RE.match(p):
+        raise ValueError(f"Refusing unsafe path: {p!r}")
+    parts = p.split("/")
+    if ".." in parts or ".git" in parts:
+        raise ValueError(f"Path traversal or hidden segment blocked: {p!r}")
+    return p
+
+
 def apply_changes(response_text):
     json_str = response_text
     if "```json" in json_str:
@@ -118,34 +136,54 @@ def apply_changes(response_text):
         json_str = json_str[start:end+1]
     
     changes = json.loads(json_str)
-    
+    written = []
+    rejected = []
+
     for f in changes.get("files_to_create", []):
-        os.makedirs(os.path.dirname(f["path"]), exist_ok=True)
-        with open(f["path"], "w") as fh:
-            fh.write(f["content"])
-        print(f"  Created: {f['path']}")
+        try:
+            path = assert_safe_path(f["path"])
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w") as fh:
+                fh.write(f["content"])
+            print(f"  Created: {path}")
+            written.append(path)
+        except (ValueError, KeyError) as e:
+            rejected.append((f.get("path", "<missing>"), str(e)))
+            print(f"  REJECTED create {f.get('path', '<missing>')}: {e}")
     
     for f in changes.get("files_to_update", []):
-        with open(f["path"], "w") as fh:
-            fh.write(f["content"])
-        print(f"  Updated: {f['path']}")
+        try:
+            path = assert_safe_path(f["path"])
+            with open(path, "w") as fh:
+                fh.write(f["content"])
+            print(f"  Updated: {path}")
+            written.append(path)
+        except (ValueError, KeyError) as e:
+            rejected.append((f.get("path", "<missing>"), str(e)))
+            print(f"  REJECTED update {f.get('path', '<missing>')}: {e}")
     
     if changes.get("index_md"):
+        # Backup before overwrite so a poisoned index can be rolled back.
+        if os.path.exists(INDEX_FILE):
+            shutil.copyfile(INDEX_FILE, INDEX_FILE + ".bak")
         with open(INDEX_FILE, "w") as fh:
             fh.write(changes["index_md"])
-        print(f"  Updated: {INDEX_FILE}")
+        print(f"  Updated: {INDEX_FILE} (backup at {INDEX_FILE}.bak)")
     
     if changes.get("log_entry"):
         with open(LOG_FILE, "a") as fh:
             fh.write(changes["log_entry"] + "\n")
         print(f"  Logged: {changes['log_entry']}")
     
+    if rejected:
+        print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
+    
     return changes.get("summary", "")
 
 
 def git_commit_and_push(summary):
-    subprocess.run(["git", "config", "--global", "user.name", "Wiki Ingest Bot"], check=True)
-    subprocess.run(["git", "config", "--global", "user.email", "bot@wiki.local"], check=True)
+    subprocess.run(["git", "config", "--local", "user.name", "Wiki Ingest Bot"], check=True)
+    subprocess.run(["git", "config", "--local", "user.email", "bot@wiki.local"], check=True)
     subprocess.run(["git", "add", "wiki/", "index.md", "log.md"], check=True)
     
     result = subprocess.run(["git", "diff", "--staged", "--quiet"], capture_output=True)
@@ -209,6 +247,14 @@ def main():
     
     with open(filepath) as f:
         source_text = f.read()
+
+    # --- Safety: truncate very large files to control cost ---
+    # 50k chars ≈ 12k tokens, fine for deepseek-chat (~$0.01/file).
+    # Raises the default 20k because real research reports exceed it.
+    MAX_CHARS = int(os.environ.get("MAX_CHARS", 50000))
+    if len(source_text) > MAX_CHARS:
+        source_text = source_text[:MAX_CHARS]
+        print(f"Truncated input to {MAX_CHARS} characters")
     
     template = read_prompt_template()
     prompt = template.format(

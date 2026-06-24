@@ -1,0 +1,1057 @@
+
+--- Page 1 ---
+Two futures for jobs
+in an AI era
+2026 Global AI Jobs Barometer
+--- Page 2 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 2
+Table of contents
+Introduction 3
+01 A two-track jobs market is emerging 4
+02 A two-track jobs market is emerging at the entry level too 11
+03 The AI skills earthquake is accelerating 14
+04 ‘Superstar’ companies are capturing the greatest gains from AI 18
+05 Wage premiums for AI skills continue to rise 22
+06 Hiring of AI specialists is rising sharply, indicating growing AI 24
+investment
+Conclusion: Next Steps 26
+--- Page 3 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 3
+AI is creating a two track labour market. That is a key finding
+from our analysis of over one billion online job advertisements
+across six continents.
+Rather than simply replacing jobs, AI is reshaping them in fundamentally different
+ways. At one end of the spectrum, AI is professionalising work, automating
+away routine tasks and elevating the importance of human expertise, judgement
+and creativity. At the other end, it is democratising work, reducing the skill
+barriers for complex tasks and shifting roles toward less specialised activities.
+This divergence is creating two tracks in the labour market with markedly
+different outcomes. The 22% of jobs that are being professionalised are growing
+twice as fast as democratised jobs (52% of jobs) and seeing 42% higher wage
+growth since 2021.
+The study reveals a potentially counter intuitive finding - greater AI exposure is
+linked to headcount growth, not decrease. Why? While AI can deliver significant
+value through productivity improvements, its greatest potential comes through
+redesigning how companies operate. Reinvention is the key to unlocking the
+maximum benefits from AI, and our data suggests the companies that are
+achieving the largest productivity gains are taking that route. Headcount growth
+at the most exposed organisations is double growth at the least exposed, with
+wages also growing significantly faster. Consistent with other PwC research, we
+find a ‘superstar’ effect - while the companies most exposed to AI are seeing
+productivity growth relative to a 2018 baseline of 34%, if you zoom in on the top
+20% of companies in this group, that number rises to 163%.
+As work changes rapidly, skill needs change rapidly too - with employers
+increasingly focused on attributes that are distinctively human. Skills required
+for the most AI exposed jobs are changing twice as fast as in the least exposed
+roles, while new tasks that rely on skills like empathy, judgement, and creativity
+are added 2.5x faster.
+A two track labour market is emerging at every level. Analysis of US data finds
+that entry level jobs highly exposed to AI are evolving to require traditionally senior
+capabilities (such as motivational leadership, strategic decision making and team
+building) which now account for 52% of new skills required for these jobs. For entry
+level jobs least exposed to AI, the equivalent number is just 7%. Entry level jobs
+that have been ‘seniorised’ in this way continue to grow in number (up 35%), while
+globally the number of entry level jobs in roles highly exposed to AI has flatlined.
+There is a clear lesson from this year’s AI Jobs Barometer for both business
+leaders and workers: winning is not just about using technology, it is about human
+skills. The more AI is deployed, the more distinctly human expertise is valued. For
+organisations, the focus should be on redesigning work not just automating tasks,
+while for individuals it will be important to make sure they hone their leadership,
+judgement, creative and teamwork skills so they can do what AI cannot.
+--- Page 4 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 4
+A two-track jobs market
+01
+is emerging
+A puzzle: why does AI automation appear to benefit
+some occupations?
+Last year’s AI Jobs Barometer uncovered a puzzle. Despite widespread concerns
+that AI automation may displace workers, we found that job numbers and wages
+are rising in jobs highly automatable by AI.
+AI automation makes some roles more expert
+We believe that what matters is how automation reshapes the role – specifically,
+whether AI automation grows or diminishes the need for human expertise
+(defined as specialised knowledge or capabilities).1 In this year’s Barometer,
+we test this idea.
+1 Expertise, Autor & Thompson, 2025
+--- Page 5 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 5
+Three types of jobs
+All jobs globally fall into one of three categories
+Low AI exposure jobs: Jobs that include few tasks in which AI
+1
+has capabilities, so AI is likely to have limited impact on the role.
+Examples: Chefs, construction workers, mechanics.
+Professionalised jobs: Jobs reshaped by AI to demand more
+2
+expertise. Examples: Radiologists, employment recruiters, air traffic
+controllers.
+Democratised jobs: Jobs reshaped by AI to demand less expertise.
+3
+Examples: Software developers, loan officers, finance managers.
+See Methodology appendix for more information.
+First, let’s look at how AI can increase the need for expertise. By taking on
+the relatively basic tasks in a job, AI leaves the more complex and expert
+tasks to people. For example, AI helps lawyers with basic tasks like document
+summarisation, leaving people tougher tasks like building a case in court. Or
+consider employment recruiters; AI can now automatically screen CVs, leaving
+recruiters more demanding tasks like negotiating contracts. We call jobs made
+more expert by AI ‘professionalised.’
+On the other hand, AI can take away the relatively more expert tasks in a role,
+leaving the less demanding tasks for people. Consider inventory clerks. AI now
+performs complex tasks like managing inventory, leaving people less expert
+tasks like moving stock in warehouses. We call these jobs ‘democratised.’
+AI is having two different impacts on jobs depending on whether it is
+automating more or less expert2 tasks
+52% of jobs are being 22% of jobs are being
+DEMOCRATISED PROFESSIONALISED
+(shifted toward less expert tasks) (shifted toward more expert tasks)
+Example: Inventory Clerk Example: Recruiter
+More expert tasks like manage inventory More expert tasks like negotiate contracts
+AI automated Remain
+Less expert tasks like move stock Less expert tasks like screen CVs
+Remain AI automated
+2 Expert = requiring specialised knowledge or capability
+--- Page 6 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 6
+Low AI exposure jobs
+26% of advertised jobs
+20
+10
+0
+-10
+-20
+-30
+-40
+-50
+-60
+52%
+of
+advertised
+jobs
+Democratised
+jobs
+Our data shows that AI significantly reduces the human expertise needed
+for some democratised jobs. For medical secretaries and IT systems
+administrators, for example, AI automates a large share of the expert tasks
+formerly performed by people. (Please see the Methodology appendix for a full
+explanation of how expertise change is calculated, drawing on the work
+of Teeselink and Carey (2026).
+AI’s impact on professionalised and democratised jobs will be widely felt. About
+half of advertised jobs globally are democratised, while around a quarter are
+professionalised and the remaining quarter have low exposure to AI.
+AI’s impact on expertise is especially strong for democratised jobs
+Professionalised jobs
+22% of advertised jobs
+Electronics mechanics
+Building Employment agents
+AI raises and servicers Environmental
+construction and contractors
+engineers
+expertise labourers Pharmacists
+required
+Window Human
+cleaners resource
+managers Commercial sales
+Archivists and representatives
+AI
+curators
+reduces
+Credit and loans officers
+expertise Software
+required developers
+Finance
+Systems
+managers
+administrators
+Medical
+secretaries
+0 0.25 0.5 0.75 1
+Lower AI exposure Higher AI exposure
+Of 380 ISCO-08 job categories, 74 are Professionalised, 125 are democratised, and 181 have low exposure to AI. 40
+SOC-2018 occupations are excluded from the analysis because of limited data quality from Teeselink et al. for ranking
+expertise.
+The Professionalised vs Democratised framework moves us past a backward-
+looking view of AI’s impact – cataloguing old tasks that have been automated -
+to a forward-lookingview of how AI reshapes roles for the future. Our hope is
+that Professionalised vs Democratised offers a clearer lens for understanding the
+future of jobs in an AI era – and as we will see below, it may.
+--- Page 7 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 7
+Professionalised jobs are pulling ahead in
+numbers, complexity, and pay – while
+dem
+ocratised jobs fall behind
+To understand the possible future trajectories of professionalised and
+democratised jobs, consider what happened when spreadsheets came into
+widespread use in the 1980s.
+Spreadsheets could perform many of the more challenging parts of the roles of
+bookkeepers and accounting clerks, effectively democratising these roles and
+sending numbers of these jobs into a gradual but steady decline. Financial
+analysts, on the other hand, now had a powerful new tool that enabled them to
+perform analysis with unprecedented complexity and fluidity, effectively
+professionalising their jobs. Numbers of financial analysts began a steep ascent
+that has continued into the 2020s as new fields of financial analysis were
+pioneered – many with rising wages (US data).3
+Our analysis shows that professionalised jobs across the world are indeed
+becoming more complex, demanding new skills at twice the rate of
+democratised jobs.
+Professionalised roles are demanding additional skills at twice the
+rate of democratised roles, and the gap has widened since 2022
+Number of skills demanded relative to 2018, democratised vs professionalised occupations, global
+2.0
+1.8
+1.6
+1.4
+1.2
+1.0
+0.0
+2018 2019 2020 2021 2022 2023 2024 2025
+Source: PwC analysis, Lightcast data, Teeselink and Carey (2026)
+Notes: Due to data robustness, we only include the six countries for which Lightcast data is available from 2012 onwards.
+3 US Current Population Survey – FT analysis, ‘What the AI Jobpocalypse narrative misses,’ 2025
+8102
+ot
+evitaler
+,dednamed
+slliks
+fo
+rebmuN
+Democratised Professionalised
+Professionalised:
+68% growth
+Democratised:
+33% growth
+--- Page 8 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 8
+The rising demands on professionalised workers are reflected in 42% faster
+salary growth vs democratised jobs, and the gap has grown since 2022 when AI
+use soared.
+Professionalised roles have seen 42% faster growth in average salaries
+42%
+relative to democratised roles, with a growing gap from 2022
+Growth in average advertised salary, democratised and professionalised jobs, relative to 2021, global
+The rising demands on
+Professionalised workers
+are reflected in 42%
+1.4
+faster salary growth vs
+democratised jobs
+1.3
+1.2
+1.1
+1.0
+2021 2022 2023 2024 2025
+yralas
+desitrevda
+ni
+htworG
+)1202
+ot
+evitaler(
+Democratised Professionalised
+42% faster
+salary growth for
+Professionalised
+jobs
+Teeselink’s expertise data was provided to us at SOC-2018 level. SOC classification in Lightcast jobs data is
+not available outside of the US. Thus, in order to produce global figures and metrics for our expertise analysis
+using Lightcast data, we map Teeselink’s expertise scores from SOC-2018 to ISCO-08 for this purpose only.
+professionalised salaries have grown 37% since 2021 and democratised by 26% - a 42% gap.
+Source: PwC analysis, Lightcast data, Teeselink and Carey (2026)
+Notes: Due to data robustness, we only include the six countries for which Lightcast data is available from 2012 onwards.
+Turning to job numbers, we find – encouragingly – that both democratised and
+professionalised jobs are continuing to grow. However, professionalised jobs
+are growing markedly more quickly than democratised ones. This suggests a
+gradual rebalancing of the jobs market away from democratised jobs.
+Professionalised jobs are growing twice as quickly as democratised jobs
+Number of job postings relative to 2018, 2018 - 2025, democratised and professionalised jobs, global
+Democratised Professionalised
+1.7
+1.6
+1.5
+1.4
+1.3
+1.2
+1.1
+1.0
+0.9
+0.8
+2018 2019 2020 2021 2022 2023 2024 2025
+Source: PwC analysis, Lightcast data, Teeselink and Carey (2026)
+Notes: Due to data robustness, we only include the six countries for which Lightcast data is available from 2012 onwards.
+8102
+ot
+evitaler
+,sgnitsop
+boj
+fo
+rebmuN
+Professionalised:
+39% growth
+Democratised:
+17% growth
+--- Page 9 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 9
+Our data suggests that some jobs expected to be displaced or devalued by AI
+automation – such as air traffic controllers and marketing managers, both of
+which are professionalised – may in fact see growing demand, wages, and skill
+requirements. It may be time for the debate on work and AI to move on from fear
+of AI automation to more nuanced questions about how AI reshapes the value
+workers can deliver.
+Other forces shaping AI’s impact on jobs
+The broad global trend is for professionalised jobs to have higher growth in job
+numbers and wages – while democratised jobs see the opposite – but there will
+be exceptions.
+Consider nursing aides, a professionalised job. AI professionalises this role
+by taking on some more basic tasks like tracking vital signs and scheduling
+medication, enabling nursing aides to spend more time on more expert tasks like
+building relationships with patients or responding to unexpected situations with
+empathy and discretion.
+--- Page 10 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 10
+We might expect nursing aides to follow the path of 1980’s financial analysts
+newly equipped with spreadsheets – that is, to be even more in demand as
+technology helps them step up to perform more expert tasks. But AI’s impact on
+nursing may be constrained by forces such as regulation, challenges in workflow
+integration, or a limited supply of job candidates willing to enter a demanding
+profession.
+Or consider child care services managers, a democratised role. AI can assist
+with some of the more expert parts of this role from budget management to
+complying with government regulation. But far from stagnating, job postings for
+child care services managers have more than doubled since 2019 given the vast
+latent demand for child care - combined with democratisation of the role which
+enables many more people to perform it.4
+Four questions to help foresee the future of any job
+Our analysis suggests four questions for business leaders and workers to
+consider as they seek to understand the future of a particular job role:
+1 Expertise: How is AI changing the level of human expertise required?
+Supply and Demand: How might demand for this job – and the supply of
+2
+workers to fill it - change as AI reshapes the role?
+AI’s limitations: Where is human involvement needed to oversee or assist AI, for
+3
+example to check the quality of AI’s output or manage atypical cases?
+Environmental forces: How do external forces (from business process
+4
+bottlenecks to regulation) constrain or affect the use of AI?
+Considering these four questions – starting with expertise change – can help to
+uncover how AI is redefining the partnership between people and technology in
+a given job, and what the future may hold for that role.
+4 David Autor argues in Expertise (2026) that as technology reduces the expertise required for a job, the pool of qualified
+candidates expands which can in turn enable the occupation to grow (while wages may stagnate). Think of taxi drivers,
+for example; as satellite navigation reduced the need for specialised road knowledge, many more people can fill this job –
+leading numbers of taxi drivers to soar while wages stagnate. This is what appears to be happening with child care service
+managers; job listings have more than doubled since 2019 (growing 111%) while wages have grown only 8%.
+--- Page 11 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 11
+A two-track jobs market
+02
+is emerging at the entry
+level too
+The well-known decline in AI-exposed entry level
+job numbers hides a deeper story
+A recent Stanford University analysis found a 16% decline in entry level jobs in
+AI-exposed fields. Much deeper declines in entry level roles have been noted in
+some industries heavily exposed to AI such as finance and tech.5
+The trend is likely to continue and perhaps intensify. PwC’s latest Global CEO
+Survey finds that 49% of CEOs expect AI adoption to decrease junior hiring in
+the next three years (vs 12% for senior hiring).
+5 Canaries in the Coal Mine? Six Facts about the recent Employment Effects of Artificial Intelligence, Brynjolfsson et al, 2025;
+The Crisis of Entry level Labor in the Age of AI, Jacob Jacquet, 2025
+--- Page 12 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 12
+Across advanced economies, job postings are growing more slowly for
+entry level workers more exposed to AI
+Number of entry-level job postings relative to 2012, by AI exposure quartile, global
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Source: PwC analysis, Lightcast data
+Notes: The “Years of Experience” variable from Lightcast is used as a proxy for early-career jobs. A posting is defined as an
+early-career job if its years of experience listed is between 0-2 years. Due to data availability, we only include the following
+countries in our analysis: Canada, Singapore, UK and US (1) Careful interpretation of this chart is necessary – this is not to say
+AI is causing these impacts. Other shocks / structural characteristics of occupations in the Top 25% may also contribute to
+the observed trend. (2) Results are mainly driven by US data which accounts for c.73% of total job postings in the sample of
+countries with data available from 2012.
+Below, we offer one way to know which entry level jobs are most and least likely
+49%
+to decline in number - a vital piece of information for junior workers seeking to
+PwC’s latest Global CEO build successful careers (and for the companies that employ them).
+Survey finds that 49% of
+CEOs expect AI adoption The answer lies in how AI is reshaping the need for human expertise. Entry level
+to decrease junior hiring
+jobs most exposed to AI (such as junior data analyst) are rapidly evolving to
+in the next three years
+demand more skills traditionally required of senior workers.6
+In fact, the most AI-exposed entry level jobs are now seven times more likely to
+require traditionally senior skills than the least AI-exposed ones. These senior
+skills demand EQ, judgment, and leadership ability at a level not historically
+required in many junior roles.
+Did your first job require these skills?
+Examples of skills traditionally required in more senior roles that are
+now required in many AI-exposed entry level roles
+• Motivational leadership • Process management
+• Team building • Mentorship
+• People management • Data-driven decision making
+• Stakeholder management
+6 A skill is defined as traditionally senior if it had >50 mentions in experienced (non-entry-level), high AI exposure job postings
+in 2019 and ≤5 mentions in entry-level, high AI exposure postings in 2019
+2102
+ot
+evitaler
+,sgnitsop
+boj
+fo
+rebmuN
+ChatGPT
+released
+Early career
+Bottom 25%
+Lowest AI exposure
+Third 25%
+Second 25%
+Top 25%
+Highest AI exposure
+Only quartile where
+early-career vacancies
+have flatlined
+--- Page 13 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 13
+Zoom in on the most AI-exposed set of entry level jobs, and a striking divergence
+is apparent. Entry level roles that now require more than 10 new, traditionally
+senior skills are thriving with a growth rate of 35%, while other entry level roles
+decline in number.
+AI-exposed entry level roles have very different job growth outcomes
+35%
+depending on whether they are being upskilled to demand more
+traditionally senior abilities
+Entry level roles that now
+require more than 10 new, Change in entry-level job postings between 2019 and 2025, seniorised vs non-seniorised roles, top AI exposure quartile, US
+traditionally senior skills
+40%
+are thriving with a growth 35%
+35%
+rate of 35%
+30%
+25%
+20% 166
+15%
+10%
+5%
+Non-Seniorised
+0%
+Seniorised
+-5%
+-10%
+-10%
+-15%
+Source: PwC analysis, Lightcast data
+Notes: (1) An entry-level job posting is classified as “seniorised” if it contains ≥10 mentions of a skill that is both new and
+traditionally senior. A skill is defined as new for a given occupation if it has >10 mentions in entry-level postings in 2025 but ≤5
+mentions in entry-level postings for the same occupation in 2019. A skill is defined as traditionally senior if, within the same
+AI exposure quartile, it had >50 mentions in experienced (non-entry-level) job postings in 2019 and ≤5 mentions in entry-level
+postings in 2019.
+In other words, not all AI-exposed entry level roles are shrinking. The AI-exposed
+entry level is in effect being Seniorised, with increasing opportunities for workers
+whose jobs are reshaped by AI to be even more complex and demanding.
+Companies (and educators) must rethink how they train, mentor, and scaffold
+early career pathways to help junior workers build and demonstrate senior skills
+much earlier.
+%
+5202
+- 9102
+neewteb
+sgnitsop
+boj
+level
+yrtne
+ni
+egnahC
+--- Page 14 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 14
+The AI skills earthquake
+03
+is accelerating
+AI is rapidly changing the skills workers need
+to succeed
+Professionalised roles in particular are becoming more complex and
+demanding, but that does not mean workers in democratised roles can stand
+still when it comes to skill development.
+Skills needed for the most AI-exposed jobs (including both democratised and
+professionalised ones) are changing more than twice as fast as for the least AI-
+exposed jobs. What’s more, the gap in the pace of skills evolution between the
+most and least AI exposed jobs is quickly growing. The most AI-exposed
+occupations are now evolving their skillsets at more than twice the rate of the
+least exposed roles – a 75% increase over last year’s gap.
+--- Page 15 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 15
+Skills needed for the most AI-exposed jobs are changing more than twice
+75%
+as fast as for the least AI-exposed jobs
+Net skill change by AI exposure for all jobs, 2019-2025, globally, by exposure quartile
+The most AI-exposed
+occupations are now 5.00
+evolving their skillsets at
+4.50
+more than twice the rate
+of the least exposed roles 4.00
+–a 75% increase over
+3.50 2.2x
+last year’s gap.
+higher than least
+3.00 AI-exposed jobs
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+Bottom Quartile Third 25% Second 25% Top Quartile
+Source: PwC analysis, PwC AI Occupational Exposure Index, Lightcast data
+Notes: Net skill change is calculated as the aggregation of the percentage point difference between 2019 and 2025 of the share
+of a skill making up an occupation.
+The gap is widening over time, with highly AI-exposed occupations seeing
+faster and faster skills transformation
+Net skill change by AI exposure for all jobs from 2019 to 2023, 2024 and 2025, globally, for top and bottom
+quartile of AI exposure
+Bottom Quartile Top Quartile
+5.0
+116%
+4.0 25% 66%
+3.0
+2.0
+1.0
+0.0
+2023 2024 2025
+Source: PwC analysis, PwC AI Occupational Exposure Index, Lightcast data
+Notes: Net skill change is calculated as the aggregation of the percentage point difference between 2019 and 2025 of the share
+of a skill making up an occupation.
+--- Page 16 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 16
+What capabilities are now more likely to be required for the most AI-exposed
+2.5X
+roles? To help answer this question, we draw on MIT’s Loaiza and Rigobon
+(2026) EPOCH framework that sets out the ‘human-intensive’ abilities that are
+We find that new tasks
+added to the most most resistant to AI automation and complementary to AI (complementary means
+AI-exposed roles (both necessary for people to deliver alongside AI systems).7 The five sets of human-
+professionalised and
+intensive abilities are:
+democratised) are 2.5x
+more likely to rely on
+• Empathy & Emotional Intelligence: Compassion, understanding, and
+these human-intensive
+building meaningful connections.
+abilities.
+• Presence, Networking & Connectedness: Physical presence, networking,
+and navigating social contexts, crucial for building trust and collaborating.
+• Opinion, Judgment & Ethics: Navigating open-ended, ambiguous,
+or ethical scenarios.
+• Creativity & Imagination: Original thinking, improvisation, and generating
+novel ideas.
+• Hope, Vision & Leadership: Grit, perseverance, initiative, and setting
+strategic direction.
+We find that new tasks added to the most AI-exposed roles (both
+professionalised and democratised) are 2.5x more likely to rely on these human-
+intensive abilities.
+New tasks added to AI-exposed roles since 2022 are 2.5x more likely to rely
+on ‘human-intensive’ capabilities such as empathy, creativity, and face to
+face presence
+Average EPOCH score per occupation (new tasks only), by AI exposure quartile, 2022-2025
+Top Quartile Average / Bottom Quartile Average: 2.5x
+0.50
+0.47
+0.45
+0.40 0.39 On average,
+new tasks
+0.35 in the most
+0.31 AI-exposed
+0.30 occupations
+are 2.5x more
+0.25 human-intensive
+than those
+0.20 0.19 in the least
+exposed.
+0.15
+0.10
+0.05
+0.00
+Bottom 25% Third 25% Second 25% Top 25%
+Source: PwC analysis, PwC AI Occupational Exposure Index, Loaiza and Rigobon (2025)
+Notes: We draw upon the EPOCH framework, developed by Loaiza and Rigobon (2025) to assess the human intensity of newly
+emerging tasks. EPOCH scores measure the extent to which tasks rely on human capabilities (Empathy, Presence, Opinion,
+Creativity, and Hope). We calculate the average EPOCH score of the new tasks in each SOC-2018 occupation, and report
+averages by AI exposure quartile.
+7 The EPOCH of AI: Human-Machine Complementarities at Work, Loaiza & Rigobon, MIT, 2025
+--- Page 17 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 17
+Both democratised and professionalised roles increasingly require these
+human-intensive capabilities
+Average occupation-level EPOCH score, by expertise classification, 2025
+0.6
+0.5 0.48
+0.45
+0.4
+0.3 0.26
+0.2
+0.1
+0.0
+Democratised Professionalised Low Exposure
+Source: PwC analysis, Teeselink and Carey (2026). Loaiza and Rigobon (2025)
+Notes: We draw upon the EPOCH framework, developed by Loaiza and Rigobon (2025) to assess the human intensity of newly
+emerging tasks, EPOCH scores measure the extent to which occupations rely on human capabilities (Empathy, Presence,
+Opinion, Creativity and Hope). We calculate the average 2025 EPOCH score of ‘democratised’ roles, ‘professionalised’ roles,
+and ‘low exposure’ roles (at SOC-2018).
+Here, then, is another dimension on which AI reshapes the expertise workers
+need. Workers who hope to succeed in either democratised or professionalised
+roles are more likely to need skills such as building empathy, navigating social
+situations, and creating original ideas.
+Some critics say these are skills that the use of technology including AI may
+erode, complicating the challenge for workers, educators, and business leaders
+as they seek to build a workforce fit for the future.8
+8 Alone Together, Sherry Turkle, 2025; The Shallows, Nicolas Carr, 2025; The Anxious Generation, Jonathan Haidt, 2024
+--- Page 18 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 18
+‘Superstar’ companies are
+04
+capturing the greatest gains
+from AI
+Some companies are achieving strong benefits from
+AI while others struggle
+We have explored how AI is creating a two track jobs market for workers, with
+different trajectories for jobs professionalised or democratised by AI.
+Similarly, we find an AI-driven divergence for companies with some capturing
+outsized benefits from AI while others struggle to make the most of the technology.
+Since 2022 when AI use soared, the most AI-exposed companies have leapt
+ahead in topline productivity growth (measured in revenue per employee) – and
+their lead is growing.
+--- Page 19 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 19
+Since 2022 when AI adoption soared, the most AI-exposed companies
+33.5%
+have seen faster productivity growth
+The most exposed
+companies as a whole
+have a 33.5% productivity
+growth rate.
+Look closer, and a small set of ‘superstars’ within the most exposed companies
+are achieving far greater productivity gains. The most exposed companies as a
+whole have a 33.5% productivity growth rate, while the superstars – the most
+productive fifth of the most exposed companies – have a 163% productivity
+growth rate.
+There is a pronounced ‘superstar’ effect. The top 20% of most-exposed
+companies achieve 5x higher topline productivity growth than the most
+exposed companies as a whole.
+Average firm growth rate in productivity by AI exposure quartile (measured using a 2018 baseline)
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+Source: PwC analysis, ORBIS data
+Notes: * Productivity is measured by turnover per employee 2018-2024/25. 2025 is data used for companies where available,
+we substitute missing coverage with 2024 data.
+ytivitcudorP
+rof
+etaR
+htworG
+Average firm growth rate in productivity by AI exposure quartile (measured using a 2018 baseline)
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+Source: PwC analysis, ORBIS data
+Notes: *Productivity is measured by turnover per employee 2018-2024/25. 2025 is data used for companies where available,
+we substitute missing coverage with 2024 data. Company AI exposure is determined by the NAICS sector the company is
+tagged to in the ORBIS data (for example, the company may sit in a high exposure sector like architecture and insurance, or low
+exposure sector like mining or waste treatment).
+Least exposed quartile Most exposed quartile
+33.5%
+28.8%
+23.7% 22.9% 24.0%
+21.8% 20.4%
+18.7%
+0%
+2022 2023 2024 2025*
+ytivitcudorP
+rof
+etaR
+htworG
+Least exposed quartile Most exposed quartile
+33.5%
+3x
+28.8%
+greater
+23.7% 22.9% 24.0% lead than
+21.8% in 2022
+20.4%
+18.7%
+0%
+2022 2023 2024 2025*
+Superstar
+effect:
+Within the most
+AI-exposed
+companies,
+the top 20%
+achieve 163%
+growth on
+average
+--- Page 20 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 20
+This finding fits with PwC’s latest CEO Survey which found that only 8% of CEOs
+report that AI has generated more than a slight increase in revenue in the past year.
+It appears that many companies are still in the experimentation phase with AI, while
+a few superstar companies are figuring out how to turn AI into real returns.
+What superstars do differently
+What are the superstars getting right? For this question, we can turn to PwC’s
+8%
+2026 AI performance study. This study too found a superstar effect with 20%
+of companies claiming 74% of the gains from AI. The single strongest factor
+of CEOs report that AI
+in capturing outsized gains is whether a company is using AI to pursue growth
+has generated more
+opportunities, especially opportunities created by collaborating or competing
+than a slight increase in
+revenue in the past year. across sector lines.
+This year’s AI Jobs Barometer confirms that AI is being used for expansive
+growth. We find that headcount growth at the most AI-exposed companies
+is far outpacing that at the least AI-exposed companies – and the gap has
+grown every year since 2022. This implies that AI-exposed companies – and
+especially the superstars - are not using AI only to find efficiencies or reduce
+headcount. Instead, they appear to be using AI to fuel growth that is in turn
+spurring expansive hiring and wage increases. The headcount data, too, aligns
+with PwC’s AI performance study which found that 32% of AI performance
+leaders expect headcount increases of 5% or more, while only 17% of AI
+underperformers expect headcount increases. Far from being a job killer, AI may
+actually be a job expander.
+Perhaps surprisingly, headcount growth at the most AI-exposed companies
+is outpacing that at the least AI-exposed companies
+Average firm growth rate in headcount by AI exposure quartile (measured using a 2018 baseline)
+Least exposed quartile Most exposed quartile
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Source: PwC analysis, ORBIS data
+Notes: * 2025 is data used for companies where available, we substitute missing coverage with 2024 data. ORBIS company
+data is not intended to represent economy-wide employment growth. The analysis is based on larger formal firms with available
+financial and headcount data in both 2018 and 2024/25, including an initial filter for companies with annual turnover of at
+least $50m USD; firms that exited the market during the period are excluded, creating a survivorship bias. In some countries,
+financial reporting requirements also vary, meaning firms with consistent reported data may be larger, more formalised or better-
+performing than the wider business population. The key interpretation is therefore the relative difference in headcount growth
+between more and less AI-exposed companies, rather than the absolute growth rate compared with the broader economy.
+tnuocdaeH
+rof
+etaR
+htworG
+52.2%
+45.6%
+Superstar
+effect:
+35.2% 35.5% 35.7% Headcount
+growth at
+29.5% superstar
+26.7% companies is
+23.3% roughly in line
+with the rest
+of the most
+exposed quartile
+at 44%.
+2022 2023 2024 2025*
+--- Page 21 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 21
+Wage growth at the most AI-exposed companies has accelerated as
+productivity rises, suggesting gains are shared with workers
+Average firm growth rate in wages by AI exposure quartile (measured using a 2018 baseline)
+Least exposed quartile Most exposed quartile
+Source: PwC analysis, ORBIS data
+Notes: *Wages are measured by total staffing cost per employee 2018-2024/25. 2025 is data used for companies where
+available, we substitute missing coverage with 2024 data.
+The implication for companies is to claim the greatest gains from AI by using it
+to create new forms of value, not just make old ways of working more efficient.
+The implication for workers is to leverage growing opportunities in sectors – and
+companies – who are making the most of AI’s power.
+segaW
+rof
+etaR
+htworG
+Wages too have risen much faster in the most AI-exposed companies than the
+least – and particularly so at the superstars.
+30% Superstar
+effect:
+Within the
+24.4% most exposed
+25%
+companies,
+the top 20%
+by productivity
+20% 19.1% growth have even
+17.7% higher average
+16.6%
+15.8% wage growth
+of 68% -
+15% 14.1% suggesting
+AI-driven
+productivity gains
+are contributing
+10% 8.5%
+to higher pay.
+5.6%
+5%
+0%
+2022 2023 2024 2025*
+--- Page 22 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 22
+Wage premiums for AI skills
+05
+continue to rise
+Workers with AI skills command a 62% wage
+premium
+The value companies gain from AI is apparent in the high wage premiums
+paid to workers with AI skills such as prompt engineering. This year, the wage
+premium has grown to 62%. (Wage premiums are calculated by measuring the
+difference between salaries offered for given roles that do require AI skills versus
+salaries offered for comparable roles that do not require AI skills. Please see
+Methodology appendix for a list of AI skills.)
+--- Page 23 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 23
+Wage premiums for workers with AI skills have risen to 62% (from 57% in
+62%
+last year’s Barometer’)
+Wage premium by sector, (%, 2025)
+The value companies gain
+from AI is apparent in 140%
+the high wage premiums
+paid to workers with AI 120% 118%
+skills such as prompt
+engineering. This year,
+100%
+the wage premium has
+84%
+grown to 62%.
+80% 75% 73%
+67%
+Average of all sectors (~62%)
+60% 53%
+40% 37%
+20% 16%
+0%
+Consumer Technology, Energy, Manufacturing Professional Financial Health Government
+Markets Media and Utilities and Services Services Industries and Public
+Telecoms Resources Sector
+Source: PwC analysis, Lightcast data
+Notes: (i) To calculate wage premiums, we split job postings within a sector by AI and non-AI jobs. From here we estimate the
+wage premium (difference) within the sector for wages in the AI group compared to the non-AI group. This analysis is not a
+growth rate but rather a snapshot of a given year. Note that only the eight PwC aligned sectors are shown in the visual, however
+the average of 62% is calculated across all 16 sectors in our AI Jobs Barometer scope.
+--- Page 24 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 24
+Hiring of AI specialists is
+06
+rising sharply, indicating
+growing AI investment
+Companies are accelerating their investment in AI systems and the people who
+build, run, and optimise them. Across the world, hiring of AI specialists (workers
+with advanced AI skills like machine learning) grew eight times faster in 2025
+than hiring in all jobs.
+AI specialist hiring is growing in every territory in our study. Some emerging
+economies are recording faster growth than many mature economies, indicating
+rapid expansion of AI capabilities and talent demand.
+AI specialist hiring is rising in every sector too, led by Tech Media and Telecoms
+where 11.4% of job listings in 2025 were for AI specialists.
+--- Page 25 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 25
+11.4%
+AI specialist hiring is
+rising in every sector too,
+led by Tech Media and
+Telecom where 11.4% of
+job listings in 2025 were
+for AI specialists.
+Source: PwC analysis, Lightcast data
+Notes: For some countries, data starts from 2018 or 2021 onwards. As such, we only include the countries for which data is
+available from 2012 in our sample. AI job postings are defined as those requiring at least one AI-related skill.
+2102
+ot
+evitaler
+,sgnitsop
+boj
+fo
+rebmuN
+AI specialist job numbers shot upward in the last year, growing eight times
+faster than jobs as a whole - indicating companies are prioritising
+AI investment
+Relative growth in AI and all job postings, 2012 to 2025, globally
+AI specialist job postings Total job postings
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+AI specialist hiring is rising in all sectors
+Share of Al jobs by sector, globally (%, 2012 to 2025)
+Health Industries Consumer Markets Manufacturing Professional Services Energy, Utilities and Resources
+Financial Services Technology, Media and Telecoms Government and Public Sector
+12.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Source: PwC analysis, Lightcast data.
+--- Page 26 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 26
+Conclusion: Next Steps
+Our analysis of over a billion job listings worldwide does not support worries
+about an AI-driven jobs apocalypse9 – but it does reveal a deep reshaping of the
+jobs market and the skills required to succeed.
+Next steps for business leaders
+Use AI to pursue growth over efficiency alone. Companies gaining the
+1
+greatest value from AI are not using it only to cut costs or shave headcount.
+Instead, they are using it to unlock new revenue, enter new markets, and
+create new forms of value. Leaders should frame their AI agenda around
+growth opportunities, especially by partnering across industry lines. However,
+simply pointing AI at these opportunities isn’t going to capture them. Our AI
+performance study shows that having the right AI foundations - for example,
+a targeted strategy to scale the most valuable AI initiatives and modernised
+data and technology platforms to support them - greatly increases the ability to
+capitalise on AI’s promise.
+Shape workforce strategy using a professionalised / democratised lens to
+2
+guide talent investment and skills development while anticipating attrition
+pressures. Professionalised roles may require deeper investment in advanced AI
+fluency, human-intensive skills, specialist talent, and retention strategies as
+demand and wage pressure rises. Democratised roles may require proactive
+work redesign, mobility pathways, and refreshed career propositions as AI
+changes the expertise required.
+Invest in agentic AI, the ultimate complement to human expertise. With
+3
+a team of AI agents at their command, workers can use their uniquely human
+expertise to deliver value at much greater scale – enabling their organisations to
+think, adapt, and execute faster than competitors. Indeed, PwC’s AI performance
+study found that those companies getting the most value from their AI
+investments are twice as likely to deploy agents as those seeing lower ROI.
+Reinvent early career pathways. Map junior roles that increasingly demand
+4
+senior-level capabilities. Redesign onboarding, mentorship, and training
+programmes to accelerate development of advanced skills like leadership,
+stakeholder management, and strategic decision-making.
+Invest in human-intensive skills alongside AI skills. Empathy, judgment,
+5
+creativity, and leadership become more competitively valuable as AI absorbs
+routine and technical tasks. Building a workforce with these capabilities is as
+strategically important as developing workers’ AI proficiency.
+9 Prepare for an AI jobs apocalypse, Economist, May 2026
+--- Page 27 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 27
+Next steps for workers
+Consider moving toward roles made more expert by AI. Our analysis
+1 suggests opportunity is migrating from democratised roles toward
+professionalised and low AI exposure roles (with exceptions).
+Seek out pioneering companies and industries. Look for companies that
+2
+are using AI to create new markets or services, or who are partnering across
+traditional industry lines to invent the new businesses of the future.
+Learn to command AI as a tool and partner. Our work suggests that the
+3
+following saying is true: you won’t lose your job to AI but rather to someone who
+knows how to use AI.
+Build human-intensive skills. Hone the skills whose value is rising in an AI era
+4
+such as creativity, people skills, leadership, judgment, and the ability to navigate
+complexity and ambiguity.
+If you are early in your career, develop senior skills fast. The good news is
+5
+that many junior workers will be spared years of drudgery on basic, repetitive
+tasks. The tough news is that those same workers need to quickly step up to
+demonstrate skills like leadership and strategic thinking.
+--- Page 28 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 28
+Partner
+Sponsors
+Joe Atkinson Peter Brown
+Global Chief AI Officer for the PwC Global Workforce Leader, PwC UK
+Network of Firms, PwC US
+Thought
+Leadership
+Creation
+Sarah Brown
+Thought Leadership Lead, Global
+Communications and Change,
+PwC UK
+UK Economics
+Research Team
+Simon Oates Nabil Taleb Harry Ingham Zara Sendut
+UK Economics Economist, Manager, Economist, Senior Economist, Associate,
+Leader, PwC UK PwC UK Associate, PwC UK PwC UK
+Mehdi Sahneh William Feng Mustafa Rupawala
+Economist, Senior Economist, Senior Economist, Senior
+Manager, PwC UK Associate, PwC UK Associate, PwC UK
+--- Page 29 ---
+PwC’s 2026 Global AI Jobs Barometer PwC 29
+Senior
+Advisors
+Justine Brown Annie Veillet Zlatina Loudjeva Anthony Bruce
+Director, Global Partner, Cloud, Data Partner, Engagement Partner, Global Health
+Workforce, PwC UK and AI, PwC Canada Leader for AI Skills Industry Leader,
+Hub, UKRI’s AI Skills PwC UK
+Hub, PwC UK
+Khaled Bin Braik Bivek Sharma Prasun Shah Brenda
+UAE Country Senior Chief Technology Partner, Global Vethanayaga
+Partner, PwC UAE and AI Officer, PwC CTO, Workforce Partner, Risk
+Middle East Consulting, Chief AI Services, AI Trust,
+Officer, PwC UK PwC Canada
+Rob Dicks Dr Dayalan Shebani Patel Farbod Nassiri
+Partner, Commercial Govender Partner, Workforce Partner, National
+AI Lead, PwC US Partner, People Solutions Practice Practice Lead, Digital
+and Organization Leader, PwC US HR Transformation,
+Transformation Leader, PwC Canada
+PwC South Africa
+Vikas Agarwal Anumeha Singh Marlene de Bas Van De Pas
+Global and US Partner, Organisation Koning Partner,
+Commercial Chief and Talent Director, Transformation Transformation
+Technology & Transformation, Consulting, AI and Consulting, AI and
+Innovation Officer, PwC India Adoption, PwC Adoption, PwC
+Advisory, PwC US Netherlands Netherlands
+Parul Munshi Chris Greenwood Rusbeh Dan Priest
+Partner with PwC South Lead Partner, Hashemian Chief AI Officer,
+East Asia Consulting, Corporate Function Global Technology PwC US
+APAC Workforce Leader, Transformation, PwC Leader, EMEA CIO &
+PwC Singapore Australia CTO, PwC Germany
+Scott Likens Felicity Copeland Vishy Narayanan Julia Lamm
+Global Chief Director, Trust in AI, Asia Pacific Digital Partner, Workforce
+AI Engineer, PwC US PwC UK & AI Leader, PwC Transformation, PwC US
+Malaysia
+--- Page 30 ---
+2026 Global AI Jobs
+Barometer
+pwc.com/aijobsbarometer
+© 2026 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is
+a separate legal entity. Please see www.pwc.com/structure for further details. This content is for general information
+purposes only, and should not be used as a substitute for consultation with professional advisors.
