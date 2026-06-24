@@ -1,2 +1,2 @@
-# ai-mrx-wiki
-Wiki built from the data used for the weekly AI in MRX newsletter
+# ICN Jobs Literature Review
+Wiki built from data gathered as part of the literature review for the skills gap research conducted by the Insights Career Network. 
