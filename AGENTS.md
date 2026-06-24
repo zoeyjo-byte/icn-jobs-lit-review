@@ -1,4 +1,4 @@
-# LLM Wiki Schema — AI + MRX Newsletter Knowledge Base
+# LLM Wiki Schema — ICN Skills Research Lit Review
 
 ## Architecture
 
@@ -10,8 +10,7 @@ synthesis/ → Timeline pages, trend reports, comparison pages
 index.md     → Master catalog of all wiki pages and their relationships
 log.md       → Chronological ingest log ## Source Format
 
-Files in `raw/` are daily text digests named `YYYY-MM-DD-newsletter-digest.txt`.
-Each digest contains summaries of AI industry news and market research news from multiple newsletters, compiled into a single day's file.
+Files in `raw/` are source materials identified by individuals contributing to the research project.
 
 ## Ingest Workflow
 
