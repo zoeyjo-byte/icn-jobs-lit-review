@@ -1,0 +1,6 @@
+{
+  "PROJECT_NAME": "LLM Wiki",
+  "DOMAIN": "General",
+  "MODEL": "deepseek/deepseek-v4-pro",
+  "STRICT_MODE": true
+}
