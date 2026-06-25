@@ -51,10 +51,10 @@ SOURCE_END
 ## OUTPUT JSON
 Return ONLY this JSON shape. Every path MUST start with `wiki/` and end
 with `.md`. Any other path will be rejected.
-{
-  "files_to_create": [{"path": "wiki/...", "content": "..."}],
-  "files_to_update": [{"path": "wiki/...", "content": "..."}],
+{{
+  "files_to_create": [{{"path": "wiki/...", "content": "..."}}],
+  "files_to_update": [{{"path": "wiki/...", "content": "..."}}],
   "index_md": "...",
   "log_entry": "...",
   "summary": "..."
-}
+}}
