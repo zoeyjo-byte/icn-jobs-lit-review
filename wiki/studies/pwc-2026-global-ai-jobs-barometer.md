@@ -1,33 +1,6 @@
-PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market. The report identifies two key transformation pathways—AI democratization (52% of jobs) and AI professionalization (22% of jobs)—and analyzes their effects on skills, wages, and job growth.
+PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market. This landmark report identifies critical bifurcations in how AI reshapes different occupational categories, with significant implications for skills development, wage structures, and corporate strategy. The study employs PwC's proprietary [[pwc-ai-occupational-exposure-index]] to categorize jobs by AI exposure levels and tracks longitudinal trends from 2012-2025 across 25 advanced economies. Key themes include the emergence of democratized versus professionalized job pathways, accelerating skill transformation in AI-exposed roles, and the disproportionate gains captured by 'superstar' companies leading in AI adoption.
 
-## Key Findings
+## Update: 2026-06-25
+The report's 16 key figures provide granular quantitative evidence supporting its conclusions. Figure 2 establishes that 52% of jobs globally are being democratized (AI automates more expert tasks) while 22% are professionalized (AI automates less expert tasks), with clear occupational examples: Inventory Clerks see AI automate inventory management (expert task) while leaving stock movement (routine task), whereas Recruiters experience AI handling CV screening (routine) while preserving contract negotiation (expert). Figure 7 reveals entry-level job bifurcation in advanced economies, where postings in the highest AI exposure quartile flatlined after 2022 (coinciding with ChatGPT's release) while lower-exposure quartiles continued growing.
 
-### Dual Transformation Pathways
-- **Democratization** (52% of jobs): AI automates expert tasks, leaving less expert human tasks (e.g., Inventory Clerk: AI manages inventory, humans move stock)
-- **Professionalization** (22% of jobs): AI automates routine tasks, leaving more expert human tasks (e.g., Recruiter: AI screens CVs, humans negotiate contracts)
-
-### Skills Transformation
-- Professionalised roles demand skills at **twice the rate** of democratised roles (68% vs 33% growth 2018-2025)
-- Top AI exposure quartile shows **2.2x more skill change** than bottom quartile (2019-2025)
-- New tasks in high AI exposure roles are **2.5x more human-intensive** (EPOCH score 0.47 vs 0.19)
-
-### Labor Market Effects
-- Professionalised jobs grow **twice as fast** as democratised jobs (39% vs 17%)
-- Professionalised roles show **42% faster wage growth** (37% vs 26% since 2021)
-- Entry-level postings in highest AI exposure quartile **flatlined after 2022** (ChatGPT release)
-
-### Superstar Effect
-- Top 20% of AI-exposed companies ('superstars') achieve **163% productivity growth** (5x higher than quartile average)
-- Superstars drive headcount growth to **52.2%** (vs 35.7% for least exposed)
-- Wage growth in superstars reaches **24.4%** (vs 16.6% for least exposed)
-
-### AI Skills Premium
-- Average wage premium for AI skills: **62%** (up from 57%)
-- Sector variation: Consumer Markets (118%), Technology (84%), Government (16%)
-- AI specialist roles growing **8x faster** than total jobs
-
-## Methodology
-
-Analyzes 1.1 billion job postings across 25 countries (2012-2025) using PwC's AI Occupational Exposure Index and EPOCH score framework. Classifies occupations into AI exposure quartiles and tracks evolution of required skills, wages, and job growth.
-
-*Update 2026-06-25: Added detailed findings from all 16 report figures. Source: PwC (2026). Global AI Jobs Barometer.*
+Figure 9 demonstrates accelerating skill transformation, with the top AI exposure quartile experiencing 2.2x more net skill change than the bottom quartile (4.6 vs 2.1), widening to 116% higher change by 2025. Figure 10 quantifies the human-intensive shift, showing new tasks in AI-exposed roles are 2.5x more reliant on capabilities like empathy and creativity (EPOCH score 0.47 vs 0.19). Figure 12 documents the 'superstar effect' where the top 20% of AI-exposed companies achieve 163% productivity growth (5x the 33.5% average for highly exposed firms), with gaps widening annually. Figure 15 reports sectoral wage premiums averaging 62% for AI skills (ranging from 118% in Consumer Markets to 16% in Government), while Figure 16 shows AI specialist roles growing 8x faster than total jobs globally.

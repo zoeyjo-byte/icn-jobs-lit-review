@@ -1,28 +1,6 @@
-# AI Specialist Roles
+AI specialist roles are job positions specifically focused on the development, implementation, and maintenance of AI systems, growing eight times faster than total job postings. These roles include AI engineers, machine learning specialists, prompt engineers, and AI ethicists. They represent the vanguard of AI adoption, driving organizational transformation through technical implementation and strategic guidance. Demand spans all sectors but is concentrated in technology-intensive industries, with significant wage premiums reflecting scarcity of qualified talent. These roles are critical for organizations building competitive advantage through AI.
 
-AI specialist roles encompass positions specifically focused on the development, implementation, and maintenance of artificial intelligence systems. These include titles such as AI engineer, machine learning specialist, data scientist (AI-focused), and AI product manager. These roles require deep technical expertise in AI frameworks, algorithms, and deployment pipelines.
+## Update: 2026-06-25
+The PwC 2026 Global AI Jobs Barometer (Figure 16) documents explosive growth in AI specialist roles. These positions grew 8x faster than total job postings from 2012-2025, with AI specialist postings rising from 2.0 (relative to 2012 baseline) in 2018 to 11.0 in 2025, while total jobs only doubled. Figure 16 also shows sectoral distribution: by 2025, Technology, Media and Telecoms accounts for 11.4% of AI specialist jobs globally, followed by Health Industries (4.0%), Financial Services (3.0%), and Manufacturing (2.0%).
 
-## Growth and Demand
-
-Per the [[pwc-2026-global-ai-jobs-barometer]], AI specialist job postings have grown **eight times faster** than total job postings from 2012 to 2025. By 2025, AI specialist job postings reached 11.0 (relative to a 2012 baseline of 0.0), while total job postings only reached 2.0. This explosive growth indicates that companies are prioritizing AI investment at an unprecedented scale.
-
-## Sector Distribution
-
-AI specialist hiring is rising across all sectors, with the following distribution in 2025:
-
-- Technology, Media and Telecoms: 11.4%
-- Health Industries: 4.0%
-- Financial Services: 3.0%
-- Manufacturing: 2.0%
-- Consumer Markets: 2.0%
-- Professional Services: 2.0%
-- Government and Public Sector: 1.0%
-- Energy, Utilities and Resources: 1.0%
-
-This widespread adoption confirms AI's transition from niche technology to core business function across the economy. The growth pattern aligns with the [[professionalised-jobs]] trend, where roles increasingly demand specialized expertise.
-
-## Relationship to Skills Gap
-
-These roles represent the most acute skills gap in the market research industry, with demand far outpacing supply. They often require both advanced technical skills and domain knowledge, creating hybrid positions that are difficult to fill. The high wage premiums for [[ai-skills]] directly reflect this scarcity.
-
-*Update 2026-06-25: Added growth metrics and sector distribution from PwC 2026 Global AI Jobs Barometer (Figure 16). Source: PwC (2026). Global AI Jobs Barometer.*
+This broad-based adoption beyond traditional tech sectors indicates AI is becoming foundational across the economy. The growth trajectory—accelerating particularly after 2022—confirms corporate prioritization of AI investment. Figure 15 reports 62% average wage premiums for AI skills, with specialists commanding the highest premiums (up to 118% in Consumer Markets). These roles represent the fastest-growing occupational category, serving as both direct contributors to AI implementation and catalysts for wider workforce transformation through upskilling initiatives.

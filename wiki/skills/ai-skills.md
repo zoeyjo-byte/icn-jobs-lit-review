@@ -1,24 +1,6 @@
-# AI Skills
+AI skills encompass technical and domain-specific competencies related to artificial intelligence, including machine learning implementation, prompt engineering, AI system evaluation, and domain-specific AI application. These skills command significant wage premiums as organizations race to implement AI solutions. Demand spans both specialized AI roles (e.g., AI engineers) and 'AI-augmented' positions where domain experts leverage AI tools. The value of AI skills varies by sector and evolves rapidly as AI capabilities advance, requiring continuous upskilling to maintain competitive advantage in the labor market.
 
-AI skills refer to the technical and domain-specific competencies required to develop, implement, and manage artificial intelligence systems. These include machine learning, deep learning, natural language processing, computer vision, and AI system deployment capabilities. As AI transforms the labor market, these skills have become critical differentiators for professionals across sectors.
+## Update: 2026-06-25
+The PwC 2026 Global AI Jobs Barometer (Figure 15) reports wage premiums for AI skills have risen to 62% across sectors (up from 57% in 2025), with significant sectoral variation: Consumer Markets (118%), Technology, Media and Telecoms (84%), Energy, Utilities and Resources (75%), Manufacturing (73%), Professional Services (67%), Financial Services (53%), Health Industries (37%), and Government and Public Sector (16%).
 
-## Key Data
-
-According to the [[pwc-2026-global-ai-jobs-barometer]], wage premiums for workers with AI skills have risen to **62%** on average across all sectors (up from 57% in the previous year's barometer). This premium varies significantly by industry:
-
-- Consumer Markets: 118%
-- Technology, Media and Telecoms: 84%
-- Energy, Utilities and Resources: 75%
-- Manufacturing: 73%
-- Professional Services: 67%
-- Financial Services: 53%
-- Health Industries: 37%
-- Government and Public Sector: 16%
-
-This represents the highest wage premium growth observed in the report's history, indicating accelerating demand for AI expertise. The data suggests that AI skills are becoming increasingly specialized and valuable, particularly in consumer-facing and technology-intensive sectors.
-
-## Relationship to Market Trends
-
-AI skills often complement [[human-intensive-skills]] in professionalised roles, where workers combine technical AI capabilities with human judgment. They are foundational to [[ai-specialist-roles]] and increasingly required in hybrid positions across traditional domains. The widening wage gap reflects the scarcity of qualified talent relative to demand, especially in high-growth sectors like consumer markets.
-
-*Update 2026-06-25: Added wage premium data from PwC 2026 Global AI Jobs Barometer (Figure 15). Source: PwC (2026). Global AI Jobs Barometer.*
+Figure 16 documents explosive growth in AI specialist demand, with these roles growing 8x faster than total job postings from 2012-2025. By 2025, Technology, Media and Telecoms accounts for 11.4% of global AI specialist jobs, followed by Health Industries (4.0%) and Financial Services (3.0%). The data confirms AI skills as the highest-value competency in the current labor market, with premiums accelerating as demand outstrips supply. Crucially, Figure 9 shows AI-exposed roles experience 2.2x faster skill transformation, indicating AI proficiency is becoming foundational even in non-specialist positions. This underscores the strategic importance of AI literacy across all career pathways.

@@ -1,33 +1,6 @@
-# Entry-Level Jobs in the AI Era
+Entry-level jobs represent positions requiring minimal prior experience, traditionally serving as on-ramps to career progression. These roles are experiencing significant transformation due to AI, with bifurcation emerging between positions in high and low AI exposure categories. In high-exposure quartiles, entry roles are increasingly 'seniorised'—demanding skills once reserved for experienced workers—as AI automates routine tasks. Conversely, low-exposure entry jobs continue growing steadily, often in human-centric or physical domains less susceptible to automation. This divergence creates new challenges for workforce entry and career development.
 
-Entry-level job markets are experiencing significant transformation due to AI adoption. While overall entry-level job postings in quartiles with lower AI exposure continue to grow, those in the highest AI exposure quartile have flatlined since 2022, coinciding with the release of ChatGPT.
+## Update: 2026-06-25
+The PwC 2026 Global AI Jobs Barometer (Figures 7-8) reveals critical bifurcation in entry-level markets. Figure 7 shows that in advanced economies, entry-level job postings in the highest AI exposure quartile have flatlined since 2022 (coinciding with ChatGPT's release), while lower exposure quartiles continue growing—specifically, the bottom 25% grew from 1.0 (2012 baseline) to ~8.0 by 2025.
 
-## The Seniorisation Phenomenon
-
-A key finding from PwC's 2026 Global AI Jobs Barometer is that AI-exposed entry-level roles are rapidly evolving to demand skills traditionally required of senior workers. The most AI-exposed entry-level jobs are now seven times more likely to require traditionally senior skills than the least AI-exposed ones.
-
-Examples of skills traditionally required in senior roles that are now appearing in entry-level positions include:
-- Motivational leadership
-- Process management
-- Team building
-- Mentorship
-- People management
-- Stakeholder management
-- Data-driven decision making
-
-## Divergent Growth Patterns
-
-Entry-level roles can be categorized as "seniorised" or "non-seniorised" based on whether they now require traditionally senior capabilities:
-
-- **Seniorised roles**: Entry-level positions requiring more than 10 new, traditionally senior skills are thriving with 35% growth between 2019-2025
-- **Non-seniorised roles**: Other entry-level roles in high AI exposure fields are declining by 10% during the same period
-
-This represents a fundamental shift in early career pathways, requiring companies and educators to rethink how they train, mentor, and scaffold development for junior workers.
-
-## Strategic Implications
-
-For early-career workers, the good news is being spared years of drudgery on basic, repetitive tasks. The challenge is needing to quickly develop and demonstrate advanced skills like leadership and strategic thinking much earlier in their careers.
-
-Organizations must reinvent early career pathways by redesigning onboarding, mentorship, and training programs to accelerate development of these advanced capabilities.
-
-See also: [[senior-skills]], [[ai-democratization]], [[ai-professionalization]]
+Figure 8 provides US-specific data: seniorised entry-level roles (requiring traditionally senior skills) are projected to grow 35% between 2019-2025, while non-seniorised roles decline by 10%. This indicates entry opportunities are concentrating in AI-exposed roles that demand advanced capabilities. Figure 9 contextualizes this within accelerating skill transformation, showing the top exposure quartile experiences 116% higher net skill change than least exposed jobs by 2025. These trends suggest entry-level positions are increasingly serving as gateways to complex, AI-augmented work rather than routine tasks, potentially raising barriers to labor market entry for new graduates while compressing traditional career progression timelines.
