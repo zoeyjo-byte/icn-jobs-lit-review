@@ -1,5 +1,5 @@
 # ICN Jobs Literature Review — MkDocs config
-# Part of the automated pipeline: sources/ → preprocess → raw/ → ingest → wiki/ → deploy
+# Automated pipeline: sources/ → preprocess → raw/ → ingest → wiki/ → deploy
 
 site_name: ICN Jobs Literature Review
 site_description: >-
