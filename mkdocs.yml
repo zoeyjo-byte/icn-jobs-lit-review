@@ -1,3 +1,6 @@
+# ICN Jobs Literature Review — MkDocs config
+# Part of the automated pipeline: sources/ → preprocess → raw/ → ingest → wiki/ → deploy
+
 site_name: ICN Jobs Literature Review
 site_description: >-
   A structured knowledge base for analyzing skills gaps in the market
@@ -59,13 +62,13 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Ingest Log: log.md
-  - Skills: skills/
-  - Roles: roles/
-  - Concepts: concepts/
-  - Studies: studies/
-  - Methodologies: methodologies/
-  - Entities: entities/
-  - Synthesis: synthesis/
+  - Skills: skills/index.md
+  - Roles: roles/index.md
+  - Concepts: concepts/index.md
+  - Studies: studies/index.md
+  - Methodologies: methodologies/index.md
+  - Entities: entities/index.md
+  - Synthesis: synthesis/index.md
 
 extra:
   social:
