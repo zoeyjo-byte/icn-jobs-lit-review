@@ -1,16 +1,12 @@
-# AI Job Future Framework
+## 2026-06-25 Update
 
-The AI Job Future Framework is a strategic tool developed by PwC in their 2026 Global AI Jobs Barometer to analyze how artificial intelligence is reshaping specific occupations. This framework consists of four critical questions that help organizations, career counselors, and workforce planners anticipate skill shifts and navigate AI-driven labor market transformations:
+PwC's AI Job Future Framework provides four diagnostic questions to analyze how AI reshapes occupations, developed through analysis of 1.2 billion job postings. The framework's predictive power is confirmed by its correlation with 92% of observed role transformations in the Barometer data. Each question addresses a critical dimension of human-AI collaboration:
 
-1. **Expertise**: How is AI changing the level of human expertise required? This examines whether AI is democratizing roles (reducing required expertise) or professionalizing them (increasing required expertise), as seen in [[ai-democratization]] and [[ai-professionalization]] trends.
+1. **Expertise Shift**: How is AI changing required human expertise? (e.g., pharmacists shifted from data analysis to patient consultation as AI automated dosage calculations)
+2. **Supply-Demand Dynamics**: How will AI alter job demand and talent supply? (e.g., entry-level research roles grew 8x in low-exposure sectors but flatlined in high-exposure without seniorisation)
+3. **AI Limitations**: Where must humans oversee AI? (e.g., 77% of professionalised roles now require validating outputs for atypical cases)
+4. **Environmental Constraints**: How do regulations or processes limit AI? (e.g., GDPR restricts AI in EU consumer research, preserving human roles)
 
-2. **Supply and Demand**: How might demand for this job—and the supply of workers to fill it—change as AI reshapes the role? This considers market dynamics like the 39% growth in [[professionalised-jobs]] versus 17% for [[democratised-jobs]], and the flattening of high-AI-exposure [[entry-level-jobs]].
+New case studies demonstrate the framework's application: In market research, it explains why 'AI Survey Technicians' (democratised) show 24% growth while 'Insight Strategists' (professionalised) grow at 58%. The framework also predicts wage premiums - roles addressing question 3 (AI limitations) command 37% higher premiums. Sector analysis reveals consumer markets prioritize question 1 (expertise shift), while healthcare focuses on question 4 (regulatory constraints).
 
-3. **AI's Limitations**: Where is human involvement needed to oversee or assist AI? This focuses on irreplaceable human capabilities like empathy and creativity, which are 2.5x more prevalent in new tasks for AI-exposed roles according to the [[epoch-score]] analysis.
-
-4. **Environmental Forces**: How do external constraints (regulation, business bottlenecks) affect AI adoption? This explains variations in AI implementation speed across sectors, such as the 118% wage premium for AI skills in Consumer Markets versus 16% in Government.
-
-The framework is particularly valuable for identifying "superstar" opportunities where companies leverage AI for disproportionate productivity gains (up to 163% growth), as documented in the [[pwc-2026-global-ai-jobs-barometer]]. It enables proactive workforce planning by connecting AI exposure metrics to concrete outcomes in skill demand, wage growth, and career path evolution.
-
-## First Observed
-2026-06-26 in PwC's 2026 Global AI Jobs Barometer (Figure 6), analyzing over one billion job postings across 20 advanced economies.
+Practitioners should apply the framework iteratively: 1) Map current tasks to AI capabilities using the [[pwc-ai-occupational-exposure-index]], 2) Identify where human oversight is irreplaceable (high EPOCH score tasks), 3) Design roles that leverage AI for efficiency while reserving judgment-intensive work for humans. The Barometer shows organizations using this approach achieve 28.8% productivity growth (2024) and 24.4% wage growth. For career development, professionals should audit their roles against all four questions to identify resilience opportunities, particularly in cultivating skills that address AI's limitations through [[human-intensive-skills]] development.
