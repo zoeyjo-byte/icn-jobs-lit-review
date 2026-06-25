@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 
 # ── Config (template-friendly) ───────────────────────────────
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
-MODEL = os.environ.get("MODEL", "deepseek/deepseek-v4-pro")
+MODEL = os.environ.get("MODEL", "qwen/qwen3-235b-a22b-thinking-2507")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 RAW_DIR = os.environ.get("RAW_DIR", "raw")
@@ -54,9 +54,9 @@ def api_call(system_prompt, user_message, temperature=0.4):
             {"role": "user", "content": user_message},
         ],
         "temperature": temperature,
-        "max_tokens": 8000,
+        "max_tokens": 32000,
     }
-    response = requests.post(API_URL, headers=headers, json=payload, timeout=300)
+    response = requests.post(API_URL, headers=headers, json=payload, timeout=600)
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
@@ -257,12 +257,15 @@ def main():
         print(f"Truncated input to {MAX_CHARS} characters")
     
     template = read_prompt_template()
+    source_name = os.path.basename(filepath)
+    sources_block = f"<<<SOURCE: {source_name}\n{source_text}\nSOURCE_END"
     prompt = template.format(
         PROJECT_NAME=PROJECT_NAME,
         DOMAIN=DOMAIN,
         SCHEMA=schema,
         INDEX=index_content,
-        SOURCE=source_text,
+        SOURCE_COUNT=1,
+        SOURCES=sources_block,
     )
 
     print(f"Calling {MODEL}...")

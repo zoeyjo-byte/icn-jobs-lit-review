@@ -1,6 +1,6 @@
 {
   "PROJECT_NAME": "LLM Wiki",
   "DOMAIN": "General",
-  "MODEL": "deepseek/deepseek-chat",
+  "MODEL": "qwen/qwen3-235b-a22b-thinking-2507",
   "STRICT_MODE": false
 }
