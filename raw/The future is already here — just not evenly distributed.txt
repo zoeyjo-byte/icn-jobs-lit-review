@@ -1,0 +1,313 @@
+
+--- Page 1 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+The future is already here — just not evenly
+distributed*
+AI adoption is real but maturity is uneven. What the latest evidence says about jobs,
+judgement and the entry-level squeeze
+ADAM RILEYANDDAVID SMITH
+JUN 08, 2026
+Share
+SSeenniioorr lleeaaddeerrss bbrrooaaddllyy aacccceepptt tthhaatt AAII wwiillll rreesshhaappee oorrggaanniizzaattiioonnaall ddeecciissiioonn--mmaakkiinngg.. BBuutt
+tthhee ppuubblliicc eevviiddeennccee —— ffrroomm AAWWSS,, AAcccceennttuurree,, MMiiccrroossooftft,, GGaarrttnneerr aanndd tthhee BBuurrnniinngg GGllaassss
+IInnssttiittuuttee —— ssuuggggeessttss tthhee hhaarrddeerr qquueessttiioonn iiss nnoo lloonnggeerr aaddooppttiioonn.. IItt iiss wwhheetthheerr
+oorrggaanniizzaattiioonnss aarree rreeddeessiiggnniinngg tthhee hhuummaann ooppeerraattiinngg mmooddeell aarroouunndd AAII qquuiicckkllyy eennoouugghh ttoo
+uussee iitt wweellll..
+[A lot of this data is UK centric but still the underlying conclusions and messages are widely
+applicable]
+A few weeks ago we posted on article (Mind the Gap - 19 March 2026) that looked at the
+results of a small c-suite study we had conducted. The most striking Bnding was not
+that senior leaders were resisting AI (they were not) but rather amongst senior and C-
+suite decision-makers in large organizations, agreement with nine statements about
+AI and decision-making was consistently high. Around nine in ten agreed that future
+organizational performance would depend on “collective intelligence” — how humans
+and AI think together. More than eight in ten agreed that human skills need to evolve,
+not diminish, as AI becomes more capable. A similar proportion agreed that even
+where AI automates decisions or actions, human judgement remains accountable for
+outcomes.
+Thanks for reading The Polymath Mind!
+Subscribe for free to receive new posts and our
+1 of 12 6/24/26, 5:42 PM
+--- Page 2 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+latest work.
+zontziry@proton.me Subscribe
+At Brst glance, this looked like a conBdent story. Leaders accept that AI matters and
+they understand that it will change decision-making. They see human judgement as
+central. They are not, in their own minds at least, surrendering the organization to the
+machine. But in the open-ended comments, leaders were much less sanguine. They
+worried about people trusting AI outputs too quickly. They worried about “blind
+following”, weak challenge, shallow decision-making, poor data, bias, lack of
+transparency, and speed gains coming at the expense of deeper judgement. So rather
+than simple optimism, we should perhaps call this qualiBed assent.
+Senior leaders broadly accept the direction of travel. But they are far less sure that
+their organizations have built the human, managerial and governance capabilities
+needed to travel well. That’s a gap! Not a gap between believers and sceptics nor
+adoption and non-adoption. It is a gap between the growing capability of the
+technology and the slower adaptation of the human operating model around it … and
+by that we mean the practical system through which people use AI well: how they
+challenge outputs; interpret recommendations; make decisions; assign accountability;
+redesign work; develop skills; and decide which tasks should remain meaningfully
+human.
+Our data suggested that this operating model is still playing catch-up, but we have to
+be honest and say that our data is thin. There wasn’t the budget for much more than a
+couple of questions. Luckily there has been a spate of reports published lately (by
+organizations with far deeper pockets) that allows us to ‘pressure test’ our own
+conclusions.
+Headline: AI adoption is real, but maturity is uneven
+AWS reported in April 2026 (Unlocking the UK’s AI Potential) that 64% of UK
+2 of 12 6/24/26, 5:42 PM
+--- Page 3 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+organizations now use AI, up from 52% the previous year. It also reported that 68% of
+adopters say AI has increased productivity, and 72% expect AI to increase their ability
+to grow. That supports the Brst part of our Bnding. Leaders are not imagining AI’s
+arrival. The tools are already moving into organizational life. But the same AWS data
+also complicates the story. AWS says only 24% of AI adopters have reached an
+advanced stage where AI is embedded into core business processes and decision-
+making. It also reports that 49% of organizations cite AI and digital skills shortages as
+the main challenge to adoption.
+This is almost exactly the pattern our own data suggested. AI is being adopted faster
+than organizations are learning how to use it well.
+The important distinction is between access and maturity. A business can have AI
+tools available. Teams can be experimenting. Individuals can be saving time. None of
+that proves that AI has been properly integrated into workbows, governance, decision
+rights or skill development. That distinction matters because many discussions of AI
+still treat adoption as the main event. It is not. Buying the license is the easy part. The
+harder question is whether organizations know what to do with AI once it is inside the
+walls.
+Headline: The execution problem is becoming clearer
+Accenture’s 2026 UK research (Generating Impact[[ii]]) makes this point even more
+directly. Its report argues that UK businesses are struggling to turn rapid AI adoption
+into meaningful productivity and revenue gains, and that execution is now the main
+barrier. It identiBes several blockers: scaling beyond pilots, workforce reskilling gaps,
+trust issues around data, and concerns about job security.
+The headline numbers are stark. Accenture says only 3% of UK organizations are fully
+ready for advanced, agentic AI, despite 82% of UK working hours being potentially
+enhanced by AI. That does not mean AI will automatically transform 82% of work. It
+means the technical scope of AI has expanded faster than the organizational capacity
+3 of 12 6/24/26, 5:42 PM
+--- Page 4 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+to absorb it. Accenture’s report also says employees are already using AI for tasks
+accounting for 21% of working hours in the UK, while warning that realized
+productivity gains depend on what organizations do next.
+That caveat is crucial. AI capability does not automatically become organizational
+value. Value depends on redesign: of tasks, processes, roles, skills, incentives and
+oversight. This strongly supports the central Mind the Gap argument. The problem is
+not whether AI can do useful things. The problem is whether organizations are
+changing quickly and thoughtfully enough around it.
+Headline: Leaders still say humans matter — but the employment signal is more
+unsettled
+There is one important place where public data complicates our Bndings. Our own
+survey suggested that leaders continue to frame the future in terms of human–AI
+collaboration. Respondents strongly agreed that future performance depends on
+collective intelligence, that human skills need to evolve, and that human judgement
+remains accountable.
+Public data supports this in one sense. Microsoft’s 2026 Work Trend Index[[iiii]], based on
+analysis of Microsoft 365 productivity signals and a survey of 20,000 workers using AI
+across 10 countries, argues that the opportunity is not simply individual AI use, but
+the design of the organization around people and AI.
+Gartner has made a similar point. In May 2026, it predicted in its Global Labor Market
+Survey[[iiiiii]] that by 2027, half of enterprises without a comprehensive AI people strategy
+will lose top AI talent to competitors that focus on workforce enablement rather than
+basic adoption. Gartner also warned against the “enablement illusion”: mistaking tool
+access for workforce readiness. Both the Microsoft and Gartner conclusions support
+our view that human capability remains central.
+But the public data also shows a harder employment story emerging. Accenture’s UK
+4 of 12 6/24/26, 5:42 PM
+--- Page 5 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+research reports that the share of executives expecting AI to increase demand for
+entry-level roles has fallen sharply since 2024, while the share expecting reduced
+demand has risen. Raconteur’s coverage of the Accenture data[iv] reports that only 15%
+of UK executives now expect AI to boost entry-level positions, down from 40% in 2024,
+while 37% expect reduced demand, up from 22%.
+This does not invalidate our data. But it does mean the “collective intelligence” story
+needs to be handled carefully. Leaders may believe that human judgement remains
+important while also expecting fewer people to be needed in some parts of the
+organization. They may believe in augmentation at the level of tasks while planning
+automation at the level of headcount. They may talk about humans and AI thinking
+together while also redesigning roles in ways that reduce demand for junior labor.
+That is not necessarily hypocrisy, but rather a sign that dilerent parts of work are
+moving in dilerent directions at once.
+Headline: Automation and augmentation are happening together
+This is where the January 2026 report from The Burning Glass Institute, Beyond the
+Binary[[vv]], is particularly useful. The report argues that the usual debate — will AI
+automate jobs or augment them? — is too simple. Based on labor-market data from
+millions of job postings, Burning Glass Bnds that automation and augmentation are
+often happening in the same occupations. The jobs most exposed to automation are
+also highly exposed to augmentation. This also rebects the Bndings of an earlier
+academic paper ArtiOcial intelligence and management: The automation–augmentation
+paradox (Raisch & Krakowski, 2021).[vi]
+The Burning Glass report’s working paper says that across 759 occupations, exposure
+to automation and augmentation is strongly positively correlated. It also Bnds that
+automation-exposed skills were 16% more likely to see demand decline than baseline
+skills, while augmentation-exposed skills were 7% more likely to see demand increase.
+AI is not neatly dividing the labor market into jobs that disappear and jobs that get
+5 of 12 6/24/26, 5:42 PM
+--- Page 6 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+better. It is changing the composition of work inside jobs. A project manager may see
+routine scheduling and status updates automated, while strategic coordination
+becomes more valuable. An analyst may spend less time producing a Brst-pass model,
+but more time interpreting, testing and communicating the implications. A consultant
+may be able to produce a draft in minutes, but face a higher premium on whether the
+thinking underneath it is any good.
+This supports our Mind the Gap Bnding very strongly. When respondents said human
+skills need to evolve, not diminish, they were pointing to the same phenomenon. The
+human contribution does not vanish … it shifts. Less value may sit in routine synthesis,
+Brst-pass drafting, basic analysis or procedural coordination. More value may sit in
+framing the problem, interrogating the output, understanding context, making trade-
+ols, judging consequences and explaining decisions.
+The risk is that organizations automate the developmental tasks before they have
+redesigned the learning pathway.
+Headline: The entry-level problem is not a side issue
+This may be one of the most important implications. The Burning Glass report warns
+that junior workers have traditionally built expertise through foundational tasks such
+as drafting reports, conducting initial research and building models — tasks that AI
+can now perform or accelerate. That connects directly with the Accenture signal on
+falling executive expectations for entry-level roles.
+Again, the data does not prove a general collapse in employment. We should be careful
+not to overstate that. But it does suggest that the early-career ladder in knowledge
+work may be under pressure. This matters because expertise is not born fully formed.
+People learn judgement by doing the basic work Brst. They learn what good looks like
+by making mistakes, revising drafts, building models, checking assumptions, and
+seeing how senior people respond.
+6 of 12 6/24/26, 5:42 PM
+--- Page 7 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+If AI removes too much of that work without replacing it with a new apprenticeship
+model, organizations may gain short-term epciency while weakening their future
+talent base. That is another version of the human operating model gap. It is not just
+about how today’s leaders use AI. It is about how tomorrow’s experts are formed.
+Headline: Adoption is unequal inside the workforce
+The FT–Focaldata[vii] evidence adds another layer. The Financial Times reported a
+poll of 4,000 workers in the US and UK showing that daily AI use is heavily skewed
+towards better-paid workers. More than 60% of the highest-paid workers reported
+using AI daily, compared with 16% of the lowest-paid workers. This supports the idea
+that AI adoption is not universal. It is unevenly distributed across the workforce.
+Workers with more autonomy, more ambiguous tasks and more permission to
+experiment may be able to use AI to extend their advantage. Workers in more
+constrained roles may have less opportunity to use AI meaningfully, even if the
+technology is technically available. So when we talk about AI adoption, we need to ask:
+adoption by whom, for what tasks, under what conditions, and with what level of
+organizational support? A simple “percentage of people using AI” does not answer
+those questions.
+One of the more reassuring Bndings in our own data was that 82% of respondents
+agreed that human judgement remains accountable even where AI automates
+decisions or actions. But accountability is easy to assert and harder to operationalize.
+The UK Government’s AI Adoption Research[viii], published in February 2026, is
+useful here. It found that among businesses using AI, 84% reported at least some
+human input or checking, with 67% reporting signiBcant input or checking.
+That appears to support the idea that humans remain involved. But human
+involvement is not the same as meaningful oversight. A person can be technically “in
+the loop” while lacking the time, training, authority or conBdence to challenge an AI
+output. A manager can remain accountable for a decision without understanding how
+7 of 12 6/24/26, 5:42 PM
+--- Page 8 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+the recommendation was produced. A team can check an AI-generated answer
+superBcially without interrogating the assumptions beneath it. This is where our
+qualitative comments matter. Respondents were not simply worried that AI might be
+wrong. They were worried that people might become too passive in the face of buent,
+conBdent systems.
+That is a capability issue, not just a governance issue. The key question is not whether
+humans remain in the loop. It is whether their involvement is meaningful.
+In summary: What the evidence supports — and what it does not
+Taken together, our Mind the Gap data and the public evidence support several
+conclusions.
+1. AI adoption is real and accelerating. AWS reports that nearly two-thirds of UK
+organizations now use AI.
+2. Advanced adoption remains much less common. AWS says only 24% of adopters
+are using AI at an advanced level in core processes and decision-making.
+3. The main barrier is increasingly organizational rather than technical. Accenture
+identiBes execution, scaling beyond pilots, reskilling and trust as core blockers.
+4. Human capability remains central. Our own survey shows strong agreement that
+human judgement, skill evolution and collective intelligence matter. Microsoft and
+Gartner also place emphasis on organizational systems, people strategy and
+workforce enablement rather than tool access alone.
+5. The employment story is unsettled. Accenture-related data suggests rising
+executive expectations of job reduction, especially around entry-level roles, while
+Burning Glass suggests that automation and augmentation are happening together
+inside occupations.
+8 of 12 6/24/26, 5:42 PM
+--- Page 9 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+6. The early-career pathway may be especially vulnerable. Burning Glass warns that
+AI can alect the foundational tasks through which junior workers traditionally
+build expertise.
+What the evidence does not support is a simple binary claim that AI will either replace
+everyone or merely augment everyone. It does not support a clean story of universal
+transformation. It does not support the idea that adoption automatically creates
+productivity. It does not support the idea that human judgement remains safe simply
+because leaders say it matters. And it does not support dismissing AI as hype just
+because the signals are uneven.
+One reason the AI debate feels so messy is that the evidence refuses to line up neatly.
+But perhaps that is exactly what we should expect.
+A stable labor market would produce cleaner signals. Adoption, productivity, skills,
+hiring, role design and workforce sentiment would move in a more coherent pattern.
+But we are not looking at a stable system. We are looking at a workplace being
+reconBgured unevenly, in real time. One study can show rapid adoption. Another can
+show limited advanced maturity. One survey can show leaders committed to human
+judgement. Another can show executives expecting fewer entry-level roles. One
+dataset can show workers gaining time. Another can show organizations struggling to
+turn individual productivity into business performance. These Bndings are not
+necessarily contradictory. They are measuring dilerent parts of a system in bux.
+AI is not transforming “work” in the abstract. It is transforming particular tasks, roles,
+teams and decisions Brst. Some activities are being compressed. Some are being
+automated. Some are becoming more valuable. Some are being pushed onto humans in
+new forms of review, interpretation and accountability.
+That is why the right question is no longer simply: are organizations adopting AI?
+Many are. The better question is: are they redesigning the human operating model
+around it? That means asking which tasks humans should retain, not out of nostalgia,
+9 of 12 6/24/26, 5:42 PM
+--- Page 10 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+but because those tasks build judgement. It means deciding where AI should
+accelerate work and where speed may be dangerous. It means training people not just
+to prompt, but to challenge. It means giving managers new ways to evaluate work
+when Brst drafts, summaries and analyses can be generated instantly. It means
+protecting the routes through which junior workers become experts. It means making
+accountability real rather than decorative.
+The organizations that succeed will not simply be the ones that move fastest. They will
+be the ones that understand what is actually changing. AI is not removing the need for
+human judgement. It is changing where that judgement is needed, how it is developed,
+and how easily it can be bypassed. That is the real gap. And it is the gap leaders now
+need to close.
+This is the work PolymathMind does — helping senior leaders close the gap between AI
+adoption and the human operating model around it. If your organization is wrestling with
+what to keep meaningfully human, how to protect the routes through which expertise is built,
+or how to make accountability real rather than decorative, those are conversations we’d
+welcome.
+Subscribe for more on the human side of the AI transition. If you’d like to talk, get in touch
+* Our title is borrowed from cyberpunk author, William Gibson
+[i] https://www.accenture.com/gb-en/insights/data-ai/generating-impact
+[ii] https://news.microsoft.com/annual-work-trend-index-2026/
+[iii] https://www.gartner.com/en/newsroom/press-releases/2026-05-13-gartner-predicts-
+by-2027-50-percent-of-enterprises-without-a-people-centric-ai-strategy-will-lose-
+their-top-ai-talent
+[iv] https://www.raconteur.net/ai/half-of-uk-ceos-expect-ai-to-cut-jobs-but-data-tells-
+10 of 12 6/24/26, 5:42 PM
+--- Page 11 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+dilerent-story
+[v] https://www.burningglassinstitute.org/research/beyondthebinary
+[vi] Raisch, S., & Krakowski, S. (2021). ArtiBcial intelligence and management: The
+automation–augmentation paradox. The Academy of Management Review, 46(1), 192–210.
+[vii] https://www.focaldata.com/blog/focaldata-workforce-ai-tracker
+[viii] https://www.gov.uk/government/publications/ai-adoption-research/ai-adoption-
+research
+Thanks for reading The Polymath Mind!
+Subscribe for free to receive new posts and our
+latest work.
+zontziry@proton.me Subscribe
+Discussion about this post
+Comments Restacks
+Write a comment...
+© 2026Adam Riley · Privacy ∙ Terms ∙ Collection notice
+Substackis the home for great culture
+11 of 12 6/24/26, 5:42 PM
+--- Page 12 ---
+(6) The future is already here — just not evenly distributed https://polymathmind.substack.com/p/the-future-is-already-here-just-no...
+12 of 12 6/24/26, 5:42 PM
