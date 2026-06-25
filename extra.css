@@ -1,0 +1,8 @@
+/* Match table font size to body text */
+.md-typeset table:not([class]) {
+  font-size: inherit;
+}
+.md-typeset table th,
+.md-typeset table td {
+  font-size: inherit;
+}
