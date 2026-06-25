@@ -22,6 +22,7 @@ WIKI_DIR = os.environ.get("WIKI_DIR", "wiki")
 INDEX_FILE = os.environ.get("INDEX_FILE", "wiki/index.md")
 LOG_FILE = os.environ.get("LOG_FILE", "wiki/log.md")
 AGENTS_FILE = os.environ.get("AGENTS_FILE", "AGENTS.md")
+INGESTED_TRACKER = os.path.join(WIKI_DIR, ".ingested.json")
 PROMPT_FILE = os.environ.get("PROMPT_FILE", "prompt.txt")
 
 CONFIG_FILE = "config.json"
@@ -63,16 +64,25 @@ def api_call(system_prompt, user_message, temperature=0.4):
 
 def get_ingested_files():
     ingested = set()
-    if os.path.exists(LOG_FILE):
-        with open(LOG_FILE) as f:
-            for line in f:
-                if "Ingested" in line and ":" in line:
-                    parts = line.split("Ingested ")[1] if "Ingested " in line else ""
-                    for name in parts.split(","):
-                        name = name.strip().strip(".")
-                        if name:
-                            ingested.add(name)
+    if os.path.exists(INGESTED_TRACKER):
+        try:
+            with open(INGESTED_TRACKER) as f:
+                data = json.load(f)
+            if isinstance(data, list):
+                ingested = set(data)
+        except (json.JSONDecodeError, OSError):
+            print(f"  Warning: could not read {INGESTED_TRACKER}, treating as empty")
     return ingested
+
+
+def mark_as_ingested(filenames):
+    ingested = get_ingested_files()
+    for name in filenames:
+        ingested.add(os.path.basename(name))
+    os.makedirs(os.path.dirname(INGESTED_TRACKER), exist_ok=True)
+    with open(INGESTED_TRACKER, "w") as f:
+        json.dump(sorted(ingested), f, indent=2)
+    print(f"  Tracked {len(filenames)} file(s) as ingested ({len(ingested)} total)")
 
 
 def get_next_file():
@@ -122,6 +132,22 @@ def assert_safe_path(p):
     return p
 
 
+def repair_json(s):
+    """Best-effort repair of common LLM JSON errors. Tuned for the
+    'Expecting ',' delimiter' error the batch ingest hits."""
+    # Strip non-JSON prefix/suffix — some models add explanatory text
+    # outside the backtick block even when instructed not to.
+    start = s.find('{')
+    end = s.rfind('}')
+    if start >= 0 and end > start:
+        s = s[start:end+1]
+    # Remove trailing commas before ] or }
+    s = re.sub(r',(\s*[}\]])', r'\1', s)
+    # Add missing comma between adjacent object-braces in an array
+    s = re.sub(r'\}\s*\{', '},{', s)
+    return s
+
+
 def apply_changes(response_text):
     json_str = response_text
     if "```json" in json_str:
@@ -135,7 +161,12 @@ def apply_changes(response_text):
     if start >= 0 and end > start:
         json_str = json_str[start:end+1]
     
-    changes = json.loads(json_str)
+    try:
+        changes = json.loads(json_str)
+    except json.JSONDecodeError:
+        print("  JSON parse error, attempting repair...")
+        json_str = repair_json(json_str)
+        changes = json.loads(json_str)
     written = []
     rejected = []
 
@@ -374,6 +405,7 @@ def main():
     
     print("Applying changes...")
     summary = apply_changes(response)
+    mark_as_ingested([source_name])
     
     print(f"Summary: {summary}")
 

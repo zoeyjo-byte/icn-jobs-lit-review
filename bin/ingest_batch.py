@@ -95,6 +95,9 @@ def run_batch(filepaths):
 
     response = batch_api_call(prompt)
     summary = ingest.apply_changes(response)
+    # Mark all batch files as ingested
+    filenames = [os.path.basename(fp) for fp in filepaths]
+    ingest.mark_as_ingested(filenames)
     return summary
 
 
