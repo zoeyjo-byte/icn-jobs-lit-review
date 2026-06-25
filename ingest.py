@@ -19,8 +19,8 @@ API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 RAW_DIR = os.environ.get("RAW_DIR", "raw")
 WIKI_DIR = os.environ.get("WIKI_DIR", "wiki")
-INDEX_FILE = os.environ.get("INDEX_FILE", "index.md")
-LOG_FILE = os.environ.get("LOG_FILE", "log.md")
+INDEX_FILE = os.environ.get("INDEX_FILE", "wiki/index.md")
+LOG_FILE = os.environ.get("LOG_FILE", "wiki/log.md")
 AGENTS_FILE = os.environ.get("AGENTS_FILE", "AGENTS.md")
 PROMPT_FILE = os.environ.get("PROMPT_FILE", "prompt.txt")
 
@@ -184,7 +184,7 @@ def apply_changes(response_text):
 def git_commit_and_push(summary):
     subprocess.run(["git", "config", "--local", "user.name", "Wiki Ingest Bot"], check=True)
     subprocess.run(["git", "config", "--local", "user.email", "bot@wiki.local"], check=True)
-    subprocess.run(["git", "add", "wiki/", "index.md", "log.md"], check=True)
+    subprocess.run(["git", "add", "wiki/"], check=True)
     
     result = subprocess.run(["git", "diff", "--staged", "--quiet"], capture_output=True)
     if result.returncode == 0:

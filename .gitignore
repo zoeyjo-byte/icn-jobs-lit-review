@@ -2,7 +2,7 @@
 .DS_Store
 
 # Index backup (regenerated each ingest)
-index.md.bak
+wiki/index.md.bak
 
 # Local env / secrets
 .env

@@ -14,8 +14,8 @@ wiki/                   # Agent-compiled knowledge base
 ├── studies/           # Research studies, papers, reports on skills gaps
 ├── methodologies/     # Research methodologies used in literature
 └── synthesis/         # Timeline pages, trend reports, comparison pages, gap analysis
-index.md               # Master catalog of all wiki pages and their relationships
-log.md                 # Chronological ingest log
+wiki/index.md          # Master catalog of all wiki pages and their relationships
+wiki/log.md            # Chronological ingest log
 AGENTS.md              # Wiki schema and workflow instructions
 ```
 
@@ -32,7 +32,7 @@ When new files are added to `raw/`:
    - Research studies → `wiki/studies/`
    - Methodologies → `wiki/methodologies/`
 3. Creates or updates wiki pages with `[[wikilinks]]` cross-references
-4. Updates `index.md` catalog and `log.md` audit trail
+4. Updates `wiki/index.md` catalog and `wiki/log.md` audit trail
 
 ## Setup for Automated Ingest
 

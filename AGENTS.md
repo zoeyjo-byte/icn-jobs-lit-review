@@ -11,8 +11,8 @@ entities/  → Companies, research firms, tools, platforms mentioned
 studies/   → Research studies, papers, reports on skills gaps
 methodologies/ → Research methodologies used in literature
 synthesis/ → Timeline pages, trend reports, comparison pages, gap analysis
-index.md     → Master catalog of all wiki pages and their relationships
-log.md       → Chronological ingest log
+wiki/index.md → Master catalog of all wiki pages and their relationships
+wiki/log.md   → Chronological ingest log
 
 ## Source Format
 
@@ -31,14 +31,14 @@ When new files appear in `raw/`:
    - Research methodologies used in studies (→ `wiki/methodologies/`)
    - Key findings from research papers and reports (→ `wiki/studies/`)
 3. **Create or update** wiki pages. If a page exists, append a dated "Update" section rather than rewriting. Link between related pages using `[[wikilinks]]`.
-4. **Update `index.md`** — add any new pages to the catalog under the appropriate section.
-5. **Update `log.md`** — append a line: `YYYY-MM-DD: Ingested [filename]. Created X new pages, updated Y existing pages.`
+4. **Update `wiki/index.md`** — add any new pages to the catalog under the appropriate section.
+5. **Update `wiki/log.md`** — append a line: `YYYY-MM-DD: Ingested [filename]. Created X new pages, updated Y existing pages.`
 
 ## Query Workflow
 
 When asked a question:
 
-1. Start at `index.md` to understand what pages exist.
+1. Start at `wiki/index.md` to understand what pages exist.
 2. Follow `[[wikilinks]]` to relevant pages.
 3. Synthesize an answer from the wiki content.
 4. If the wiki lacks sufficient information, acknowledge the gap — do not fabricate.
@@ -53,13 +53,13 @@ When asked a question:
 ## Lint Workflow (run periodically)
 
 1. Check for broken `[[wikilinks]]`.
-2. Check for stale pages not updated in 90+ days — flag in `index.md`.
+2. Check for stale pages not updated in 90+ days — flag in `wiki/index.md`.
 3. Check for orphan pages (no incoming links) — add connections or flag.
-4. Verify `index.md` matches actual wiki contents.
+4. Verify `wiki/index.md` matches actual wiki contents.
 
 ## Rules
 
 - `raw/` is immutable. Never edit or delete files there.
-- Every ingest must be logged in `log.md`.
+- Every ingest must be logged in `wiki/log.md`.
 - Prefer updating existing pages over creating near-duplicates.
 - When in doubt about a connection, add it with a `?` note rather than omitting it.

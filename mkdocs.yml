@@ -1,0 +1,73 @@
+site_name: ICN Jobs Literature Review
+site_description: >-
+  A structured knowledge base for analyzing skills gaps in the market
+  research industry, built from literature review and job listing data
+  for the Insights Career Network.
+site_url: https://zoeyjo-byte.github.io/icn-jobs-lit-review
+repo_url: https://github.com/zoeyjo-byte/icn-jobs-lit-review
+repo_name: zoeyjo-byte/icn-jobs-lit-review
+edit_uri: edit/main/wiki/
+
+docs_dir: wiki
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  # Converts [[wikilinks]] to proper relative links between pages.
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Ingest Log: log.md
+  - Skills: skills/
+  - Roles: roles/
+  - Concepts: concepts/
+  - Studies: studies/
+  - Methodologies: methodologies/
+  - Entities: entities/
+  - Synthesis: synthesis/
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zoeyjo-byte/icn-jobs-lit-review
