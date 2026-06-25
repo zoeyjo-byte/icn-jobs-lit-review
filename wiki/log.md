@@ -14,3 +14,4 @@ Chronological record of every ingest operation.
 2026-06-26: Ingested 2026-global-ai-jobs-barometer-full-report.figures.md. Created 1 new page, updated 14 existing pages.
 2026-06-26: Ingested 2026-global-ai-jobs-barometer-full-report.figures.md. Updated 14 existing pages.
 2026-06-27: Ingested 2026-global-ai-jobs-barometer-full-report.figures.md. Updated 15 existing pages.
+2026-06-28: Ingested 4 source files. Created 5 new pages, updated 3 existing pages.

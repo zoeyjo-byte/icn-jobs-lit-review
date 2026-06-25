@@ -1,5 +1,48 @@
-Entry-level job postings in quartiles with lower AI exposure continue to grow, while those in the highest AI exposure quartile have flatlined since 2022.
+## Entry-Level Jobs
 
-## Update: 2026-06-27
+### First Observed
+2026-06-24
 
-The PwC 2026 report reveals a stark bifurcation in entry-level job market dynamics. Figure 7 shows postings in the bottom three AI exposure quartiles grew steadily from 2012-2025 (reaching 6.0-8.0x 2012 baselines), while the highest exposure quartile flatlined at 5.0x after 2022—coinciding with ChatGPT's release. This stagnation affects roles most susceptible to AI automation, such as basic data processing and routine analysis. Figure 8 further analyzes this by distinguishing 'seniorised' versus non-seniorised roles within the top quartile: seniorised entry-level positions (requiring traditionally senior skills) are projected to grow 35% between 2019-2025 in the US, while non-seniorised roles decline by 10%. This divergence occurs because AI handles foundational tasks (e.g., automated CV screening for [[recruiters]]), raising entry barriers for new workers. The report warns this trend could exacerbate early-career inequality, particularly for candidates without access to advanced training. However, it also creates opportunities in high-growth sectors like Technology where [[ai-specialist-roles]] are expanding rapidly. Figure 9 contextualizes this within skills transformation, showing AI-exposed roles undergo 2.2x faster skill changes, forcing entry-level candidates to continuously adapt. Organizations using the [[ai-job-future-framework]] can mitigate risks by designing structured onboarding that balances AI tools with human skill development.
+### Last Updated
+2026-06-28
+
+Entry-level job postings in quartiles with lower AI exposure continue to grow, while those in the highest AI exposure quartile have flatlined since 2022. Recent research reveals growing structural challenges for traditional entry-level positions as AI capabilities advance.
+
+### New Evidence on Entry-Level Dynamics
+
+The [[mrii-2026-market-research-study]] presents a complex picture:
+- 58% of insights professionals believe their function will become more important, showing industry optimism
+- However, nearly two-thirds now express concern about job loss due to AI, a sharp increase from prior years
+- Only 1 in 10 report AI is fully embedded in day-to-day workflows, indicating early adoption stages
+
+More concerning data comes from [[accenture-generating-impact]]:
+- Only 15% of UK executives now expect AI to boost entry-level positions (down from 40% in 2024)
+- 37% expect reduced demand for entry-level roles (up from 22% in 2024)
+
+### The Entry-Level Squeeze Mechanism
+
+The [[burning-glass-beyond-binary]] report explains why entry-level roles are particularly vulnerable:
+- Junior workers traditionally built expertise through foundational tasks now automated by AI:
+  - Drafting reports
+  - Conducting initial research
+  - Building basic models
+  - Producing first-pass analyses
+- Without these developmental tasks, organizations risk "gaining short-term efficiency while weakening their future talent base"
+
+This creates what researchers call the [[entry-level-squeeze]] - a structural challenge where AI removes the very tasks that build professional judgment.
+
+### Strategic Implications
+
+Organizations face a critical choice:
+1. Continue automating entry-level tasks without redesigning apprenticeship models (short-term gain, long-term talent risk)
+2. Redesign early-career pathways to preserve meaningful developmental opportunities
+
+The [[human-operating-model-gap]] analysis emphasizes that successful organizations will be those that "protect the routes through which junior workers become experts."
+
+### Related Concepts
+- [[entry-level-squeeze]]
+- [[human-operating-model-gap]]
+- [[skill-composition-shift]]
+
+### Update Log
+2026-06-28: Added evidence from Accenture and Burning Glass Institute showing declining executive expectations for entry-level roles and the mechanism of the entry-level squeeze through automation of foundational developmental tasks.

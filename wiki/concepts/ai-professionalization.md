@@ -1,5 +1,48 @@
-AI professionalization refers to the process where AI automates less expert tasks, leaving more expert tasks for humans.
+## AI Professionalization
 
-## Update: 2026-06-27
+### First Observed
+2026-06-24
 
-AI professionalization describes the counter-trend to democratization, where artificial intelligence automates routine tasks, thereby elevating expertise requirements for human workers. As documented in Figure 2 of the PwC 2026 report, this process affects 22% of global job postings. Examples include [[environmental-engineers]] (AI handles data collection but humans focus on complex modeling) and [[pharmacists]] (AI manages prescriptions but humans provide patient counseling). Figure 3 shows professionalization is especially pronounced in high AI exposure jobs, where expertise requirements increase substantially. The economic implications are significant: Figure 4 reveals professionalised roles have added skills at twice the rate of democratised roles (68% vs 33% growth 2018-2025), while Figure 5 shows 42% faster salary growth (37% vs 26% since 2021) and twice the job posting growth (39% vs 17%). Figure 11 confirms these roles maintain high human reliance with an [[epoch-score]] of 0.45. The report positions professionalization as creating high-value career pathways that reward advanced expertise, though it raises barriers to entry for new workers—a phenomenon documented in [[entry-level-jobs]] as 'seniorisation'. This trend validates the 'Expertise' dimension of the [[ai-job-future-framework]], where AI handles standardized processes while humans focus on judgment-intensive work. Organizations achieving 'superstar' status (Figure 12) often excel at professionalization through strategic AI integration and complementary human skill development, creating sustainable competitive advantages in the AI-transformed economy.
+### Last Updated
+2026-06-28
+
+AI professionalization refers to the process where AI automates less expert tasks, leaving more expert tasks for humans. This phenomenon represents one pathway through which AI reshapes occupations, increasing the premium on specialized human expertise.
+
+### New Evidence and Refinement
+
+The [[mrii-2026-market-research-study]] provides compelling evidence of AI professionalization in the insights industry:
+- As AI handles routine analytical tasks, value is shifting **upstream** toward strategic functions
+- Insights teams must evolve from delivering answers to shaping decisions, driving growth, and influencing strategy
+- Pam Forbus of [[mondelez]] states: "AI will increasingly answer questions, deliver insights, execute projects, and support stakeholders faster and at lower cost than ever before. That doesn't diminish the role of insights teams; it fundamentally changes it."
+
+This represents a specific manifestation of professionalization where AI automation of basic tasks elevates the importance of strategic human capabilities.
+
+The [[value-chain-shift]] concept further explains this dynamic - as AI makes answers faster and cheaper, the answers themselves become less differentiated, pushing value creation toward higher-order strategic functions.
+
+### Relationship to Skills Development
+
+A critical finding from the MRII study reveals a professionalization paradox:
+- Professionals prioritize learning technical AI skills
+- Leaders value business acumen, communication, and strategic influence more highly
+
+This disconnect threatens to undermine the professionalization process, as organizations may automate tasks without adequately developing the human capabilities needed for the elevated roles.
+
+### Connection to Entry-Level Dynamics
+
+The [[burning-glass-beyond-binary]] report shows that professionalization occurs alongside automation within the same occupations. This creates particular challenges for entry-level positions through the [[entry-level-squeeze]], as foundational tasks that build expertise are automated before new developmental pathways are established.
+
+### Organizational Implications
+
+Successful navigation of AI professionalization requires:
+- Redesigning roles to preserve meaningful human involvement in value-creating activities
+- Developing new apprenticeship models that build expertise despite automated foundational tasks
+- Aligning skill development priorities with the evolving value chain
+
+### Related Concepts
+- [[value-chain-shift]]
+- [[human-operating-model-gap]]
+- [[entry-level-squeeze]]
+- [[seniorised-roles]]
+
+### Update Log
+2026-06-28: Added evidence from MRII 2026 Market Research Study showing how AI professionalization is manifesting in the insights industry through value chain shifts and the strategic repositioning of human roles.
