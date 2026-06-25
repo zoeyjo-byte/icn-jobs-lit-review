@@ -1,1 +1,0 @@
-AI specialists are in high demand, with job postings growing eight times faster than total job postings. This indicates a strong prioritization of AI investment across all sectors.

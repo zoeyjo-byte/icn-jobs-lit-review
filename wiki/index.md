@@ -18,7 +18,6 @@ Skills, competencies, and requirements found in job listings:
 
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ai-skills]] | 2026-06-24 | 2026-06-24 | AI skills are increasingly in demand across various sectors, with wage premiums rising significantly. |
 | [[human-intensive-skills]] | 2026-06-24 | 2026-06-25 | Human-intensive skills such as empathy, creativity, and face-to-face presence are increasingly important in AI-exposed roles. |
 | [[senior-skills]] | 2026-06-25 | 2026-06-25 | Senior skills traditionally required in more senior positions that are now increasingly appearing in entry-level job descriptions due to AI adoption. |
 
@@ -28,7 +27,6 @@ Market research job roles, positions, and career paths:
 
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ai-specialist]] | 2026-06-24 | 2026-06-24 | AI specialists are in high demand, with job postings growing eight times faster than total job postings. |
 | [[entry-level-jobs]] | 2026-06-24 | 2026-06-25 | Entry-level job postings in quartiles with lower AI exposure continue to grow, while those in the highest AI exposure quartile have flatlined since 2022. |
 | [[professionalised-jobs]] | 2026-06-25 | 2026-06-25 | Professionalised jobs are occupations reshaped by AI to demand more human expertise, representing 22% of advertised positions globally. |
 | [[democratised-jobs]] | 2026-06-25 | 2026-06-25 | Democratised jobs are occupations reshaped by AI to demand less human expertise, representing 52% of advertised positions globally. |
