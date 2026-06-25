@@ -45,4 +45,4 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           MAX_CHARS: 50000
           FALLBACK_TO_SINGLE: "1"
-        run: python bin/ingest_batch.py
+        run: python3 bin/ingest_batch.py
