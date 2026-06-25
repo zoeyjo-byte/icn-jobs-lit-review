@@ -169,6 +169,8 @@ def apply_changes(response_text):
         with open(INDEX_FILE, "w") as fh:
             fh.write(changes["index_md"])
         print(f"  Updated: {INDEX_FILE} (backup at {INDEX_FILE}.bak)")
+        # Sync sub-index pages (skills/index.md, etc.) from index_md
+        sync_subindex_pages(changes["index_md"])
     
     if changes.get("log_entry"):
         with open(LOG_FILE, "a") as fh:
@@ -230,6 +232,101 @@ def detect_orphans():
         print("No orphan pages detected.")
 
     return orphans
+
+
+# Maps index section headers to wiki subdirectories for auto-generated index pages.
+CATEGORY_DIR_MAP = {
+    "Skills": "skills",
+    "Roles": "roles",
+    "Concepts": "concepts",
+    "Methodologies": "methodologies",
+    "Studies": "studies",
+    "Entities": "entities",
+    "Synthesis": "synthesis",
+}
+
+
+def sync_subindex_pages(index_md):
+    """Parse index_md category tables and write them to category/index.md files.
+    Called automatically after every ingest to keep left-nav pages in sync."""
+    lines = index_md.split("\n")
+    current_cat = None
+    current_desc = None
+    table_lines = []
+    in_table = False
+    header_line = None
+
+    for line in lines:
+        # Detect ## section headers
+        if line.startswith("## ") and not line.startswith("### "):
+            # Flush previous category if we were in one
+            if current_cat is not None and table_lines:
+                _write_subindex(current_cat, current_desc, header_line, table_lines)
+            # Start new section
+            current_cat = line[3:].strip()
+            current_desc = None
+            table_lines = []
+            in_table = False
+            header_line = None
+            continue
+
+        if current_cat is None:
+            continue
+
+        # Capture description (text between section header and table)
+        if current_desc is None and line.strip() and not line.startswith("|") and not line.startswith("##"):
+            current_desc = line.strip()
+
+        # Detect table start
+        if line.startswith("| ---"):
+            in_table = True
+            continue
+
+        # Collect table rows
+        if in_table:
+            if line.startswith("|") and "|" in line[1:]:
+                table_lines.append(line)
+            else:
+                in_table = False
+
+    # Flush last category
+    if current_cat is not None and table_lines:
+        _write_subindex(current_cat, current_desc, header_line, table_lines)
+
+
+def _write_subindex(cat_name, description, header_line, table_lines):
+    """Write a single sub-index page for the given category."""
+    cat_dir = CATEGORY_DIR_MAP.get(cat_name)
+    if cat_dir is None:
+        return  # not a mapped category (e.g. "Sources")
+
+    path = os.path.join(WIKI_DIR, cat_dir, "index.md")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    desc = description or ""
+    if desc.endswith(":"):
+        desc = desc
+
+    # Rebuild table header + body
+    table = "| Page | First Observed | Last Updated | Description |\n"
+    table += "|------|---------------|-------------|-------------|\n"
+    for row in table_lines:
+        # Strip leading/trailing pipes and whitespace
+        cells = [c.strip() for c in row.strip().strip("|").split("|")]
+        if len(cells) >= 4:
+            table += f"| {cells[0]} | {cells[1]} | {cells[2]} | {cells[3]} |\n"
+
+    content = f"# {cat_name}\n\n{desc}\n\n{table}\nSee [[index|Home]] for the full catalog.\n"
+
+    old = ""
+    if os.path.exists(path):
+        with open(path) as fh:
+            old = fh.read()
+
+    if old != content:
+        with open(path, "w") as fh:
+            fh.write(content)
+        print(f"  Synced: {path}")
 
 
 def main():

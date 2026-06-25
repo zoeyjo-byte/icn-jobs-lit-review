@@ -2,16 +2,6 @@
 
 Master catalog of all wiki pages and their relationships. Populated automatically after ingest.
 
-## Sources
-
-Source files processed from `raw/`:
-
-| Date | File | Status |
-|------|------|--------|
-| 2026-06-24 | 2026-global-ai-jobs-barometer-full-report.pdf | Processed |
-| 2026-06-25 | 2026-global-ai-jobs-barometer-full-report.figures.md | Processed |
-| 2026-06-25 | 2026-global-ai-jobs-barometer-full-report.txt | Processed |
-
 ## Skills
 
 Skills, competencies, and requirements found in job listings:
@@ -60,4 +50,4 @@ Key research studies and reports:
 
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[pwc-2026-global-ai-jobs-barometer]] | 2026-06-25 | 2026-06-27 | PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market.
+| [[pwc-2026-global-ai-jobs-barometer]] | 2026-06-25 | 2026-06-27 | PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market. |

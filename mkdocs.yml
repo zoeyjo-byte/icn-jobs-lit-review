@@ -59,8 +59,12 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+extra_css:
+  - extra.css
+
 nav:
   - Home: index.md
+  - Sources: sources.md
   - Ingest Log: log.md
   - Skills: skills/index.md
   - Roles: roles/index.md
