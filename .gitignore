@@ -1,9 +1,0 @@
-# macOS
-.DS_Store
-
-# Index backup (regenerated each ingest)
-wiki/index.md.bak
-
-# Local env / secrets
-.env
-.env.*
