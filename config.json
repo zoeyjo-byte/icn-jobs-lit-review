@@ -2,5 +2,5 @@
   "PROJECT_NAME": "LLM Wiki",
   "DOMAIN": "General",
   "MODEL": "deepseek/deepseek-chat",
-  "STRICT_MODE": true
+  "STRICT_MODE": false
 }
