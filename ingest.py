@@ -204,9 +204,18 @@ def apply_changes(response_text):
         sync_subindex_pages(changes["index_md"])
     
     if changes.get("log_entry"):
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        line = changes["log_entry"].strip()
+        # Replace any LLM-generated date (e.g. "2026-06-28: ...") with actual date
+        if re.match(r"^\d{4}-\d{2}-\d{2}:", line):
+            line = line[11:].strip()
+        line = f"{today}: {line}"
         with open(LOG_FILE, "a") as fh:
-            fh.write(changes["log_entry"] + "\n")
-        print(f"  Logged: {changes['log_entry']}")
+            fh.write(line + "\n")
+        print(f"  Logged: {line}")
+    
+    # Sync sources page after every ingest
+    sync_sources_page()
     
     if rejected:
         print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
@@ -308,8 +317,8 @@ def sync_subindex_pages(index_md):
         if current_desc is None and line.strip() and not line.startswith("|") and not line.startswith("##"):
             current_desc = line.strip()
 
-        # Detect table start
-        if line.startswith("| ---"):
+        # Detect table start (pipe followed by dashes, possibly with spaces)
+        if line.startswith("|") and "---" in line and "|" in line[1:]:
             in_table = True
             continue
 
@@ -357,6 +366,34 @@ def _write_subindex(cat_name, description, header_line, table_lines):
     if old != content:
         with open(path, "w") as fh:
             fh.write(content)
+        print(f"  Synced: {path}")
+
+
+def sync_sources_page():
+    """Auto-generate wiki/sources.md from raw/ directory + ingested tracker."""
+    ingested = get_ingested_files()
+    rows = ""
+    if os.path.exists(RAW_DIR):
+        for f in sorted(os.listdir(RAW_DIR)):
+            if f.endswith(".txt") or f.endswith(".md"):
+                # Try to find a log entry date; fall back to tracker presence
+                status = "Processed" if f in ingested else "Pending"
+                rows += f"| — | {f} | {status} |\n"
+
+    content = "# Sources\n\nSource files processed from `raw/`:\n\n"
+    content += "| Date | File | Status |\n|------|------|--------|\n"
+    content += rows
+    content += "\nSee [[index|Home]] for the full catalog.\n"
+
+    path = os.path.join(WIKI_DIR, "sources.md")
+    old = ""
+    if os.path.exists(path):
+        with open(path) as f:
+            old = f.read()
+
+    if old != content:
+        with open(path, "w") as f:
+            f.write(content)
         print(f"  Synced: {path}")
 
 
