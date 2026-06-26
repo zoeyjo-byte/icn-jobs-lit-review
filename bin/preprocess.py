@@ -35,6 +35,7 @@ except ImportError:
 # ── Config ───────────────────────────────────────────────────
 SOURCES_DIR = os.environ.get("SOURCES_DIR", "sources")
 RAW_DIR = os.environ.get("RAW_DIR", "raw")
+WIKI_DIR = os.environ.get("WIKI_DIR", "wiki")
 
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -139,15 +140,22 @@ def extract_text(pdf_path, out_txt):
 
 
 def extract_charts(pdf_path, out_figures, source_name):
-    """Pass 2: render each page, ask vision model if it contains a chart.
-
-    Charts in this report are vector graphics (not embedded rasters), so
-    we cannot rely on pdfplumber's image detection. Rendering the full page
-    and asking the vision model is more reliable.
-    """
+    """Pass 2: render each page, ask vision model if it contains a chart,
+    and save chart images to wiki/figures/<source-slug>/ for serving."""
     if not API_KEY:
         log("  ⚠ OPENROUTER_API_KEY not set — skipping vision pass.")
         log("    Pass 1 text will still be ingested; charts will be missed.")
+
+    # Determine the figures image directory under wiki/
+    slug = os.path.splitext(os.path.basename(pdf_path))[0]
+    figures_img_dir = os.path.join(WIKI_DIR, "figures", slug)
+    os.makedirs(figures_img_dir, exist_ok=True)
+    # Track which pages already have saved images (skip re-render if exists)
+    existing = set()
+    for fname in os.listdir(figures_img_dir):
+        if fname.endswith(".jpg"):
+            existing.add(os.path.splitext(fname)[0])
+
     chart_entries = []
     with pdfplumber.open(pdf_path) as pdf:
         n_pages = len(pdf.pages)
@@ -162,25 +170,42 @@ def extract_charts(pdf_path, out_figures, source_name):
                 im = page.to_image(resolution=RENDER_DPI)
                 buf = io.BytesIO()
                 im.original.save(buf, format="PNG", optimize=True)
-                png_bytes = buf.getvalue()
+                page_img_bytes = buf.getvalue()
             except Exception as e:
                 log(f"  page {i+1}: render failed: {e}")
                 continue
 
             log(f"  page {i+1}/{pages_to_scan}: "
-                f"{len(png_bytes)} bytes PNG")
-            desc, err = vision_describe(png_bytes)
+                f"{len(page_img_bytes)} bytes rendered")
+            desc, err = vision_describe(page_img_bytes)
             if err:
                 log(f"    ⚠ vision error: {err}")
-                # Stop the whole pass on auth/key errors — no point
-                # making 30 failing calls.
                 if "401" in err or "not set" in err or "403" in err:
                     log("    Aborting vision pass (auth failure).")
                     break
                 continue
             if desc.strip().upper().startswith("SKIP"):
                 continue
-            chart_entries.append({"page": i + 1, "desc": desc})
+
+            idx = len(chart_entries) + 1
+            img_fname = f"fig-{idx}.jpg"
+            img_path = os.path.join(figures_img_dir, img_fname)
+            
+            # Save image as JPEG (smaller than PNG, fine for serving)
+            if img_fname not in existing:
+                jpeg_buf = io.BytesIO()
+                im.original.save(jpeg_buf, format="JPEG", quality=80)
+                with open(img_path, "wb") as f:
+                    f.write(jpeg_buf.getvalue())
+                log(f"    saved: {img_path} ({len(jpeg_buf.getvalue())} bytes)")
+            else:
+                log(f"    exists: {img_path}")
+
+            chart_entries.append({
+                "page": i + 1,
+                "desc": desc,
+                "image": f"{slug}/{img_fname}",
+            })
 
     with open(out_figures, "w") as fh:
         fh.write(f"# Figures extracted from {source_name}\n\n")
@@ -191,9 +216,15 @@ def extract_charts(pdf_path, out_figures, source_name):
                  "found below. -->\n\n")
         if not chart_entries:
             fh.write("_No charts detected on any page._\n")
+            # Clean up empty figures dir
+            try:
+                os.rmdir(figures_img_dir)
+            except OSError:
+                pass
             return 0
         for idx, e in enumerate(chart_entries, 1):
             fh.write(f"\n## Figure {idx} (page {e['page']})\n\n")
+            fh.write(f"![Figure {idx}]({e['image']})\n")
             fh.write(e["desc"].strip() + "\n")
     return len(chart_entries)
 
@@ -203,17 +234,18 @@ def process_pdf(pdf_path):
     out_txt = os.path.join(RAW_DIR, f"{name}.txt")
     out_figures = os.path.join(RAW_DIR, f"{name}.figures.md")
 
-    if os.path.exists(out_txt):
-        log(f"SKIP {pdf_path} (already preprocessed)")
-        return
-
     log(f"Processing {pdf_path}")
     os.makedirs(RAW_DIR, exist_ok=True)
 
-    log("  Pass 1: text extraction")
-    chars = extract_text(pdf_path, out_txt)
-    log(f"    wrote {out_txt} ({chars} chars)")
+    # Pass 1: text extraction (skip if already done)
+    if os.path.exists(out_txt):
+        log(f"  SKIP text extraction ({out_txt} exists)")
+    else:
+        log("  Pass 1: text extraction")
+        chars = extract_text(pdf_path, out_txt)
+        log(f"    wrote {out_txt} ({chars} chars)")
 
+    # Pass 2: chart extraction (always re-check; images may not be saved)
     log("  Pass 2: chart extraction")
     n_charts = extract_charts(pdf_path, out_figures,
                               os.path.basename(pdf_path))

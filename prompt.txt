@@ -17,12 +17,19 @@ role, or concept, merge them into a single wiki page and cite both sources.
 
 You must identify and classify:
 
-- Skills, competencies, and requirements → wiki/skills/
-- Job roles and career paths → wiki/roles/
-- Companies, tools, platforms → wiki/entities/
-- Concepts, trends, frameworks → wiki/concepts/
-- Research studies and reports → wiki/studies/
-- Methodologies used in research → wiki/methodologies/
+    - Skills, competencies, and requirements → wiki/skills/
+    - Job roles and career paths → wiki/roles/
+    - Companies, tools, platforms → wiki/entities/
+    - Concepts, trends, frameworks → wiki/concepts/
+    - Research studies and reports → wiki/studies/
+    - Methodologies used in research → wiki/methodologies/
+    - Figures and charts → wiki/figures/
+      - Create one page per figure: wiki/figures/<source-slug>-fig-<N>-short-title.md
+      - Embed the image with the path shown in the source (e.g. ![alt](figures/...))
+      - Meaningful page title including source name, figure number, and the chart title
+      - Link figure pages back to their source study page
+      - On every relevant wiki page that discusses data from a figure, add a cross-link:
+        "See [[figure-page-slug|Figure N: chart title]]"
 
 ## RULES
 - Use [[wikilinks]]

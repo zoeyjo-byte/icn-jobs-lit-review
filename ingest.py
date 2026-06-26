@@ -214,8 +214,9 @@ def apply_changes(response_text):
             fh.write(line + "\n")
         print(f"  Logged: {line}")
     
-    # Sync sources page after every ingest
+    # Sync sources page and figures catalog after every ingest
     sync_sources_page()
+    sync_figures_page()
     
     if rejected:
         print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
@@ -395,6 +396,49 @@ def sync_sources_page():
         with open(path, "w") as f:
             f.write(content)
         print(f"  Synced: {path}")
+
+
+def sync_figures_page():
+    """Auto-generate wiki/figures/index.md from existing figure pages."""
+    figures_dir = os.path.join(WIKI_DIR, "figures")
+    index_path = os.path.join(figures_dir, "index.md")
+    os.makedirs(figures_dir, exist_ok=True)
+
+    # Scan wiki/figures/ for figure pages (not index.md itself)
+    figure_pages = []
+    for f in sorted(os.listdir(figures_dir)):
+        if f.endswith(".md") and f != "index.md":
+            slug = f.replace(".md", "")
+            # Read the page to extract title and source
+            page_path = os.path.join(figures_dir, f)
+            with open(page_path) as fh:
+                first_line = fh.readline().strip()
+            title = first_line.lstrip("# ").strip() if first_line.startswith("#") else slug
+            figure_pages.append({"slug": slug, "title": title, "path": f})
+
+    if not figure_pages:
+        return
+
+    lines = ["# Figures", "",
+             "Catalog of all figures extracted from source documents.",
+             "",
+             "| Figure | Title |",
+             "|--------|-------|"]
+    for fp in figure_pages:
+        lines.append(f"| [[{fp['slug']}]] | {fp['title']} |")
+    lines.append("")
+    lines.append("See [[index|Home]] for the full catalog.")
+
+    content = "\n".join(lines) + "\n"
+    old = ""
+    if os.path.exists(index_path):
+        with open(index_path) as f:
+            old = f.read()
+
+    if old != content:
+        with open(index_path, "w") as f:
+            f.write(content)
+        print(f"  Synced: {index_path}")
 
 
 def main():

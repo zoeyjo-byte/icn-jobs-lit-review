@@ -73,6 +73,7 @@ nav:
   - Methodologies: methodologies/index.md
   - Entities: entities/index.md
   - Synthesis: synthesis/index.md
+  - Figures: figures/index.md
 
 extra:
   social:
