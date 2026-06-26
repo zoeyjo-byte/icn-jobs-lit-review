@@ -38,6 +38,16 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[human-operating-model-gap]] | 2026-06-28 | 2026-06-28 | The human operating model gap refers to the growing disparity between the rapid advancement of AI capabilities and the slower adaptation of human systems, processes, and skills required to leverage AI effectively within organizations. |
 | [[entry-level-squeeze]] | 2026-06-28 | 2026-06-28 | The entry-level squeeze describes the growing pressure on traditional entry-level positions in knowledge work as AI capabilities automate foundational tasks that historically served as training grounds for developing professional expertise. |
 
+## Entities
+
+Companies, research firms, tools, and platforms mentioned:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[lightcast]] | 2026-06-25 | 2026-06-27 | Lightcast (formerly Emsi Burning Glass) provides labor market analytics and job posting data used in PwC's Global AI Jobs Barometer. |
+| [[orbis]] | 2026-06-25 | 2026-06-27 | ORBIS is Bureau van Dijk's global business database providing company financial data for AI impact analysis. |
+| [[pwc]] | 2026-06-24 | 2026-06-27 | PwC is a multinational professional services network and publisher of the Global AI Jobs Barometer. |
+
 ## Methodologies
 
 Research methodologies used in studies:

@@ -1,4 +1,4 @@
-PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market.
+[[PwC]]'s comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market, powered by [[lightcast]] job posting data and [[orbis]] company financial data.
 
 ## Update: 2026-06-27
 
