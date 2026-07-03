@@ -36,28 +36,17 @@ When new files are added to `raw/`:
 
 ## Setup for Automated Ingest
 
-1. **Set environment variables**:
-   ```bash
-   export OPENROUTER_API_KEY="your-api-key"
-   export PROJECT_NAME="ICN Jobs Literature Review"
-   export DOMAIN="Market Research Skills Gap"
-   ```
+1. **Person adds source files** to the 'sources' directory and ingest script runs to parse text from images
 
-2. **Add raw files** to the `raw/` directory as `.txt` files
+2. **Add raw files** to the `raw/` directory as `.txt` files and image files
 
-3. **Run ingest manually**:
+3. **Run ingest manually** to parse into the wiki:
    ```bash
    python ingest.py
    ```
 
 4. **GitHub Actions** will run daily at 10:00 UTC if configured
 
-## Secrets Required
-
-For GitHub Actions to work, add these repository secrets:
-- `OPENROUTER_API_KEY` - API key for OpenRouter LLM access
-
-For local development, set these environment variables.
 
 ## Project Focus
 
