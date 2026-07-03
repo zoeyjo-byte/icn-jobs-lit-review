@@ -1,0 +1,1596 @@
+
+--- Page 1 ---
+A New Look at AI’s Impact on Jobs:
+Firm-Level AI Spending and Workforce
+Adjustment*
+Ara Kharazian† Lisa Simon‡ Ryan Stevens§
+Ramp Revelio Labs Ramp
+June 30, 2026
+Abstract
+We study how employment changes when firms adopt generative AI using ob-
+served AI spending from Ramp card and bill pay data linked to Revelio Labs work-
+forcerecordsfor21,559firmsintheUnitedStates. Wefindthatcompaniesthatadopt
+AI tend to grow faster following adoption, but the relationship is driven almost en-
+tirelybyhigh-intensityadopters. FirmsmakingthelargestAIinvestmentsgrowem-
+ployment by roughly 10% following adoption, while low-intensity adopters see no
+statistically significant change. Entry-level headcount rises 12% for high-intensity
+adopters. Gains emerge gradually and are broad across roles, including engineer-
+ing, sales, administration, and customer service. They are also uneven: adopters are
+already larger, more technical, faster-growing firms, and sector-level gains are con-
+centrated in Information. The results counter predictions that AI adoption will lead
+tobroadjobloss.
+*Wethankthefollowingindividuals,whosethoughtsandfeedbacksupportedourwork,andwhocould
+neverbereplacedbyAI:NickBloom,ScottCunningham,MarthaGimbel,RafaelHajjar,JonHartley,Jeremy
+Huang,NikkiNeumann,TorstenSløk,NoahSmith,andErnieTedeschi. Thelatestversionofthispaperis
+availableonlineatramp.com/data/ai-jobs-impact.
+†LeadEconomist,Ramp. Correspondingauthor. ara.kharazian@ramp.com
+‡ChiefEconomist,RevelioLabs. lisa@reveliolabs.com
+§DirectorofAppliedScience,Ramp. rstevens@ramp.com
+1
+--- Page 2 ---
+Contents
+1 Introduction 6
+2 RelatedLiterature 7
+3 Data 11
+3.1 RampBusinessSpendData . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3.2 BenchmarkingAIAdoptionRates . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.3 RevelioWorkforceData . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.4 MatchingandAnalyticalSample . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4 WhatDrivesAIAdoption? 16
+4.1 Pre-AdoptionGrowthandthePreferredComparison . . . . . . . . . . . . . 19
+5 EmpiricalMethodology 20
+5.1 TreatmentIntensity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+5.2 EstimatorandIdentification . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+5.3 OutcomesandDiagnostics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+5.4 Comparison-GroupChecks . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6 Results 24
+6.1 High-IntensityAIAdoptersGrewHeadcountbyTenPercent . . . . . . . . . 24
+6.2 High-IntensityEmploymentGainsCompoundedOverTime . . . . . . . . . 26
+6.3 Entry-LevelEmploymentAlsoRoseAmongHigh-IntensityAdopters . . . . 26
+6.4 EmploymentGainsWereBroadAcrossRoles . . . . . . . . . . . . . . . . . . 29
+6.5 EarlyEmploymentGainsAreConcentratedinInformationFirms . . . . . . 30
+6.6 GainsAreEvenHigherAgainstNever-Adopters . . . . . . . . . . . . . . . . 31
+7 Conclusion 33
+2
+--- Page 3 ---
+8 Event-StudyFigures 35
+References 45
+3
+--- Page 4 ---
+List of Tables
+1 SampleSummarybyAIIntensity . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2 AdopterCharacteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+3 HeadcountbyAIIntensity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+4 WorkforceSharesbyAIIntensity . . . . . . . . . . . . . . . . . . . . . . . . . 28
+5 HeadcountbySector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+6 Never-TreatedbyAIIntensity . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+4
+--- Page 5 ---
+List of Figures
+1 AIAdoptionBenchmarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2 AIAdoptionbySector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+3 AIAdoptionbySizeandEngineeringShare . . . . . . . . . . . . . . . . . . . 18
+4 IndexedHeadcountandPre-Trends: AIAdoptersvs. NeverAdopters . . . 19
+5 IndexedHeadcountandPre-Trends: AIAdoptersvs. Not-YetAdopters . . 20
+6 TotalHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+7 Entry-LevelHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+8 Non-EntryHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+9 Manager-PlusHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+10 EngineeringHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+11 Entry-LevelEngineering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+12 SalesHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+13 MarketingHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+14 AdminHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+15 FinanceHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+16 ScientistHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+17 OperationsHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+18 CustomerServiceHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+19 Bachelor’sHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+20 MBAHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+21 JDHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+22 PhDHeadcount . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+5
+--- Page 6 ---
+1 Introduction
+The most important economic question of the next decade will answer how artificial in-
+telligence will impact labor markets. When firms adopt, do they hire fewer workers or
+reorganize and expand? AI can automate tasks that workers previously performed, but
+it can also raise productivity, create new demand, and make complementary work more
+valuable.
+Meanwhile,recentpublicstatementsbycompanyexecutiveshavelinkedlayoffstoAI
+adoption. DevelopersofAIitselfoscillatebetweenwarningofmassjoblossandunprece-
+dentedeconomicwealth.
+Existing research has provided important early evidence on AI’s labor market effects,
+but has largely relied on occupational exposure measures, surveys, or indirect proxies
+for adoption because direct firm-level adoption data have been difficult to obtain. This
+paperstudiesactualadoption: what’shappeninginsideofrealfirms? WelinkRampline-
+item spending data, which identify payments to AI vendors, to Revelio Labs workforce
+records,whichmeasuremonthlyemploymentatthesamefirms.
+WefindAIadoptionisassociatedwithhiringgrowth,especiallyforthefirmsthatuse
+AI a lot. Using AI spend per employee, we find that total headcount is not detectably
+higher for low AI-intensity adopters and is 10.2 percent higher for high AI-intensity
+adoptersoverthefirst24monthsafteradoption. Entry-levelheadcountrises12.0percent
+for high-intensity adopters. High-intensity adopters also expand in AI-exposed work
+suchasengineering,sales,customerservice,andfinance.
+Descriptive evidence shows that adopters are highly selected: they are larger, more
+technical, and faster growing before adoption. The preferred design therefore compares
+adopterstolateradoptersinthesameAI-intensitygroupwhilethoselateradoptershave
+not yet adopted, with sector fixed effects. The post-adoption paths then widen most
+clearly for high-intensity adopters, consistent with a "learning curve" as firms and em-
+ployeesidentifyusecases,establishbestpractices,andintegrateAItoolsintoworkflows.
+6
+--- Page 7 ---
+To our knowledge, this is the first paper to combine observed firm-level AI spending
+with workforce records at scale. It uses a new dataset, grounded in real firm spend, to
+replace messy surveys and exposure measurements. It provides early evidence on how
+firms adopting AI are changing their workforce composition and employment trajecto-
+ries. It provides an early look at how work will change over the next decade. Finally,
+it’s a look into the future: how early adopters of a new technology are changing their
+behavior,andhowthatmayshapeourownjobsinthefuture.
+2 Related Literature
+This paper relates to three literatures: the labor market effects of automation and AI,
+the measurement of firm-level technology adoption, and the econometrics of staggered
+treatmenttiming.
+Automation, AI, and labor demand. The task-based framework of Autor et al. (2003)
+and Acemoglu and Restrepo (2018, 2019) distinguishes between technologies that substi-
+tuteforworkersinroutinetasksandthosethatcomplementworkersinnon-routinetasks.
+GenerativeAIdisruptsthisdistinction. Largelanguagemodelsperformnon-routinecog-
+nitive work—drafting text, writing code, synthesizing information—that prior waves of
+automation left largely unaffected (Eloundou et al., 2024). The theoretical prediction is
+thereforeambiguous,andtheempiricalevidencetodateislimitedinscope.
+Atthemicrolevel,studiesofindividualAIdeploymentsfindproductivitygainswith-
+outcontemporaneousjoblosses. Brynjolfssonetal.(2025)documenta14percentincrease
+inresolutionratesamongcustomer-serviceagentsatasinglefirmfollowingtheintroduc-
+tion of a generative AI assistant. Noy and Zhang (2023) report a 40 percent reduction in
+task completion time for professional writing in an experimental setting. These results
+speak to the intensive margin of AI’s effects within a given firm or task, but they cannot
+addressequilibriumemploymentadjustmentsacrossfirmsandoccupations.
+7
+--- Page 8 ---
+At the aggregate level, Brynjolfsson et al. (2025) provide the most direct evidence to
+date. UsingpayrollrecordsfromADPandoccupationalAIexposurescoresderivedfrom
+Eloundou et al. (2024), they estimate an approximately 16 percent decline in employ-
+mentforworkersages22–25inthehighest-exposureoccupationsfollowingthereleaseof
+ChatGPT. Their identification relies on cross-occupation variation in predicted exposure
+within firms, and the authors note the absence of firm-level adoption data as a primary
+limitation. Our paper addresses this limitation. In a longer historical perspective, Autor
+etal.(2024)documentthatautomationhashistoricallycoincidedwiththecreationofnew
+jobcategoriesthatpartiallyabsorbdisplacedlabor,thoughwhetherthispatternwillhold
+forgenerativeAIremainsanopenquestion.
+Measuring AI adoption. A central challenge in this literature is that researchers have
+lacked direct measures of which firms adopt AI and when. The dominant approach has
+been to construct occupational exposure scores that vary across jobs but not across firms
+or over time. Eloundou et al. (2024) use GPT-4 to evaluate the share of O*NET tasks per-
+formable by large language models. Webb (2020) matches AI patent text to occupational
+task descriptions. Felten et al. (2021) link AI capability benchmarks to occupational abil-
+ity requirements. These indices have been widely used—Brynjolfsson et al. (2025) assign
+treatmentbyexposurequintile,andAcemogluetal.(2022)useAI-relatedjobpostings as
+a proxy for establishment-level adoption—but they share a fundamental limitation: they
+cannotdistinguishafirmthathasadoptedAIfromonethathasnot.
+Massenkoff and McCrory (2026) advance the measurement frontier by constructing
+an index of observed exposure from actual Claude usage data collected through the An-
+thropicEconomicIndex. Theirmeasurecaptureswhichtasksworkersactuallydelegateto
+AI, rather than which tasks AI could theoretically perform, and reveals a substantial gap
+betweenthetwo: only33percentofComputerandMathematicaltasksshowmeaningful
+observedusagedespite94percentbeingtheoreticallyfeasible. Theunitofanalysis,how-
+8
+--- Page 9 ---
+ever, remains the occupation. The measure cannot identify firm-level adoption decisions
+ortheirwithin-firmconsequences.
+The limitations of exposure-based approaches are well documented. Gimbel et al.
+(2026) compare seven exposure metrics and find different measures disagree: computer
+programmers rank in the 99th percentile under one index and the 88th under another.
+The authors argue that relying on any single score misrepresents AI’s likely effects. The
+deeperproblemisthatexposurevariesonlyacrossoccupations,notacrossfirmswithinan
+occupation. Two firms employing identical workers may differ sharply in AI adoption,
+and exposure indices cannot separate them. Despite these limitations, exposure mea-
+sures have persisted in the literature because firm-level AI adoption data have not been
+availableinstandardeconomicdatasets. GenerativeAIisadoptedthroughsoftwaresub-
+scriptions and API calls, not through the highly visible and trackable capital equipment
+purchasesthatallowedresearcherstobenchmarkearliertechnologies.
+Several papers construct firm-level proxies for AI investment, but each is indirect.
+Babina et al. (2024) measure the share of a firm’s workforce with AI-related skills listed
+on their resumes and find that AI-investing firms experience higher sales growth and
+employment growth. Hampole et al. (2025) construct a time-varying, firm-specific AI ex-
+posure measure from patent-to-task similarity and instrument for it using historical uni-
+versity hiring networks. These approaches provide useful variation but do not observe
+theactualspendingdecisionsthatconstituteadoption.
+Corporate payment records offer a more direct measure. Stevens (2026) uses transac-
+tion data from Ramp to study substitution between contracted online labor and genera-
+tiveAI,exploitingChatGPT’sreleaseasashockinadifference-in-differencesframework.
+He finds that firms with high baseline spending on freelance labor marketplaces subse-
+quently adopted AI more intensively while reducing contracted labor spending, with a
+one-dollar decline in online labor spending associated with approximately three cents of
+additional AI spending. This is the first micro-level evidence of direct labor-AI substi-
+9
+--- Page 10 ---
+tution in firm production, but the analysis is limited to a single expenditure margin and
+doesnotexaminebroaderemploymentchanges.
+WebuildonStevens(2026)bycombiningcorporatetransactiondatafromRampwith
+Revelio Labs workforce data. Ramp records every payment a customer makes to AI
+vendors—the amount, timing, and vendor identity. Revelio Labs provides employee-
+level position histories derived from online public profiles, including job titles, O*NET
+codes, seniority, and estimated salaries. Linking these datasets at the firm level allows us
+toobserveboththeadoptiondecisionanditsworkforceconsequences,definingtreatment
+byactualAIspendingratherthanpredictedoccupationalexposure. Weclassifyadoption
+intensity using AI spend per employee over the first three months after adoption begins,
+testing whether employment dynamics differ across firms that adopt AI lightly or inten-
+sivelysoonaftertreatment.
+Econometric framework. Firms in our sample begin paying AI vendors at different
+points between late 2022 and the present, creating a staggered adoption design. A sub-
+stantialrecentliteraturehasshownthatconventionaltwo-wayfixedeffectseventstudies
+can produce biased estimates of dynamic treatment effects when effects are heteroge-
+neousacrossadoptioncohorts(Goodman-Bacon,2021;deChaisemartinandD’Haultfœuille,
+2020; Sun and Abraham, 2021). We therefore use the group-time average treatment effect
+framework of Callaway and Sant’Anna (2021), estimated separately for low- and high-
+intensity adopters relative to later adopters in the same eventual intensity group while
+thosefirmshavenotyetadopted. Thisdesignisbettersuitedtoheterogeneoustreatment
+timing than a single two-way fixed effects event study. Because adoption is selected,
+we treat pre-treatment event-study paths as central diagnostics and report never-treated
+comparisonsasdescriptiveevidenceratherthanthepreferredcounterfactual.
+10
+--- Page 11 ---
+3 Data
+Wecombinetwosourcesoffirm-levelinformation. Rampline-itemspendidentifieswhether
+afirmpaysAIvendors,howmuchitspends,andwhenAIspendingbegins. RevelioLabs
+workforce records provide monthly measures of employment at those same firms. The
+linked panel is observed monthly from January 2021 through February 2026 to reduce
+reporting-lagbiasinworkforcedata.
+3.1 Ramp Business Spend Data
+Rampisafinancialoperationsplatformthatprocessescorporatecardandbillpaytransac-
+tions. Weobserveclearedspendattheline-itemlevel,includingdate,amount,merchant,
+firm identifiers, and line-item detail when available. We aggregate these records to the
+firm-monthlevel.
+Using the Ramp AI Index (Kharazian, 2026), we identify AI spend from Ramp line
+items using a vendor and line-item classification designed to capture spending on foun-
+dationallargelanguagemodels,GPUcloud,modelservingandinference,codingagents,
+APItokens,AIimageandvideogenerators,andAIsearchandresearchsoftware.
+For each firm i, let AI denote monthly spend at AI vendors. We define AI adoption
+it
+as the first month of the earliest three-consecutive-month spell in which AI spend is at
+least $100ineverymonth:
+G = min { t : AI ≥ 100, AI ≥ 100, AI ≥ 100 } .
+i it i,t+1 i,t+2
+Treatment is absorbing after G . Firms that never satisfy this rule are classified as never
+i
+treated. This definition excludes one-off employee experiments and incidental AI pay-
+mentswhilepreservingfirmsthatmakesustained,organization-levelAIpurchases.
+Amongtreatedfirmswithanobservablepre-treatmentwindow,wemeasureadoption
+intensity as monthly AI spend per employee over the first three months after adoption
+11
+--- Page 12 ---
+begins. Thedenominatorisbaselineheadcount,measuredinthemonthbeforeadoption:
+∑2 AI
+PEPM =
+m=0 i,G
+i
++m
+.
+i ×
+3 HC i,G−1
+i
+Eligibletreatedfirmsaresortedby PEPM : LowcombinesthebottomtwoPEPMterciles,
+i
+and High is the top PEPM tercile. The estimator then compares adopters to firms in the
+same eventual intensity group that have not yet adopted by the relevant event time. We
+usenever-treatedfirmsfordescriptivecomparisonsandrobustnesschecks.
+3.2 Benchmarking AI Adoption Rates
+AI adoption is difficult to measure consistently because different data sources capture
+different margins of use. Figure 1 benchmarks the adoption rate in the linked Ramp–
+Revelio analytical panel against public survey estimates. The Ramp–Revelio series is not
+anationallyrepresentativeestimateofinformalAIuse. Itmeasurestheshareofactivein-
+sample firms that have crossed the paper’s sustained paid AI adoption threshold, which
+is closest to a revealed paid-use measure. While our sample likely skews toward tech-
+forward firms and knowledge work, we likely underestimate actual adoption relative to
+findingsinrecentexecutivesurveys.
+The comparison highlights why “AI adoption” does not have a single empirical rate.
+TheU.S.CensusBureau’sbiweeklyBusinessTrendsandOutlookSurvey(BTOS)provides
+a high-frequency, nationally representative business survey (U.S. Census Bureau, 2026b).
+For most of our overlapping period, its AI question asked whether a business used AI
+in producing goods or services; in November 2025, Census broadened the wording to AI
+use in any business function (U.S. Census Bureau, 2026a). Under the revised question,
+Census reports that overall AI usage hovered between 17 and 20 percent from December
+2025 to May 2026 (U.S. Census Bureau, 2026a). In the 2026 BTOS AI supplement, Bonney
+et al. (2026) report that 18 percent of firms, or 32 percent on an employment-weighted
+12
+--- Page 13 ---
+basis,usedAIinatleastonebusinessfunctionduringNovember2025–January2026.
+Figure1: AIAdoptionBenchmarks
+80% Ramp/Revelio sample
+Atlanta Fed SBU estimate
+U.S. Census Estimate
+70% Yotzov et al. (2026) estimate
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2021-07 2022-01 2022-07 2023-01 2023-07 2024-01 2024-07 2025-01 2025-07 2026-01
+Notes. TheRamp–Revelioseriesreportspaid-AIadoptioninthelinkedanalyticalpanel. Pub-
+lic benchmarks come from Census BTOS, executive surveys in Yotzov et al. (2026), and the
+AtlantaFedSurveyofBusinessUncertainty(FederalReserveBankofAtlanta,2026).
+Other survey evidence points to much higher adoption. Yotzov et al. (2026) survey
+senior executives in the United States, United Kingdom, Germany, and Australia and re-
+port that about 69 percent of firms actively use AI. In the U.S. Survey of Business Uncer-
+tainty, fielded by the Federal Reserve Bank of Atlanta, the corresponding U.S. estimate is
+about78 percentin November 2025(Yotzovet al.,2026;FederalReserve Bankof Atlanta,
+2026). TheseestimatesareclosertotheRamp–Reveliopaid-adoptionseriesthanthefirm-
+weighted BTOS benchmark, but they still measure a different object. Executive surveys
+capture broad organizational use and put more weight on respondents with firm-wide
+information; Ramp–Revelio captures adoption that leaves a payment trace among firms
+linkedtoworkforcerecords;BTOSisbroadandnationallyrepresentativebutsensitiveto
+questionwording,firmweighting,andresponseratebias.
+We therefore interpret Ramp AI spend as a revealed-adoption measure for a selected,
+business-spend-active firm population. Its value for this paper is not that it reproduces
+13
+--- Page 14 ---
+every public adoption estimate. Its value is that it observes the timing and intensity of
+firm-level paid AI adoption directly, which is the variation required for our employment
+analysis.
+3.3 Revelio Workforce Data
+Wemeasureemploymentoutcomesusingworker-levelcareerhistoriesfromRevelioLabs.
+Revelio aggregates information from millions of publicly available online professional
+profiles and uses these records to construct longitudinal employment histories for indi-
+vidualworkers.
+Each profile contains information on employers, job titles, employment dates, loca-
+tions, and other career characteristics. By aggregating these worker-level records, we
+constructmonthlymeasuresoffirmemploymentandworkforcecomposition.
+WeuseRevelio’sseven-pointseniorityfieldtodefineentry-levelheadcountassenior-
+ity 1–2, non-entry headcount as seniority 3–7, and manager-plus headcount as seniority
+4–7.
+A key advantage of these data is their granularity. Because employment histories are
+observed at the individual level, the data can be used to measure not only total firm em-
+ploymentbutalsohiring,attrition,occupationalcomposition,workerseniority,andother
+workforcecharacteristicsthataredifficulttoobserveinmanytraditionaldatasources.
+Coverage in online professional profiles varies across workers, occupations, indus-
+tries,andgeographies. Toaddressthesedifferences,Revelioappliesaweightingmethod-
+ologythatadjustsfordifferentialplatformusageandimprovesrepresentativenessacross
+the labor market. Prior validation exercises have shown that weighted Revelio measures
+closely track benchmark labor market statistics, including Revelio Public Labor Statis-
+tics (RPLS) (Revelio Labs, 2026). Similar worker-level employment histories have been
+used extensively in academic research to construct firm-level measures of turnover, hir-
+ing, workforce composition, and employee mobility (Li et al., 2022; Benson and Shaw,
+14
+--- Page 15 ---
+2025;Labaschinetal.,2025).
+Forthisstudy,weaggregateworker-levelemploymentrecordstothefirm-monthlevel
+and use these measures to track changes in employment following AI adoption. We ex-
+amine both total employment and employment within specific occupational groups to
+understandhowworkforcecompositionevolvesafteradoption.
+3.4 Matching and Analytical Sample
+We link Ramp businesses to Revelio companies by exact domain matching. Candidate
+domains come from Ramp customer records, the account-resolution layer, and alias do-
+mains. When multiple Revelio entities share a domain, we choose one match using nor-
+malized name similarity and firm size, then impose two-sided deduplication so each
+Ramp business maps to at most one Revelio company and each Revelio company maps
+toatmostoneRampbusiness.
+Afirmbecomesqualifiedforanalysisonceithasatleastsixconsecutivemonthsofto-
+talRampspendof$5,000ormore. Qualificationisabsorbing. Afirm-monthismarkedin-
+samplewhenthefirmisqualified,current-monthtotalRampspendisatleast$5,000,and
+weight-adjusted headcount is at least five. The estimator uses only firm-month observa-
+tionswiththisin-sampleflagequaltoone,soalltreatmentandcomparisonobservations
+intheestimatingequationscorrespondtoactivequalifiedRamp/Reveliofirm-months.
+Firms are excluded from the main intensity analysis if AI adoption occurs before
+enough Ramp history is observed to form a clean pre-treatment period, or if the first
+three post-adoption months are not yet observed. Operationally, treated firms receive a
+loworhighAI-intensityassignmentonlyif G isatleastthreemonthsafterthefirm’sfirst
+i
+qualifiedmonthand G +2isobservedinthepanel.
+i
+Table1reportsbaselinesummarystatisticsbytreatmentgroupforthefinalestimating
+sample.
+15
+--- Page 16 ---
+Table1: SampleSummarybyAIIntensity
+AIIntensity
+Never Low High
+Numberoffirms 15,926 3,969 1,664
+∗∗∗ ∗∗∗
+Headcount(mean) 103.9 193.4 26.7
+∗∗∗ ∗∗∗
+Headcount,Engineering(mean) 20.6 52.8 7.7
+∗∗ ∗∗∗
+Headcount,Entry-Level(mean) 65.5 100.0 9.9
+HeadcountGrowth,YoY(median%) +1.6 +5.4 +8.9
+∗∗∗ ∗∗∗
+MeanSalary($) 93,847 103,916 125,683
+∗∗∗ ∗∗∗
+Tech-AdjacentShare(%) 25.9 50.2 63.8
+MonthlyAISpendperEmployee($) – 2.78 33.67
+MonthsPost-Treatment(mean) – 14.7 13.4
+Notes: Treated firms are measured in the month before sustained AI adoption; never-treated firms
+are measured in December 2024. Low contains the bottom two terciles of monthly AI spend per
+−
+employee,andHighcontainsthetoptercile,usingbaselineheadcountfromg 1asthedenominator.
+i
+Headcount growth is the median 12-month percent change ending at baseline. Tech-adjacent firms
+areinInformation,FinanceandInsurance,orProfessional,Scientific,andTechnicalServices. Starson
+∗ ∗∗ ∗∗∗
+meanrowsreportWelch’st-testagainsttheNevercolumn: p <0.10, p <0.05, p <0.01.
+4 What Drives AI Adoption?
+AI adoption is highly selected across firms. Before describing our methodology, we first
+describewhichfirmsadoptAIinthelinkedRamp–Reveliopanel. Thisexerciseisdescrip-
+tive rather than causal: the goal is to characterize the firms that select into adoption, and
+tomaketransparentthebaselinedifferencesthatmotivateourpreferredspecificationand
+takeaways.
+For this descriptive section, we use our main analytical sample. Treated firms are
+observed in the month immediately before AI adoption, and never-treated firms are ob-
+servedinDecember2024. Table2collapsesthetreatedfirmsintoasingleadoptergroup.
+Adopters are more technical, higher-paying, and more likely to be venture-backed.
+Categorizing firms by AI intensity reveals further differences. For example, small firms
+are less likely to adopt AI, but when they do, they adopt it more intensely. They are also
+more concentrated in tech-adjacent sectors and have higher mean salaries. These differ-
+ences are useful economically, but they also make clear why a simple adopter-versus-
+16
+--- Page 17 ---
+never-adoptercomparisonisnotenoughforthemaincausaldesign.
+Table2: AdopterCharacteristics
+Nevertreated AIadopters Difference
+Numberoffirms 15,926 5,633 –
+Headcount,mean 103.9 144.2 +40.3
+Headcount,median 26.8 46.8 +20.0
+Headcountgrowth,YoY(median%) 1.6 6.0 +4.4
+Meansalary($) 93,847 110,346 +16,499
+Engineeringshare(%) 18.6 26.8 +8.2
+Entry-levelshare(%) 50.4 42.1 -8.3
+Adminshare(%) 16.8 11.9 -5.0
+Salesshare(%) 25.6 24.2 -1.4
+Tech-adjacentsectorshare(%) 25.9 54.2 +28.3
+VC-backedshare(%) 9.5 34.0 +24.5
+PE-backedshare(%) 6.0 9.4 +3.4
+Notes: AIadopterfirmsaremeasuredinthemonthbeforesustainedAIadoption;never-treatedfirms
+aremeasuredinDecember2024.
+Sectorcompositionisoneoftheclearestpredictorsofadoption. Figure2showsthatAI
+adoptionmeasuredasofDecember2025ishighestinInformation,FinanceandInsurance,
+and Professional, Scientific, and Technical Services. It is much lower in construction,
+healthcare,otherservices,artsandentertainment,andaccommodationandfoodservices.
+Thesedifferencesalignwithatask-basedinterpretationofearlyAIdemand: firmswhose
+workforces are more concentrated in software, analytical, professional, and information-
+processingworkaremorelikelytofindimmediateusesforgenerativeAItools.
+Firmscaleandengineeringintensityalsopredictadoption. InFigure3,thesustained-
+adoptionraterisesfrom12percentamongfirmsbelow10workerstoabout41–43percent
+among firms above 250 workers. We observe high levels of adoption at firms without an
+engineering presence too, but adoption is much more common when a firm has a techni-
+cal workforce. Firms with no measured engineering headcount adopt at a rate of about
+9 percent; adoption rises with engineering share and peaks near 36 percent among firms
+where engineers represent 30–50 percent of employment. At higher shares, AI adoption
+falls slightly. Our best guess is that AI adoption is especially common among mixed
+17
+--- Page 18 ---
+Figure2: AIAdoptionbySector
+Information 53.7%
+Finance and Insurance 43.6%
+Professional, Scientific, and Technical Services 36.0%
+Management of Companies and Enterprises 26.1%
+Real Estate and Rental and Leasing 24.7%
+Administrative and Support 22.8%
+Manufacturing 22.8%
+Transportation and Warehousing 22.5%
+Retail Trade 21.7%
+Utilities 20.7%
+Educational Services 19.8%
+Wholesale Trade 19.1%
+Mining, Quarrying, and Oil and Gas Extraction 17.6%
+Agriculture, Forestry, Fishing and Hunting 17.3%
+Construction 15.1%
+Health Care and Social Assistance 14.3%
+Other Services (except Public Administration) 13.3%
+Accommodation and Food Services 11.5%
+Arts, Entertainment, and Recreation 11.3%
+0 10 20 30 40 50 60
+AI adoption as of December 2025 (percent of firms)
+Notes. The sample is the firm-level baseline sample used in Table 2; sectors with fewer than
+100firmsareomitted. AdoptionismeasuredasofDecember2025.
+workforceswithenoughtechnicalcapacitytoevaluateandintegrateAItools,butenough
+non-engineeringworktodriveexperimentationanddiffusionacrossfunctions.
+Figure3: AIAdoptionbySizeandEngineeringShare
+50
+40
+30
+20
+10
+0
+<10 10-49 50-99 100-249 250-999 1000+
+Headcount
+)%(
+etar
+noitpodA
+AI adopters tend to be larger...
+50
+41.5
+40.0
+38.6
+40
+30.9
+30
+23.8
+20
+14.3
+10
+0
+0 0-5 5-15 15-30 30-50 50+
+Engineering share (%)
+)%(
+etar
+noitpodA
+...and more engineering heavy
+38.5
+34.8
+32.9
+27.1
+21.2
+11.8
+Notes. Thesampleisthefirm-levelbaselinesampleusedinTable2.
+18
+--- Page 19 ---
+4.1 Pre-Adoption Growth and the Preferred Comparison
+These selection patterns show up directly in employment trajectories. Figure 4 compares
+indexed total headcount for AI adopters and calendar-matched never-adopters over the
+full event window. The series are already separated before adoption: adopters are on a
+fastergrowthpath,whilenever-adoptersarecomparativelyflat. Adesignthatusesnever-
+adopters as the counterfactual would therefore confound AI adoption with pre-existing
+differencesinfirmgrowth.
+Figure4: IndexedHeadcountandPre-Trends: AIAdoptersvs. NeverAdopters
+120
+115
+110
+105
+100
+95
+−12 −6 0 6 12 18 24
+Months relative to AI adoption
+)001
+=
+1-(
+xedni
+tnuocdaeh
+latoT
+AI adopters
+Calendar-matched never adopters
+Notes. The figure plots mean total headcount for sustained adopters and calendar-matched
+never-adopterfirms. Foreachadoptioncohort,bothseriesareindexedto100ineventmonth
+−
+1andthenaveragedacrosscohortsusingtreatedcohortfirmcountsasweights.
+The preferred specification therefore uses later adopters as controls while they are
+not yet treated. Figure 5 shows the corresponding indexed total-headcount paths for all
+adoptersandforlateradoptersthathavenotyetadoptedinthematchedcalendarmonth,
+normalized to 100 in the month before adoption. In the pre-treatment window, the two
+series track closely. This alignment supports the parallel-trends assumption needed for
+the Callaway–Sant’Anna design: the comparison is between earlier and later adopters,
+notbetweenadoptersandfirmsthatneveradopt.
+19
+--- Page 20 ---
+Figure5: IndexedHeadcountandPre-Trends: AIAdoptersvs. Not-YetAdopters
+120
+115
+110
+105
+100
+95
+−12 −6 0 6 12 18 24
+Months relative to AI adoption
+)001
+=
+1-(
+xedni
+tnuocdaeh
+latoT
+AI adopters
+Calendar-matched not-yet adopters
+Notes. The figure plots mean total headcount for sustained adopters and later adopters that
+have not yet adopted in the matched calendar month. For each adoption cohort, both series
+−
+areindexedto100ineventmonth 1andthenaveragedacrosscohortsusingtreatedcohort
+firmcountsasweights.
+The takeaway from this section is that AI adoption is highly selected, and that selec-
+tion is visible before treatment when adopters are compared with never-adopters. Later
+adopters provide a more appropriate comparison because their pre-adoption headcount
+pathsaremuchmorecloselyaligned. Themethodologyandresultsbelowthereforeplace
+greatest weight on the not-yet-treated design, estimated within eventual AI-intensity
+group and with sector fixed effects. Never-treated firms remain useful for describing
+who adopts AI and for showing how adopters differ from permanent non-adopters, but
+theyarenotthepreferredcounterfactual.
+5 Empirical Methodology
+We estimate the relationship between firm-level AI adoption and employment using the
+staggered-adoptiondifference-in-differencesframeworkofCallawayandSant’Anna(2021).
+The unit of observation is a firm-month. For firm i, let G denote the first month of sus-
+i
+20
+--- Page 21 ---
+tained AI adoption, defined as the first month in the earliest three-month spell in which
+the firm records at least $100 of AI vendor spend in each month. Treatment is absorb-
+ing after G . Estimation is conducted on active, qualified Ramp firm-months matched to
+i
+Revelioworkforcerecords.
+5.1 Treatment Intensity
+We classify treated firms into low and high groups of early AI adoption intensity. For
+treated firm i, intensity is measured as monthly AI vendor spend per employee over the
+firstthreemonthsaftersustainedadoptionbegins:
+∑2 AI
+PEPM =
+m=0 i,G
+i
++m
+,
+i ×
+3 HC i,G−1
+i
+where AI it is AI vendor spend and HC i,G−1 is baseline headcount in the month before
+i
+adoption. Low combines the bottom two terciles of PEPM , and High is the top tercile
+i
+among treated firms with at least three months between first Ramp qualification and AI
+adoption,apositivebaselineheadcountdenominator,andallthreepost-adoptionmonths
+observed.
+We tested several metrics to determine AI intensity, including total spend, share of
+totalspend,numberofAIvendorsused,andothers. WeselectedthePEPM-basedmetric
+for three reasons. First, it correlated closely to adoption of more complex AI products
+and tools, like coding agents and APIs, as opposed to simpler chat enterprise subscrip-
+tions. Second, it allowed us to definite intensity close to treatment timing rather than
+usingthefullrealizedpost-treatmentspendingpath(wefoundthefirstthreemonthscor-
+related closely to realized spending two years out). Third, using baseline headcount in
+thedenominatorkeepstheemployeescalepredeterminedrelativetoadoptionandmakes
+intensitycomparablebetweenfirmswithverydifferentheadcountlevels.
+21
+--- Page 22 ---
+5.2 Estimator and Identification
+In Section 4, we showed that never-adopter firms differ sharply from eventual adopters
+beforeadoption. Wethereforecompareadopterstolateradopterswhilethoselateradopters
+have not yet adopted. To keep the comparison local to firms with similar eventual AI
+spending intensity, we estimate each intensity group separately: Low adopters are com-
+pared to later adopters whose eventual intensity group is Low while they are not yet
+treated, and High adopters are compared analogously to later adopters whose eventual
+intensitygroupisHigh.
+For outcome Y , treatment cohort g, calendar month t, and intensity group k, the
+it
+group-timeaveragetreatmenteffectis
+ATT (g,t) = E[Y (g)− Y (0) | G = g, i ∈ k],
+k it it i
+where Y (g) is the potential outcome for firm i in month t if first treated in month g,
+it
+and Y (0) is the potential outcome if the firm remains untreated through month t. In
+it
+the preferred not-yet-treated design, Y (0) is identified using firms in the same eventual
+it
+intensitygroupwhoseownadoptionmonthislaterthan t.
+The identifying assumption is conditional parallel trends within eventual intensity
+group: absent earlier AI adoption, treated firms in a given cohort and intensity group
+would have followed the same employment trajectory as later adopters in the same in-
+tensity group after accounting for broad sector composition. The event-study estimates
+aggregate group-time effects by relative month e = t − g over the window e ∈ [− 12,24].
+The main scalar estimate in the results tables is the simple post-treatment aggregate ATT
+acrosspost-adoptionmonthsinthiswindow.
+Our preferred specification includes NAICS sector fixed effects and no other con-
+trols. Sector adjustment addresses the most transparent source of selection into early
+AI adoption: adopters are disproportionately concentrated in information, finance, and
+22
+--- Page 23 ---
+professional services. We do not include additional growth or firm-level controls in the
+preferred specification because earlier specifications showed little improvement in pre-
+treatmentdiagnosticsafteraddingthem.
+5.3 Outcomes and Diagnostics
+For total headcount, the dependent variable is log headcount. For role, education, and
+entry-level outcomes, we use log(1+Y ), which preserves firm-months with zero em-
+it
+ployment in a category. Estimates are reported in log points; they can be read approxi-
+matelyaspercentchanges.
+The paper outcomes are total headcount, total entry-level headcount, engineering,
+entry-level engineering, sales, marketing, administrative, finance, scientist, operations,
+customerservice,bachelor’s-degree,MBA,JD,andPhDheadcount.
+We also estimate workforce-composition outcomes as shares of total firm headcount:
+entry-level,engineering,entry-levelengineering,sales,administrative,marketing,finance,
+scientist,operations,customerservice,bachelor’s-degree,MBA,JD,andPhDshares. These
+outcomes help distinguish broad employment growth from changes in the composition
+oftheworkforce.
+We assess pre-treatment fit using universal-base event-study coefficients for e < 0,
+anchored at the month immediately before adoption. These pre-period estimates are our
+main diagnostic for conditional parallel trends. The e = − 1 period is normalized to zero,
+so pre-period flag counts use event times e = − 12 through e = − 2. Pre-period flags are
+loworzeroacrossmostoutcomes,providingconfidenceforourpreferredspecification.
+5.4 Comparison-Group Checks
+We also report descriptive and robustness evidence using never-adopter firms. These
+comparisonsareusefulforshowingthatAIadoptersdifferfrompermanentnon-adopters,
+23
+--- Page 24 ---
+but we do not treat them as the preferred comparison given their divergent pre-trends.
+Themainanalysisthereforeplacesgreatestweightonthenot-yet-treated,within-intensity
+estimates,whileusingnever-adoptingcomparisonstocharacterizeselectionandthebroader
+adopter/non-adoptercontrast.
+6 Results
+6.1 High-Intensity AI Adopters Grew Headcount by Ten Percent
+Table 3 reports the preferred estimates over the first 24 months after sustained AI adop-
+tion. Each column compares adopters in a low- or high-AI intensity group to firms in
+the same eventual intensity group that have not yet adopted. All specifications include
+NAICSsectorfixedeffects. Figure6showsthetotal-headcountresultvisually.
+High-intensity AI adopters expand employment following AI adoption. The coeffi-
+cient on High vs. Not-yet for total headcount is 0.097, meaning high-AI intensity firms
+−
+grewheadcount10.2percentinthetwoyearsafteradoption. TheLowestimateis 0.006,
+or-0.6percent,andisnotstatisticallysignificant. Pre-perioddiagnosticsarecleanforLow,
+with0of11flaggedpre-periods,butlesscleanforHigh,with3of11flaggedpre-periods.
+The headline result therefore shows that not all firms show the same gains from AI.
+Low-AIadoptersdidnotincreasetotalheadcount,didnotincreaseentry-levelheadcount,
+anddidnotshowthebroadfunctionalexpansionobservedamonghigh-PEPMadopters.
+In Table 1, Low adopters average $2.78 per employee per month in first-three-month AI
+spend, while High adopters average $33.67. The gains appear only among firms that
+make sustained, material investments, likely going beyond simple chat subscriptions to
+moreadvancedcodingagents,APIusage,andadoptionofmultiplemodelsorvendors.
+24
+--- Page 25 ---
+Table3: HeadcountbyAIIntensity
+AverageATT Pre-periodflags
+(months0–24) (lowerisbetter)
+Outcome Lowvs. Not-yet Highvs. Not-yet Low High
+HeadlineOutcomes
+− ∗∗∗
+Totalheadcount 0.006 0.097 0/11 3/11
+(0.016) (0.022)
+− ∗∗∗
+Totalentry-levelheadcount 0.017 0.113 0/11 2/11
+(0.018) (0.030)
+∗∗∗
+Non-entryheadcount 0.004 0.074 0/11 1/11
+(0.016) (0.023)
+∗∗∗
+Manager-plusheadcount 0.010 0.065 0/11 0/11
+(0.015) (0.020)
+JobCategoryOutcomes
+− ∗∗
+Engineeringheadcount 0.004 0.070 1/11 1/11
+(0.023) (0.031)
+− ∗∗
+Entry-levelengineeringheadcount 0.012 0.061 0/11 0/11
+(0.023) (0.026)
+− ∗∗∗
+Salesheadcount 0.005 0.098 1/11 0/11
+(0.017) (0.027)
+∗
+Marketingheadcount 0.014 0.055 0/11 3/11
+(0.018) (0.029)
+− ∗∗∗
+Adminheadcount 0.001 0.075 0/11 1/11
+(0.019) (0.021)
+− ∗
+Financeheadcount 0.012 0.045 0/11 0/11
+(0.018) (0.024)
+∗ ∗∗∗
+Scientistheadcount 0.032 0.054 0/11 0/11
+(0.018) (0.017)
+Operationsheadcount 0.000 0.022 0/11 0/11
+(0.016) (0.021)
+− ∗∗
+Customerserviceheadcount 0.020 0.061 0/11 0/11
+(0.019) (0.025)
+EducationOutcomes
+∗∗∗
+Bachelorsheadcount 0.010 0.098 0/11 4/11
+(0.017) (0.026)
+∗∗
+MBAheadcount 0.017 0.049 0/11 5/11
+(0.017) (0.021)
+JDheadcount 0.008 0.012 0/11 4/11
+(0.010) (0.011)
+∗∗∗
+PhDheadcount 0.040 0.024 2/11 0/11
+(0.014) (0.015)
+Notes: Eachcolumncomparesonelow-orhigh-intensityAIadoptiongrouptofirmsinthesamefirst-three-monthPEPMin-
+tensitygroupthathavenotyetadoptedbythateventtime. LowcontainsthebottomtwoPEPMterciles,whileHighcontains
+thetopPEPMtercile. TheCallaway–Sant’AnnadoublyrobustestimatorisrunonactivequalifiedRamp/Reveliofirm-months
+andincludesNAICSsectorfixedeffects.Standarderrorsareinparentheses.Pre-periodflagsuseuniversal-baseCSdiagnostics
+andcountnon-normalizedpre-treatmenteventtimese=−12throughe=−2whosepointwise95percentconfidenceintervals
+excludezero;e=−1isthenormalizedbaseperiod.Coefficientsarelogpointsfortotalheadcountandlog(1+y)pointsforrole,
+education,seniority,andentry-leveloutcomes.Starsdenote ∗ p<0.10, ∗∗ p<0.05,and ∗∗∗ p<0.01.
+25
+--- Page 26 ---
+6.2 High-Intensity Employment Gains Compounded Over Time
+Thetotal-headcounteventstudyshowsthathigh-intensityemploymentgainsmayfollow
+a learning curve in firms’ use of AI. In Figure 6, the high-intensity coefficient is 0.003 in
+theadoptionmonthand0.020threemonthsafteradoption. Itthenrisesto0.071bymonth
+6, 0.188 by month 12, and 0.277 by month 18. The high-intensity ATT reaches 0.277 log
+points by month 18, about 32 percent; the month-24 ATT is larger, 0.452 log points, about
+57percent,butcomesfromthelateevent-studywindowwithwiderconfidenceintervals.
+Theearliestsignsofgrowthemergeroughly6-12monthsafteradoption,perhapsafter
+firmsestablishbestpractices,integrateAItoolsintoworkflows,andaresubsequentlyable
+to make new investments and hire staff. Later post-adoption estimates continue to rise,
+though the late-window confidence intervals are wider as fewer firms are observed that
+farafteradoption.
+6.3 Entry-LevelEmploymentAlsoRoseAmongHigh-IntensityAdopters
+Entry-level employment also rises among high-intensity adopters. In Table 3, the high-
+intensity coefficient for entry-level headcount is 0.113, or a 12.0 percent increase after
+adoption, and statistically significant at the 1 percent level. Low-intensity adopters do
+not show a statistically significant change in entry-level headcount. Figure 7 shows the
+entry-levelresultvisually. TheseestimatescountertheviewthatintensiveAIadoptionis
+alreadyreducingjunioremploymentatadoptingfirms.
+Table 4 reports the preferred design for workforce-composition shares. These esti-
+matesaskwhetherAIadoptionchangesthemixofworkersinsidefirms,ratherthanfirm
+scale. Entry-levelsharefallsby0.52percentagepointsforLowadoptersandrisesby1.15
+percentagepointsforHighadopters. Becausenon-entryisthecomplementofentry-level,
+its share moves mechanically in the opposite direction. Manager-plus share rises by 0.66
+percentagepointsforLowadoptersandfallsby1.52percentagepointsforHighadopters.
+26
+--- Page 27 ---
+The entry-level result is our earliest evidence that high-intensity adopters end up hir-
+ing different kinds of employees. Entry-level headcount expands enough relative to the
+restofthefirmthatentry-levelworkersmakeupahighershareofemploymentattheend
+ofthe24-monthanalysisperiod.
+27
+--- Page 28 ---
+Table4: WorkforceSharesbyAIIntensity
+AverageATT Pre-periodflags
+(months0–24) (lowerisbetter)
+Outcome Lowvs. Not-yet Highvs. Not-yet Low High
+HeadlineOutcomes
+− ∗∗ ∗∗
+Entry-levelshare 0.520 1.147 0/11 0/11
+(0.262) (0.579)
+∗ − ∗
+Non-entryshare 0.522 1.142 0/11 0/11
+(0.287) (0.591)
+∗∗ − ∗∗
+Manager-plusshare 0.655 1.517 0/11 0/11
+(0.269) (0.617)
+JobCategoryOutcomes
+− −
+Engineeringshare 0.169 0.552 1/11 0/11
+(0.331) (0.611)
+−
+Entry-levelengineeringshare 0.218 0.015 0/11 0/11
+(0.214) (0.386)
+−
+Salesshare 0.034 0.286 0/11 1/11
+(0.249) (0.532)
+−
+Marketingshare 0.258 0.358 0/11 0/11
+(0.289) (0.523)
+−
+Adminshare 0.140 0.401 1/11 0/11
+(0.149) (0.316)
+−
+Financeshare 0.219 0.052 1/11 0/11
+(0.198) (0.389)
+∗∗
+Scientistshare 0.325 0.280 0/11 0/11
+(0.143) (0.287)
+− −
+Operationsshare 0.021 0.109 2/11 0/11
+(0.103) (0.234)
+− ∗∗ ∗
+Customerserviceshare 0.274 0.501 1/11 3/11
+(0.137) (0.268)
+EducationOutcomes
+∗∗∗
+Bachelorsshare 0.762 0.380 1/11 0/11
+(0.285) (0.564)
+∗∗ −
+MBAshare 0.207 0.033 0/11 2/11
+(0.100) (0.256)
+JDshare 0.039 0.091 0/11 0/11
+(0.041) (0.118)
+∗
+PhDshare 0.197 0.311 2/11 0/11
+(0.103) (0.209)
+Notes: Shareoutcomesdividerole,seniority,entry-level,oreducation-groupheadcountbytotalfirmheadcountinthesame
+month;totalheadcountshareisomittedbecauseitismechanicallyone.Coefficientsandstandarderrorsarereportedinpercent-
+agepoints. Eachcolumncomparesonelow-orhigh-intensityAIadoptiongrouptofirmsinthesamefirst-three-monthPEPM
+intensitygroupthathavenotyetadoptedbythateventtime,usingthepreferredsector-adjustedCSspecification.Lowcontains
+thebottomtwoPEPMterciles,whileHighcontainsthetopPEPMtercile.Pre-periodflagsuseuniversal-baseCSdiagnosticsand
+counteventtimese = −12throughe = −2;e = −1isthenormalizedbaseperiod. Starsdenote ∗ p < 0.10, ∗∗ p < 0.05,and
+∗∗∗ p<0.01.
+28
+--- Page 29 ---
+6.4 Employment Gains Were Broad Across Roles
+Table3alsoshowsthatgrowthisbroadacrossjobfunctions. High-intensityadoptershave
+10.3 percent higher sales headcount, 7.8 percent higher administrative headcount, 7.3
+percent higher engineering headcount, 6.3 percent higher entry-level engineering head-
+count, 6.3 percent higher customer-service headcount, and 5.6 percent higher scientist
+headcount. Finance headcount rises by 4.6 percent and marketing headcount rises by
+5.7 percent, with both estimates marginally significant; marketing also has weaker pre-
+period diagnostics than most other high-intensity role estimates. Operations is the only
+jobcategoryinwhichhigh-intensityfirmsdidnotgrowheadcount.
+Low-intensity adopters show mixed or minimal gains across roles. The few nega-
+tive low-intensity estimates are small and not statistically significant. Finance headcount
+falls by 1.2 percent and customer-service headcount falls by 2.0 percent for low-intensity
+adopters. The positive low-intensity estimates are narrow: scientist headcount rises by
+3.2percentatthe10percentlevel,andPhDheadcountrisesby4.1percent.
+Education outcomes point in the same direction as the occupational results, but with
+more diagnostic caution. Bachelor’s headcount rises by 10.3 percent and MBA head-
+countrisesby5.0percentforhigh-intensityadopters,thoughbothoutcomeshaveseveral
+flagged pre-periods. JD headcount is essentially unchanged. PhD headcount is positive
+butnotstatisticallysignificantinthehigh-intensitygroup.
+Ourbestinterpretationisthathigh-intensityadoptersareexpandingfirmscaleacross
+multiple functions, with the clearest average gains in total headcount, entry-level head-
+count, sales, administration, engineering, customer service, and bachelor’s-degree work-
+ers. There does not appear to be a strong correlation between a function’s perceived AI
+exposureanditsincreaseordecreaseinheadcount.
+29
+--- Page 30 ---
+6.5 Early Employment Gains Are Concentrated in Information Firms
+Table5reportstheresultsofourpreferredspecificationseparatelybybroadsector.
+ThegainsfromAIadoptionareunevenlydistributedacrosssectors. Wefindthatthese
+gains are concentrated in Information and, at present, are statistically significant only
+in that sector group, which includes many software, internet, and media firms. High-
+intensity adopters in Information grow total headcount by 0.126, or about 13.4 percent,
+with no flagged pre-periods. The Low estimate in Information is small, negative, and
+not statistically significant. Professional and technical services also has a positive high-
+intensity estimate, but it is smaller and not statistically significant. The remaining sector
+groupsareclosetozero,imprecise,orboth.
+The result is consistent with our expectations given the uneven distribution of AI
+adoption. AI adoption is already uniquely concentrated in Information, and the most
+commercially mature AI gains appear clearest in coding-agent and software-engineering
+workflows. Forsoftwareandtechnologyfirms,AIcanmakecoreoutputcheaperorfaster
+to produce: writing code, debugging, building internal tools, producing technical docu-
+mentation,andsupportingproductdevelopment. Lowerproductioncostsinthesework-
+flowscanraisethereturntoexpandingthewholefirm,notjusttheengineeringteam.
+ThesectorevidenceshouldnotbeconstruedtosuggestthatAIisonlymeaningfulfor
+techfirmsorthatotherindustrieswillnevershowgains. ItisstillearlyintheAIadoption
+curve. AI use cases may diffuse more slowly outside software and media, especially
+where deployment requires workflow redesign and in non-technical sectors where AI
+vendors have yet to find product-market fit. We intend to update these estimates with
+futureadoptioncohortsandlongerpost-adoptionwindowsbeyondtheinitial24months
+totrackdevelopmentsacrosssectors.
+30
+--- Page 31 ---
+Table5: HeadcountbySector
+AverageATT Pre-periodflags
+(months0–24) (lowerisbetter)
+Sectorgroup Lowvs.Not-yet Highvs.Not-yet Low High
+Information −0.028 0.126 ∗∗ 0/11 0/11
+(0.044) (0.058)
+Professionalandtechnicalservices −0.036 0.069 0/11 3/11
+(0.028) (0.049)
+Financeandinsurance 0.058 −0.030 0/11 0/11
+(0.078) (0.080)
+Industrial,trade,logistics,andresources 0.008 −0.005 0/11 0/11
+(0.024) (0.044)
+Health,education,andpublicservices −0.055 0.052 0/11 3/11
+(0.042) (0.144)
+Consumer,administrative,realestate,andotherservices 0.015 −0.012 0/11 0/11
+(0.029) (0.041)
+Notes: Each row estimates the preferred total-headcount Callaway–Sant’Anna design within the
+listedbroadNAICS-sectorgroup. Columnscomparelow-andhigh-intensityfirst-three-monthPEPM
+adopterswithnot-yet-treatedfirmsinthesamePEPMintensitygroupandsectorgroup. Lowcontains
+thebottomtwoPEPMterciles,whileHighcontainsthetopPEPMtercile. Specificationsincludeavail-
+ableNAICSsectorfixedeffectsandnoadditionalcontrols. Standarderrorsareinparentheses. Dashes
+indicatecellswithoutenoughtreatedorcomparison-firmsupportaftersectorstratification. Pre-period
+flagsuseuniversal-baseCSdiagnosticsandcounteventtimese = − 12throughe = − 2whosepoint-
+wise95percentconfidenceintervalsexcludezero;e = − 1isthenormalizedbaseperiod. Starsdenote
+∗ ∗∗ ∗∗∗
+p <0.10, p <0.05,and p <0.01.
+6.6 Gains Are Even Higher Against Never-Adopters
+Table6reportsthesameintensitydesignagainstnever-treatedfirms. Thetotal-headcount
+estimatesarelargerthaninthepreferrednot-yet-treatedspecificationandhigherforHigh
+than for Low. The ATT is 0.063 for low-intensity adopters and 0.118 for high-intensity
+adopters,implyingheadcountgainsofabout6.5percentand12.6percent,respectively.
+These estimates should be interpreted cautiously. Adopters were already growing at
+a faster rate relative to never-adopters: total-headcount pre-period flags are 11 of 11 for
+low intensity and 8 of 11 for high intensity. We therefore include this specification for
+completenessratherthanasthepreferreddesign.
+31
+--- Page 32 ---
+Table6: Never-TreatedbyAIIntensity
+AverageATT Pre-periodflags
+(months0–24) (lowerisbetter)
+Outcome Lowvs. Never Highvs. Never Low High
+HeadlineOutcomes
+∗∗∗ ∗∗∗
+Totalheadcount 0.063 0.118 11/11 8/11
+(0.011) (0.015)
+∗∗∗ ∗∗∗
+Totalentry-levelheadcount 0.043 0.109 11/11 0/11
+(0.012) (0.017)
+∗∗∗ ∗∗∗
+Non-entryheadcount 0.072 0.103 11/11 9/11
+(0.009) (0.015)
+∗∗∗ ∗∗∗
+Manager-plusheadcount 0.069 0.093 11/11 10/11
+(0.009) (0.014)
+JobCategoryOutcomes
+∗∗∗ ∗∗∗
+Engineeringheadcount 0.091 0.130 11/11 11/11
+(0.013) (0.018)
+∗∗∗ ∗∗∗
+Entry-levelengineeringheadcount 0.052 0.090 11/11 6/11
+(0.013) (0.016)
+∗∗∗ ∗∗∗
+Salesheadcount 0.081 0.122 11/11 5/11
+(0.012) (0.015)
+∗∗∗ ∗∗∗
+Marketingheadcount 0.052 0.061 11/11 10/11
+(0.011) (0.016)
+∗∗∗ ∗∗∗
+Adminheadcount 0.051 0.088 11/11 3/11
+(0.013) (0.015)
+∗∗∗ ∗∗∗
+Financeheadcount 0.043 0.042 10/11 0/11
+(0.010) (0.014)
+∗∗∗ ∗∗∗
+Scientistheadcount 0.055 0.064 11/11 5/11
+(0.010) (0.011)
+∗∗∗ ∗∗
+Operationsheadcount 0.034 0.029 9/11 0/11
+(0.008) (0.011)
+∗∗∗ ∗∗∗
+Customerserviceheadcount 0.061 0.099 10/11 1/11
+(0.012) (0.014)
+EducationOutcomes
+∗∗∗ ∗∗∗
+Bachelorsheadcount 0.071 0.120 11/11 9/11
+(0.010) (0.017)
+∗∗∗ ∗∗∗
+MBAheadcount 0.050 0.045 11/11 5/11
+(0.010) (0.012)
+JDheadcount 0.005 0.006 0/11 4/11
+(0.006) (0.007)
+∗∗∗ ∗∗∗
+PhDheadcount 0.030 0.046 10/11 5/11
+(0.008) (0.010)
+Notes: Each column compares one low- or high-intensity first-three-month PEPM adopter group with the common
+never-treatedcomparisongroup.LowcontainsthebottomtwoPEPMterciles,whileHighcontainsthetopPEPMtercile.
+ThespecificationincludesNAICSsectorfixedeffectsandnoadditionalcontrols. Standarderrorsareinparentheses.
+Pre-periodflagsuseuniversal-baseCSdiagnosticsandcounteventtimese = −12throughe = −2whosepointwise
+95 percent confidence intervals exclude zero; e = −1 is the normalized base period. Coefficients are log points for
+totalheadcountandlog(1+y)pointsforrole,education,seniority,andentry-leveloutcomes. Starsdenote ∗ p < 0.10,
+∗∗ p<0.05,and ∗∗∗ p<0.01.
+32
+--- Page 33 ---
+7 Conclusion
+ThispaperfindsthatAIadoptionisassociatedwithhigheremployment,especiallyamong
+high-intensity adopters. The preferred results show no evidence that AI adoption is pro-
+ducing layoffs. Instead, firms that make sustained and intensive AI investments expand
+employment faster than otherwise comparable firms. The gains are visible in total head-
+count, entry-level work, and AI-exposed functions such as engineering, sales, customer
+service, and finance. The pattern across intensity groups strengthens our interpretation;
+thefirmsusingAImoreintensivelyarethefirmswiththelargestemploymentgains.
+Theseresultsalsoraiseimportantquestionsforthedevelopersofthistechnologyand
+forpolicymakers.
+First,thegainsareconcentrated. Theclearestsector-levelemploymentgainsareinIn-
+formation,thesectorthatincludesmanysoftware,internet,media,andtechnologyfirms.
+ThesefirmsarealreadymorelikelytoadoptAI,andtheyalsoappeartobethefirstfirms
+translating AI adoption into measurable employment growth. Other sectors lag both in
+adoption and in observed hiring gains. That does not mean AI is irrelevant outside of
+tech. It means that the realized jobs gains are, at this stage, concentrated where the tech-
+nology,organizationalcapacity,andcommercialusecasesaremostdeveloped.
+Second,theresultsraiseaproductissue. IfthelargestgainsareconcentratedinInfor-
+mation, then the next frontier is not simply better models. To realize the broad economic
+promises of AI, developers need to build tools for firms whose work is not organized
+aroundcodeandwhoseusersarelesstechnicalas-is.
+Third, the results raise a policy question. AI adoption requires resources, manage-
+rial attention, technical capacity, and credible channels for learning. Firms with venture
+backing,foundernetworks,orotheradoptionchannelsmaybebetterpositionedtomake
+thoseinvestments. Firmswithoutthosechannelsmayfallbehind. Whatroleshouldgov-
+ernmentplayinhelpingfirmsmakedurable,productivity-enhancinginvestments?
+Fourth, the estimates point to a threshold and a learning curve. Enterprise chat sub-
+33
+--- Page 34 ---
+scriptionsdonotappeartobeenoughtodrivegains. Norareafewmonthsofexperimen-
+talspending. Thisisconsistentwithatechnologywhosebenefitsrequirecomplementary
+investments, organizational change, and learning inside the firm. Many firms may buy
+subscriptions, run pilots, and then fail to make the sustained investments required to
+benefit. Developers and policymakers should therefore ask how to support long-term
+adoptionratherthanshort-termexperimentation.
+Fifth, the mechanism remains unresolved. We now know that AI adopters, and espe-
+cially high-intensity adopters, grow faster. We do not yet know which operational prac-
+tices generate that growth. The relevant mechanisms may include product acceleration,
+sales productivity, engineering leverage, customer support automation, faster internal
+analysis, better targeting, or new business lines. But we don’t know, and the firms that
+have figured it out have no incentive to share how they did it. Further research should
+identifyhowthesefast-growingfirmsaredrivingchangeusingAI,andhowtheseresults
+canbereplicatedacrosslater-adopters.
+Sixth, AI adoption faces a trust problem. Governments are still deciding how to reg-
+ulate the technology. Consumers worry about safety and resource use. AI developers
+alternate between narratives of extraordinary wealth creation and warnings of broad job
+loss. SomeCEOsblamelayoffsonAI,eventhoughourfirm-levelevidencesaystheoppo-
+site. Thesetrustissuesareaheadwindonadoptionthatwillslowandreducetheultimate
+productivitygainsAIcoulddeliver.
+Finally,herearesometakeawaysforreadersoutsideoftheAIandpolicyscene. Ifyou
+are a young person entering the labor market, and you are choosing between otherwise
+similar firms, choose the one that is using AI. If you are an engineer worried that AI will
+eliminate engineering jobs, the firms adopting AI are hiring engineers faster, not slower.
+AndifyouarereadingheadlineswhereCEOsblamelayoffsonAI,beskeptical.
+34
+--- Page 35 ---
+8 Event-Study Figures
+Thefiguresbelowplotthepreferred-specificationdynamicCallaway–Sant’Annaestimates
+foreachpaperoutcome.
+35
+--- Page 36 ---
+Figure6: TotalHeadcount
+80
+60
+40
+20
+0
+−20
+−40
+−60
+−80
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure7: Entry-LevelHeadcount
+100
+75
+50
+25
+0
+−25
+−50
+−75
+−100
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+36
+--- Page 37 ---
+Figure8: Non-EntryHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure9: Manager-PlusHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+37
+--- Page 38 ---
+Figure10: EngineeringHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure11: Entry-LevelEngineering
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+38
+--- Page 39 ---
+Figure12: SalesHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure13: MarketingHeadcount
+80
+60
+40
+20
+0
+−20
+−40
+−60
+−80
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+39
+--- Page 40 ---
+Figure14: AdminHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure15: FinanceHeadcount
+40
+20
+0
+−20
+−40
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+40
+--- Page 41 ---
+Figure16: ScientistHeadcount
+40
+30
+20
+10
+0
+−10
+−20
+−30
+−40
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure17: OperationsHeadcount
+30
+20
+10
+0
+−10
+−20
+−30
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+41
+--- Page 42 ---
+Figure18: CustomerServiceHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure19: Bachelor’sHeadcount
+60
+40
+20
+0
+−20
+−40
+−60
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+42
+--- Page 43 ---
+Figure20: MBAHeadcount
+40
+20
+0
+−20
+−40
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+Figure21: JDHeadcount
+20
+10
+0
+−10
+−20
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+43
+--- Page 44 ---
+Figure22: PhDHeadcount
+40
+30
+20
+10
+0
+−10
+−20
+−30
+−40
+−12 −6 0 6 12 18 24
+Months since AI adoption
+)001
+×
+stniop
+gol(
+tceffE
+AI adoption intensity
+Low AI intensity High AI intensity
+log(1 + headcount)
+Higher headcount
+vs. control
+No difference from
+control group
+Lower headcount
+vs. control
+44
+--- Page 45 ---
+References
+Acemoglu, D., D. Autor, J. Hazell, and P. Restrepo (2022). Artificial intelligence and jobs:
+Evidencefromonlinevacancies. JournalofLaborEconomics40(S1),S293–S340.
+Acemoglu, D. and P. Restrepo (2018). The race between man and machine: Implica-
+tions of technology for growth, factor shares, and employment. American Economic
+Review108(6),1488–1542.
+Acemoglu, D. and P. Restrepo (2019). Automation and new tasks: How technology dis-
+placesandreinstateslabor. JournalofEconomicPerspectives33(2),3–30.
+Autor,D.,C.Chin,A.Salomons,andB.Seegmiller(2024). Newfrontiers: Theoriginsand
+contentofnewwork,1940–2018. TheQuarterlyJournalofEconomics139(3),1399–1465.
+Autor, D. H., F. Levy, and R. J. Murnane (2003). The skill content of recent technological
+change: Anempiricalexploration. TheQuarterlyJournalofEconomics118(4),1279–1333.
+Babina,T.,A.Fedyk,A.He,andJ.Hodson(2024). Artificialintelligence,firmgrowth,and
+productinnovation. JournalofFinancialEconomics151,103745.
+Benson, A. and K. Shaw (2025). What do managers do? an economist’s perspective.
+AnnualReviewofEconomics17,635–664.
+Bonney, K., C. L. Breaux, E. Dinlersoz, L. S. Foster, J. C. Haltiwanger, and A. A. Pande
+(2026). The microstructure of AI diffusion: Evidence from firms, business functions,
+and worker tasks. NBER Working Paper No. 35141; U.S. Census Bureau CES Working
+Paper26-25.
+Brynjolfsson, E., B. Chandar, and R. Chen (2025). Canaries in the coal mine? six facts
+abouttherecentemploymenteffectsofartificialintelligence. StanfordDigitalEconomy
+LabWorkingPaper.
+45
+--- Page 46 ---
+Brynjolfsson, E., D. Li, and L. R. Raymond (2025). Generative AI at work. The Quarterly
+JournalofEconomics140(2),889–942.
+Callaway, B. and P. H. C. Sant’Anna (2021). Difference-in-differences with multiple time
+periods. JournalofEconometrics225(2),200–230.
+de Chaisemartin, C. and X. D’Haultfœuille (2020). Two-wayfixed effectsestimators with
+heterogeneoustreatmenteffects. AmericanEconomicReview110(9),2964–2996.
+Eloundou, T., S. Manning, P. Mishkin, and D. Rock (2024). GPTs are GPTs: An early
+look at the labor market impact potential of large language models. Science 384(6702),
+eadl2347.
+FederalReserveBankofAtlanta(2026). Surveyofbusinessuncertainty.
+Felten, E. W., M. Raj, and R. Seamans (2021). Occupational, industry, and geographic
+exposuretoartificialintelligence: Anoveldatasetanditspotentialuses. StrategicMan-
+agementJournal42(12),2195–2217.
+Gimbel, M., J. Kendall, and R. Kulsakdinun (2026). Labor market AI exposure: What do
+weknow? TheBudgetLabatYale.
+Goodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing.
+JournalofEconometrics225(2),254–277.
+Hampole, M., D. Papanikolaou, L. Schmidt, and B. Seegmiller (2025). Artificial intelli-
+genceandthelabormarket. NBERWorkingPaperNo.33509.
+Kharazian,A.(2026). RampAIindex. https://ramp.com/data/ai-index.
+Labaschin,B.,T.Eloundou,S.Manning,P.Mishkin,andD.Rock(2025). Extending‘GPTs
+areGPTs’tofirms. InAEAPapersandProceedings,Volume115,pp.51–55.
+46
+--- Page 47 ---
+Li,Q.,B.Lourie,A.Nekrasov,andT.Shevlin(2022). Employeeturnoverandfirmperfor-
+mance: Large-samplearchivalevidence. ManagementScience68(8),5667–5683.
+Massenkoff, M. and P. McCrory (2026). Labor market impacts of AI: A new measure and
+earlyevidence. AnthropicResearch.
+Noy,S.andW.Zhang(2023). Experimentalevidenceontheproductivityeffectsofgener-
+ativeartificialintelligence. Science381(6654),187–192.
+RevelioLabs(2026). Reveliopubliclaborstatistics.
+Stevens, R. (2026). Payrolls to prompts: Firm-level evidence on the substitution of labor
+forAI. arXiv:2602.00139.
+Sun, L. and S. Abraham (2021). Estimating dynamic treatment effects in event studies
+withheterogeneoustreatmenteffects. JournalofEconometrics225(2),175–199.
+U.S.CensusBureau(2026a). AIuseatU.S.businesses. AmericaCounts,May26,2026.
+U.S.CensusBureau(2026b). Businesstrendsandoutlooksurvey.
+Webb, M. (2020). The impact of artificial intelligence on the labor market. Stanford Uni-
+versityWorkingPaper.
+Yotzov,I.,J.M.Barrero,N.Bloom,P.Bunn,S.J.Davis,K.M.Foster,A.Jalca,B.H.Meyer,
+P.Mizen,M.A.Navarrete,P.Smietanka,G.Thwaites,andB.Z.Wang(2026). Firmdata
+onAI. NBERWorkingPaperNo.34836.
+47

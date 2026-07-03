@@ -1,0 +1,764 @@
+
+--- Page 1 ---
+AI & SOCIETY (2026) 41:3001–3013
+https://doi.org/10.1007/s00146-025-02686-z
+RESEARCH
+AI deskilling is a structural problem
+Avigail Ferdman1
+Received: 24 June 2025 / Accepted: 6 October 2025 / Published online: 5 November 2025
+© The Author(s) 2025
+Abstract
+Many artificial intelligence tools replace or stand to replace human activity, via automated decision-making, recommender
+systems and content generation. The more artificial intelligence (AI) replaces valuable human activity, the more it risks
+deskilling humans of their human capacities. This paper argues for applying a structural perspective to this phenomenon. It
+introduces the concept of ‘capacity-hostile environments’ to identify instances where AI mediation impedes human capacity
+cultivation. The analysis moves beyond individual responsibility that agents have to cultivate their human capacities, demon-
+strating how AI’s influence creates systemic conditions that could inhibit the development and exercise of human capacities
+by undermining the process of capacity cultivation. Drawing on the philosophy of skill as well as social epistemology, this
+paper argues that capacity cultivation (skilling) includes acquiring agential control over the capacities, inculcated through
+a long, gradual process of habituation. Habituation, in turn, depends on learning from others: the ‘know how’ of the skill,
+as well as a shared understanding of the value of the skill. AI mediation risks undermining the quality of the conditions for
+capacity habituation, leading to capacity impoverishment. By exploring the role of AI in mediating human activity, the paper
+highlights the need to evaluate AI applications based on their conduciveness or hostility to capacity cultivation. Ultimately,
+it calls for a critical reflection on the values inherent in AI socio-technical systems and emphasizes the societal obligation
+to foster capacity-conducive environments in the age of AI.
+Keywords Skill · AI · Flourishing · Affordances · LLMs · Perfectionism
+1 Introduction
+researchers have found that AI dependence leads to the
+erosion of activity awareness, competence maintenance,
+In Plato’s Phaedrus, Socrates cautions that writing will and output assessment (Rinta-Kahila et al. 2023), while
+deskill the capacity for memory in people’s minds: trust- in healthcare, AI dependence has been found to diminish
+ing an external entity will discourage the use of their own diagnostic reasoning, declining clinical judgment, reduced
+memory within them. A similar warning about technology- retention of tacit knowledge, declining ethical sensitivity and
+induced deskilling has come into sharp relief recently with weakened moral judgment (NHS England 2023; Natali et al.
+the rise of Large Language Models (LLMs). Philosophers, 2025; Budzyń et al. 2025).
+educators, artists, and journalists are increasingly raising A key reason why deskilling is harmful is that it dimin-
+concerns about the potential decline in our epistemic and ishes us as human beings, undermining our abilities in the
+social capacities (Vallor 2015; Wong 2019; Fricker 2021; ‘arts of personhood’ (Vallor 2015): the epistemic, social,
+Chiang 2023; Kudina and de Boer 2024; Rosen 2024; Tacca moral and creative capacities required to achieve compe-
+and Gilbert 2024; Marin and Steinert 2025).1 There is grow- tency in our exercise of practical reason, our self-worth,
+ing evidence of the erosion of critical thinking (Bonicalzi as well as mutual respect between persons, honesty and
+et al. 2023; Gerlich 2025; Lee et al. 2025), decision-making justice, developed through relationships of dependency
+and analytical reasoning (Zhai et al. 2024) as a result of over- (Hacker-Wright 2009). Yet given AI’s rapid integration into
+reliance on artificial intelligence (AI). In the professions, our socio-technical environment, it’s unrealistic to expect
+persons to be ‘virtuous superheroes’ (Mitcham 2024) and
+* Avigail Ferdman 1 The worry isn’t consensual. Some think that LLMs might be ben-
+avigailf@technion.ac.il eficial. https:// thewa lrus. ca/i- used- to- teach- stude nts- now-i- catch-
+chatg pt- cheats; https:// daily nous. com/ 2025/ 03/ 07/a- philo sophe rs- refle
+1 Technion – Israel Institute of Technology, Haifa, Israel ctions- on- teach ing- in-a- world- with- ai/.
+Vol.:(0123456789)
+--- Page 2 ---
+3 002 AI & SOCIETY (2026) 41:3001–3013
+will themselves to resist deskilling. In other words, framing on the moral implications of AI systems for capacity-skilling
+deskilling as a matter of individual responsibility—expect- and human flourishing.
+ing people to simply will themselves to cultivate ‘the arts
+of personhood’—overlooks crucial structural aspects of the
+2 Core human capacities: Developmental
+problem. To a large extent, we develop and exercise our epis-
+Perfectionism
+temic, moral, social, and creative capacities in response to
+our social and material environment (Ferdman 2019). A defi-
+cient environment can lead to deskilling of our core human ‘Developmental Perfectionism’ is a neo-Aristotelian
+capacities, and to the subsequent devaluation of their worth approach to human flourishing (Kauppinen 2025), where
+as they continue to weaken. Rather than focusing only on flourishing is understood as a complex, unified, and well-
+how human agents ought to engage with AI tools, we should rounded life (Hurka 1993). Humans exercise their capacities
+also ask what kind of socio-technical environments would in activities that yield outcomes that have intrinsic value like
+be best for the cultivation of our personhood. knowledge, beauty, morality, friendship (Kraut 2013; Brad-
+Before addressing this challenge, I want to clarify how I ford 2016, 2021; Fletcher 2016). The competent exercise of
+use the concept of skill. “Deskilling” is a useful analogy for the human capacities is the manifestation of the achievement
+the deterioration in the arts of personhood. It’s important, of the intrinsically valuable goods, making the capacities
+however, to distinguish between skill and capacity. Gener- intrinsically valuable too (Bradford 2016). For example,
+ally, a skill is a kind of disposition to form knowledge appro- the value of being on the summit of Mt. Everest is gained
+priate to a particular domain of human activity (Stanley from the competent exercise of a combination of capacities
+and Williamson 2017), as well as having the know-how for involved in climbing it, and not from simply being there
+executing the knowledge (Pavese 2022). Yet ‘skill’ is some- (say, if one arrives there by helicopter, Hurka 1993; Bradford
+times used to denote expertise in domains, such as hunt- 2015). Developmental Perfectionism neatly captures why
+ing/gathering, basket-weaving, writing, coding, navigating, deskilling is bad: capacity-deskilling is bad because our
+and composing music. On this use, deskilling is not always human capacities are constitutive of our flourishing. Impov-
+negative: skill obsolescence has always been part of human erished capacities (i.e., capacity-deskilling), therefore, lead
+history, where technological developments free up time and to impoverished lives (Ferdman 2024).
+resources for the cultivation of other skills (Coeckelbergh Perfectionist philosophers argue for a set of core human
+2019; Aylsworth and Castro 2024). The deskilling of our capacities such that when humans competently develop and
+core human capacities—to know, create, form meaningful exercise them, they lead a flourishing life2:
+relationships, and use our willpower—is a different mat- The epistemic capacities include theoretical rationality:
+ter. In this sense, capacities are more analogous to virtues thinking, considering reasons to believe, forming beliefs,
+(Sherman 1991; Stichter 2020). The deskilling of our core contemplating (Bradford 2025); and practical rationality
+human capacities is bad because inadequate development (Bradford 2015, 2021), manifesting in phronesis (common
+of these capacities can lead to “capacity impoverishment”, sense or wisdom): doing the right thing in the right way for
+which, in turn, diminishes us as humans and undermines the right reason.
+our flourishing. Therefore, from a normative perspective, The social capacities include the moral capacity as well
+whereas deskilling of activities like hunting, basket-weav- as the social and caring capacities for developing meaningful
+ing or coding may be innocuous, capacity-deskilling should relationships of friendship and love (Hurka 1993).
+always be a cause for worry. As such, we have reason to The capacity for creativity involves making unfamiliar
+ensure that socio-technical environments we inhabit are con- combinations of familiar ideas, transforming a conceptual
+ducive, rather than hostile, to the cultivation of our human space (Boden 2004), without relying merely on luck, acci-
+capacities. dents, or mechanical procedures (Gaut, 2010).
+I begin by introducing the core capacities to set the stage The capacity to will (volitional capacity): the ability to
+for why their deskilling would be bad for humans (Sect. 2). exert effort, overcome difficulty, persevere and grow, in
+Next, I draw on philosophy of skill to construct a framework order to achieve an intrinsically valuable goal (Bradford
+for understanding the human capacities as skills (Sect. 3). 2015). Importantly, developing and exercising any of the
+The structural lens is then added to the framework, to distin- human capacities is difficult, which therefore requires the
+guish between environments that are conducive to capacity competent exercise of the capacity to will. I will therefore
+cultivation and environments that are hostile to it (Sect. 4). treat the capacity to will as a meta-capacity of sorts.
+In Sect. 5, I apply this framework to artificial personal assis-
+tants (APAs)—one of the fastest growing uses of large lan-
+guage models (LLMs). Section 6 concludes with reflections 2 The physical capacities are part of this set, but I do not discuss
+them in this paper.
+--- Page 3 ---
+AI & SOCIETY (2026) 41:3001–3013 3003
+3 What does it mean to be skilled? the environment, is less skilled compared to the agent who
+A capacity‑skill framework initiated the activity, who has full agential control over it.
+3.2 Habituation
+The concept of skill is a useful analogy for the cultivation
+and excellent exercise of the human capacities, as it explains
+both what constitutes skill, as well as the process by which The process of becoming skilled is a gradual and slow pro-
+persons become skilled.3 cess of habituation. Skill generally cannot be learnt through
+Talents, knacks, or abilities are not purposeful or goal- testimony, and requires practice. As we move through stages
+directed (e.g., breathing or digesting), rather they are things of skill development, from novice through to expert, we rely
+that persons have. Skills, on the other hand, manifest in on concrete experience rather than abstract principles (Drey-
+action, that is, in what agents do, and in the acquisition of fus and Dreyfus 1986). Habituation involves inculcation
+mastery and control over an activity (e.g., playing basketball, through continued attunement to the demands of individual
+the violin or chess, Shepherd 2021). Skills are also distinct cases; refinement of the action through successive trials and
+form competences: competences are acquired, but leave no learning from mistakes (Ryle 2009, p. 234). This includes
+room for any improvement, talent, or flair, and are not grada- encountering and overcoming disappointment and failure.5
+ble: one can either do it or one cannot (Kremer 2020). Skills Through habituation, we gain experience, which requires
+are also learnable, in contrast to instincts. Skilled agents’ considerable time and living (Sherman 1991).
+capacity for novel behavior is precisely what distinguishes Habituation has two important components: intersubjec-
+a skilled agent from a highly reliable automaton (Pavese tivity and embodiment. I take them in turn.
+2023, p. 592).
+3.2.1 Intersubjectivity
+Rather than providing an exegesis of the rich literature
+on the philosophy of skill, I pick out two properties of skill
+I consider relevant: agential control and habituation,4 as Skill habituation has a ‘shared understanding’ dimension.
+these properties will be important later for understanding First, becoming skilled typically requires a mentor to guide
+the structural dimensions of capacity-deskilling. the novice into becoming an expert that engages in prac-
+tice of the right kind. A good mentor is typically neces-
+3.1 Agential control sary in order to cultivate the proper motivational structure
+for becoming skilled (Sherman 1991). In the relationship
+To be skilled in something is to have agential control over between mentor and novice, the mentor instills not only
+it (Shepherd 2021), the ability to adjust the execution of the mechanical aspects of the skill, but, as importantly, the
+the action as the performance unfolds. As agency develops, value of the skill, such that in the process of habituation, the
+the balance between automaticity and control shifts through skilled agent eventually comes to view the value of the skill
+a process of tuning and attuning (Sherman 1991, p. 175).. as their own. In the relationship, both mentor and mentee
+Thus, to cultivate a skill is to develop flexible links between have shared intentions and they come to have “shared valu-
+thought and action, such that continue to evolve even after ing” of the skill. This is an intersubjective mentor–mentee
+expertise has been achieved (Vigani 2021). relationship.
+Skills are therefore distinct from habits in an impor- The process of habituation is intersubjective also on
+tant respect: skills require control over initiating the task, a societal scale. Social practices performed by groups or
+whereas mere habits do not: they are elicited in response to whole societies can provide a mentoring environment:
+environmental triggers (Pavese 2024). A habitual activity the family, colleagues, citizens and so on. Indeed, as Kate
+is an activity that is triggered by something in the environ- Manne argues, social practices are often what generates
+ment, where the agent performs the activity in response to moral reasons for action, as they have a constitutive aim or
+the trigger. A skilled activity is one where the agent has full telos, which is ultimately the aim of helping people fare well
+control over initiating the activity. The implication is that an
+agent who performs out of habit, in response to triggers in
+5 Dreyfus and Dreyfus (1986) characterize the process of becoming
+skilled as a process comprised of 5-stages: novice, advanced begin-
+ner, competent, proficient and expert. Rule-following is more domi-
+3 For example, Nancy Sherman (1991) uses the metaphor to examine nant in the early stages, while gradually the agent exercises more
+how persons develop moral virtue. sophistication and sensitivity to varying contexts, so that the later
+4 Cf Schuster and Lazar (2024) who posit three constituents of skill: stages are characterized by rapid, fluid, involved engagement. On this
+having success conditions; developed through practice guided by account, while becoming skilled in the capacities requires successive
+those success conditions; shaped by the tools used in its exercise. My attempts at an activity, the process itself is one of growth rather than
+account differs from theirs in that it puts much more emphasis on the simple repetition. This point will become relevant for my discussion
+habituation process. automation and repetition later on.
+--- Page 4 ---
+3 004 AI & SOCIETY (2026) 41:3001–3013
+rather than badly (Manne 2013, p. 69). Alasdair MacIntyre any embodied interaction (say if the only form of interaction
+noted that learning is carried out through the practices of is mediated by online platforms), it would be much more
+the common life: becoming the kind of agent who is respon- difficult to achieve, compared to interactions that involve a
+sive to whatever it is that skillful action requires in order to significant level of embodiment.
+achieve some common good, “has to be learned from teach- Putting the different characteristics of skill together, I pro-
+ers and exemplars who know how to communicate this kind pose the following framework for conceptualizing capacity
+of responsiveness to others through the habits of a com- cultivation as skilling:
+mon life” (MacIntyre 2017 emphasis added). As such, social
+Being capacity-skilled is having agential control over
+practices play an important role in the formation of shared
+the human capacities, obtained in a process of inter-
+valuing regarding both the outputs (the product of the skilled
+subjective, embodied habituation, manifested in com-
+activity) and the skill itself.
+petent exercise of the human capacities, as well as in
+That skill has an intersubjective dimension is important
+societal shared valuing of the capacities.
+for the prospects of capacity development and exercise: to
+cultivate a capacity requires learning from others, and a So far I have reflected on the constituents of capacity-as-
+shared understanding that the capacity is in itself valuable. skill. To show how agents may become capacity-deskilled,
+I now introduce the structural dimension.
+3.2.2 Embodiment
+4 Structural dimension of capacity
+Successful habituation must include an embodied compo-
+impoverishment
+nent. According to the Enactive Approach in cognition,
+embodied ‘participatory sense-making’ (De Jaegher and Di
+Paolo 2007) is constitutive of social cognition (Di Paolo and On the capacity-skilling framework above, deskilling would
+Thompson 2014), for example in paying moral attention to manifest in the impoverishment of the capacities: limited
+the other, because the process of habituation of moral atten- agential control over the capacities, as well as a diminished
+tion requires perceiving the other as an embodied being, who process of habituation and a devaluation of the capacities.
+is similar to ourselves, through their voice and their gaze. Prima facie, capacity-deskilling may look like an individual
+One comes to apprehend other perceived bodies as being vice: on a virtue ethics approach, I have a duty to myself
+similar loci of embodied subjectivity, creating ‘embodied to cultivate my human capacities, and if I fail to do so, I
+understanding’ (Gallagher and Zahavi 2013). The social am failing in the arts of personhood. However, framing the
+interaction itself and its emergent dynamics constitute an problem of technology-induced capacity-deskilling as an
+essential part of the cognitive process that is unfolding individual ethics problem does not capture the full picture
+between the participants: “meaning is generated and trans- of deskilling. An important dimension of Aristotelian vir-
+formed in the interplay between the unfolding interaction tues ethics is that a well-ordered polis is a necessary part
+process and the individuals engaged in it” (De Jaegher and of human flourishing. Framing the response to the threats
+Di Paolo 2007, p. 485). to our humanness as an individual responsibility problem
+Crucially, without being embodied in a social interac- therefore misses the structural dimensions of the deskilling
+tion—without the return of the gaze of the other—we would problem.
+be hard-pressed to recognize them spontaneously as moral The structural dimension of capacity-deskilling can be
+agents. The spontaneity of recognizing the other as moral captured by the concept of affordances. The environment
+agent is inherent in the embodied interaction, whereas dis- one inhabits is a ‘world of affordances’ (Zimmermann et al.
+embodied interaction requires the agent to exercise more 2025). Affordances are action possibilities formed by a
+mental efforts in attributing moral agency to the other relationship between an agent and its environment offers to
+(Marin 2024, p. 227). Similarly, for the good of friendship, persons (Gibson 1979; Nye and Silverman 2012, p. 179),
+disembodied interactions make it harder to form meaningful that are not mere opportunities but invitations that can have
+friendship because technologically mediated virtue friend- a severe influence on the behavior agents will exhibit in that
+ships require more discipline for a diminished experience environment (Withagen et al. 2012). The concept of affor-
+(Grasso 2025). dances helps explain how the environment is constitutive of
+Therefore, being embodied is critical for becoming flourishing: the proper cultivation of the core capacities is
+skilled insofar as the process of ‘shared valuing’ of the skill dependent on inhabiting an environment that affords action
+requires some degree of doing something with the mentor(s), possibilities for activities, in turn triggering the capaci-
+creating a shared history and a participatory sense-making ties associated with these activities. For example, a library
+regarding both the product of the skill and the skill itself. affords the opportunity for reading books, thereby triggering
+While shared valuing might be achieved in the absence of the epistemic and social capacities involved in reading.
+--- Page 5 ---
+AI & SOCIETY (2026) 41:3001–3013 3005
+In the context of digital technologies, the integration that encourage the development and exercise of the human
+of AI into healthcare, for example, affords the possibility capacities. Importantly, capacity-conducive environments
+of offloading tasks to the machine, in turn likely leading will afford opportunities for cultivating the capacity to will,
+to automation bias, where the user attributes authority or by encouraging agents to develop and exercise their other
+excessive trust to an AI tool over advice from other sources. capacities (recall that developing the other capacities is dif-
+This risks the loss of the user’s critical skills necessary for ficult and requires willpower). In this way, capacity-condu-
+unexpected scenarios such as a system malfunction (Natali cive environments encourage the volitional capacity without
+et al. 2025). Another example is the smartphone: it pro- expecting agents to be virtuous superheroes.
+vides possibilities for interaction that are disconnected from An environment that provides inadequate conditions for
+other persons, such as swiping, clicking and scrolling. This the development and exercise of the capacities constitutes
+in turn invites determinate, separate, and repeatable tasks. a narrow field of affordances: it will not provide sufficient
+This fractures the user’s affordance space into disconnected invitations for valuable activities. The absence of invitation
+fields, ultimately leading to alienation, rather than offering for activities means that the capacities involved in these
+opportunities for the development of new cognitive and bod- activities will not be triggered (Ferdman 2024).6 A narrow
+ily skills that are mutually informing and enriching (Butler affordance field is normatively problematic, from a structural
+2024). The problem depicted in these examples is that the point of view, when it leads to ‘affordance shrinkage’: when
+affordance space is an impoverished environment: an envi- the reduction in action possibilities is systematic, enduring
+ronment that provides a narrow field of affordances (more on and deeply entrenched (Dokumacı 2023; Krueger 2023),
+that later), limiting the opportunities to engage in activities such that discourages users from finding ways to compen-
+that require the competent exercise of our capacities. sate for the shrinkage.
+As I stressed earlier, learning to value a capacity is part Disembodied environments might constitute a narrow
+of the process of its habituation. When a person develops field of affordances for capacity cultivation. Recall the point
+a capacity in a shallow way, they cannot learn to value the above about the inherent difficulty of cultivating the moral
+more masterful levels of the capacity, since learning to value and social capacities in disembodied environments since
+the capacity is a result of an ongoing, gradual process of it requires more effort and self-discipline for a diminished
+habituation, which they haven’t gone through. The danger achievement. On an individual responsibility approach, over-
+is that when a person does not value the state of being com- coming the difficulties of cultivating capacities in disembod-
+petently skilled in the human capacities, they will not be ied environments would require of individuals to become
+inclined to become properly skilled, thereby entrenching a virtuous superheroes and will themselves into overcoming
+shallow level of the capacities. On a societal scale, when the difficulties. The structural dimension of skilling, on
+enough persons do not value excellence or mastery of a the other hand, highlights that a disembodied environment
+human capacity (e.g., critical thinking), the capacity is in does not provide the right kind of affordances that encour-
+danger of atrophying. This then provides another justifica- age agents to develop and exercise the social capacities
+tion for the structural approach: we cannot expect agents to necessary for morality and friendship. Take social media
+be what Mitcham (2024) calls ‘virtuous superheroes’ and platforms, for example. Even without malicious intent on
+properly cultivate their human capacities if their social envi- the part of designers of these disembodied environments,
+ronment does not value the full maturation of these capaci- agents still might find themselves as users in a position
+ties. First, the agent would not have the proper mentoring where they are being herded to behave in certain ways,
+of the ‘know-how’, and second, they would not obtain the because these technologies are designed in specific ways
+shared understanding regarding the value of the capacities. to keep users engaged with them. This is not because the
+users are ignorant in a sense in which they are blameworthy,
+4.1 Capacity‑hostile environments
+but rather that users’ ignorance, maintained through things
+like targeted adverts, filtered newsfeeds, and information
+To distinguish between the types of environments according
+to how favorable they are to capacity cultivation, I propose
+to distinguish between capacity-hostile environments and 6 Richard Kraut mentions that the human capacities rarely operate
+capacity-conducive environments. Capacity-hostile environ- in isolation from each other (Kraut 2007, p. 166). For example, the
+capacity to know involves theoretical rationality as well as practical
+ments restrict, limit or create a narrow field of affordances
+rationality (Hurka 1993), the capacity to will ourselves to acquire
+for capacity development and exercise. These environments knowledge (Bradford 2015), and the physical capacities, insofar
+will afford opportunities for shallow skilling in the capaci- as knowledge is embodied. Without developing this point in depth,
+to the extent that we accept Kraut’s characterization, it follows that
+ties, and restrict opportunities for a fuller, well-rounded
+capacity-hostile environments are typically hostile to the capacities
+development and exercise of capacities. Capacity-condu-
+in that they undermine the opportunity to engage in activities that
+cive environments, on the other hand, are environments involve the exercise a combination of the capacities at a time.
+--- Page 6 ---
+3 006 AI & SOCIETY (2026) 41:3001–3013
+bubbles, is utterly predictable, and, indeed, often a feature of their willpower, for example by replacing human activity
+their engagement with social media platforms. As such, the with automated activity, or by offloading human activity,
+context in which a user’s behavior occurs can better explain such as moral reasoning, to a non-human agent such as an
+the behavior than appealing to the user’s dispositions (Tol- Artificial Moral Advisor (AMA). Automation is thus likely
+lon 2024). to entrench a narrow field of affordances when it actively
+This is precisely what the structural dimension captures: discourages the user from seeking avenues to compensate
+a technology’s affordances make certain action possibili- for the deskilling. Insofar as the automation replaces human
+ties more likely than others, given how the environment is activity without encouraging users to seek alternative ave-
+designed. To the extent that embodied interaction is crucial nues to exercise their capacities, including the capacity to
+for properly developing and exercising the capacities, the will, we may categorize these automation environments as
+environment should not only afford but encourage embod- capacity-hostile.
+ied interaction. The emphasis on encouraging rather than Of course, not all automation constitutes a capacity-hos-
+affording embodied interaction is, as I argue elsewhere, that tile environment. Some automation may free agents from
+merely having the opportunity to φ does not guarantee that drudgery and repetition (e.g., the washing machine). How-
+the agent will actually φ and engage the capacities involved ever, we should note the cumulative effect of automation:
+in φ-ing (Ferdman 2024). To ensure the activation of the automation and replacement of human activity is becoming
+capacities, the environment has to encourage the activity more prevalent, across many human spheres. As such, auto-
+of φ-ing, otherwise the capacities might not be triggered. mating multiple everyday human activities, across multiple
+This is why the environment conducive to the capacities spheres (e.g., writing, searching, planning, organizing, navi-
+has to include public goods like community centers, quality gation, decision-making, entertainment, personal wellbeing),
+public spaces, public libraries, etc. that encourage structured might constitute a narrow field of affordances for capacity
+and unstructured embodied interactions (Sypnowich 2016). development, where persons are discouraged from finding
+Embodied engagement in these settings would be more con- ways to compensate for the shrinkage, precisely because so
+ducive to creating shared experiences, which are necessary many activities are replaced with non-human activities. The
+for shared valuing of the social capacities. structural approach provides us with a framework to evaluate
+I propose that AI tools and systems can be analyzed as whether AI automation affords sufficient action possibilities
+components in capacity-conducive or capacity-hostile envi- to develop and exercise the capacities, or whether it narrows
+ronments along the following axes: the field of affordances; the field of affordances.
+the level of embodied user engagement and the level of
+intersubjectivity. 4.1.2 Embodied, intersubjective habituation
+4.1.1 AI automation and the field of affordances An environment conducive to the development and exercise
+of the capacities will afford opportunities for embodied,
+As Bainbridge noted in “Ironies of Automation” (1983), in intersubjective habituation of the capacities. A capacity-
+order to be skilled in a domain, one has to have efficient hostile environment, on the other hand, will restrict embod-
+retrieval of knowledge from long-term memory, which ied interaction or afford action possibilities that encourage
+depends on frequency of use. This type of knowledge devel- persons to primarily interact through disembodied mediums
+ops only through use and feedback about its effectiveness. (e.g., digitally mediated interaction). A capacity-hostile
+Automating routine tasks and leaving only exception-han- environment will also afford less opportunities to develop
+dling to the human user, “deprives the user of the routine and exercise the capacities in concert with other humans. In
+opportunities to practice their judgment and strengthen this environment, users will be interacting with non-human
+their cognitive musculature, leaving them atrophied and agents, limiting the opportunity to develop an intersubjec-
+unprepared when the exceptions do arise” (Lee et al. 2025). tive valuing of the capacities. Since embodied, intersubjec-
+In other words, indiscriminately automating human activ- tive habituation of the capacities is a necessary component
+ity may create capacity-hostile environments, insofar as of successfully developing and exercising the capacities, an
+users will be deprived of the habituation process necessary environment with little opportunity for embodied interac-
+for properly developing the capacities involved in routine tion may ultimately be hostile to capacity cultivation. AI
+activities. could contribute to capacity-hostile environments, or it could
+Additionally, recall that to develop and exercise the provide opportunities for capacity cultivation, depending on
+capacities requires that the person exercise their capacity the field of affordances it creates. To demonstrate this sort
+to will, since cultivating the capacities requires effort and of analysis, I next examine a fast-growing use case of AI:
+determination. In capacity-hostile environments, the technol- Artificial Personal Assistants.
+ogy or tool will afford users the opportunity of not exercising
+--- Page 7 ---
+AI & SOCIETY (2026) 41:3001–3013 3007
+5 A rtificial personal assistants and capacity 5.1 Life‑planning
+cultivation
+To determine whether APAs might contribute to capacity-
+Large language models (LLMs), such as ChatGPT, Claude. hostile or capacity-conducive environments, we first need to
+ai, Gemini, etc., are increasingly being used as artificial per- unpack the meaning of ‘life-planning’. On an instrumentalist
+sonal assistants (APAs). A recent report on types of uses view, ‘life-planning’ is a tool to help a person achieve their
+of LLMs has found that the second and third highest uses goals and aims. A different approach, however, holds that
+of LLMs were for life-planning: ‘organizing my life’ and life-planning is a self-constituting activity. Heyd and Miller
+‘finding purpose’ respectively: it found that users utilize the (2010), for example, argue that the identity of the person
+models to help them be more aware of their intentions (e.g., is, at least partly, constituted by their life plans, and hence
+daily habits, New Year’s resolutions, introspective insights) that their overall long-term flourishing cannot be even ide-
+and find small, easy ways of getting started with them. Addi- ally considered as relating to an independently identifiable
+tionally, users reported that they rely on APAs to determine agent who tries to maximize their own good. Additionally,
+and define their values, get past roadblocks, and take steps the activity of life-planning relates to the kind of person one
+to self-develop: seeking advice on what they should do next, decides they want to be, rather than to the aims or goals one
+reframing a problem and helping them to stay focused (Zao- wants to maximize. As such, planning one’s life is about
+Sanders 2025). Another study shows that heavy users utilize developing a particular character or dispositions, rather than
+LLMs for social validation, self-regulation, and interper- following an overall program of predetermined activities (p.
+sonal guidance (Kim et al. 2025a). Sam Altman, CEO of 27). On this non-instrumentalist view, life-planning should
+OpenAI, envisions a future where “eventually we can each not be outsourced to a tool.
+have a personal AI team, full of virtual experts in different On a different vein, in theorizing about agency, Michael
+areas, working together to create almost anything we can Bratman argues we are essentially planning creatures, and
+imagine” (Altman 2024). that planning is a manifestation of practical rationality
+APAs are attractive because they adapt to the individ- (Bratman 1983). Agency includes future-directed inten-
+ual user’s needs, tailor their advice based on the user’s tions, which play two important agential roles in a person’s
+responses, habits and preferences, and are willing to listen to deliberation: intentions have a settling function and a coor-
+the user without judgment (Ma et al. 2023). APAs are con- dination function. The settling function manages the finite
+stantly available, constituting “an always-on sounding board cognitive resources that humans have when facing a choice
+with whatever subject-matter expertise you need, configured between options. The coordination function forms and
+with your preferred tone of interaction—anything from strict organizes different types of plans, policies, and more specific
+taskmaster to encouraging cheerleader” (Samuel 2025). future-directed intentions, imposing coherence constraints
+While proponents of using LLMs as personal assistant on one’s intentions in order to allow for the incompleteness
+might argue that these tools provide benefit to the users, of information and enable flexibility. What is more, plans
+there is emerging evidence that becoming overly reliant on facilitate coordination both of a person’s activities over time,
+such tools might be problematic in terms of capacity-skill- and of the person’s activities with other persons, enabling
+ing. One of the features of LLMs is that they are ‘trained to us to achieve complex personal and social goals we would
+do everything for everyone at every environment’ (Gebru not otherwise be able to achieve (p. 272). Finally, planning
+and Torres 2023). This ostensibly gives LLMs the ability involves responding to unexpected events and surprises, that
+to do everything for the user, from menial tasks to plan- could be sources of value and a sense of growth in one’s life
+ning one’s life. If users become too dependent on LLMs (Heyd and Miller 2010, p. 32).
+for things like organizing their life and finding meaning, From the perspective of capacity-as-skill, planning and
+the APA might contribute to a capacity-hostile environ- organizing one’s life requires a combination of human
+ment. There is already tentative evidence that young people capacities. First, following Bratman, it involves the epis-
+growing up with the smartphone struggle with “everyday temic capacities. This manifests in two ways: in exercising
+but essential” skills like empathy, time management, speak- theoretical rationality manifested in self-deliberation on
+ing to other people, problem-solving and critical thinking one’s values and goals, and in exercising practical wisdom
+(Halliday 2025). LLMs could potentially exacerbate this regarding coordinating one’s goals and intentions with one’s
+deskilling, as follows. actions. Practical wisdom is especially relevant for plan-
+ning one’s life. A wise person knows the effective means
+to one’s ends and possesses an accurate understanding of
+their situation and circumstances, especially in assessing
+the testimony of others; they also possess discernment:
+correct understanding of how the good and the bad apply
+--- Page 8 ---
+3 008 AI & SOCIETY (2026) 41:3001–3013
+in particular circumstances. To be well motivated is not coordination (Floridi 2025) to merge synergistically discrete
+enough, to have practical wisdom is to be an effective and uses of the APA in ways that greatly magnify their scope
+savvy agent in the real world, equipped with valuable life and power to alter lives (Vallor 2016, p. 27). The more the
+experience (Hursthouse 2022). Moreover, practical wisdom APA does things for the user, the more it could constitute a
+is necessary for critically reflecting on one’s conceptions capacity-hostile environment, as follows.
+of a flourishing life, in order to set appropriate goals and Let us first examine APAs as a field of affordances. Recall
+strive to accomplish them in the right way (Stichter 2021). that a narrow field of affordances not only restricts the num-
+In short, life-planning requires the cultivation and exercise ber of action possibilities, but also discourages the user from
+of the epistemic capacities. seeking alternative avenues to compensate for the shrinkage
+Life-planning also involves the social capacities. First, in capacity exercise. APAs are constantly available, designed
+planning involves coordinating with others, toward achiev- to be helpful, always prompting the user to see if they could
+ing complex goals. Second, recall that on the intersubjec- be of further assistance. As such, they might discourage the
+tive approach, our reasons for action are (at least in part) user from seeking out new opportunities for growth and
+drawn from our social relationships. As such, planning one’s exploration (Gabriel et al. 2024). When the APA replaces
+life involves the moral and social capacities, insofar as our most of the user’s planning activities, it reduces the user’s
+life goals (e.g., being a good parent, help combat climate need to engage in routine, small-scale decision-making
+change) are similarly drawn from our social relationships. about organizing daily activities, or small-scale decisions
+Planning one’s life also involves the capacity for creativ- that over time amount to broader life goals. As mentioned
+ity, insofar as planning is always incomplete, and executing above, automation of routine tasks might be problematic
+the plan requires the ability to reconsider and respond to since it deprives the user of the opportunity to “practice
+novel situations, surprises and unexpected events. Finally, their judgment and strengthen their cognitive musculature”
+life-planning requires the capacity to will, that is, to develop for activating in exceptional circumstances (Lee et al. 2025).
+and exercise the aforementioned capacities, as well as to Overreliance on APAs could lead to a reduced sense of per-
+resist the temptation to outsource the activity of planning to sonal competence (Gabriel et al. 2024), which could be
+an external entity or tool. explained by the offloading of small-scale decisions to the
+model, such as “help me plan my day” and “how should I
+5.2 APAs as capacity‑hostile environments fill an unscheduled hour between meetings”,7 undermining
+the habituation of the capacities necessary for trusting one’s
+From the perspective of capacities as skills, APAs might decisions on life-planning.
+entrench a capacity-hostile environment, if persons become Additionally, over-reliance on APAs, may, over time,
+overly dependent on it for planning and organizing their acclimate the user to merely responding to triggers in the
+lives. I readily acknowledge that using APAs to figure out environment (i.e., the APAs outputs) rather than exercising
+one’s daily schedule or using the APA as a sounding board agential control over the planning. One of the affordances
+for life goals does not in itself constitute a capacity-hostile that APAs provide is the invitation to become a plan-fol-
+environment. If a person offloads planning activities to the lower rather than a plan-former. Take Sunsama, a scheduling
+APA in a way that enables them to develop and exercise their app: “Each morning, Sunsama displays tasks synced from a
+capacities in other activities, then APAs would not constitute variety of software, alongside your calendar and unfinished
+a capacity-hostile environment. tasks from yesterday. It prompts you to prioritize today’s
+However, an APA affords much more than using it as a work and to link tasks to your objectives—your largest goals
+sophisticated calendar or occasional recommender system. for the week. Sunsama then schedules tasks logically into
+APAs are a use-case of LLMs that can be integrated with your next available time slot, intelligently rescheduling them
+other AI tools because LLMs are ultimately ‘trained to do when other tasks run into overtime. The app reminds you
+everything for everyone at every environment’ (Gebru and throughout the day when it’s time to go to a meeting or when
+Torres 2023). This makes then not only social companion, you should take a quick break. And when you’re done for the
+moral advisor, life coach and personal butler, but all of them
+combined in one. As such, APAs afford the replacement of
+many of the activities involved in both planning and exe-
+cuting one’s plans, that would otherwise require the proper 7 This might strike the reader as a caricature, but anecdotal evidence
+cultivation and competent exercise of our epistemic, social, shows that LLMs are being used in this way (for example, bloggers
+moral and creative capacities. It is the scale and extent of reporting on their ‘quest for ultimate productivity’ https:// forem. julia
+lang. org/ svilu pp/ the- quest- for- ultim ate- produ ctivi ty- build ing- an-
+the APA as all-encompassing agent that is the cause for
+llm- power ed- assis tant- 21nk and https:// python. plain engli sh. io/ how-
+worry: the leveraging of AI capabilities, such as dynamic
+i- built-a- perso nal- ai- agent- to- autom ate- my- every day- tasks- 367c5
+reasoning, real-time adaptability, and multi-scale operational 12a75 58.
+--- Page 9 ---
+AI & SOCIETY (2026) 41:3001–3013 3009
+day, it prompts you to write a journal entry about what you in the real world, equipped with valuable life experience,
+accomplished” (Guay 2025). whereas merely being well motivated is not sufficient for
+One of the features of being skilled (Sect. 3) is having practical wisdom (Hursthouse 2022). Constantly turning to
+agential control over initiating a task, whereas fulfilling APAs for advice, even if the advice is good, and the user is
+the task in response to a trigger from the environment is well motivated to form valuable goals in their life, restricts
+more like a habit than a skill (Pavese 2024). Now let us the user’s real-world experience and undermines the oppor-
+consider the distinction between forming plans that involves tunity to develop practical wisdom.
+self-deliberation, and following plans constructed by APAs. Furthermore, APAs are always there for the user, inviting
+Forming a plan by self-deliberation requires exercising con- the user to constantly return to the APA for answers. Long-
+trol over all the steps of the activity of forming the plan, term reliance on the APAs as a life coach/personal assistant
+including over initiating the two functions of planning: set- would be problematic from a developmental-perfectionist
+tling (deciding between options) and coordinating. As such, standpoint, as its convenience and constant availability may
+forming a plan and executing it by settling and coordinating, limit agents’ ability to transition to develop the capacities
+requires exercising the epistemic, moral, social and creative on their own. Unlike a good human moral exemplar, the
+capacities involved in planning and executing the plan, as APA, by its purpose of giving advice, would not know to
+well as the capacity to will oneself into initiating the activity remove itself as the training wheels and resist being called
+of forming a plan to begin with. upon to provide a model for every decision, large or small
+Relying on an APA to form our plans for us is more (Liu et al. (2022). In this way, the APA is narrowing the
+like a habit that is developed in response to a trigger in the field of affordances for gaining experience in becoming an
+environment. To illustrate, a user might begin with asking independent planner.
+the APA to help them form a plan for finding a soulmate, APAs could also contribute to capacity-hostile environ-
+find a career, resolve a conflict with a friend, or structure ments by discouraging intersubjective habituation of the
+their daily schedule. The APA will propose a plan and help capacities. As APAs become more integrated into everyday
+the user refine it, according to their personal preferences systems, and replace more and more human activity, they
+or past behavior, and the user will then follow the plan. In afford an environment where the user increasingly interacts
+this sequence of events, the user is not initiating the two with non-human entities for the planning and execution
+functions of planning: settling and coordinating, but merely of their daily activities. AI mediation might come at the
+responding to the APAs recommendations. Moreover, in expense of human interaction, decreasing the opportunity
+plan-forming, the capacity to will is involved in initiating to develop our capacities in concert with other humans, and
+the plan, whereas in plan-following, it is absent, because the create the shared valuing that is intrinsic to being capac-
+user is responding to a trigger in the environment—the APA ity-skilled. While the development and exercise of human
+output. When much of the planning process is offloaded to capacities depend on embodied, intersubjective interactions
+the APA, it arguably requires a shallower exercise of the with others, APAs decrease embodied, intersubjective inter-
+capacities that are ordinarily involved in making coherent action involved in life-planning activities.
+plans and executing them. Moreover, making plans involves In embodied interaction, all the constant “living together”
+taking responsibility if the plan fails, affording an oppor- which goes on in between and around physical, embodied
+tunity to be self-critical and to improve accordingly. Yet if activities with other persons (Grasso 2025) better allow us
+an APA makes a plan that ends up failing, the user could to test and grow our human capacities, compared to virtual
+more readily shift the responsibility to the APA, forgoing environments. Preferring the advice of an APA over that
+the opportunity for self-growth. of a friend or colleague may contribute to undermining the
+On a similar vein, Schuster and Lazar (2024) argue that shared experience between persons. Ideally, when I seek the
+responding to some content because it has popped up in my advice of a friend, we are creating a space of shared experi-
+feed is in itself morally problematic, as it is not as good as ences, where the friend provides good advice because they
+attending to something for my own moral reasons. Likewise, care. Further, our relationship is deepened because we share
+following a plan because it was suggested by an automated the experience of knowing one another and coming to trust
+tool, even if it is a good plan and fully coheres with my one another by seeking and giving advice. Thus the shared
+values and preferences, is not as good, in developmental- experience, exercised via the social capacities, contributes
+perfectionist terms, as forming my own plan (see also Zelny to the intrinsic good of friendship. In the context of APAs,
+2025 on this point). Plan-forming requires a more in-depth however, even if after prolonged use the APA gets to “know”
+utilization of my capacities, including my capacity to will the user and will respond with outputs that sound caring, it
+myself into making a plan, following it and knowing when nevertheless cannot have shared experiences that are nec-
+to revise it. Recall that having practical wisdom, as part of essary for mutual care, thus undermining the opportunity
+the epistemic capacities, is to be an effective and savvy agent
+--- Page 10 ---
+3 010 AI & SOCIETY (2026) 41:3001–3013
+to exercise the social capacities, as well as the epistemic or analysis; to examine, research, inspect. These activities
+capacities involved in learning from others. require action, in contrast to merely receiving and accepting
+In sum, APAs might constitute a capacity-hostile environ- or rejecting a recommendation. Therefore, to put oneself in
+ment insofar as they afford users the possibility of offloading an investigative position is to take an agential, rather than
+life-planning to the LLM in ways that discourage the user passive, role.
+from finding ways to compensate for the loss of capacities Second, serendipity-incorporated recommender systems
+ordinarily involved in planning. might encourage the volitional capacity by encouraging
+cognitive patience. Cognitive patience is a willingness to
+5.3 APAs in capacity‑conducive environments
+linger in difficulty. We risk losing cognitive patience when
+we replace difficult tasks with simpler ones. For example,
+APAs could be an interim step on the path to capacity cul- replacing deep reading with skim reading on screens under-
+tivation, so long as they provide opportunities to develop mines cognitive patience by undercutting the conditions
+and exercise human capacities in embodied, intersubjective under which deep thought becomes possible (Hendrick
+interactions with others, within an adequate field of affor- 2025). Similarly, vending machine recommender systems
+dances. For example, APAs could incorporate serendipity suppress unfamiliar, surprising or even uncomfortable rec-
+and agential control such that encourage the development ommendations, undermining cognitive patience. With ser-
+and exercise of the capacities, as follows: endipitous recommendations, however, the user’s capacity to
+will would be exercised: when we are open to put ourselves
+5.3.1 Serendipity in a position of investigative ignorance, we are exercising
+our will to linger in difficulty by accepting to consider some-
+One feature of APAs is that they can be used as a sophisti- thing unpredictable, unexpected, surprising or uncomfort-
+cated recommender system: the APA recommends a course able. In this way, we are also cultivating the tolerance for the
+of action in response to the user’s prompts, preferences and conditions under which complexity—unpredictable, unex-
+past behavior. Existing recommender systems are like vend- pected, surprising or uncomfortable recommendations—
+ing machines: they prioritize efficiency and predictability of becomes possible.
+the outputs, pigeonholing users to contents they are already Finally, recall that successful skilling requires exercising
+familiar with. In contrast, recommender systems could be the skill in routine, small-scale tasks, in order to competently
+designed more like a tool box, rather than vending machine. exercise judgment when larger decisions are necessary. Ser-
+A tool box recommender system could support exploration endipity-incorporated recommender systems that includes
+and unexpected discoveries, by deliberately introducing ele- surprising results might provide the appropriate environment
+ments of surprise and challenge into the user experience for dealing with small-scale unexpected events, in prepara-
+through productive friction. One of the main differences tion for the event of having to make life-changing decisions,
+between the vending machine and tool box models is that as well being able to plan one’s life without depending on
+the latter explicitly designs for serendipity: the art of discov- the APA.
+ering new, advantageous things through chance encounters
+with unexpected information (Danzico 2010; Reviglio 2019; 5.3.2 Cultivating agential control
+Campbell 2023; Kim et al. 2025b). As such, serendipitous
+recommender systems are designed for novelty and unex- As I have argued throughout, APAs used in excess are prob-
+pectedness (Kotkov 2024), emphasizing exploration over lematic from the point of view of Developmental Perfec-
+efficiency and predictability (Chen 2022). tionism, as they could narrow the field of affordances for
+Because serendipity encourages exploration, serendipity- capacity cultivation. One way to avoid excess is to ensure
+incorporated APAs could contribute to capacity-conducive that the APAs are interim tools, that help the user become
+environments. First, let us consider the user’s state of mind: an independent planner. For example, the ‘always on, always
+to take advantage of the serendipitous event, the agent needs there for you’ feature could be replaced with a design that
+to actively put themself in a position of “investigative igno- explicitly and transparently guides the user to disengage
+rance”—recognizing and exploiting the state of ignorance to from the tool, instead encouraging them to engage in embod-
+come up with new and more satisfying information (Arfini ied, intersubjective interactions. In other words, designing
+et al. 2020). Putting oneself in a position of investigative APAs to help persons cultivate agential control over plan-
+ignorance involves exercising the capacity to will—to be ning their life, including the ability and motivation to initiate
+willing to step outside of one’s comfort zone by consider- the activity of planning itself. Learning to become independ-
+ing unexpected recommendations. Additionally, to inves- ent from the APA would enable the user to develop and exer-
+tigate, according to the Oxford English Dictionary, is to cise their epistemic, creative and social capacities, as well
+seek to understand something through examination, study, as their capacity to will, manifest in initiating the activity of
+--- Page 11 ---
+AI & SOCIETY (2026) 41:3001–3013 3011
+planning and exercising cognitive patience in responding to intersubjective, embodied interactions to compensate for
+unexpected, unforeseen and uncomfortable events. AI-mediated, disembodied environments.
+Interestingly, LLMs users are free to ask the model to More broadly, the capacity-skill framework provides a
+provide serendipitous recommendations, or help them to useful starting point from which to evaluate the goodness
+become less dependent on the APA. In the language of or badness of AI tools and systems, according to their con-
+affordances, these options are action possibilities that exist duciveness or hostility to capacity cultivation. Given that AI
+in the user’s field of affordances. However, only virtuous applications are not merely tools but socio-technical systems
+superheroes are likely using APAs this way, while ordinary (Kudina and van de Poel 2024), fulfilling the moral obliga-
+persons, inexperienced in the activity of life-planning (e.g., tion to ensure capacity-conducive environments in the age
+people growing up with LLMs) might end up over-relying of AI requires paying attention not only to the technical or
+on them for life-planning. From a structural point of view, design aspects of AI applications, but to the institutional,
+if we want users to engage with serendipitous options and cultural, and governance contexts in which they are embed-
+learn to become independent life planners, designers should ded. Insofar as socio-technical environments are value-
+purposefully work to avoid LLMs potentially becoming laden, a Developmental Perfectionist approach provides a
+replacements for life-planning, and so it is important that useful framework for critically reflecting on the values per-
+these models are not marketed as omnipotent personal assis- taining to capacity cultivation embedded in AI applications
+tants. Instead, they should be framed as exercises—tools to and systems. This is because we owe it to others to ensure
+practice planning—from mundane tasks to life goals. Clear that as humans, we invest in the shared valuing of the human
+boundaries should be established at the outset, with the user capacities, otherwise we risk losing the ‘human’ in us.
+informed that the purpose is to cultivate their capacities.
+Acknowledgements I am grateful to participants of the Jülich Speaker
+Features like having time limits on interactions, a focus
+Series in the Philosophy of Technology for helpful comments on an
+on improving the user’s real-world embodied experience
+earlier version of this paper, as well as to two anonymous reviewers
+and the provision of feedback and practical tips that can for helpful comments.
+be applied outside the virtual space, can further reinforce
+Author contributions Avigail Ferdman has authored all the manuscript
+this goal.
+sections.
+Importantly, prompting an LLM for serendipitous recom-
+mendations may not necessarily guarantee serendipitous rec- Funding Open access funding provided by Technion - Israel Institute
+ommendations. Whether LLMs can reliably follow prompts of Technology. The author did not receive funding from any organiza-
+tion for the submitted work.
+for serendipity depends on their training and fine-tuning.
+Given that these models are currently optimized for over- Data availability No datasets were generated or analyzed during the
+all user satisfaction (rather than serendipity), it is unclear current study.
+whether over repeated use they will be able to overcome
+Declarations
+their training and actually prioritize serendipity over ‘vend-
+ing-machine’/popular recommendations. More generally,
+Competing Interests The authors declare no competing interests.
+this provides reason to explicitly design and train recom-
+mender systems to optimize for serendipity rather than user
+Open Access This article is licensed under a Creative Commons Attri-
+satisfaction and the popularity of the suggested output.
+bution 4.0 International License, which permits use, sharing, adapta-
+tion, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+6 Conclusions provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+According to the Developmental Perfectionism view, capac- otherwise in a credit line to the material. If material is not included in
+ity impoverishment is robustly bad as it leads to impover- the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will
+ished lives. As such, protecting humans against capacity-
+need to obtain permission directly from the copyright holder. To view a
+deskilling is a moral obligation we have to others, to ensure
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+capacity-conducive environments for all. Currently, the more
+AI and automation uncritically replace human activity and
+interaction, the greater the risk that social interactions will References
+be primarily mediated by a disembodied, intersubjective
+agent, undermining capacity cultivation. One of the impli- Altman S (2024) The Intelligence Age. https://i a.s amalt man.c om/.
+cations is that to ensure proper cultivation of the capaci- Accessed 24 Apr 2025
+ties, environments must encourage (not merely provide)
+--- Page 12 ---
+3 012 AI & SOCIETY (2026) 41:3001–3013
+Arfini S, Bertolotti T, Magnani L (2020) The antinomies of serendipity realisability of agency thesis. Philos Technol 38:30. https:// doi.
+how to cognitively frame serendipity for scientific discoveries. org/1 0.1 007/s 13347-0 25-0 0858-9
+Topoi 39:939–948. https://d oi.o rg/1 0.1 007/s 11245-0 18-9 571-3 Fricker E (2021) Should we worry about silicone chip technology de-
+Aylsworth T, Castro C (2024) Should i use ChatGPT to write skilling us? R Inst Philos Suppl 89:131–152. https://d oi.o rg/1 0.
+my papers? Philos Technol 37:117. https://d oi.o rg/1 0.1 007/ 1017/S 13582 46121 00013 8
+s13347-0 24-0 0809-w Gaut B (2010) The Philosophy of Creativity. Philosophy Compass
+Bainbridge L (1983) Ironies of automation. Automatica 19:775–779. 5(12):1034–1046. https://d oi.o rg/1 0.1 111/j.1 747-9 991.2 010.
+https://d oi.o rg/1 0.1 016/0 005-1 098(83)9 0046-8 00351.x
+Bonicalzi S, De Caro M, Giovanola B (2023) Artificial intelligence Gabriel I, Manzini A, Keeling G, et al (2024) The Ethics of Advanced
+and autonomy: on the ethical dimension of recommender systems. AI Assistants. https://a rxiv.o rg/a bs/2 404.1 6244
+Topoi 42:819–832. https://d oi.o rg/1 0.1 007/s 11245-0 23-0 9922-5 Gallagher S, Zahavi D (2013) The Phenomenological Mind, 2nd edn.
+Bradford G (2015) Achievement. Oxford University Press, Oxford Routledge, London
+Bradford G (2016) Perfectionism. In: Fletcher G (ed) The Routledge Gebru T, Torres ÉP (2023) Eugenics and the Promise of Utopia through
+Handbook of Philosophy of Well-being. Routledge, London, pp AGI. IEEE SaTML 2023 - 1st Conference on Secure and Trust-
+124–134 worthy Machine Learning
+Bradford G (2021) Perfectionist bads. Philos Q 71:586–604. https:// Gerlich M (2025) Ai tools in society: impacts on cognitive offloading
+doi.o rg/1 0.1 093/p q/p qaa05 5 and the future of critical thinking. Soc. https://d oi.o rg/1 0.3 390/
+Bradford G (2025) Failure. In: Rossi M, Tappolet C (eds) Ill-Being: soc150 10006
+Philosophical Perspectives. Oxford University Press, Oxford Gibson JJ (1979) The ecological approach to visual perception.
+Bratman M (1983) Taking plans seriously. Soc Theory Pract 9:271–287 Houghton Mifflin, Boston
+Budzyń K, Romańczyk M, Kitala D et al (2025) Endoscopist deskill- Grasso D (2025) Disembodied friendship: virtual friends and the ten-
+ing risk after exposure to artificial intelligence in colonoscopy: a dencies of technologically mediated friendship. Ethics Inf Technol
+multicentre, observational study. Lancet Gastroenterol Hepatol 27:13. https://d oi.o rg/1 0.1 007/s 10676-0 25-0 9822-9
+10:896–903. https://d oi.o rg/1 0.1 016/S 2468-1 253(25)0 0133-5 Guay M (2025) AI Can’t Plan Your Whole Day—Not Yet—But We
+Butler M (2024) Fracturing the affordance space: an account of digi- Found One App That Gets Close. Wirecutter. https://w ww.n ytim
+talized alienation. Front Psychiatry. https://d oi.o rg/1 0.3 389/f psyt. es.c om/w irecu tter/r eview s/b est-a i-s chedu ling-a pps/. Accessed 2
+2024.1 40758 6 May 2025
+Boden M (2004) The Creative Mind: Myths and Mechanisms, 2nd edn. Hacker-Wright J (2009) Human nature, personhood, and ethical natu-
+Routledge. London ralism. Philosophy 84:413–427
+Campbell DR (2023) In defense of (some) online echo chambers. Ethics Halliday J (2025) Gen Z students in Manchester to learn ‘soft skills’
+Inf Technol 25:45. https://d oi.o rg/1 0.1 007/s 10676-0 23-0 9715-9 such as empathy and time management. The Guardian. https://
+Chen M (2022) Exploration in Recommender Systems. In: Proceedings www. thegua rdian. com/ societ y/2 025/a pr/2 1/g en-z- studen ts-i n-
+of the Fifteenth ACM International Conference on Web Search manche ster-t o-l earn-s oft-s kills-s uch-a s-e mpath y-a nd-t ime-m anag
+and Data Mining. Association for Computing Machinery, New ement. Accessed 25 April 2025
+York, NY, USA, p 1642 Hendrick C (2025) Ultra-Processed Minds: The End of Deep Read-
+Chiang T (2023) ChatGPT Is a Blurry JPEG of the Web. The New ing and What It Costs Us. In: The Learning Dispatch. https://
+Yorker. https://w ww.n ewyor ker.c om/t ech/a nnals-o f-t echno logy/ carlhe ndric k.s ubsta ck.c om/p/u ltra-p roces sed-m inds-t he-e nd-o f.
+chatgp t-i s-a-b lurry-j peg-o f-t he-w eb. Accessed 10 Feb 2023 Accessed 29 Apr 2025
+Coeckelbergh M (2019) Skillful coping with and through tech- Heyd D, Miller FG (2010) Life plans: do they give meaning to our
+nologies. AI & Soc 34:269–287. https://d oi.o rg/1 0.1 007/ lives? Monist 93:17–37
+s00146-0 18-0 810-3 Hurka T (1993) Perfectionism. Oxford University Press, New York
+Danzico L (2010) The design of serendipity is not by chance. Interact Hursthouse R (2022) Practical Wisdom: A Mundane Account. In:
+17:16–18. https://d oi.o rg/1 0.1 145/1 83621 6.1 83622 0 Annas J, Reid J (eds) Virtue and Action: Selected Papers. Oxford
+De Jaegher H, Di Paolo E (2007) Participatory sense-making. University Press, Oxford
+Phenomenol Cogn Sci 6:485–507. https://d oi.o rg/1 0.1 007/ Kauppinen A (2025) Telic Perfectionism and the Badness of Pain. In:
+s11097-0 07-9 076-9 Rossi M, Tappolet C (eds) Ill-Being: Philosophical Perspectives.
+Di Paolo E, Thompson E (2014) The enactive approach. The Routledge Oxford University Press, Oxford
+handbook of embodied cognition. Routledge/Taylor & Francis Kim Y, Oh S, Noh C et al (2025b) Design of a serendipity-incorporated
+Group, New York, NY, USA, pp 68–78 recommender system. Electronics. https://d oi.o rg/1 0.3 390/e lect
+Dokumacı A (2023) Activist Affordances: How Disabled People ronics 14040 821
+Improvise More Habitable Worlds. Duke University Press Kim E, Choe K, Yoo M, et al (2025a) Beyond Tools: Understand-
+Dreyfus HL, Dreyfus SE (1986) Mind over machine : the power of ing How Heavy Users Integrate LLMs into Everyday Tasks and
+human intuition and expertise in the era of the computer. Free Decision-Making. http://a rxiv.o rg/a bs/2 502.1 5395
+Press, New York Kotkov D (2024) Overview of Serendipity in Recommender Systems.
+Ferdman A (2019) A Perfectionist Basic Structure. Philosophy & In: Stefanidis K, Systä K, Matera M et al (eds) Web Engineering.
+Social Criticism 45:862–882. https://d oi.o rg/1 0.1 177/0 19145 3718 Springer Nature Switzerland, Cham, pp 453–457
+820891 Kraut R (2007) What Is Good and Why: The Ethics of Well-Being.
+Ferdman A (2024) Human Flourishing and Technology Affor- Harvard University Press, Cambridge, Mass
+dances. Philosophy & Technology 37:1. https://d oi.o rg/1 0.1 007/ Kraut R (2013) Human diversity and the nature of well-being: reflec-
+s13347-0 23-0 0686-9 tions on Sumner’s methodology. Res Philos 90:307–322. https://
+Fletcher G (2016) Objective list theories. In: Fletcher G (ed) The doi.o rg/1 0.1 1612/r esphi l.2 013.9 0.3.1
+Routledge Handbook of Philosophy of Well-Being. Routledge, Kremer M (2020) Gilbert Ryle on Skill as Knowledge-how. In: Frid-
+London, pp 148–160 land E, Pavese C (eds) The Routledge Handbook of Philosophy
+Floridi L (2025) AI as agency without intelligence: on artificial of Skill and Expertise. pp 100–112
+intelligence as a new form of artificial agency and the multiple Krueger J (2023) Affordances and spatial agency in psychopathology.
+Philos Psychol. https://d oi.o rg/1 0.1 080/0 95150 89.2 023.2 24397 5
+--- Page 13 ---
+AI & SOCIETY (2026) 41:3001–3013 3013
+Kudina O, de Boer B (2024) Large language models, politics, and the Samuel A (2025) How to Build Your Own AI Assistant. Harvard Busi-
+functionalization of language. AI Ethics. https://d oi.o rg/1 0.1 007/ ness Review. https://h br.o rg/2 025/0 3/h ow-t o-b uild-y our-o wn-a i-
+s43681-0 24-0 0564-w assist ant. Accessed 23 April 2025
+Kudina O, van de Poel I (2024) A sociotechnical system per- Schuster N, Lazar S (2024) Attention, moral skill, and algorith-
+spective on AI. Minds Mach 34:21. https://d oi.o rg/1 0.1 007/ mic recommendation. Philos Stud. https://d oi.o rg/1 0.1 007/
+s11023-0 24-0 9680-2 s11098-0 23-0 2083-6
+Lee H-P (Hank), Sarkar A, Tankelevitch L, et al (2025) The Impact of Shepherd J (2021) The Shape of Agency: Control, Action,
+Generative AI on Critical Thinking: Self-Reported Reductions in Skill,Knowledge. Oxford University Press
+Cognitive Effort and Confidence Effects From a Survey of Knowl- Sherman N (1991) The Habituation of Character. In: The Fabric of
+edgeWorkers. ACM, New York, NY, Yokohama, Japan Character: Aristotle’s Theory of Virtue. Oxford University Press
+Liu Y, Moore A, Webb J, Vallor S (2022) Artificial moral advisors: Stanley J, Williamson T (2017) Skill. Noûs 51:713–726
+A new perspective from moral psychology. In: Proceedings of Stichter M (2021) Differentiating the Skills of Practical Wisdom. In:
+the 2022 AAAI/ACM Conference on AI, Ethics, and Society. pp Vaccarezza MS, De Caro M (eds) Practical Wisdom: Philosophi-
+436–445 cal and Psychological Perspectives. Routledge, pp 96–113
+Ma Z, Mei Y, Su Z (2023) Understanding the benefits and challenges of Stichter M (2020) Virtue as Skill: Self-regulation and social psychol-
+using large language model-based conversational agents for men- ogy. In: Fridland E, Pavese C (eds) The Routledge Handbook of
+tal well-being support. AMIA Annu Symp Proc 2023:1105–1114 Philosophy of Skill and Expertise. pp 487–502
+MacIntyre A (2017) Common Goods, Frequent Evils. The Common Sypnowich C (2016) Equality Renewed: Justice Flourishing and the
+Good as Common Project, University of Notre Dame. https:// Egalitarian Ideal. Routledge Taylor & Francis Group, New York
+www.y outub e.c om/w atch?v=9 nx0Kv b5U04. Tacca A, Gilbert F (2024) Just copy-paste me! Assessing the risks of
+Manne K (2013) On Being Social in Metaethics. In: Shafer-Landau epistemic dependence on Large Language Models. In: Strasser A
+R (ed) Oxford Studies in Metaethics, vol 8. Oxford University (ed) Anna’s AI Anthology. How to Live with Smart Machines?
+Press, Oxford Xenomoi Verlag, Berlin, pp 31–52
+Marin L (2024) Attending to the Online Other: A Phenomenology of Tollon F (2024) Technology and the situationist challenge to vir-
+Attention on Social Media Platforms (1st edition). In: de Boer B, tue ethics. Sci Eng Ethics 30:10. https://d oi.o rg/1 0.1 007/
+Zwier J (eds) Phenomenology and the Philosophy of Technology. s11948-0 24-0 0474-4
+openbook publishers, pp 215–240 Vallor S (2015) Moral deskilling and upskilling in a new machine age:
+Marin L, Steinert S (2025) Ctrl+ Ethics: Large Language Models and reflections on the ambiguous future of character. Philos Technol
+Moral Deskilling in Professional Ethics Education. In: Philipp H 28:107–124. https://d oi.o rg/1 0.1 007/s 13347-0 14-0 156-9
+(ed) Oxford Intersections: AI in Society. Oxford Academic Vallor S (2016) Technology and the Virtues. Oxford University Press,
+Mitcham C (2024) Brief for political philosophy of engineer- New York
+ing and technology. NanoEthics. https:// doi. org/ 10. 1007/ Vigani D (2021) Virtue and embodied skill: refining the virtue-
+s11569-0 24-0 0463-8 skill analogy. J Value Inq 55:251–268. https://d oi.o rg/1 0.1 007/
+Natali C, Marconi L, Dias Duran LD, Cabitza F (2025) AI-induced s10790-0 21-0 9814-0
+deskilling in medicine: a mixed-method review and research Withagen R, de Poel HJ, Araújo D, Pepping G-J (2012) Affordances
+agenda for healthcare and beyond. Artif Intell Rev 58:356. https:// can invite behavior: reconsidering the relationship between affor-
+doi.o rg/1 0.1 007/s 10462-0 25-1 1352-1 dances and agency. New Ideas Psychol 30:250–258. https://d oi.
+NHS England (2023) The risk of deskilling | Workforce, training and org/1 0.1 016/j.n ewide apsyc h.2 011.1 2.0 03
+education. In: NHS England | Workforce, training and education Wong P-H (2019) Rituals and machines: a Confucian response to tech-
+| Digital Transformation. https://d igita l-t ransf ormat ion.h ee.n hs. nology-driven moral deskilling. Philosophies 4:59–0. https://d oi.
+uk/b uildi ng-a-d igita l-w orkfo rce/d art-e d/h orizo n-s canni ng/d evel org/1 0.3 390/p hilos ophie s4040 059
+oping-h ealth care-w orker s-c onfid ence-i n-a i/c hapte r-4-w orkfo rce- Zao-Sanders M (2025) How People Are Really Using Gen AI in 2025.
+transf ormat ion/t he-r isk-o f-d eskil ling. Accessed 16 Sept 2025 Harvard Business Review. https://hbr.org/2025/04/how-people-
+Nye BD, Silverman BG (2012) Affordance. In: Seel NM (ed) Ency- are-really-using-gen-ai-in-2025. Accessed 22 April 2025
+clopedia of the sciences of learning. Springer, US, Boston, MA, Zelny A (2025) Offloading wisdom: four technological relations that
+pp 179–183 mediate phronesis. Philos Technol 38:56. https://d oi.o rg/1 0.1 007/
+Pavese C (2022) Knowledge How. In: Zalta EN, Nodelman U (eds) s13347-0 25-0 0889-2
+The Stanford Encyclopedia of Philosophy, Fall 2022 Metaphysics Zhai C, Wibowo S, Li LD (2024) The effects of over-reliance on AI
+Research Lab. Stanford University dialogue systems on students’ cognitive abilities: a systematic
+Pavese C (2023) The shape of agency, by Joshua Shepherd. Mind review. Smart Learn Environ 11:28. https://d oi.o rg/1 0.1 186/
+132:586–594. https://d oi.o rg/1 0.1 093/m ind/f zab09 0 s40561-0 24-0 0316-7
+Pavese C (2024) Knowledge, skills, and creditability. Philos Stud. Zimmermann C, Poirier P, Catala A (2025) Performing arts and affor-
+https://d oi.o rg/1 0.1 007/s 11098-0 24-0 2261-0 dances: moving toward epistemic justice through embodied learn-
+Reviglio U (2019) Serendipity as an emerging design principle of ing. Br J Aesthet. https://d oi.o rg/1 0.1 093/a esthj/a yaf00 4
+the infosphere: challenges and opportunities. Ethics Inf Technol
+21:151–166. https://d oi.o rg/1 0.1 007/s 10676-0 18-9 496-y Publisher's Note Springer Nature remains neutral with regard to
+Rinta-Kahila T, Penttinen E, Salovaara A et al (2023) The vicious cir- jurisdictional claims in published maps and institutional affiliations.
+cles of skill erosion: a case study of cognitive automation. J Assoc
+Inf Syst 24:1378–1412. https://d oi.o rg/1 0.1 7705/1 jais.0 0829
+Rosen C (2024) The Extinction of Experience. W.W. Norton
+Ryle G (2009) Knowing How and Knowing That. In: Collected Essays
+1929 - 1968: Collected Papers Volume 2. Routledge, pp 222–235
