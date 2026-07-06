@@ -240,27 +240,41 @@ def git_commit_and_push(summary):
 
 
 def detect_orphans():
-    """Scan wiki/ for pages with zero incoming [[wikilinks]]."""
+    """Scan wiki/ for pages with zero incoming [[wikilinks]].
+
+    Handles both plain ``[[name]]`` and alias ``[[name|label]]`` forms.
+    Structural pages that are never wikilinked by design (home index,
+    per-category index pages, the log, and the sources page) are excluded
+    so they don't trip STRICT_MODE.
+    """
+    # Pages that exist for navigation/structure, not as content targets.
+    SPECIAL_NAMES = {"index", "log", "sources"}
+
     pages = {}
 
-    # collect all pages
+    # collect all content pages
     for root, _, files in os.walk(WIKI_DIR):
         for f in files:
             if f.endswith(".md"):
                 name = f.replace(".md", "")
+                # Skip the home index, every category index (skills/index.md, etc.),
+                # the log, and the sources page — these are structural, not linked.
+                if name in SPECIAL_NAMES:
+                    continue
+                if f == "index.md":
+                    continue
                 pages[name] = 0
 
-    # count inbound links
+    # count inbound links (match [[name]] and [[name|...]])
     for root, _, files in os.walk(WIKI_DIR):
         for f in files:
             if f.endswith(".md"):
                 with open(os.path.join(root, f)) as fh:
                     content = fh.read()
                     for name in pages.keys():
-                        if f"[[{name}]]" in content:
+                        if f"[[{name}]]" in content or f"[[{name}|" in content:
                             pages[name] += 1
 
-    # ignore self-links (rough but fine for now)
     orphans = [name for name, count in pages.items() if count == 0]
 
     if orphans:
@@ -486,14 +500,17 @@ def main():
     
     print("Applying changes...")
     summary = apply_changes(response)
-    mark_as_ingested([source_name])
-    
+
     print(f"Summary: {summary}")
 
     # Post-pass: detect orphan pages before commit
     orphans = detect_orphans()
-    
+
     git_commit_and_push(summary)
+    # Only mark as ingested once the commit/push has succeeded, so a failed
+    # run (e.g. STRICT_MODE orphan abort) doesn't leave the tracker dirty
+    # and cause the fallback to skip the file on the next run.
+    mark_as_ingested([source_name])
     print("Done!")
 
 

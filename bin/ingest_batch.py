@@ -95,10 +95,11 @@ def run_batch(filepaths):
 
     response = batch_api_call(prompt)
     summary = ingest.apply_changes(response)
-    # Mark all batch files as ingested
+    # NOTE: do not mark files as ingested here. The caller marks them only
+    # after git_commit_and_push() succeeds, so a failed/aborted run leaves
+    # the tracker clean and the files get retried next time.
     filenames = [os.path.basename(fp) for fp in filepaths]
-    ingest.mark_as_ingested(filenames)
-    return summary
+    return summary, filenames
 
 
 def run_single_file_fallback(filepath):
@@ -149,11 +150,15 @@ def main():
 
     # Try batch mode first
     try:
-        summary = run_batch(files)
+        summary, filenames = run_batch(files)
         print(f"\nBatch summary: {summary}")
 
         orphans = ingest.detect_orphans()
         git_commit_and_push(summary)
+        # Only now that the commit has succeeded do we record the files as
+        # ingested. If detect_orphans() aborts (STRICT_MODE) or the push
+        # fails, the tracker stays clean and the next run retries them.
+        ingest.mark_as_ingested(filenames)
         print("Batch ingest complete!")
         return
 
