@@ -46,3 +46,13 @@ jobs:
           MAX_CHARS: 50000
           FALLBACK_TO_SINGLE: "1"
         run: python3 bin/ingest_batch.py
+
+      - name: Install MkDocs and deps
+        if: success()
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install -r requirements-docs.txt
+
+      - name: Deploy to gh-pages
+        if: success()
+        run: mkdocs gh-deploy --force
