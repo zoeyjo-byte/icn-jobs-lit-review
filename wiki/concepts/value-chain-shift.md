@@ -1,39 +1,37 @@
-# Value Chain Shift
+The value chain shift refers to the fundamental repositioning of where value is created within market research and insights organizations as AI capabilities advance.
 
-## Definition
-The value chain shift refers to the fundamental repositioning of where value is created within market research and insights organizations as AI capabilities advance. Rather than diminishing the role of human professionals, AI is redistributing value **upstream** toward higher-order strategic functions while automating routine analytical tasks.
+## Sectoral Variations in AI Impact
 
-## First Observed
-2026-05-01 (MRII 2026 Market Research Study)
+Recent research reveals that AI's impact on the value chain is unevenly distributed across sectors, with significant implications for how value is created within market research organizations.
 
-## Key Evidence
-The [[mrii-2026-market-research-study]] provides compelling evidence of this shift:
-- As AI makes answers faster, cheaper, and more accessible, the answers themselves become **less differentiated**
-- Value increasingly resides in shaping decisions, driving growth, building AI-leveraging systems, and influencing strategy
-- Pam Forbus of [[mondelez]] articulated this clearly: "The future isn't just about doing the work faster; it's about making the work matter more"
+### Sectoral Employment Effects
 
-## Manifestations
+The [[ramp-revelio-2026-ai-jobs-impact-study]] found that employment gains from AI adoption are concentrated in the Information sector:
 
-### In Professional Practice
-- Insights teams are transitioning from data producers to strategic advisors
-- Traditional deliverables (reports, dashboards) are becoming table stakes rather than differentiators
-- The critical differentiator is now the ability to connect insights to business outcomes and influence action
+- Information sector: 13.4% headcount growth among high-intensity AI adopters
+- Professional and technical services: Positive but non-significant growth
+- All other sectors: Near-zero or imprecise effects
 
-### In Skill Requirements
-- Technical skills remain necessary but are no longer sufficient
-- Human-intensive skills like business acumen, communication, and strategic thinking are becoming premium capabilities
-- The ability to interrogate AI outputs and provide meaningful oversight is increasingly valuable
+This pattern reflects the current state of AI adoption, which is "uniquely concentrated in Information" where "the most commercially mature AI gains appear clearest in coding-agent and software-engineering workflows."
 
-## Relationship to Other Concepts
+### Implications for Market Research Value Chain
 
-The value chain shift represents a specific manifestation of [[ai-professionalization]], where AI automates less expert tasks, leaving more expert tasks for humans. It directly contributes to the phenomenon of [[seniorised-roles]], where entry-level positions increasingly demand skills traditionally reserved for senior positions.
+For market research firms, this sectoral variation suggests:
 
-This concept also intersects with the [[human-operating-model-gap]], as organizations struggle to redesign work structures around this new value distribution.
+1. **Front-end transformation**: Research design and data collection may see earlier AI integration
+2. **Back-end resilience**: Interpretation and strategic recommendation may remain more human-intensive
+3. **Specialization opportunities**: Firms focusing on information-intensive research may adopt AI more rapidly
+4. **Competitive differentiation**: Early AI adopters in research may gain productivity advantages
 
-## Evolution Over Time
-While early AI adoption focused on task automation, the value chain shift represents a more sophisticated understanding of AI's impact - recognizing that the technology fundamentally changes where human contribution creates the most value. This represents a maturation beyond simple automation narratives toward a more nuanced understanding of human-AI collaboration.
+The study notes that "it is still early in the AI adoption curve" and "AI use cases may diffuse more slowly outside software and media." This suggests market research firms should anticipate a gradual shift in where value is created, rather than an immediate transformation.
 
-## Related Pages
-- [[mrii-2026-market-research-study]]
-- [[human-judgment-skills]]
-- [[strategic-influence]]
+### Strategic Considerations
+
+Market research organizations should consider:
+
+- Where their work aligns with sectors experiencing the strongest AI impacts
+- How to position themselves to benefit from productivity gains in information processing
+- When to invest in high-intensity AI adoption versus more limited applications
+- How to develop workforce strategies that align with sector-specific AI adoption patterns
+
+See [[human-operating-model-gap]] and [[ai-professionalization]] for related frameworks analyzing AI's impact on organizational value chains.
