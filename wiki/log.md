@@ -16,3 +16,4 @@ Chronological record of every ingest operation.
 2026-06-27: Ingested 2026-global-ai-jobs-barometer-full-report.figures.md. Updated 15 existing pages.
 2026-06-28: Ingested 4 source files. Created 5 new pages, updated 3 existing pages.
 2026-07-06: Ingested ramp-revelio-ai-jobs-impact-2026.txt and s00146-025-02686-z.txt. Created 12 new pages, updated 5 existing pages.
+2026-07-07: Ingested ramp-revelio-ai-jobs-impact-2026.figures.md. Created 0, updated 0.
