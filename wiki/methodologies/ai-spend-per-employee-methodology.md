@@ -1,46 +1,56 @@
-# AI Spend Per Employee Methodology
+## AI Spend Per Employee Methodology
 
-The AI Spend Per Employee (PEPM) methodology is a measure of AI adoption intensity developed for the [[ramp-revelio-2026-ai-jobs-impact-study]]. This approach provides a direct, firm-level measure of AI investment that overcomes limitations of previous occupational exposure metrics.
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-03
 
-## Definition
+### Definition
+A direct measurement approach for quantifying firm-level AI adoption intensity by calculating monthly AI vendor spend per employee over the first three months after adoption begins. Developed by Ramp economists for the 2026 AI Jobs Impact Study, this methodology addresses limitations of occupational exposure scores and survey-based adoption measures.
 
-For a firm i, AI spend per employee is calculated as:
-
-PEPM_i = (Σ_{m=0}^2 AI_{i,G_i+m}) / (3 × HC_{i,G_i-1})
+### Calculation
+PEPM_i = (Σ from m=0 to 2 of AI_{i,G_i+m}) / (3 × HC_{i,G_i-1})
 
 Where:
-- AI_{i,G_i+m} is monthly AI vendor spend in months 0-2 after adoption
-- HC_{i,G_i-1} is baseline headcount in the month before adoption
-- G_i is the first month of sustained AI adoption
+- AI_{it} = monthly AI vendor spend
+- G_i = first month of sustained AI adoption
+- HC_{i,G_i-1} = baseline headcount in month before adoption
 
-Sustained AI adoption is defined as the first month of the earliest three-consecutive-month spell where AI spend is at least $100 per month.
+### Implementation Steps
+1. **Adoption Definition**: First month of earliest three-consecutive-month spell with ≥$100 AI spend monthly
+2. **Intensity Measurement**: Calculate PEPM using first three post-adoption months
+3. **Group Classification**: Low intensity = bottom two PEPM terciles, High intensity = top tercile
+4. **Comparison Design**: Compare earlier adopters to later adopters in same intensity group
 
-## Implementation
+### Advantages Over Alternative Methods
+| Method | Limitations | PEPM Advantages |
+|--------|-------------|-----------------|
+| Occupational exposure scores | Vary only across occupations, not firms | Measures actual firm adoption decisions |
+| Executive surveys | Capture awareness not implementation | Tracks payment data showing actual usage |
+| AI-related job postings | Proxy for interest not adoption | Measures direct financial commitment |
+| Resume AI skills | Lagging indicator of adoption | Captures immediate spending behavior |
 
-1. **Adoption Timing**: Identify G_i as the first month where a firm spends at least $100 on AI vendors for three consecutive months
-2. **Intensity Measurement**: Calculate PEPM using the first three months of AI spending after adoption
-3. **Intensity Grouping**: Classify firms into low (bottom two terciles) and high (top tercile) intensity groups
-   - High intensity: ~$33.67 per employee per month
-   - Low intensity: ~$2.78 per employee per month
-
-## Advantages Over Previous Methods
-
-This methodology addresses key limitations of earlier approaches:
-- **Direct measurement**: Observes actual AI spending rather than predicted exposure
-- **Firm-level variation**: Captures differences between firms with identical workforce composition
-- **Timing precision**: Identifies when adoption occurs rather than relying on proxies
-- **Intensity differentiation**: Distinguishes between light and heavy AI users
-
-## Key Findings Using This Methodology
-
-The Ramp-Revelio study using this methodology found:
-- High-intensity adopters grew headcount by 10.2% over 24 months
-- Entry-level headcount rose 12.0% among high-intensity adopters
+### Key Insights from Application
+- High-intensity adopters (PEPM top tercile) grew headcount by 10.2% over 24 months
 - Low-intensity adopters showed no statistically significant employment changes
-- Gains were concentrated in the Information sector (13.4% growth)
+- Adoption intensity correlates with use of complex AI tools (coding agents, APIs)
+- First three months of spending strongly predicts long-term adoption patterns
 
-## Relevance to Market Research
+### Sectoral Variation
+PEPM reveals significant sector differences in adoption intensity:
+- Information sector firms show highest intensity adoption
+- Professional services demonstrate moderate intensity
+- Traditional sectors show minimal intensity despite some adoption
 
-For market research professionals, this methodology provides a concrete way to measure AI adoption that can be applied to client organizations. It offers a more precise alternative to survey-based approaches and occupational exposure scores, enabling more accurate assessment of how AI investment correlates with business outcomes.
+### Implications for Market Research
+This methodology provides market researchers with:
+1. A concrete way to measure client AI adoption beyond self-reported surveys
+2. Evidence that AI investment intensity predicts organizational growth
+3. Framework for segmenting clients by true AI integration maturity
+4. Validation that direct spending data outperforms proxy measures
 
-See also: [[ramp-revelio-2026-ai-jobs-impact-study]], [[ramp]], [[revelio-labs]]
+### Related Research
+- The Ramp-Revelio 2026 study applied this methodology to 21,559 firms (see [[ramp-revelio-2026-ai-jobs-impact-study]])
+- Contrasts with PwC's [[pwc-ai-occupational-exposure-index]] which uses task-based exposure scoring
+- Addresses limitations documented in Burning Glass Institute's "Beyond the Binary"
+
+### Update
+2026-07-03: Added detailed calculation formula, implementation steps, and comparative advantages based on Ramp-Revelio 2026 study findings. Integrated sectoral variation analysis and market research implications.

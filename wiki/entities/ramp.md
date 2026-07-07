@@ -1,29 +1,54 @@
-# Ramp
+## Ramp
 
-Ramp is a financial operations platform that processes corporate card and bill pay transactions. Founded in 2019, Ramp provides spend management software that helps businesses track and optimize their expenses.
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-03
 
-## Role in AI Research
+### Overview
+Ramp is a financial operations platform that processes corporate card and bill pay transactions, providing detailed line-item spending data used to identify AI vendor payments in workforce studies. Founded to streamline corporate spending, Ramp has evolved into a critical data source for measuring actual AI adoption through financial transaction records.
 
-Ramp's significance in AI research stems from its ability to identify and track AI-related spending through line-item transaction data. The Ramp AI Index, developed by Ara Kharazian (2026), identifies AI spend from line items using vendor and line-item classification that captures spending on:
+### Key Products and Capabilities
+- **Corporate Card Platform**: Processes payments with detailed merchant categorization
+- **Bill Pay System**: Tracks vendor payments beyond card transactions
+- **AI Index**: Proprietary classification system (Kharazian, 2026) identifying AI spend from line items
+- **Spend Analytics**: Provides granular insights into technology adoption patterns
 
-- Foundational large language models
-- GPU cloud services
-- Model serving and inference
-- Coding agents
-- API tokens
-- AI image and video generators
-- AI search and research software
+### AI Index Methodology
+Ramp's AI Index identifies AI spending through:
+1. **Vendor Classification**: Mapping merchants to AI categories (LLMs, GPU cloud, coding agents, etc.)
+2. **Line-Item Analysis**: Text analysis of transaction details for AI-related keywords
+3. **Adoption Threshold**: Defined as ≥$100/month for three consecutive months
+4. **Intensity Measurement**: PEPM (AI spend per employee) over first three adoption months
 
-This data has been instrumental in studies like the [[ramp-revelio-2026-ai-jobs-impact-study]], which linked Ramp's AI spending data to Revelio Labs workforce records to study how AI adoption affects employment.
+### Research Applications
+Ramp's data has enabled:
+- First direct measurement of firm-level AI adoption intensity
+- Identification of high vs. low intensity adopter patterns
+- Sectoral analysis of AI investment concentrations
+- Temporal tracking of adoption waves across industries
 
-## Methodology Contribution
+### Key Findings from Ramp Data
+- AI adoption highly selected: larger, more technical, faster-growing firms adopt first
+- Information sector leads adoption at 53.7% (vs. 11.5% in Accommodation/Food)
+- Small firms adopt less frequently but show higher intensity when they do adopt
+- Adoption intensity predicts employment outcomes better than binary adoption measures
 
-Ramp's data provides a direct measure of firm-level AI adoption, overcoming limitations of previous research that relied on occupational exposure scores or surveys. The platform defines AI adoption as the first month of a three-consecutive-month spell where AI spend is at least $100 per month.
+### Limitations
+- Sample skews toward tech-forward firms and knowledge work
+- May underestimate adoption in organizations using free AI tools
+- Limited visibility into internal AI development costs
+- Corporate card usage varies by firm size and industry
 
-This revealed adoption measure has proven valuable for understanding the timing and intensity of AI investment across different firm types and sectors.
+### Relevance to Market Research
+Ramp's methodology offers market researchers:
+- Objective measure of client AI adoption beyond self-reported surveys
+- Framework for segmenting clients by true AI integration maturity
+- Evidence that AI investment intensity correlates with business growth
+- Validation that measurement approach fundamentally shapes skills gap conclusions
 
-## Relevance to Market Research
+### Related Research
+- [[ramp-revelio-2026-ai-jobs-impact-study]] used Ramp data to link AI spending with workforce outcomes
+- Contrasts with survey-based approaches like U.S. Census BTOS
+- Complements Revelio Labs' workforce data for comprehensive adoption analysis
 
-For market research professionals, Ramp's data offers insights into how companies are actually investing in AI tools and services. This real-world spending data complements survey-based approaches and provides concrete evidence of AI adoption patterns across the economy.
-
-See also: [[revelio-labs]], [[ai-spend-per-employee-methodology]]
+### Update
+2026-07-03: Added detailed information about the AI Index methodology, research applications, and key findings from the Ramp-Revelio 2026 study. Integrated analysis of how Ramp's data addresses limitations of previous AI adoption measurement approaches.

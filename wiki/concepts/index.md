@@ -19,5 +19,8 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-03 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
 | [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-03 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
 | [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-03 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
+| [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-03 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
+| [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-03 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
+| [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-03 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
 
 See [[index|Home]] for the full catalog.

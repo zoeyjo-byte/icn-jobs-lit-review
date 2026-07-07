@@ -20,5 +20,12 @@ Catalog of all figures extracted from source documents.
 | [[2026-global-ai-jobs-barometer-full-report-fig-7-across-advanced-economies-job-postings-are-growing]] | 2026 Global Ai Jobs Barometer Full Report — Figure 7: Across advanced economies, job postings are growing more slowly for entry level workers more exposed to AI |
 | [[2026-global-ai-jobs-barometer-full-report-fig-8-change-in-entry-level-job-postings-between-2019-an]] | 2026 Global Ai Jobs Barometer Full Report — Figure 8: Change in entry-level job postings between 2019 and 2025, seniorised vs non-seniorised roles, top AI exposure quartile, US |
 | [[2026-global-ai-jobs-barometer-full-report-fig-9-skills-needed-for-the-most-ai-exposed-jobs-are-cha]] | 2026 Global Ai Jobs Barometer Full Report — Figure 9: Skills needed for the most AI-exposed jobs are changing more than twice as fast as for the least AI-exposed jobs |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-1-ai-adoption-benchmarks]] | Figure 1: AI Adoption Benchmarks |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-2-ai-adoption-by-sector]] | Figure 2: AI Adoption by Sector |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-3-ai-adoption-by-size-and-engineering]] | Figure 3: AI Adoption by Size and Engineering Share |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-4-indexed-headcount-pre-trends-adopters-vs-never]] | Figure 4: Indexed Headcount and Pre-Trends: AI Adopters vs. Never Adopters |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-5-indexed-headcount-pre-trends-adopters-vs-not-yet]] | Figure 5: Indexed Headcount and Pre-Trends: AI Adopters vs. Not-Yet Adopters |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-6-total-headcount]] | Figure 6: Total Headcount Event Study |
+| [[ramp-revelio-2026-ai-jobs-impact-study-fig-7-entry-level-headcount]] | Figure 7: Entry-Level Headcount Event Study |
 
 See [[index|Home]] for the full catalog.

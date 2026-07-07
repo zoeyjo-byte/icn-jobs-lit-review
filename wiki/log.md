@@ -17,3 +17,4 @@ Chronological record of every ingest operation.
 2026-06-28: Ingested 4 source files. Created 5 new pages, updated 3 existing pages.
 2026-07-06: Ingested ramp-revelio-ai-jobs-impact-2026.txt and s00146-025-02686-z.txt. Created 12 new pages, updated 5 existing pages.
 2026-07-07: Ingested ramp-revelio-ai-jobs-impact-2026.figures.md. Created 0, updated 0.
+2026-07-07: Ingested ramp-revelio-ai-jobs-impact-2026.txt. Created 7 figure pages, updated 5 wiki pages (study, role, methodology, entities). Synthesized findings on AI adoption intensity effects with existing concepts like entry-level-squeeze and value-chain-shift. Verified all new pages have incoming wikilinks.

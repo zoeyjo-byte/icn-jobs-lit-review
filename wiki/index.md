@@ -18,10 +18,12 @@ Market research job roles, positions, and career paths:
 
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[entry-level-jobs]] | 2026-06-24 | 2026-07-03 | Entry-level job postings in quartiles with lower AI exposure continue to grow, while those in the highest AI exposure quartile have flatlined since 2022. |
+| [[entry-level-jobs]] | 2026-06-24 | 2026-07-03 | Entry-level job postings in quartiles with lower AI exposure continue to grow, while those in the highest AI exposure quartile have flatlined since 2022. High-intensity AI adopters increase entry-level headcount by 12.0%. |
 | [[professionalised-jobs]] | 2026-06-25 | 2026-06-27 | Professionalised jobs are occupations reshaped by AI to demand more human expertise, representing 22% of advertised positions globally. |
 | [[democratised-jobs]] | 2026-06-25 | 2026-06-27 | Democratised jobs are occupations reshaped by AI to demand less human expertise, representing 52% of advertised positions globally. |
 | [[ai-specialist-roles]] | 2026-06-25 | 2026-06-27 | Job roles specifically focused on the development, implementation, and maintenance of AI systems, growing eight times faster than total job postings. |
+| [[high-intensity-ai-adopters]] | 2026-07-03 | 2026-07-03 | Firms making substantial AI investments (top PEPM tercile) that grow employment by 10.2% following adoption. |
+| [[low-intensity-ai-adopters]] | 2026-07-03 | 2026-07-03 | Firms making minimal AI investments (bottom two PEPM terciles) that show no statistically significant employment changes. |
 
 ## Concepts
 
@@ -44,6 +46,9 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-03 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
 | [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-03 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
 | [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-03 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
+| [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-03 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
+| [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-03 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
+| [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-03 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
 
 ## Entities
 
@@ -54,8 +59,8 @@ Companies, research firms, tools, and platforms mentioned:
 | [[lightcast]] | 2026-06-25 | 2026-06-27 | Lightcast (formerly Emsi Burning Glass) provides labor market analytics and job posting data used in PwC's Global AI Jobs Barometer. |
 | [[orbis]] | 2026-06-25 | 2026-06-27 | ORBIS is Bureau van Dijk's global business database providing company financial data for AI impact analysis. |
 | [[pwc]] | 2026-06-24 | 2026-06-27 | PwC is a multinational professional services network and publisher of the Global AI Jobs Barometer. |
-| [[ramp]] | 2026-07-03 | 2026-07-03 | Financial operations platform that processes corporate card and bill pay transactions, used to identify AI spending in workforce studies. |
-| [[revelio-labs]] | 2026-07-03 | 2026-07-03 | Workforce intelligence platform that aggregates data from online professional profiles to construct longitudinal employment histories. |
+| [[ramp]] | 2026-07-03 | 2026-07-03 | Financial operations platform that processes corporate card and bill pay transactions, used to identify AI spending in workforce studies. Provides the AI Index for measuring adoption intensity. |
+| [[revelio-labs]] | 2026-07-03 | 2026-07-03 | Workforce intelligence platform that aggregates data from online professional profiles to construct longitudinal employment histories. Provides seniority classification and workforce composition data. |
 | [[artificial-personal-assistants]] | 2026-07-03 | 2026-07-03 | AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making. |
 
 ## Methodologies
@@ -66,7 +71,9 @@ Research methodologies used in studies:
 |------|---------------|-------------|-------------|
 | [[epoch-score]] | 2026-06-24 | 2026-06-27 | The EPOCH score measures the reliance on human capabilities in various occupations. |
 | [[pwc-ai-occupational-exposure-index]] | 2026-06-25 | 2026-06-27 | PwC's proprietary methodology to measure the degree to which different occupations are exposed to AI capabilities. |
-| [[ai-spend-per-employee-methodology]] | 2026-07-03 | 2026-07-03 | Methodology for measuring AI adoption intensity by calculating monthly AI spend per employee over the first three months after adoption begins. |
+| [[ai-spend-per-employee-methodology]] | 2026-07-03 | 2026-07-03 | Methodology for measuring AI adoption intensity by calculating monthly AI spend per employee over the first three months after adoption begins. Uses PEPM (AI spend per employee) to classify high vs. low intensity adopters. |
+| [[staggered-treatment-timing]] | 2026-07-03 | 2026-07-03 | Econometric approach for analyzing treatment effects when units receive treatment at different times, as in the Callaway-Sant'Anna framework used in the Ramp-Revelio study. |
+| [[causal-inference-in-ai-studies]] | 2026-07-03 | 2026-07-03 | Methodological approaches for establishing causality in AI impact research, addressing challenges like selection bias and pre-trends. |
 
 ## Studies
 
@@ -77,4 +84,4 @@ Key research studies and reports:
 | [[pwc-2026-global-ai-jobs-barometer]] | 2026-06-25 | 2026-06-27 | PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market. |
 | [[mrii-2026-market-research-study]] | 2026-06-28 | 2026-06-28 | The Market Research Institute International 2026 global study represents the fourth annual comprehensive analysis of market research and insights professionals worldwide. |
 | [[burning-glass-beyond-binary]] | 2026-06-28 | 2026-06-28 | Published in January 2026 by the Burning Glass Institute, "Beyond the Binary" represents a landmark analysis challenging the conventional wisdom that AI will either automate or augment jobs. |
-| [[ramp-revelio-2026-ai-jobs-impact-study]] | 2026-07-03 | 2026-07-03 | A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records.
+| [[ramp-revelio-2026-ai-jobs-impact-study]] | 2026-07-03 | 2026-07-03 | A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records. Shows high-intensity adopters grow headcount by 10.2% and entry-level roles by 12.0%. |
