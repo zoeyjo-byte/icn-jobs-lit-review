@@ -1,64 +1,65 @@
 # Habituation Process
 
-The habituation process is the gradual, slow development of skill through practice and experience. This concept is central to understanding how human capacities are cultivated and why AI systems that shortcut this process may undermine human flourishing.
+## Definition
 
-## Definition and Characteristics
+The **gradual process of becoming skilled through practice**, involving inculcation through continued attunement to the demands of individual cases. As articulated in [[ferdman-2026-ai-deskilling-structural-problem]], habituation represents the developmental pathway through which humans cultivate core capacities through repeated, reflective engagement with meaningful challenges.
 
-Habituation involves:
+## Philosophical Foundation
 
-1. **Gradual progression**: Moving through stages of skill development from novice to expert
-2. **Concrete experience**: Learning through specific cases rather than abstract principles
-3. **Refinement through trial**: Improving through successive attempts and learning from mistakes
-4. **Inculcation**: Internalizing skills through continued attunement to demands of individual cases
+Drawing on skill philosophy (Dreyfus & Dreyfus, 1986; Ryle, 2009), the habituation process involves:
 
-As Dreyfus and Dreyfus (1986) characterize it, the process comprises five stages: novice, advanced beginner, competent, proficient, and expert. Rule-following dominates early stages, while later stages are characterized by rapid, fluid, involved engagement.
+1. **Progressive complexity**: Moving from novice to expert through increasingly challenging cases
+2. **Contextual attunement**: Learning to recognize subtle differences between situations
+3. **Error-driven refinement**: Adjusting performance based on mistakes and disappointments
+4. **Embodied integration**: Transforming abstract knowledge into intuitive understanding
 
-## Two Essential Components
+This process cannot be compressed through testimony or instruction alone—it requires lived experience and time.
 
-The habituation process has two critical dimensions:
+## Role in Capacity Cultivation
 
-### 1. Intersubjectivity
+Habituation is essential for developing all core human capacities:
 
-- **Mentor-mentee relationships**: Skilled development typically requires guidance from someone more experienced
-- **Shared understanding**: Both mentor and mentee develop "shared valuing" of the skill
-- **Social practices**: Groups or societies provide mentoring environments through family, colleagues, and citizens
+- **Epistemic capacities**: Developing research intuition through repeated analysis
+- **Social capacities**: Learning client interaction through varied relationship experiences
+- **Creative capacities**: Building innovative thinking through diverse problem-solving
+- **Volitional capacity**: Strengthening willpower through overcoming research challenges
 
-As Alasdair MacIntyre noted, "becoming the kind of agent who is responsive to whatever it is that skillful action requires... has to be learned from teachers and exemplars who know how to communicate this kind of responsiveness to others through the habits of a common life."
+Without sufficient habituation opportunities, capacities remain shallow and fragile.
 
-### 2. Embodiment
+## Threats from AI Systems
 
-- **Participatory sense-making**: Embodied interaction is constitutive of social cognition
-- **Recognizing others**: The spontaneity of recognizing others as moral agents is inherent in embodied interaction
-- **Shared history**: Creating shared experiences through doing something together
+AI tools can undermine the habituation process through:
 
-Without embodiment in social interaction, it becomes much harder to form meaningful relationships and develop moral capacities.
+- **Automation of routine tasks**: Removing foundational practice opportunities
+- **Instant solutions**: Bypassing the struggle necessary for deep learning
+- **Reduced error exposure**: Shielding users from meaningful mistakes
+- **Context stripping**: Presenting standardized solutions that ignore situational nuance
 
-## AI's Impact on Habituation
+For example, AI-powered survey analysis tools that deliver instant insights deprive junior researchers of the habituation process needed to develop analytical intuition.
 
-AI systems can undermine the habituation process by:
+## Evidence from Research
 
-- **Automating routine tasks**: Depriving users of "routine opportunities to practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025)
-- **Providing instant answers**: Short-circuiting the learning process that comes from struggling with problems
-- **Reducing embodied interaction**: Limiting opportunities for physical presence in skill development
-- **Creating dependency**: Encouraging users to rely on AI rather than developing their own capacities
+The [[ramp-revelio-2026-ai-jobs-impact-study]] shows high-intensity AI adopters grew entry-level roles by 12.0%, suggesting these firms may preserve habituation pathways. However, Ferdman (2026) warns that without intentional design, AI adoption creates **capacity-hostile environments** that systematically reduce opportunities for meaningful practice.
 
-For example, when users become overly dependent on [[artificial-personal-assistants]] for life planning, they miss opportunities to develop practical wisdom through real-world experience.
+## Preserving Habituation in Market Research
 
-## Implications for Market Research
+Firms can protect this critical developmental process through:
 
-For market research professionals, understanding the habituation process is crucial for:
+- **Progressive responsibility models**: Gradually increasing task complexity as researchers develop
+- **Deliberate friction points**: Preserving foundational tasks that build analytical intuition
+- **Error normalization**: Creating safe spaces for meaningful mistakes and learning
+- **Case-based learning**: Structuring development around diverse real-world examples
 
-- Designing research tools that preserve opportunities for skill development
-- Recognizing how AI-augmented tools might affect researchers' capacity development
-- Understanding how consumer environments affect decision-making capacities
-- Developing training programs that support proper habituation of research skills
+## Cross-References
 
-## Related Concepts
+The habituation process works with [[agential-control]], [[intersubjectivity-in-skilling]], and [[embodiment-in-skilling]] to form the complete framework for human capacity development. It is particularly threatened in **capacity-hostile environments** but can be preserved through **capacity-conducive environments** as documented in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-See [[agential-control]], [[intersubjectivity-in-skilling]], and [[embodiment-in-skilling]] for related frameworks.
+## Practical Implications
 
-## Sources
+For market research professionals, preserving the habituation process means:
+- Resisting the temptation to automate foundational analytical tasks
+- Creating structured pathways for junior researchers to develop through practice
+- Valuing 'struggle time' as essential for capacity development
+- Designing AI tools that extend rather than replace the learning journey
 
-- Dreyfus, H. L., & Dreyfus, S. E. (1986). Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer. Blackwell.
-- MacIntyre, A. (2017). Ethics in the Conflicts of Modernity: An Essay on Desire, Practical Reasoning, and Narrative. Cambridge University Press.
-- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+Without these protections, the industry risks creating researchers who lack the deep intuition needed to navigate complex, novel research challenges—precisely when AI systems reach their limits.

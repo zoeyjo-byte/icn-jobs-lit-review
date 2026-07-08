@@ -1,61 +1,52 @@
-## Ramp-Revelio 2026 AI Jobs Impact Study
+# Ramp-Revelio (2026): AI Jobs Impact Study
 
-**First Observed:** 2026-07-03
-**Last Updated:** 2026-07-03
+## Study Overview
 
-### Overview
-A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records. Unlike previous studies relying on occupational exposure measures, this research uses actual firm-level AI spending data from Ramp's financial operations platform combined with Revelio Labs' workforce records to measure true adoption intensity.
+This comprehensive analysis of 21,559 U.S. firms represents a methodological breakthrough in AI impact research by using **observed AI spending data** rather than occupational exposure scores. Conducted by Ara Kharazian (Ramp), Lisa Simon (Revelio Labs), and Ryan Stevens (Ramp), the study links Ramp's corporate payment records with Revelio Labs' workforce data to track actual AI adoption and its employment consequences.
 
-### Methodology
-- Combined Ramp line-item spending data (identifying AI vendor payments) with Revelio Labs workforce records
-- Defined AI adoption as first month of earliest three-consecutive-month spell with ≥$100 AI spend monthly
-- Measured adoption intensity as monthly AI spend per employee (PEPM) over first three post-adoption months
-- Used Callaway-Sant'Anna methodology for staggered adoption timing, comparing earlier adopters to later adopters in same intensity group
-- Analyzed employment changes across 24 months post-adoption
+## Methodological Innovation
 
-### Key Findings
+The study introduces the **AI spend per employee methodology (PEPM)**, measuring adoption intensity as monthly AI vendor spend per employee over the first three months after adoption begins. This approach overcomes the [[ai-adoption-selection-bias]] that plagues exposure-based studies by capturing actual firm behavior:
 
-#### Employment Growth Patterns
-- [[high-intensity-ai-adopters]] grew total headcount by **10.2%** over 24 months post-adoption
-- [[entry-level-jobs]] headcount rose **12.0%** among high-intensity adopters
-- Effects follow a learning curve, becoming significant at 6-12 months as firms establish best practices
-- [[low-intensity-ai-adopters]] showed no statistically significant headcount changes
+- **Treatment definition**: Sustained adoption = three consecutive months of ≥$100 AI spend
+- **Intensity measure**: PEPM = (sum of first 3 months' AI spend) / (3 × baseline headcount)
+- **High-intensity adopters**: Top PEPM tercile ($33.67/employee/month)
+- **Low-intensity adopters**: Bottom two PEPM terciles ($2.78/employee/month)
 
-#### Role-Specific Impacts
-- Broad growth across functions: sales (+10.3%), administration (+7.8%), engineering (+7.3%)
-- Entry-level engineering headcount increased by 6.3%
-- Customer service headcount rose by 6.3%
-- Scientist headcount grew by 5.6%
-- Operations was the only category without significant growth
+This represents a significant [[ai-adoption-methodological-innovation]] over prior research that relied on theoretical exposure scores.
 
-#### Sectoral Differences
-- Gains concentrated in [[information-sector]] firms (13.4% headcount growth)
-- Professional and technical services showed positive but insignificant growth
-- Other sectors showed minimal or imprecise effects
-- Reflects current AI use case maturity in software and media sectors
+## Key Findings
 
-### Methodological Contributions
-- Introduced [[ai-spend-per-employee-methodology]] as direct measure of adoption intensity
-- Demonstrated limitations of occupational exposure scores and survey-based adoption measures
-- Provided evidence that AI adoption measurement approach fundamentally shapes conclusions
-- Showed AI adoption is highly selected - adopters are larger, more technical, faster-growing firms
+### Employment Impact
+- **High-intensity adopters** grew total headcount by **10.2%** over 24 months
+- **Entry-level headcount** rose **12.0%** among high-intensity adopters
+- Gains emerged gradually, reaching **32% growth by month 18**
+- Employment growth was **broad across roles**: engineering (+7.3%), sales (+10.3%), admin (+7.8%), customer service (+6.3%)
+- **Low-intensity adopters** showed **no statistically significant changes**
 
-### Implications for Market Research
-This study challenges predictions of widespread job losses from AI, showing instead that intensive AI adopters expand their workforce. For market research professionals, it suggests:
-- AI adoption may create new entry points rather than eliminate junior roles
-- Firms should focus on building capacity for AI integration rather than fearing displacement
-- The [[value-chain-shift]] in research organizations will likely follow similar growth patterns
-- Measurement methodology critically affects skills gap analysis conclusions
+### Sectoral Distribution
+- Gains concentrated in **Information sector** (+13.4% headcount growth)
+- Professional/technical services showed positive but insignificant growth
+- Other sectors showed minimal or negative effects
 
-### Related Figures
-- See [[ramp-revelio-2026-ai-jobs-impact-study-fig-1-ai-adoption-benchmarks|Figure 1: AI Adoption Benchmarks]]
-- See [[ramp-revelio-2026-ai-jobs-impact-study-fig-2-ai-adoption-by-sector|Figure 2: AI Adoption by Sector]]
-- See [[ramp-revelio-2026-ai-jobs-impact-study-fig-6-total-headcount|Figure 6: Total Headcount]]
-- See [[ramp-revelio-2026-ai-jobs-impact-study-fig-7-entry-level-headcount|Figure 7: Entry-Level Headcount]]
+### Selection Effects
+The study documents substantial [[ai-adoption-selection-bias]]:
+- AI adopters were already **larger** (144 vs. 104 employees), **more technical** (26.8% vs. 18.6% engineering share), and **faster-growing** (6.0% vs. 1.6% YoY) before adoption
+- Adoption rates highest in **Information** (53.7%), **Finance** (43.6%), and **Professional Services** (36.0%)
+- Firms with 250+ employees adopted at **41-43%** vs. **12%** for <10 employee firms
 
-### Related Studies
-- [[pwc-2026-global-ai-jobs-barometer]]
-- [[burning-glass-beyond-binary]]
+## Implications for Market Research
 
-### Update
-2026-07-03: Added detailed findings on role-specific impacts and sectoral differences from full paper analysis.
+This research challenges simplistic narratives about AI and jobs:
+- Contradicts the [[entry-level-squeeze]] hypothesis by showing **entry-level growth** at high-intensity adopters
+- Explains the [[human-operating-model-gap]] through methodological limitations in prior studies
+- Highlights how [[methodological-heterogeneity-in-ai-studies]] produces conflicting findings (exposure scores vs. actual spending)
+- Suggests market research firms should focus on **high-intensity AI adoption** to realize employment benefits
+
+## Cross-References
+
+The study's findings on employment growth complement Ferdman's (2026) analysis of capacity development risks. While showing short-term employment gains, it raises questions about long-term human capital development documented in [[ferdman-2026-ai-deskilling-structural-problem]]. The PEPM methodology represents a critical advance over exposure scores used in [[pwc-2026-global-ai-jobs-barometer]].
+
+## Citation
+
+Kharazian, A., Simon, L., & Stevens, R. (2026). A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment. Ramp/Revelio Labs.

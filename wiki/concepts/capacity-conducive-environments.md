@@ -1,54 +1,62 @@
 # Capacity-Conducive Environments
 
-Capacity-conducive environments are socio-technical contexts that actively encourage the development and exercise of core human capacities. This concept, developed in contrast to [[capacity-hostile-environments]], provides a normative framework for designing AI systems that support rather than undermine human flourishing.
+## Definition
 
-## Definition and Characteristics
+Environments that **actively encourage the development and exercise of human capacities** through rich opportunities for embodied interaction, intersubjective learning, and meaningful habituation. These environments provide a broad field of affordances that invite and support the cultivation of core human capacities, as contrasted with [[capacity-hostile-environments]] in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-A capacity-conducive environment:
+## Key Characteristics
 
-1. **Expands action possibilities**: Provides rich opportunities to engage in activities requiring competent exercise of human capacities
-2. **Supports deep skilling**: Affords pathways for well-rounded development and mastery of capacities
-3. **Facilitates habituation**: Creates conditions for the gradual, intersubjective process of becoming skilled
-4. **Encourages shared valuing**: Provides contexts where the value of capacities is collectively recognized and reinforced
+1. **Broad affordance fields**: Provide diverse action possibilities for capacity-triggering activities
+2. **Embodied interaction**: Support physical presence and sensory experience essential for social capacities
+3. **Intersubjective scaffolding**: Facilitate mentorship and shared valuing of capacities
+4. **Agential control opportunities**: Allow adjustment of actions during performance
+5. **Gradual habituation pathways**: Structure practice opportunities that build from novice to expert
 
-These environments recognize that the proper cultivation of core capacities depends on inhabiting spaces that afford sufficient invitations for valuable activities.
+## Design Principles for Market Research
 
-## Key Components
+Capacity-conducive environments in insights organizations feature:
 
-Three essential elements characterize capacity-conducive environments:
+- **Structured mentorship programs** where senior researchers guide juniors through the full analytical process rather than delivering AI-generated insights
+- **Hybrid research methodologies** that blend AI efficiency with embodied client interactions
+- **Deliberate 'friction points'** in workflows that require human judgment and decision-making
+- **Community spaces** (physical and virtual) that foster shared understanding of research values
+- **Progressive responsibility models** where junior researchers gradually assume more complex tasks
 
-1. **Embodied engagement**: Spaces that encourage physical presence and interaction, recognizing that "being embodied is critical for becoming skilled" in social and moral capacities
-2. **Intersubjective learning**: Contexts that support mentor-mentee relationships and shared understanding of both the product of skilled activity and the skill itself
-3. **Volitional encouragement**: Environments that invite users to exercise their capacity to will, rather than making decisions for them
+## Contrast with Capacity-Hostile Environments
 
-## Examples in Practice
+Unlike [[capacity-hostile-environments]], which narrow affordance fields through automation, capacity-conducive environments:
+- Preserve opportunities for **embodiment-in-skilling** through meaningful face-to-face interactions
+- Strengthen **intersubjectivity-in-skilling** by creating shared experiences around research practice
+- Support **agential control** through flexible workflows that allow adjustment during analysis
+- Honor the **habituation process** by providing graduated practice opportunities
 
-Effective capacity-conducive environments include:
+## Implementation Framework
 
-- **Community centers and public spaces**: That encourage structured and unstructured embodied interactions
-- **Public libraries**: That afford opportunities for reading while also providing social contexts for discussing ideas
-- **AI-augmented professional tools**: That preserve opportunities for practitioners to develop expertise while benefiting from automation of routine tasks
+Creating capacity-conducive environments requires intentional design across four dimensions:
 
-## Design Principles for AI Systems
+1. **Tool design**: AI systems should augment rather than replace capacity-triggering activities
+2. **Workflow architecture**: Preserve critical path activities that develop core capacities
+3. **Mentorship structures**: Formalize intersubjective learning through guided practice
+4. **Evaluation metrics**: Assess capacity development alongside productivity metrics
 
-When designing AI systems, capacity-conducive approaches would:
+For example, a capacity-conducive insight generation workflow might:
+- Have junior researchers develop initial hypotheses manually
+- Use AI to expand research scope, not replace analysis
+- Require researchers to explain AI suggestions to mentors
+- Gradually increase complexity of AI-assisted tasks
 
-- Preserve opportunities for users to exercise agential control
-- Create space for habituation through graduated challenges
-- Support intersubjective learning rather than replacing human mentors
-- Encourage embodied interaction where appropriate
-- Avoid creating "affordance shrinkage" that systematically reduces action possibilities
+## Evidence from Research
 
-## Implications for Market Research
+The [[ramp-revelio-2026-ai-jobs-impact-study]] shows high-intensity AI adopters grew entry-level roles by 12.0%, suggesting capacity-conducive implementation is possible. However, Ferdman (2026) warns that without intentional design, AI adoption may create environments that undermine the long-term development of human capacities despite short-term employment gains.
 
-For market research professionals, capacity-conducive environments are essential for maintaining high-quality insights. Research tools that preserve opportunities for researchers to develop critical thinking and analytical skills will ultimately produce more valuable insights than those that completely automate the research process.
+## Strategic Importance
 
-Additionally, understanding how consumer environments affect capacity development can inform more nuanced interpretations of consumer behavior and decision-making.
+For market research firms, capacity-conducive environments represent a strategic imperative:
+- Preserve the human capacities that differentiate premium insights
+- Mitigate the [[human-operating-model-gap]] between AI capabilities and human systems
+- Counteract the [[entry-level-squeeze]] by creating meaningful developmental pathways
+- Build sustainable advantage through irreplaceable human expertise
 
-## Related Concepts
+## Cross-References
 
-See [[capacity-hostile-environments]], [[habituation-process]], and [[intersubjectivity-in-skilling]] for related frameworks.
-
-## Sources
-
-- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+This concept provides the positive counterpart to [[capacity-hostile-environments]] and operationalizes the structural solution to the [[ai-deskilling-structural-problem]]. It represents the environmental conditions necessary for realizing the benefits of AI while preserving human capacities documented in [[ferdman-2026-ai-deskilling-structural-problem]].

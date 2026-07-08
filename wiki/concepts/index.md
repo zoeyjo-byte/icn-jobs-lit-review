@@ -12,15 +12,15 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[value-chain-shift]] | 2026-06-28 | 2026-07-03 | The value chain shift refers to the fundamental repositioning of where value is created within market research and insights organizations as AI capabilities advance. |
 | [[human-operating-model-gap]] | 2026-06-28 | 2026-07-03 | The human operating model gap refers to the growing disparity between the rapid advancement of AI capabilities and the slower adaptation of human systems, processes, and skills required to leverage AI effectively within organizations. |
 | [[entry-level-squeeze]] | 2026-06-28 | 2026-07-03 | The entry-level squeeze describes the growing pressure on traditional entry-level positions in knowledge work as AI capabilities automate foundational tasks that historically served as training grounds for developing professional expertise. |
-| [[capacity-hostile-environments]] | 2026-07-03 | 2026-07-03 | Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. |
-| [[capacity-conducive-environments]] | 2026-07-03 | 2026-07-03 | Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. |
-| [[agential-control]] | 2026-07-03 | 2026-07-03 | The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. |
-| [[habituation-process]] | 2026-07-03 | 2026-07-03 | The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. |
-| [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-03 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
-| [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-03 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
-| [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-03 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
-| [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-03 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
-| [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-03 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
-| [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-03 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
+| [[capacity-hostile-environments]] | 2026-07-03 | 2026-07-10 | Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. |
+| [[capacity-conducive-environments]] | 2026-07-03 | 2026-07-10 | Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. |
+| [[agential-control]] | 2026-07-03 | 2026-07-10 | The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. |
+| [[habituation-process]] | 2026-07-03 | 2026-07-10 | The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. |
+| [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-10 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
+| [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-10 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
+| [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-10 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
+| [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-10 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
+| [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-10 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
+| [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-10 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
 
 See [[index|Home]] for the full catalog.

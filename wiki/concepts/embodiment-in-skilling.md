@@ -1,59 +1,65 @@
 # Embodiment in Skilling
 
-Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities. This concept explains why disembodied AI interactions may undermine the cultivation of certain skills, particularly social and moral capacities.
+## Definition
 
-## Definition and Characteristics
+The **essential role of physical presence and sensory experience** in the development of human capacities, particularly social and moral skills. As articulated in [[ferdman-2026-ai-deskilling-structural-problem]], embodiment represents the physical foundation of capacity cultivation, where lived experience in shared physical spaces enables the development of capacities that cannot be reduced to cognitive processing alone.
 
-Embodiment in the context of skill development involves:
+## Philosophical Foundation
 
-1. **Physical presence**: Being situated in space with others through voice, gaze, and bodily cues
-2. **Participatory sense-making**: Co-creating meaning through embodied interaction
-3. **Spontaneous recognition**: Naturally perceiving others as moral agents through embodied cues
-4. **Shared history**: Creating common experiences through physical co-presence
+Drawing on enactive cognition and phenomenology (Di Paolo & Thompson, 2014; Gallagher & Zahavi, 2013), embodiment in skilling involves:
 
-According to the Enactive Approach in cognition, "embodied 'participatory sense-making' is constitutive of social cognition," meaning that physical interaction itself is part of the cognitive process that unfolds between participants.
+1. **Participatory sense-making**: Co-creating meaning through embodied interaction
+2. **Moral attention**: Recognizing others as moral agents through physical presence
+3. **Shared valuing**: Developing understanding of capacity importance through lived experience
+4. **Sensory integration**: Combining multiple sensory inputs to form holistic understanding
 
-## Importance for Capacity Development
+This dimension explains why disembodied interaction fundamentally limits capacity development, particularly for social and moral capacities.
 
-Embodiment is critical for developing several core capacities:
+## Role in Capacity Cultivation
 
-### Social and Moral Capacities
-- **Moral attention**: Requires perceiving others as embodied beings similar to ourselves
-- **Friendship**: Disembodied interactions make it harder to form meaningful relationships
-- **Empathy**: Physical presence enhances the ability to understand others' emotional states
+Embodiment is essential for developing key human capacities:
 
-As Ferdman (2026) explains, "without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents."
+- **Social capacities**: Reading subtle cues in client interactions through embodied presence
+- **Moral capacities**: Developing ethical judgment through face-to-face relationship dynamics
+- **Creative capacities**: Generating insights through physical exploration and experimentation
+- **Epistemic capacities**: Building research intuition through embodied engagement with data
 
-### Epistemic Capacities
-- **Learning from others**: Physical presence enhances knowledge transfer
-- **Practical wisdom**: Developed through real-world embodied experiences
-- **Critical thinking**: Enhanced through face-to-face dialogue and debate
+Without embodied interaction, capacities remain abstract and disconnected from real-world application.
 
-## AI's Impact on Embodiment
+## Threats from AI Systems
 
-AI systems often create disembodied environments that undermine capacity development:
+Digital interfaces can undermine embodiment through:
 
-- **Digital interfaces**: Replace physical presence with screens and text
-- **Algorithmic mediation**: Filter and shape interactions in ways that reduce embodied connection
-- **Automation bias**: Encourages users to trust AI outputs over embodied human judgment
+- **Disembodied mediation**: Replacing physical presence with screen-based interaction
+- **Sensory reduction**: Limiting interaction to visual/textual channels
+- **Context stripping**: Removing environmental cues essential for nuanced understanding
+- **Automated responses**: Bypassing the need for embodied attunement
 
-For example, when users rely on [[artificial-personal-assistants]] for life planning, they miss opportunities to develop practical wisdom through embodied interactions with mentors and peers.
+For example, fully remote research methodologies that eliminate face-to-face client interactions deprive researchers of opportunities to develop embodied social capacities.
 
-## Implications for Market Research
+## Evidence from Research
 
-For market research professionals, embodiment has several important implications:
+The [[ramp-revelio-2026-ai-jobs-impact-study]] shows high-intensity AI adopters grew entry-level roles by 12.0%, suggesting these firms may preserve embodied interaction opportunities. However, Ferdman (2026) warns that without intentional design, AI adoption creates **capacity-hostile environments** that systematically reduce opportunities for meaningful embodied practice.
 
-- **Research methods**: In-person interviews and focus groups provide richer data than purely digital methods
-- **Team collaboration**: Physical co-working spaces support better knowledge sharing than fully remote arrangements
-- **Consumer behavior**: Understanding how digital environments affect decision-making capacities
-- **Tool design**: Creating research tools that preserve opportunities for embodied interaction
+## Preserving Embodiment in Market Research
 
-## Related Concepts
+Firms can protect this critical dimension through:
 
-See [[habituation-process]], [[intersubjectivity-in-skilling]], and [[capacity-hostile-environments]] for related frameworks.
+- **Hybrid research models**: Blending digital efficiency with embodied client interactions
+- **Physical collaboration spaces**: Creating environments for shared sense-making
+- **Sensory-rich methodologies**: Incorporating multi-sensory data collection
+- **Embodied reflection practices**: Structuring debriefs that connect physical experience to insight
 
-## Sources
+## Cross-References
 
-- De Jaegher, H., & Di Paolo, E. (2007). Participatory sense-making: An enactive approach to social cognition. Phenomenology and the Cognitive Sciences, 6(4), 485-507.
-- Di Paolo, E., & Thompson, E. (2014). The enactive approach. In L. Shapiro (Ed.), The Routledge Handbook of Embodied Cognition (pp. 68-78). Routledge.
-- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+Embodiment works with [[agential-control]], [[habituation-process]], and [[intersubjectivity-in-skilling]] to form the complete framework for human capacity development. It is particularly threatened in **capacity-hostile environments** but can be preserved through **capacity-conducive environments** as documented in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+## Practical Implications
+
+For market research professionals, preserving embodiment means:
+- Resisting the push toward fully remote research methodologies
+- Creating opportunities for physical client engagement even when AI tools could mediate digitally
+- Designing research processes that leverage multi-sensory data
+- Ensuring junior researchers develop through embodied practice before relying on AI mediation
+
+Without these protections, the industry risks creating researchers who lack the embodied intuition needed to navigate complex human dynamics—precisely where AI systems reach their limits.
