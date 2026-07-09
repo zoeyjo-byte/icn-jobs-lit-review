@@ -1,64 +1,46 @@
 # Agential Control
 
 ## Definition
-
-The **ability to adjust the execution of an action as the performance unfolds**, a key component that distinguishes skills from habits and capacities from automated behaviors. As defined in [[ferdman-2026-ai-deskilling-structural-problem]], agential control represents the executive dimension of skilled performance where agents maintain active oversight throughout an activity.
+Agential control is the ability to adjust the execution of an action as the performance unfolds. It represents a key distinction between skills (which require control) and habits (which are triggered by environmental cues).
 
 ## Philosophical Foundation
+From Ferdman (2026):
+> "To be skilled in something is to have agential control over it, the ability to adjust the execution of the action as the performance unfolds. As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning."
 
-Drawing on skill philosophy (Dreyfus & Dreyfus, 1986; Sherman, 1991), agential control involves:
-- **Initiation control**: Ability to start the activity voluntarily
-- **Adjustment capacity**: Flexibility to modify execution based on unfolding circumstances
-- **Termination agency**: Power to stop or redirect the activity
-- **Metacognitive oversight**: Awareness of one's performance quality
+## Key Characteristics
 
-This contrasts with habitual behavior, which is triggered by environmental cues without conscious initiation or adjustment.
+### Skill vs. Habit Distinction
+- **Skills**: Require control over initiating the task (agent has full control)
+- **Habits**: Elicited in response to environmental triggers (agent performs in response)
 
-## Role in Capacity Cultivation
+### Development Process
+- Balance between automaticity and control shifts through tuning/attuning
+- Flexible links between thought and action continue evolving after expertise
+- Enables novel behavior that distinguishes skilled agents from reliable automatons
 
-Agential control is essential for developing and exercising core human capacities:
+## AI Context
 
-1. **Epistemic capacities**: Adjusting research questions based on emerging data
-2. **Social capacities**: Modifying communication style during client interactions
-3. **Creative capacities**: Iterating on insight development through unexpected connections
-4. **Volitional capacity**: Persisting through challenging analytical problems
+### Threats to Agential Control
+- **Plan-following vs. plan-forming**: AI systems that generate complete plans transform users from 'plan-formers' to 'plan-followers'
+- **Automation bias**: Users attribute excessive trust to AI tools over their own judgment
+- **Responsibility displacement**: When AI-generated plans fail, users shift blame to the system
 
-Without opportunities to exercise agential control, individuals cannot develop the **habituation process** necessary for expertise.
+### Market Research Implications
+- AI research tools that provide definitive answers undermine researchers' agential control over interpretation
+- Automated analysis systems that replace judgment development opportunities
+- Recommendation engines that narrow researchers' decision-making practice
 
-## Threats from AI Systems
+## Connection to Capacity Cultivation
+Agential control is foundational to capacity cultivation because:
+- Without initiating control, habituation process is undermined
+- Capacity development requires adjusting execution based on feedback
+- Volitional capacity (willpower) exercise depends on initiating activities
 
-AI tools can undermine agential control through:
+## Related Concepts
+- Essential component of [[capacity-skilling]] framework
+- Contrasted with habit formation in [[habituation-process]]
+- Critical for avoiding [[capacity-hostile-environments]]
+- Necessary for developing [[practical-wisdom]]
 
-- **Automated decision pathways**: Pre-determined analytical sequences that limit adjustment opportunities
-- **Black-box outputs**: Insights presented without transparent reasoning, reducing metacognitive oversight
-- **Trigger-response design**: Interfaces that encourage habitual interaction rather than intentional action
-- **Over-automation**: Removing the need to initiate or adjust analytical processes
-
-For example, AI-powered insight generation tools that deliver final conclusions without showing intermediate reasoning deprive researchers of opportunities to exercise agential control over the analytical process.
-
-## Evidence from Research
-
-The [[ramp-revelio-2026-ai-jobs-impact-study]] documents how high-intensity AI adopters grew entry-level roles by 12.0%, suggesting these firms may preserve agential control opportunities. However, Ferdman (2026) warns that without intentional design, AI adoption can create **capacity-hostile environments** that systematically reduce opportunities for agential control.
-
-## Preserving Agential Control in Market Research
-
-Firms can protect this critical capacity through:
-
-- **Transparent AI workflows**: Showing intermediate reasoning steps rather than just final outputs
-- **Adjustment checkpoints**: Requiring researcher validation at key decision points
-- **Progressive automation**: Starting with AI-assisted rather than AI-replaced tasks
-- **Metacognitive prompts**: Questions that encourage reflection on analytical choices
-
-## Cross-References
-
-Agential control represents the executive dimension of capacity cultivation, working with [[habituation-process]], [[intersubjectivity-in-skilling]], and [[embodiment-in-skilling]] to form the complete framework for human capacity development. It is particularly threatened in **capacity-hostile environments** but can be preserved through **capacity-conducive environments** as documented in [[ferdman-2026-ai-deskilling-structural-problem]].
-
-## Practical Implications
-
-For market research professionals, maintaining agential control means:
-- Never accepting AI outputs without understanding the reasoning path
-- Preserving opportunities to adjust research direction based on emerging insights
-- Creating workflows where junior researchers develop adjustment capacity before automation
-- Designing AI tools that enhance rather than replace executive oversight
-
-Without these protections, the industry risks creating a generation of researchers who lack the capacity to navigate unexpected analytical challenges when AI systems fail.
+## Update
+2026-07-15: Expanded with Ferdman's (2026) detailed analysis of agential control as the key distinction between skills and habits, including AI-specific threats and market research implications.

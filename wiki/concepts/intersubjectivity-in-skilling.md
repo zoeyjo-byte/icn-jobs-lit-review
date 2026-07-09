@@ -1,65 +1,61 @@
 # Intersubjectivity in Skilling
 
 ## Definition
+Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and transmit the value of the skill. It represents the social component of habituation that cannot be replicated in isolation.
 
-The **shared understanding dimension of skill development**, where learning occurs through relationships with others who guide and share the value of the skill. As defined in [[ferdman-2026-ai-deskilling-structural-problem]], intersubjectivity represents the social foundation of capacity cultivation, where mentors help novices internalize not just technical competence but the intrinsic value of the capacity.
+## Key Characteristics
 
-## Philosophical Foundation
+### Mentor-Mentee Relationship
+- Mentors instill both mechanical aspects of skill and its value
+- Shared intentions develop between mentor and mentee
+- 'Shared valuing' of both the skill's output and the skill itself emerges
+- Mentors help cultivate proper motivational structure for skill development
 
-Drawing on social epistemology and skill philosophy (MacIntyre, 2017; Manne, 2013), intersubjectivity in skilling involves:
+### Societal Dimension
+- Social practices performed by groups/societies provide mentoring environments
+- Family, colleagues, and citizens create 'common life' practices
+- Social practices generate moral reasons for action (Manne 2013)
+- Learning occurs through 'practices of the common life' (MacIntyre 2017)
 
-1. **Shared valuing**: Internalizing why a capacity matters beyond instrumental utility
-2. **Mentorship relationships**: Guided practice where experts model skilled performance
-3. **Social practices**: Community norms that reinforce capacity development
-4. **Intersubjective validation**: Feedback that helps learners assess their progress
+## AI Threats
 
-This dimension explains why capacities cannot be reduced to isolated competencies—they are embedded in social contexts that give them meaning.
+### Reduced Mentorship Opportunities
+- AI tools replace human interaction necessary for skill transmission
+- Shared valuing of capacities cannot develop through human-AI interaction
+- Value transmission about why capacities matter is undermined
 
-## Role in Capacity Cultivation
+### APA Case Study
+Artificial Personal Assistants undermine intersubjectivity by:
+- Replacing human mentors in life-planning and decision-making
+- Creating environments where users interact primarily with non-human agents
+- Limiting opportunities to develop shared valuing of planning capacities
+- Reducing embodied interaction necessary for moral/social skill development
 
-Intersubjectivity is essential for developing all core human capacities:
+## Market Research Implications
 
-- **Epistemic capacities**: Learning research standards through peer review and critique
-- **Social capacities**: Developing relationship skills through embodied interaction
-- **Creative capacities**: Building innovation through collaborative exploration
-- **Volitional capacity**: Strengthening willpower through shared purpose
+### Critical Loss Areas
+- Mentorship in research design and interpretation
+- Transmission of research ethics and values
+- Development of shared understanding about research quality
+- Building of research communities with common practices
 
-Without intersubjective learning, capacities remain shallow and disconnected from their social purpose.
+### Mitigation Strategies
+- Preserve human mentorship structures alongside AI tools
+- Create research communities of practice that share valuing
+- Design AI tools that augment rather than replace human interaction
+- Ensure research training includes intersubjective learning components
 
-## Threats from AI Systems
+## Connection to Deskilling
+Intersubjectivity is crucial for understanding [[ai-deskilling-structural-problem]] because:
+- Without shared valuing, capacity development loses motivation
+- Capacity-hostile environments undermine intersubjective learning
+- Deskilling becomes self-reinforcing when value transmission breaks down
 
-AI tools can undermine intersubjectivity through:
+## Related Concepts
+- Essential component of [[habituation-process]]
+- Critical for avoiding [[capacity-hostile-environments]]
+- Undermined by AI systems creating [[affordance-shrinkage]]
+- Necessary for developing [[practical-wisdom]] in research contexts
 
-- **Disembodied interaction**: Replacing human mentors with algorithmic guidance
-- **Value-neutral outputs**: Delivering solutions without conveying why they matter
-- **Individualized learning**: Reducing opportunities for shared practice and critique
-- **Decontextualized advice**: Providing technical solutions without social grounding
-
-For example, AI-powered research assistants that deliver insights without explaining their significance deprive learners of the intersubjective dimension of research practice.
-
-## Evidence from Research
-
-The [[ramp-revelio-2026-ai-jobs-impact-study]] shows high-intensity AI adopters grew entry-level roles by 12.0%, suggesting these firms may preserve mentorship structures. However, Ferdman (2026) warns that without intentional design, AI adoption creates **capacity-hostile environments** that systematically reduce opportunities for meaningful intersubjective learning.
-
-## Preserving Intersubjectivity in Market Research
-
-Firms can protect this critical dimension through:
-
-- **Structured mentorship programs**: Formalizing guidance relationships around capacity development
-- **Shared critique sessions**: Creating spaces for collective evaluation of research outputs
-- **Value articulation**: Explicitly discussing why research capacities matter beyond task completion
-- **Community building**: Fostering shared understanding of research excellence
-
-## Cross-References
-
-Intersubjectivity works with [[agential-control]], [[habituation-process]], and [[embodiment-in-skilling]] to form the complete framework for human capacity development. It is particularly threatened in **capacity-hostile environments** but can be preserved through **capacity-conducive environments** as documented in [[ferdman-2026-ai-deskilling-structural-problem]].
-
-## Practical Implications
-
-For market research professionals, preserving intersubjectivity means:
-- Never replacing human mentorship with AI guidance for foundational capacity development
-- Creating opportunities for shared critique and value discussion around research practice
-- Ensuring AI tools enhance rather than replace the social dimension of learning
-- Designing workflows that maintain the 'common life' of research practice
-
-Without these protections, the industry risks creating technically competent researchers who lack the shared understanding of why their work matters—undermining the very purpose of market insights.
+## Update
+2026-07-15: Expanded with Ferdman's (2026) detailed analysis of intersubjectivity as comprising mentor-mentee relationships and societal practices, including AI-specific threats and market research mitigation strategies.
