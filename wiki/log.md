@@ -20,3 +20,4 @@ Chronological record of every ingest operation.
 2026-07-07: Ingested ramp-revelio-ai-jobs-impact-2026.txt. Created 7 figure pages, updated 5 wiki pages (study, role, methodology, entities). Synthesized findings on AI adoption intensity effects with existing concepts like entry-level-squeeze and value-chain-shift. Verified all new pages have incoming wikilinks.
 2026-07-08: Ingested ramp-revelio-ai-jobs-impact-2026.txt, s00146-025-02686-z.txt. Created 1, updated 13. Synthesized findings from Ramp-Revelio employment study and Ferdman's structural deskilling analysis, resolving apparent contradiction between employment growth and capacity erosion risks. Updated concepts to reflect methodological innovations in AI adoption measurement and structural dimensions of capacity development.
 2026-07-09: Ingested ramp-revelio-ai-jobs-impact-2026.txt. Created 7, updated 3.
+2026-07-09: Ingested s00146-025-02686-z.figures.md. Created 0, updated 1.
