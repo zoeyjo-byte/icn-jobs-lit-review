@@ -1,52 +1,42 @@
-# Ramp-Revelio (2026): AI Jobs Impact Study
+# Ramp-Revelio 2026 AI Jobs Impact Study
 
-## Study Overview
+## Overview
+A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records. Published June 30, 2026 by Ara Kharazian (Ramp), Lisa Simon (Revelio Labs), and Ryan Stevens (Ramp).
 
-This comprehensive analysis of 21,559 U.S. firms represents a methodological breakthrough in AI impact research by using **observed AI spending data** rather than occupational exposure scores. Conducted by Ara Kharazian (Ramp), Lisa Simon (Revelio Labs), and Ryan Stevens (Ramp), the study links Ramp's corporate payment records with Revelio Labs' workforce data to track actual AI adoption and its employment consequences.
-
-## Methodological Innovation
-
-The study introduces the **AI spend per employee methodology (PEPM)**, measuring adoption intensity as monthly AI vendor spend per employee over the first three months after adoption begins. This approach overcomes the [[ai-adoption-selection-bias]] that plagues exposure-based studies by capturing actual firm behavior:
-
-- **Treatment definition**: Sustained adoption = three consecutive months of ≥$100 AI spend
-- **Intensity measure**: PEPM = (sum of first 3 months' AI spend) / (3 × baseline headcount)
-- **High-intensity adopters**: Top PEPM tercile ($33.67/employee/month)
-- **Low-intensity adopters**: Bottom two PEPM terciles ($2.78/employee/month)
-
-This represents a significant [[ai-adoption-methodological-innovation]] over prior research that relied on theoretical exposure scores.
+## Methodology
+- Linked Ramp's line-item spending data (identifying payments to AI vendors) with Revelio Labs' workforce records
+- Defined AI adoption as the first month of a three-consecutive-month spell where AI spend is at least $100 monthly
+- Measured adoption intensity as monthly AI spend per employee (PEPM) over first three months after adoption
+- Used Callaway-Sant'Anna framework for staggered treatment timing
+- Compared high-intensity adopters (top PEPM tercile) vs. low-intensity adopters (bottom two PEPM terciles)
 
 ## Key Findings
+- High-intensity AI adopters grew employment by 10.2% following adoption
+- Entry-level headcount rose 12.0% for high-intensity adopters
+- Employment gains were broad across roles: engineering (+7.3%), sales (+10.3%), administration (+7.8%), customer service (+6.3%)
+- Gains emerged gradually, following what appears to be a "learning curve" as firms integrated AI tools
+- AI adoption is highly selected - adopters are larger, more technical, faster-growing firms
+- Early employment gains are concentrated in Information sector (13.4% growth for high-intensity adopters)
+- Low-intensity adopters showed no statistically significant change in employment
 
-### Employment Impact
-- **High-intensity adopters** grew total headcount by **10.2%** over 24 months
-- **Entry-level headcount** rose **12.0%** among high-intensity adopters
-- Gains emerged gradually, reaching **32% growth by month 18**
-- Employment growth was **broad across roles**: engineering (+7.3%), sales (+10.3%), admin (+7.8%), customer service (+6.3%)
-- **Low-intensity adopters** showed **no statistically significant changes**
+## Methodological Innovations
+- First study to combine observed firm-level AI spending with workforce records at scale
+- Introduced PEPM (AI spend per employee) metric to measure adoption intensity
+- Addressed selection bias by comparing early adopters to later adopters in the same intensity group
+- Provided evidence against the prediction that AI adoption will lead to broad job losses
 
-### Sectoral Distribution
-- Gains concentrated in **Information sector** (+13.4% headcount growth)
-- Professional/technical services showed positive but insignificant growth
-- Other sectors showed minimal or negative effects
+## Related Concepts
+- [[high-intensity-ai-adopters]]
+- [[low-intensity-ai-adopters]]
+- [[ai-adoption-selection-bias]]
+- [[pepm-metric]]
+- [[callaway-santanna-framework]]
 
-### Selection Effects
-The study documents substantial [[ai-adoption-selection-bias]]:
-- AI adopters were already **larger** (144 vs. 104 employees), **more technical** (26.8% vs. 18.6% engineering share), and **faster-growing** (6.0% vs. 1.6% YoY) before adoption
-- Adoption rates highest in **Information** (53.7%), **Finance** (43.6%), and **Professional Services** (36.0%)
-- Firms with 250+ employees adopted at **41-43%** vs. **12%** for <10 employee firms
+## Related Figures
+- See [[ramp-revelio-2026-fig-1-ai-adoption-benchmarks|Figure 1: AI Adoption Benchmarks]]
+- See [[ramp-revelio-2026-fig-2-ai-adoption-by-sector|Figure 2: AI Adoption by Sector]]
+- See [[ramp-revelio-2026-fig-6-total-headcount|Figure 6: Total Headcount]]
+- See [[ramp-revelio-2026-fig-7-entry-level-headcount|Figure 7: Entry-Level Headcount]]
 
-## Implications for Market Research
-
-This research challenges simplistic narratives about AI and jobs:
-- Contradicts the [[entry-level-squeeze]] hypothesis by showing **entry-level growth** at high-intensity adopters
-- Explains the [[human-operating-model-gap]] through methodological limitations in prior studies
-- Highlights how [[methodological-heterogeneity-in-ai-studies]] produces conflicting findings (exposure scores vs. actual spending)
-- Suggests market research firms should focus on **high-intensity AI adoption** to realize employment benefits
-
-## Cross-References
-
-The study's findings on employment growth complement Ferdman's (2026) analysis of capacity development risks. While showing short-term employment gains, it raises questions about long-term human capital development documented in [[ferdman-2026-ai-deskilling-structural-problem]]. The PEPM methodology represents a critical advance over exposure scores used in [[pwc-2026-global-ai-jobs-barometer]].
-
-## Citation
-
-Kharazian, A., Simon, L., & Stevens, R. (2026). A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment. Ramp/Revelio Labs.
+## Update Log
+2026-07-15: Expanded with detailed methodology and key findings from source document.

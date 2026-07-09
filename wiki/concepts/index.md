@@ -22,5 +22,7 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-10 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
 | [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-10 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
 | [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-10 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
+| [[pepm-metric]] | 2026-07-15 | 2026-07-15 | PEPM (AI Spend Per Employee) metric measures the intensity of AI adoption at the firm level by calculating monthly AI vendor spend per employee over the first three months after sustained adoption begins. |
+| [[ai-adoption-intensity-terciles]] | 2026-07-15 | 2026-07-15 | Methodology categorizing firms based on AI adoption intensity, dividing them into high (top tercile) and low (bottom two terciles) intensity groups based on PEPM metric. |
 
 See [[index|Home]] for the full catalog.

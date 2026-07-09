@@ -27,5 +27,9 @@ Catalog of all figures extracted from source documents.
 | [[ramp-revelio-2026-ai-jobs-impact-study-fig-5-indexed-headcount-pre-trends-adopters-vs-not-yet]] | Figure 5: Indexed Headcount and Pre-Trends: AI Adopters vs. Not-Yet Adopters |
 | [[ramp-revelio-2026-ai-jobs-impact-study-fig-6-total-headcount]] | Figure 6: Total Headcount Event Study |
 | [[ramp-revelio-2026-ai-jobs-impact-study-fig-7-entry-level-headcount]] | Figure 7: Entry-Level Headcount Event Study |
+| [[ramp-revelio-2026-fig-1-ai-adoption-benchmarks]] | ramp-revelio-2026-fig-1-ai-adoption-benchmarks |
+| [[ramp-revelio-2026-fig-2-ai-adoption-by-sector]] | ramp-revelio-2026-fig-2-ai-adoption-by-sector |
+| [[ramp-revelio-2026-fig-6-total-headcount]] | ramp-revelio-2026-fig-6-total-headcount |
+| [[ramp-revelio-2026-fig-7-entry-level-headcount]] | ramp-revelio-2026-fig-7-entry-level-headcount |
 
 See [[index|Home]] for the full catalog.
