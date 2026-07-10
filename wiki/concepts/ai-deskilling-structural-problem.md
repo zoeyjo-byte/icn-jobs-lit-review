@@ -1,47 +1,61 @@
 # AI Deskilling Structural Problem
 
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-16
+
 ## Definition
-The AI deskilling structural problem refers to the phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, rather than through individual failings or choices.
 
-## Characteristics
-- Results from systemic environmental conditions rather than individual responsibility
-- Involves capacity-hostile environments that restrict affordances for capacity development
-- Creates a cycle where shallow capacity development leads to devaluation of capacities
-- Represents a structural issue requiring systemic solutions
+The AI deskilling structural problem refers to the phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, rather than through individual failings or choices. It represents a fundamental shift from viewing deskilling as an individual responsibility issue to recognizing it as a structural problem.
 
-## From Ferdman (2026)
-In "AI Deskilling is a Structural Problem," Ferdman provides the foundational analysis of this concept:
+## Key Insights
 
-1. **Beyond individual responsibility**: "Framing deskilling as a matter of individual responsibility—expecting people to simply will themselves to cultivate 'the arts of personhood'—overlooks crucial structural aspects of the problem."
+According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
 
-2. **Environmental dependence**: "To a large extent, we develop and exercise our epistemic, moral, social, and creative capacities in response to our social and material environment... A deficient environment can lead to deskilling of our core human capacities."
+- Deskilling should not be framed as a matter of **individual responsibility** where agents must will themselves to cultivate capacities
+- We develop and exercise capacities **in response to our social and material environment**
+- A deficient environment can lead to deskilling of core human capacities
+- The devaluation of capacities follows as they continue to weaken
+- Rather than focusing only on how agents engage with AI tools, we should ask **what kind of socio-technical environments would be best for cultivating personhood**
 
-3. **Capacity impoverishment**: "The deskilling of our core human capacities is bad because inadequate development of these capacities can lead to 'capacity impoverishment', which, in turn, diminishes us as humans and undermines our flourishing."
+## Why Deskilling is Harmful
 
-4. **Systemic conditions**: Ferdman argues that "AI's influence creates systemic conditions that could inhibit the development and exercise of human capacities by undermining the process of capacity cultivation."
+Deskilling is harmful because:
+- It **diminishes us as human beings**, undermining abilities in "the arts of personhood"
+- It erodes **epistemic, social, moral and creative capacities** required for practical reason
+- It undermines **self-worth, mutual respect, honesty and justice**
+- It leads to **capacity impoverishment**, which diminishes human flourishing
 
-## Evidence of Deskilling
-Ferdman cites multiple studies showing evidence of capacity erosion:
-- Erosion of critical thinking, decision-making and analytical reasoning
-- Diminished diagnostic reasoning and clinical judgment in healthcare
-- Declining retention of tacit knowledge and ethical sensitivity
-- Reduced moral judgment
+## Structural Dimensions
 
-## Implications for Market Research
-- Organizations must evaluate AI tools based on their conduciveness to capacity cultivation
-- Research methodologies should preserve opportunities for capacity development
-- Training programs need to counteract potential deskilling effects of AI tools
-- The industry should develop standards for capacity-conducive AI implementation
-- Structural solutions are needed rather than expecting researchers to be "virtuous superheroes"
+The structural nature of AI deskilling manifests through:
+
+### 1. Capacity-Hostile Environments
+- Environments that **restrict, limit, or create narrow fields of affordances** for capacity development
+- Environments that **undermine the habituation process** necessary for capacity cultivation
+- Environments that **discourage embodied interaction** essential for social capacities
+
+### 2. Affordance Shrinkage
+- Systematic, enduring reduction in action possibilities
+- Deeply entrenched limitations that discourage users from finding compensation
+- Cumulative effect of automation across multiple human spheres
+
+## Market Research Implications
+
+The AI deskilling structural problem explains:
+- The **entry-level squeeze** phenomenon where traditional training grounds disappear
+- Why the **human operating model gap** continues to widen despite individual efforts
+- The structural barriers to developing **critical thinking and ethical judgment** in AI-mediated research
+- Why simply training researchers on AI tools doesn't address the deeper capacity issues
 
 ## Related Concepts
+
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
 - [[agential-control]]
 - [[habituation-process]]
 - [[intersubjectivity-in-skilling]]
 - [[embodiment-in-skilling]]
-- [[artificial-personal-assistants]]
-
-## Update
-2026-07-15: Expanded with detailed analysis from Ferdman (2026), including the foundational framework, evidence of deskilling, and implications for market research.
+- [[human-capacities]]
+- [[developmental-perfectionism]]
+- [[entry-level-squeeze]]
+- [[human-operating-model-gap]]

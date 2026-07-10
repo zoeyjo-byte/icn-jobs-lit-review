@@ -1,40 +1,61 @@
 # Habituation Process
 
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-16
+
 ## Definition
-The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. It's the pathway through which humans develop mastery of capacities.
+
+The habituation process is the gradual development of skill through practice, involving inculcation through continued attunement to the demands of individual cases. It represents the essential pathway through which human capacities are cultivated and refined.
 
 ## Characteristics
-- Gradual and slow development over time
-- Requires concrete experience rather than abstract principles
-- Involves refinement through successive trials and learning from mistakes
-- Includes encountering and overcoming disappointment and failure
-- Develops through stages from novice to expert
 
-## From Ferdman (2026)
-In "AI Deskilling is a Structural Problem," Ferdman provides a detailed analysis of habituation as essential to capacity development:
+According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
 
-1. **Two key components**: Ferdman identifies "intersubjectivity and embodiment" as critical aspects of successful habituation.
+- Skill generally **cannot be learned through testimony** but requires practice
+- As we move through stages of skill development (novice to expert), we rely on **concrete experience rather than abstract principles**
+- Habituation involves **refinement through successive trials** and learning from mistakes
+- It includes **encountering and overcoming disappointment and failure**
+- Through habituation, we gain **experience, which requires considerable time and living**
 
-2. **Intersubjective dimension**: "Skill habituation has a 'shared understanding' dimension... becoming skilled typically requires a mentor to guide the novice... the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill."
+## Two Critical Components
 
-3. **Embodiment requirement**: "Being embodied is critical for becoming skilled insofar as the process of 'shared valuing' of the skill requires some degree of doing something with the mentor(s), creating a shared history and a participatory sense-making regarding both the product of the skill and the skill itself."
+The habituation process has two essential dimensions:
 
-4. **AI's impact**: Ferdman warns that "indiscriminately automating human activity may create capacity-hostile environments, insofar as users will be deprived of the habituation process necessary for properly developing the capacities involved in routine activities."
+### 1. Intersubjectivity
+- Becoming skilled typically requires a **mentor to guide the novice** into becoming an expert
+- The mentor instills not only mechanical aspects but **the value of the skill**
+- Both mentor and mentee develop **shared intentions and shared valuing** of the skill
+- Social practices performed by groups provide a **mentoring environment** at societal scale
 
-## Implications for Market Research
-- AI tools should preserve opportunities for researchers to undergo the habituation process
-- Mentorship programs remain critical even with AI assistance
-- Research training should maintain embodied learning experiences
-- Systems should not automate routine research tasks to the point where researchers miss habituation opportunities
-- Organizations should create environments that support the slow, gradual development of research skills
+### 2. Embodiment
+- Successful habituation requires an **embodied component**
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Without being embodied in social interaction, it would be much harder to achieve meaningful skill development
+- Embodied interaction creates 'embodied understanding' through voice, gaze, and physical presence
+
+## Market Research Implications
+
+In market research, the habituation process is critical for developing:
+- **Analytical judgment** through repeated exposure to diverse research scenarios
+- **Ethical sensitivity** through real-world dilemmas and mentorship
+- **Client management skills** through embodied interactions
+- **Creative problem-solving** through iterative refinement
+
+## AI Impact
+
+AI systems can undermine the habituation process by:
+- **Automating routine tasks** that build foundational capacities ("deprives the user of routine opportunities to practice their judgment and strengthen their cognitive musculature")
+- **Reducing embodied interaction** opportunities essential for social and moral capacities
+- **Limiting intersubjective learning** by replacing human mentorship with algorithmic guidance
+- **Creating shallow skilling** environments that don't support the full habituation process
 
 ## Related Concepts
+
 - [[agential-control]]
 - [[intersubjectivity-in-skilling]]
 - [[embodiment-in-skilling]]
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
+- [[human-capacities]]
 - [[ai-deskilling-structural-problem]]
-
-## Update
-2026-07-15: Expanded with detailed analysis from Ferdman (2026) on the habituation process, its components, and how AI systems can disrupt it.
+- [[entry-level-squeeze]]
