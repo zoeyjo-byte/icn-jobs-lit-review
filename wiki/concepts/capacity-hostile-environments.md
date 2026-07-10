@@ -1,56 +1,38 @@
 # Capacity-Hostile Environments
 
 ## Definition
-Capacity-hostile environments are socio-technical environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. These environments afford opportunities for shallow skilling while restricting fuller, well-rounded development and exercise of capacities.
+Capacity-hostile environments restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. These environments afford opportunities for shallow skilling in capacities while restricting opportunities for fuller, well-rounded development.
 
-## Key Characteristics
-- Restrict opportunities for **agential control** over activities
-- Undermine the **habituation process** necessary for skill development
-- Limit **embodied interaction** essential for social/moral capacities
-- Reduce **intersubjectivity in skilling** through diminished mentorship
-- Create conditions where users are discouraged from compensating for capacity erosion
+## Characteristics
+- Provide a narrow field of action possibilities
+- Discourage the development of agential control
+- Limit opportunities for embodied interaction
+- Reduce intersubjective learning experiences
+- Undermine the habituation process necessary for skill development
 
-## Structural Mechanisms
+## From Ferdman (2026)
+In "AI Deskilling is a Structural Problem," Ferdman analyzes how AI systems can create capacity-hostile environments through:
 
-### Affordance Shrinkage
-Systematic reduction in action possibilities that is enduring and deeply entrenched (Dokumacı 2023; Krueger 2023), where:
-- Automation replaces routine tasks, depriving users of 'cognitive musculature' strengthening
-- Technology design herds users toward specific behaviors (e.g., social media engagement)
-- Users become 'plan-followers' responding to environmental triggers rather than 'plan-formers'
+1. **Automation of routine tasks**: When AI automates routine activities, it deprives users of the "routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise" (Lee et al. 2025).
 
-### Value Erosion Cycle
-When persons develop capacities shallowly:
-1. They cannot learn to value more masterful levels of those capacities
-2. Without valuing excellence, they lack motivation to become properly skilled
-3. This entrenches shallow capacity levels across society
+2. **Reduced embodied interaction**: Environments that primarily afford disembodied interaction (like social media platforms) make it harder to form meaningful relationships and develop social capacities.
 
-## AI-Specific Manifestations
+3. **Plan-following rather than plan-forming**: AI personal assistants that generate complete plans for users encourage habit-like responses to environmental triggers rather than skilled initiation of activities.
 
-### Automation Risks
-- **Cognitive atrophy**: Bainbridge's 'Ironies of Automation' (1983) - routine task automation leaves cognitive musculature unprepared for exceptions
-- **Willpower erosion**: Technology affords opportunities to not exercise volitional capacity
-- **Deskilling feedback loop**: Reduced capacity exercise → diminished capacity value perception → less motivation to develop capacities
+4. **Systematic affordance shrinkage**: When the reduction in action possibilities is "systematic, enduring and deeply entrenched," it creates environments where users are discouraged from finding ways to compensate for capacity shrinkage.
 
-### Disembodied Environments
-Digital platforms that:
-- Reduce face-to-face interaction necessary for moral/social capacity development
-- Require more discipline for diminished experience in virtue friendships (Grasso 2025)
-- Make spontaneous moral agent recognition harder without 'return of the gaze'
+## Examples in Market Research
+- AI tools that completely automate data analysis without requiring researcher input
+- Platforms that eliminate opportunities for researchers to practice critical thinking by providing ready-made interpretations
+- Systems that replace human-to-human interaction in research design and execution
 
-## Market Research Examples
-- AI tools that automate research analysis without preserving judgment development opportunities
-- Virtual focus groups replacing in-person interaction, undermining rapport-building skills
-- Algorithmic research design tools that reduce creative problem-solving practice
-
-## Contrast with Capacity-Conducive Environments
-Unlike [[capacity-conducive-environments]], capacity-hostile environments:
-- Create narrow affordance fields rather than rich invitation spaces
-- Encourage habit formation rather than skill development
-- Undermine intersubjective valuing of capacities
-- Discourage willpower exercise necessary for capacity development
-
-## Connection to Deskilling
-This concept is central to understanding [[ai-deskilling-structural-problem]], explaining how AI systems undermine human capacities through systemic conditions rather than individual failings. It provides the structural lens missing from purely individual-responsibility approaches.
+## Related Concepts
+- [[capacity-conducive-environments]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[ai-deskilling-structural-problem]]
+- [[artificial-personal-assistants]]
 
 ## Update
-2026-07-15: Expanded with detailed mechanisms from Ferdman (2026), including affordance shrinkage dynamics, value erosion cycle, and specific AI manifestations in market research contexts.
+2026-07-15: Expanded with detailed analysis from Ferdman (2026) on how AI systems create capacity-hostile environments.

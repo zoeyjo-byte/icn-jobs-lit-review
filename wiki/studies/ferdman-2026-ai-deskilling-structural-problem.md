@@ -1,90 +1,49 @@
-# Ferdman 2026: AI Deskilling is a Structural Problem
+# Ferdman (2026): AI Deskilling is a Structural Problem
 
-## Source
-* **Title**: AI deskilling is a structural problem
-* **Author**: Avigail Ferdman
-* **Journal**: AI & SOCIETY
-* **Year**: 2026
-* **Volume**: 41
-* **Pages**: 3001-3013
-* **DOI**: https://doi.org/10.1007/s00146-025-02686-z
-* **Link**: [Springer](https://link.springer.com/article/10.1007/s00146-025-02686-z)
+## Overview
+Avigail Ferdman's 2026 paper in AI & Society presents a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. The paper introduces the critical distinction between capacity-hostile and capacity-conducive environments, arguing that AI's influence creates systemic conditions that inhibit the development and exercise of human capacities by undermining the process of capacity cultivation.
 
-## Abstract
-This paper argues for applying a structural perspective to AI-induced deskilling. It introduces 'capacity-hostile environments' to identify where AI mediation impedes human capacity cultivation. The analysis moves beyond individual responsibility, demonstrating how AI creates systemic conditions inhibiting human capacity development by undermining the skilling process. Drawing on philosophy of skill and social epistemology, Ferdman argues capacity cultivation requires agential control acquired through habituation, which depends on learning from others. AI risks undermining conditions for capacity habituation, leading to capacity impoverishment. The paper calls for evaluating AI applications based on their conduciveness to capacity cultivation and emphasizes society's obligation to foster capacity-conducive environments.
+## Key Contributions
 
-## Key Frameworks
+### Capacity-as-Skill Framework
+Ferdman develops a framework for understanding human capacities as skills, with two key properties:
+- **Agential control**: The ability to adjust the execution of an action as it unfolds
+- **Habituation**: The gradual process of becoming skilled through practice
 
-### Core Human Capacities
-Ferdman identifies essential capacities for human flourishing:
-- **Epistemic capacities**: Theoretical rationality (thinking, belief formation) and practical rationality (phronesis/wisdom)
-- **Social capacities**: Moral capacity and capacities for meaningful relationships
-- **Creative capacity**: Making unfamiliar combinations of familiar ideas
-- **Volitional capacity**: Ability to exert effort, overcome difficulty, persevere
+### Structural Perspective on Deskilling
+The paper argues that framing deskilling as a matter of individual responsibility overlooks crucial structural aspects. Rather than focusing only on how human agents ought to engage with AI tools, we should also ask what kind of socio-technical environments would be best for the cultivation of our personhood.
 
-### Capacity-Skilling Framework
-Capacity cultivation involves:
-- **Agential control**: Ability to adjust execution as performance unfolds
-- **Habituation**: Gradual skill development through practice and attunement to individual cases
-  - **Intersubjectivity**: Learning from mentors who instill both mechanical aspects and value of the skill
-  - **Embodiment**: Physical presence essential for developing social/moral capacities
+### Capacity-Hostile vs. Capacity-Conducive Environments
+Ferdman introduces these concepts to identify instances where AI mediation impedes human capacity cultivation:
+- **Capacity-hostile environments**: Restrict, limit, or create a narrow field of affordances for capacity development
+- **Capacity-conducive environments**: Actively encourage development through rich opportunities for embodied interaction
 
-## Structural Analysis of Deskilling
-
-### Capacity-Hostile vs. Conducive Environments
-- **Capacity-hostile environments**: Restrict, limit, or create narrow fields of affordances for capacity development
-- **Capacity-conducive environments**: Actively encourage development through rich opportunities for embodied interaction and shared valuing
-
-### AI Automation Risks
-AI systems risk creating capacity-hostile environments by:
-- Automating routine tasks that deprive users of practice opportunities ('cognitive musculature' atrophy)
-- Reducing embodied interaction necessary for social capacities
-- Undermining intersubjective learning processes
-- Creating 'affordance shrinkage' that discourages users from compensating for capacity erosion
-
-## Artificial Personal Assistants Case Study
-
-### Life-Planning as Capacity Development
-Life-planning involves multiple capacities:
-- Epistemic capacities for self-deliberation and practical wisdom
-- Social capacities for coordination and relationship-building
-- Creative capacity for responding to novel situations
-- Volitional capacity for developing other capacities
-
-### APA Risks
-Over-reliance on APAs (ChatGPT, Claude, Gemini) may:
-- Transform users from 'plan-formers' to 'plan-followers' responding to environmental triggers
-- Undermine practical wisdom development by replacing real-world experience
-- Reduce responsibility-taking when plans fail (blame shifts to AI)
-- Decrease embodied, intersubjective interactions necessary for capacity development
+### Analysis of Artificial Personal Assistants
+The paper applies this framework to artificial personal assistants (APAs), arguing that over-reliance on these systems could create capacity-hostile environments by:
+- Automating routine planning activities, depriving users of habituation opportunities
+- Encouraging plan-following rather than plan-forming
+- Reducing embodied, intersubjective interactions necessary for capacity development
+- Undermining the cultivation of practical wisdom through real-world experience
 
 ## Methodology
-Philosophical analysis drawing on:
-- Developmental Perfectionism (neo-Aristotelian approach to human flourishing)
-- Philosophy of skill (agential control, habituation process)
-- Social epistemology
-- Affordance theory (Gibson's ecological approach)
+Ferdman draws on the philosophy of skill as well as social epistemology, constructing a framework for understanding human capacities as skills. The analysis moves beyond individual responsibility to demonstrate how AI's influence creates systemic conditions that could inhibit human capacity development.
 
-## Market Research Implications
+## Implications for Market Research
+This research has significant implications for the market research industry, particularly regarding:
+- The design of AI tools used in research (ensuring they are capacity-conducive rather than hostile)
+- Understanding how AI adoption might impact researchers' core capacities
+- Developing frameworks to evaluate AI applications based on their conduciveness to capacity cultivation
+- Addressing the structural conditions that may lead to deskilling of market researchers
 
-### Deskilling Risks
-- Undermined critical thinking and analytical reasoning from over-automation
-- Eroded rapport-building skills from reduced face-to-face interaction
-- Diminished creative problem-solving in research design
-- Weakened practical wisdom from offloaded judgment
-
-### Mitigation Strategies
-- Evaluate AI tools based on capacity-conduciveness
-- Preserve embodied interaction opportunities (e.g., in-person focus groups)
-- Design AI assistance that maintains agential control
-- Create structured mentorship programs to counter intersubjective erosion
-
-## Connections
-- Central to understanding [[ai-deskilling-structural-problem]]
-- Explains mechanisms behind [[human-operating-model-gap]]
-- Provides structural lens for [[entry-level-squeeze]] phenomenon
-- Contrasts with individual-responsibility approaches to AI ethics
-- Complements [[ferdman-2026-ai-deskilling-structural-problem]]'s analysis of capacity cultivation
+## Related Concepts
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[ai-deskilling-structural-problem]]
+- [[artificial-personal-assistants]]
 
 ## Update
-2026-07-15: Expanded with detailed framework analysis, APA case study implications, and market research applications from Ferdman's full paper.
+2026-07-15: Expanded with detailed analysis of Ferdman's framework and implications for market research.

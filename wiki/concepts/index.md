@@ -24,5 +24,7 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-10 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
 | [[pepm-metric]] | 2026-07-15 | 2026-07-15 | PEPM (AI Spend Per Employee) metric measures the intensity of AI adoption at the firm level by calculating monthly AI vendor spend per employee over the first three months after sustained adoption begins. |
 | [[ai-adoption-intensity-terciles]] | 2026-07-15 | 2026-07-15 | Methodology categorizing firms based on AI adoption intensity, dividing them into high (top tercile) and low (bottom two terciles) intensity groups based on PEPM metric. |
+| [[developmental-perfectionism]] | 2026-07-15 | 2026-07-15 | Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. |
+| [[human-capacities]] | 2026-07-15 | 2026-07-15 | Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. |
 
 See [[index|Home]] for the full catalog.

@@ -22,3 +22,4 @@ Chronological record of every ingest operation.
 2026-07-09: Ingested ramp-revelio-ai-jobs-impact-2026.txt. Created 7, updated 3.
 2026-07-09: Ingested s00146-025-02686-z.figures.md. Created 0, updated 1.
 2026-07-09: Ingested s00146-025-02686-z.txt. Created 0, updated 8. Expanded Ferdman study with structural deskilling framework, updated capacity-hostile/conducive environments, agential control, habituation process, intersubjectivity, embodiment, AI deskilling structural problem, and artificial personal assistants with detailed market research implications.
+2026-07-10: Ingested s00146-025-02686-z.txt. Created 2 new pages, updated 8 existing pages.

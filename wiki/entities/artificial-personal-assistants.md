@@ -1,70 +1,47 @@
 # Artificial Personal Assistants
 
 ## Definition
-Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making. These systems adapt to individual user needs, tailor advice based on user responses and habits, and provide constant availability as 'always-on sounding boards' with subject-matter expertise.
+Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making. They represent one of the fastest-growing uses of LLMs.
 
-## Current Applications
-- **Life-planning**: Organizing daily life, finding purpose, determining values
-- **Self-regulation**: Helping users stay focused, overcoming roadblocks
-- **Social validation**: Providing non-judgmental listening and feedback
-- **Decision support**: Offering advice on what users should do next, reframing problems
+## Characteristics
+- Adapt to individual user's needs and preferences
+- Provide subject-matter expertise across domains
+- Available 24/7 as an "always-on sounding board"
+- Can function as social companion, moral advisor, life coach, and personal butler
 
-## Market Examples
-- ChatGPT
-- Claude.ai
-- Gemini
-- Sunsama (scheduling application)
+## From Ferdman (2026)
+In "AI Deskilling is a Structural Problem," Ferdman provides a critical analysis of APAs:
 
-## Potential Benefits
-- Constant availability without judgment
-- Tailored advice based on user preferences
-- Assistance with routine organizational tasks
-- Support for users struggling with executive function
+1. **Usage patterns**: "A recent report on types of uses of LLMs has found that the second and third highest uses of LLMs were for life-planning: 'organizing my life' and 'finding purpose' respectively."
 
-## Deskilling Risks (Ferdman 2026)
+2. **Capacity-hostile potential**: Ferdman argues that "APAs might contribute to a capacity-hostile environment, if persons become overly dependent on it for planning and organizing their lives."
 
-### Capacity-Hostile Mechanisms
-- **Agential control erosion**: Transforms users from 'plan-formers' to 'plan-followers' responding to environmental triggers
-- **Habituation process undermining**: Automation of routine decision-making deprives users of 'cognitive musculature' strengthening
-- **Embodiment reduction**: Decreased human-to-human interaction for planning and problem-solving
-- **Intersubjectivity loss**: Reduced shared valuing of capacities through human mentorship
+3. **Plan-following vs. plan-forming**: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment... In plan-forming, the capacity to will is involved in initiating the plan, whereas in plan-following, it is absent."
 
-### Life-Planning Case Study
-Life-planning involves multiple capacities that APAs may undermine:
-- **Epistemic capacities**: Theoretical/practical rationality for self-deliberation
-- **Social capacities**: Moral reasoning and relationship coordination
-- **Creative capacity**: Responding to novel situations and surprises
-- **Volitional capacity**: Exerting effort to develop other capacities
+4. **Undermining practical wisdom**: "Constantly turning to APAs for advice... restricts the user's real-world experience and undermines the opportunity to develop practical wisdom."
 
-When APAs replace these activities:
-- Users develop shallower exercise of planning capacities
-- Responsibility for failed plans shifts to APA, reducing self-criticism
-- Practical wisdom development is undermined by lack of real-world experience
+5. **Reducing intersubjectivity**: "APAs decrease embodied, intersubjective interaction involved in life-planning activities... Preferring the advice of an APA over that of a friend or colleague may contribute to undermining the shared experience between persons."
 
-## Market Research Implications
+## Examples in Market Research
+- AI tools that generate complete research plans without researcher input
+- Systems that automate survey design without requiring researcher judgment
+- Platforms that provide ready-made interpretations of data
+- Virtual assistants that replace human-to-human consultation in research design
 
-### Research Tool Applications
-- Research design assistance
-- Data analysis support
-- Report writing automation
-- Participant recruitment management
+## Mitigation Strategies
+- Design APAs to support rather than replace human planning
+- Maintain opportunities for embodied interaction in research processes
+- Create systems that encourage agential control and habituation
+- Preserve spaces for intersubjective learning and shared valuing
+- Balance automation with challenges that develop researchers' capacities
 
-### Deskilling Risks in Research
-- Undermined critical thinking from over-reliance on AI recommendations
-- Eroded rapport-building skills from reduced face-to-face interaction
-- Diminished creative problem-solving in research design
-- Weakened practical wisdom from offloaded judgment
-
-### Mitigation Strategies
-- Design tools that preserve researcher agential control
-- Ensure AI assistance complements rather than replaces capacity development
-- Maintain embodied, intersubjective learning experiences
-- Create feedback mechanisms that encourage reflection rather than simple plan-following
-
-## References
-- Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
-- Zao-Sanders, M. (2025). LLM usage patterns report
-- Kim et al. (2025a). Heavy LLM user study
+## Related Concepts
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[ai-deskilling-structural-problem]]
+- [[embodiment-in-skilling]]
 
 ## Update
-2026-07-15: Expanded with detailed deskilling mechanisms from Ferdman (2026), including capacity-specific risks and market research mitigation strategies.
+2026-07-15: Expanded with detailed critical analysis from Ferdman (2026) on how APAs can create capacity-hostile environments and implications for market research.
