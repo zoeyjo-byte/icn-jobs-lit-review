@@ -39,20 +39,20 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[value-chain-shift]] | 2026-06-28 | 2026-07-03 | The value chain shift refers to the fundamental repositioning of where value is created within market research and insights organizations as AI capabilities advance. |
 | [[human-operating-model-gap]] | 2026-06-28 | 2026-07-03 | The human operating model gap refers to the growing disparity between the rapid advancement of AI capabilities and the slower adaptation of human systems, processes, and skills required to leverage AI effectively within organizations. |
 | [[entry-level-squeeze]] | 2026-06-28 | 2026-07-03 | The entry-level squeeze describes the growing pressure on traditional entry-level positions in knowledge work as AI capabilities automate foundational tasks that historically served as training grounds for developing professional expertise. |
-| [[capacity-hostile-environments]] | 2026-07-03 | 2026-07-15 | Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. |
-| [[capacity-conducive-environments]] | 2026-07-03 | 2026-07-15 | Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. |
-| [[agential-control]] | 2026-07-03 | 2026-07-15 | The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. |
-| [[habituation-process]] | 2026-07-03 | 2026-07-15 | The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. |
-| [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-15 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
-| [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-15 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
-| [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-15 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
+| [[capacity-hostile-environments]] | 2026-07-03 | 2026-07-16 | Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. |
+| [[capacity-conducive-environments]] | 2026-07-03 | 2026-07-16 | Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. |
+| [[agential-control]] | 2026-07-03 | 2026-07-16 | The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. |
+| [[habituation-process]] | 2026-07-03 | 2026-07-16 | The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. |
+| [[intersubjectivity-in-skilling]] | 2026-07-03 | 2026-07-16 | The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. |
+| [[embodiment-in-skilling]] | 2026-07-03 | 2026-07-16 | The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. |
+| [[ai-deskilling-structural-problem]] | 2026-07-03 | 2026-07-16 | The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation. |
 | [[ai-adoption-selection-bias]] | 2026-07-03 | 2026-07-10 | The substantial pre-existing differences between AI adopters and non-adopters that complicate causal inference in AI impact studies. |
 | [[ai-adoption-methodological-innovation]] | 2026-07-03 | 2026-07-10 | Methodological advances in measuring AI adoption, particularly the shift from occupational exposure scores to direct firm-level spending data. |
 | [[methodological-heterogeneity-in-ai-studies]] | 2026-07-03 | 2026-07-10 | The challenge that different AI adoption measurement approaches yield dramatically different findings about AI's economic impact. |
 | [[pepm-metric]] | 2026-07-15 | 2026-07-15 | PEPM (AI Spend Per Employee) metric measures the intensity of AI adoption at the firm level by calculating monthly AI vendor spend per employee over the first three months after sustained adoption begins. |
 | [[ai-adoption-intensity-terciles]] | 2026-07-15 | 2026-07-15 | Methodology categorizing firms based on AI adoption intensity, dividing them into high (top tercile) and low (bottom two terciles) intensity groups based on PEPM metric. |
-| [[developmental-perfectionism]] | 2026-07-15 | 2026-07-15 | Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. |
-| [[human-capacities]] | 2026-07-15 | 2026-07-15 | Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. |
+| [[developmental-perfectionism]] | 2026-07-15 | 2026-07-16 | Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. |
+| [[human-capacities]] | 2026-07-15 | 2026-07-16 | Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. |
 
 ## Entities
 
@@ -67,6 +67,7 @@ Companies, research firms, tools, and platforms mentioned:
 | [[revelio-labs]] | 2026-07-03 | 2026-07-15 | Workforce intelligence platform that aggregates data from online professional profiles to construct longitudinal employment histories. Provides seniority classification and workforce composition data. |
 | [[artificial-personal-assistants]] | 2026-07-03 | 2026-07-15 | AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making. |
 | [[callaway-santanna-framework]] | 2026-07-15 | 2026-07-15 | Econometric approach for analyzing treatment effects when units receive treatment at different times, used in the Ramp-Revelio study to analyze AI adoption impacts. |
+| [[ai-society]] | 2026-07-16 | 2026-07-16 | Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. |
 
 ## Methodologies
 
@@ -89,5 +90,5 @@ Key research studies and reports:
 | [[pwc-2026-global-ai-jobs-barometer]] | 2026-06-25 | 2026-06-27 | PwC's comprehensive analysis of over one billion job advertisements examining AI's impact on the global labor market. |
 | [[mrii-2026-market-research-study]] | 2026-06-28 | 2026-06-28 | The Market Research Institute International 2026 global study represents the fourth annual comprehensive analysis of market research and insights professionals worldwide. |
 | [[burning-glass-beyond-binary]] | 2026-06-28 | 2026-06-28 | Published in January 2026 by the Burning Glass Institute, "Beyond the Binary" represents a landmark analysis challenging the conventional wisdom that AI will either automate or augment jobs. |
-| [[ramp-revelio-2026-ai-jobs-impact-study]] | 2026-07-03 | 2026-07-15 | A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records. Shows high-intensity adopters grow headcount by 10.2% and entry-level roles by 12.0%. |
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-07-15 | Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Introduces the critical distinction between capacity-hostile and capacity-conducive environments.
+| [[ramp-revelio-2026-ai-jobs-impact-study]] | 2026-07-03 | 2026-07-15 | A comprehensive analysis of how AI adoption affects employment patterns across 21,559 [ADDRESS] firms, using observed AI spending data linked to workforce records. Shows high-intensity adopters grow headcount by 10.2% and entry-level roles by 12.0%. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-07-16 | Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Introduces the critical distinction between capacity-hostile and capacity-conducive environments.
