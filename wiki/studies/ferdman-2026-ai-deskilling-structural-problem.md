@@ -1,58 +1,44 @@
-# Ferdman 2026: AI deskilling is a structural problem
+# Avigail Ferdman's 2026 Study: AI Deskilling as a Structural Problem
 
-**Published:** November 5, 2025 (AI & SOCIETY 2026, Vol. 41, pp. 3001-3013)
-**Author:** Avigail Ferdman ([ADDRESS] – Israel Institute of Technology)
-**DOI:** https://doi.org/10.1007/s00146-025-02686-z
+## Publication Details
+Published in *AI & Society* (2026) 41:3001–3013, this landmark study presents a structural analysis of how AI systems undermine human capacities through systemic environmental conditions rather than individual failings. The research fundamentally challenges the individual responsibility framework for addressing AI-induced deskilling.
 
-## Overview
+## Core Argument
+Ferdman argues that AI deskilling is not merely an individual failing but a **structural problem** created by socio-technical environments that restrict opportunities for capacity cultivation. The paper introduces the critical distinction between:
 
-This landmark paper argues that AI-induced deskilling is not merely an individual responsibility issue but a structural problem. Ferdman introduces the concept of "capacity-hostile environments" to identify instances where AI mediation impedes human capacity cultivation. The research challenges the common framing of deskilling as a matter of individual willpower, demonstrating how AI's influence creates systemic conditions that inhibit the development and exercise of human capacities.
+- **[[capacity-hostile-environments]]**: Environments that restrict, limit, or create narrow affordances for human capacity development
+- **[[capacity-conducive-environments]]**: Environments that actively encourage capacity development through embodied interaction and shared valuing
 
-## Key Contributions
+## Key Findings
 
-- **Structural Perspective on Deskilling**: Moves beyond individual responsibility to demonstrate how AI creates systemic conditions that inhibit capacity development
-- **Capacity-Skill Framework**: Conceptualizes human capacities as skills requiring specific cultivation conditions
-- **Capacity-Hostile vs. Conducive Environments**: Provides a framework for evaluating AI applications based on their conduciveness to capacity cultivation
-- **Analysis of AI Personal Assistants**: Examines how LLM-based personal assistants may undermine agential control and habituation processes
+### Human Capacities Framework
+The study identifies four core human capacities constitutive of flourishing:
+- **Epistemic capacities**: Theoretical rationality (thinking, considering reasons) and practical rationality (phronesis/wisdom)
+- **Social capacities**: Moral capacity and abilities for meaningful relationships
+- **Creative capacity**: Making unfamiliar combinations of familiar ideas
+- **Volitional capacity**: Ability to exert effort, overcome difficulty, and persevere
 
-## Core Arguments
+### Skill Development Process
+Capacity cultivation requires:
+- **[[agential-control]]**: Ability to adjust execution as performance unfolds
+- **[[habituation-process]]**: Gradual skill development through practice and attunement
+- **[[intersubjectivity-in-skilling]]**: Learning through relationships with mentors
+- **[[embodiment-in-skilling]]**: Physical presence essential for social/moral capacities
 
-The paper argues that capacity cultivation (skilling) includes:
-- Acquiring **agential control** over capacities - the ability to adjust execution as performance unfolds
-- Undergoing a gradual **habituation process** through practice and experience
-- Learning from others through **intersubjectivity** - shared understanding of skill value
-- Requiring **embodiment** in social interactions for proper development
+### AI Impact Mechanisms
+The study demonstrates how AI systems like **[[artificial-personal-assistants]]** create capacity-hostile environments by:
+- Automating routine tasks that deprive users of habituation opportunities
+- Reducing embodied interaction necessary for social capacity development
+- Encouraging plan-following rather than plan-forming (undermining agential control)
+- Creating "affordance shrinkage" that systematically limits capacity exercise
 
-AI mediation risks undermining these conditions, leading to capacity impoverishment. The paper particularly examines how Artificial Personal Assistants (APAs) create capacity-hostile environments by:
-- Replacing routine planning activities that build "cognitive musculature"
-- Encouraging plan-following rather than plan-forming (responding to triggers vs. initiating)
-- Reducing opportunities for embodied, intersubjective habituation
-- Offloading responsibility for planning failures to the AI system
+## Methodological Approach
+Ferdman employs a **[[developmental-perfectionism]]** framework (neo-Aristotelian approach to human flourishing) combined with philosophy of skill and social epistemology to analyze AI's structural impacts. The research examines how environments shape capacity development rather than focusing on individual moral failings.
 
-## Methodology
+## Implications for Market Research
+This study provides critical theoretical grounding for understanding the **[[human-operating-model-gap]]** in AI adoption. It explains why simply training researchers on AI tools is insufficient - organizations must redesign work environments to be capacity-conducive. The findings directly inform how insights professionals can avoid **[[ai-deskilling-structural-problem]]** when implementing AI in research workflows, particularly regarding the erosion of critical thinking and moral reasoning capacities essential to ethical research.
 
-Ferdman employs a philosophical analysis drawing on:
-- Neo-Aristotelian "Developmental Perfectionism" framework for human flourishing
-- Philosophy of skill literature (agential control, habituation)
-- Social epistemology (intersubjectivity in skill development)
-- Affordance theory to analyze environmental constraints on capacity development
-
-## Market Research Implications
-
-This research provides critical insights for understanding AI's impact on market research:
-- Explains why traditional entry-level research tasks being automated creates an [[entry-level-squeeze]]
-- Offers framework for evaluating AI tools against capacity cultivation criteria
-- Highlights risks of AI systems creating environments hostile to developing critical research capacities
-- Provides philosophical foundation for the [[human-operating-model-gap]] concept
-
-## Related Concepts
-
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
-- [[ai-deskilling-structural-problem]]
-- [[developmental-perfectionism]]
-- [[human-capacities]]
+## Related Research
+- [[burning-glass-beyond-binary]] challenges the automation/augmentation binary
+- [[ramp-revelio-2026-ai-jobs-impact-study]] provides empirical evidence of AI's employment impacts
+- [[pwc-2026-global-ai-jobs-barometer]] analyzes AI exposure across occupations

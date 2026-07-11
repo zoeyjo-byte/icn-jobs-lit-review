@@ -1,52 +1,45 @@
 # Capacity-Conducive Environments
 
-**First Observed:** 2026-07-03
-**Last Updated:** 2026-07-16
-
 ## Definition
+Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction, shared valuing, and gradual habituation. These environments afford and encourage opportunities for well-rounded capacity development rather than merely providing shallow skilling opportunities.
 
-Capacity-conducive environments are socio-technical contexts that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. These environments provide a broad field of affordances that invite valuable activities requiring the competent exercise of multiple human capacities.
+## Key Characteristics
+- Provide **broad fields of affordances** that trigger multiple human capacities simultaneously
+- Encourage (not merely afford) embodied interaction essential for social capacities
+- Support **[[intersubjectivity-in-skilling]]** through mentor-mentee relationships
+- Facilitate the **[[habituation-process]]** through structured and unstructured practice
+- Cultivate shared understanding of capacity value through social practices
 
-## Characteristics
+## Essential Components
 
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]], capacity-conducive environments:
+### Embodied Interaction Spaces
+- Community centers, public libraries, quality public spaces
+- Environments supporting "participatory sense-making" (De Jaegher and Di Paolo 2007)
+- Settings where spontaneous recognition of others as moral agents occurs naturally
 
-1. **Provide broad affordance fields**: They offer diverse action possibilities for activities that trigger multiple human capacities
-2. **Encourage embodied interaction**: They create opportunities for physical presence and sensory experience in skill development
-3. **Foster intersubjectivity**: They facilitate learning from others and shared understanding of capacity value
-4. **Support agential control**: They enable individuals to initiate activities rather than merely respond to environmental triggers
-5. **Promote habituation with growth**: They provide structured opportunities for gradual skill development through practice
+### Intersubjective Learning Structures
+- Mentorship relationships where value of capacities is transmitted
+- Social practices that generate moral reasons for action (Manne 2013)
+- Shared valuing of capacities through "common life" practices (MacIntyre 2017)
 
-## Examples in Market Research
-
-- **Community-centered research spaces** that encourage face-to-face collaboration and knowledge sharing
-- **Mentorship programs** that pair junior researchers with experienced professionals for guided capacity development
-- **Public goods infrastructure** like community centers, quality public spaces, and public libraries that encourage structured and unstructured embodied interactions
-- **Research methodologies** that require embodied engagement with research subjects rather than purely digital data collection
-
-## Structural Importance
-
-Ferdman emphasizes that capacity-conducive environments are essential for human flourishing because they provide the necessary conditions for developing what she calls "the arts of personhood" - the epistemic, social, moral, and creative capacities that constitute human excellence. These environments do not merely afford but actively encourage valuable activities.
+### Volitional Development Opportunities
+- Activities requiring effort that cultivate the **[[human-capacities]]** meta-capacity
+- Environments that don't automate away the need for willpower development
+- Spaces where failure and disappointment are part of the learning process
 
 ## Contrast with Capacity-Hostile Environments
+Unlike **[[capacity-hostile-environments]]**, capacity-conducive environments:
+- Don't create "affordance shrinkage" that systematically limits action possibilities
+- Encourage users to find compensatory avenues when capacities are challenged
+- Support development of **[[agential-control]]** rather than habit formation
+- Provide sufficient embodied interaction for social capacity development
 
-Unlike [[capacity-hostile-environments]], which restrict capacity development through narrow affordance fields, capacity-conducive environments recognize that "merely having the opportunity to φ does not guarantee that the agent will actually φ and engage the capacities involved in φ-ing." They actively encourage engagement through thoughtful design.
+## Implementation in Organizations
+Ferdman (2026) in [[ferdman-2026-ai-deskilling-structural-problem]] suggests organizations can foster capacity-conducive environments by:
+- Designing workspaces that encourage embodied interaction
+- Creating mentorship structures for capacity development
+- Avoiding over-automation of routine tasks that build "cognitive musculature"
+- Ensuring AI tools augment rather than replace capacity-building activities
 
-## Market Research Implementation
-
-Creating capacity-conducive environments in market research organizations requires:
-- Designing AI tools that augment rather than replace capacity development opportunities
-- Preserving embodied interaction spaces for team collaboration
-- Developing mentorship structures that transmit not just technical skills but the value of research capacities
-- Ensuring AI adoption strategies address the [[human-operating-model-gap]]
-
-## Related Concepts
-
-- [[capacity-hostile-environments]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
-- [[human-capacities]]
-- [[developmental-perfectionism]]
-- [[human-operating-model-gap]]
+## Relevance to Market Research
+For insights organizations, capacity-conducive environments are essential to counter the **[[value-chain-shift]]** caused by AI. They provide the foundation for developing the **[[human-intensive-skills]]** that differentiate human researchers in an AI-augmented landscape. Without such environments, organizations risk exacerbating the **[[human-operating-model-gap]]** even as they adopt advanced AI tools.
