@@ -1,56 +1,47 @@
 # Embodiment in Skilling
 
-**First Observed:** 2026-07-03
-**Last Updated:** 2026-07-16
-
 ## Definition
 
-Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. It represents the physical foundation of capacity cultivation that cannot be fully replicated in disembodied environments.
+The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills, as emphasized in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Characteristics
+## Key Characteristics
 
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- **Participatory sense-making**: Embodied interaction is constitutive of social cognition
+- **Moral attention**: Requires perceiving others as embodied beings similar to ourselves
+- **Spontaneous recognition**: Embodied interaction enables spontaneous recognition of others as moral agents
+- **Shared history**: Creating shared experiences through doing something with mentors
+- **Diminished experience**: Disembodied interactions provide a diminished experience of relationships
 
-- Successful habituation must include an **embodied component**
-- Embodied 'participatory sense-making' is **constitutive of social cognition**
-- Without embodied interaction, recognizing others as moral agents requires **more mental effort**
-- Being embodied is critical for creating **shared history and participatory sense-making**
-- Embodied interaction provides the foundation for **'embodied understanding'** through voice and gaze
+## Philosophical Foundation
 
-## Key Insights
+As detailed in the paper:
 
-- **Moral attention** requires perceiving others as embodied beings similar to ourselves
-- The spontaneity of recognizing others as moral agents is **inherent in embodied interaction**
-- Disembodied interactions make it harder to form **meaningful friendships** and professional relationships
-- Technologically mediated relationships require **more discipline for a diminished experience**
-- Embodied interaction creates the conditions for **shared valuing** of capacities
+> "According to the Enactive Approach in cognition, embodied 'participatory sense-making' is constitutive of social cognition, for example in paying moral attention to the other, because the process of habituation of moral attention requires perceiving the other as an embodied being, who is similar to ourselves, through their voice and their gaze."
 
-## Market Research Applications
+The paper explains that:
 
-In market research contexts, embodiment is critical for:
-- **Ethnographic research** that requires physical presence with research subjects
-- **Focus group moderation** that depends on reading nonverbal cues
-- **Client relationship building** that benefits from face-to-face interaction
-- **Team collaboration** that thrives on spontaneous, embodied exchanges
-- **Ethical decision-making** that requires embodied moral attention
+> "Crucially, without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents. The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction, whereas disembodied interaction requires the agent to exercise more mental efforts in attributing moral agency to the other."
 
-## AI Impact
+## AI Implications
 
-AI systems can undermine embodiment in skilling by:
-- **Promoting disembodied interactions** through digital platforms
-- **Reducing opportunities for physical presence** in research and collaboration
-- **Creating environments that fracture affordance space** into disconnected fields
-- **Encouraging determinate, separate, and repeatable tasks** that lead to alienation
+AI systems can undermine embodied skilling by:
+- Creating disembodied interaction environments (e.g., social media)
+- Reducing opportunities for face-to-face relationship building
+- Making it harder to form meaningful friendships
+- Requiring more discipline for a diminished experience of relationships
 
-As Ferdman argues, "without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents."
+> "Disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience (Grasso 2025)."
+
+## Structural Importance
+
+The paper argues that environments must not only afford but actively encourage embodied interaction:
+
+> "To ensure the activation of the capacities, the environment has to encourage the activity of φ-ing, otherwise the capacities might not be triggered. This is why the environment conducive to the capacities has to include public goods like community centers, quality public spaces, public libraries, etc. that encourage structured and unstructured embodied interactions."
 
 ## Related Concepts
 
-- [[habituation-process]]
 - [[intersubjectivity-in-skilling]]
-- [[agential-control]]
+- [[habituation-process]]
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
-- [[human-capacities]]
-- [[ai-deskilling-structural-problem]]
-- [[entry-level-squeeze]]
+- [[embodied-interaction]]

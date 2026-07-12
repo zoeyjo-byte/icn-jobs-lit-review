@@ -53,6 +53,8 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[ai-adoption-intensity-terciles]] | 2026-07-15 | 2026-07-15 | Methodology categorizing firms based on AI adoption intensity, dividing them into high (top tercile) and low (bottom two terciles) intensity groups based on PEPM metric. |
 | [[developmental-perfectionism]] | 2026-07-15 | 2026-07-16 | Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. |
 | [[human-capacities]] | 2026-07-15 | 2026-07-16 | Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. |
+| [[plan-forming-vs-plan-following]] | 2026-07-17 | 2026-07-17 | The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
+| [[narrow-field-of-affordances]] | 2026-07-17 | 2026-07-17 | An environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
 
 ## Entities
 
@@ -67,7 +69,7 @@ Companies, research firms, tools, and platforms mentioned:
 | [[revelio-labs]] | 2026-07-03 | 2026-07-15 | Workforce intelligence platform that aggregates data from online professional profiles to construct longitudinal employment histories. Provides seniority classification and workforce composition data. |
 | [[artificial-personal-assistants]] | 2026-07-03 | 2026-07-17 | AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
 | [[callaway-santanna-framework]] | 2026-07-15 | 2026-07-15 | Econometric approach for analyzing treatment effects when units receive treatment at different times, used in the Ramp-Revelio study to analyze AI adoption impacts. |
-| [[ai-society]] | 2026-07-16 | 2026-07-16 | Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. |
+| [[ai-society]] | 2026-07-16 | 2026-07-17 | Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. |
 
 ## Methodologies
 

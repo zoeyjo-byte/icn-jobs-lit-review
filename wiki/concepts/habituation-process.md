@@ -1,54 +1,47 @@
 # Habituation Process
 
 ## Definition
-The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. Habituation represents the slow, developmental pathway to expertise that cannot be shortcut through testimony or instruction alone.
 
-## Philosophical Framework
-Based on Ferdman's analysis in [[ferdman-2026-ai-deskilling-structural-problem]], habituation involves:
-- **Gradual progression**: Moving through stages from novice to expert
-- **Concrete experience**: Learning through successive trials rather than abstract principles
-- **Error correction**: Refinement through encountering and overcoming disappointment and failure
-- **Ongoing development**: Continued evolution of skills even after expertise is achieved
+The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Dreyfus Model of Skill Acquisition
-Ferdman references the 5-stage model of skill development:
-1. **Novice**: Rule-based performance with no situational perception
-2. **Advanced beginner**: Situational elements recognized but not fully integrated
-3. **Competent**: Holistic view with conscious planning
-4. **Proficient**: Intuitive perspective with analytical backup
-5. **Expert**: Fluid, involved engagement with situational understanding
+## Key Characteristics
 
-## Essential Components
+- **Gradual development**: Skill acquisition occurs through a slow, progressive process rather than instant mastery
+- **Practice-based**: Skills cannot be learned through testimony alone but require concrete experience
+- **Stage progression**: Moves from novice through advanced beginner, competent, proficient, to expert
+- **Error-based learning**: Involves refinement through successive trials and learning from mistakes
+- **Time-intensive**: Requires considerable time and lived experience
 
-### Intersubjective Dimension
-- Requires **mentor guidance**: Good mentors instill both mechanical aspects and value of the skill
-- Involves **shared valuing**: Mentor and mentee develop shared understanding of the skill's importance
-- Depends on **social practices**: Family, colleagues, and citizens provide mentoring environments
+## Two Critical Components
 
-### Embodied Dimension
-- Relies on **participatory sense-making**: Embodied interaction constitutive of social cognition
-- Requires **physical presence**: Return of the gaze and embodied understanding critical for moral attention
-- Involves **shared history**: Doing something with mentors creates participatory sense-making
+As emphasized in the paper, habituation has two essential dimensions:
 
-## Threats from AI Automation
-Ferdman (2026) identifies how AI systems undermine habituation:
-- **Routine task automation**: Deprives users of "efficient retrieval of knowledge from long-term memory"
-- **Reduced failure opportunities**: AI systems prevent encountering and overcoming disappointment
-- **Shallow practice**: Limited opportunities for successive trials and refinement
-- **Disembodied interaction**: Digital mediation reduces embodied learning opportunities
+### Intersubjectivity
+- Requires mentorship to guide novices into becoming experts
+- Involves shared understanding of a skill's value between mentor and mentee
+- Social practices provide mentoring environments (family, colleagues, citizens)
+- Learning occurs through relationships that create "shared valuing" of the skill
 
-## Example: Research Skill Development
-In market research, habituation traditionally occurred through:
-- Designing surveys and analyzing results with mentor feedback
-- Conducting interviews and receiving guidance on probing techniques
-- Presenting findings and learning from stakeholder reactions
+### Embodiment
+- Requires physical presence and sensory experience
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Being embodied is critical for recognizing others as moral agents
+- Disembodied interactions make it harder to form meaningful relationships
 
-AI automation of these tasks creates **[[capacity-hostile-environments]]** that prevent proper habituation of research capacities.
+## AI Deskilling Risk
 
-## Organizational Implications
-The disruption of habituation processes explains the **[[entry-level-squeeze]]** phenomenon. When AI automates foundational research tasks, junior researchers lose the gradual pathway to expertise, creating a structural barrier to developing **[[human-intensive-skills]]** that cannot be acquired through instruction alone.
+The paper warns that AI systems can undermine the habituation process by:
+- Automating routine tasks that deprive users of practice opportunities
+- Creating disembodied interaction environments
+- Reducing opportunities for intersubjective learning
+- Encouraging plan-following rather than plan-forming
+
+> "Automating routine tasks and leaving only exception-handling to the human user, 'deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise' (Lee et al. 2025)."
 
 ## Related Concepts
-- [[agential-control]]: The outcome of successful habituation
-- [[embodiment-in-skilling]]: Essential component of habituation
-- [[intersubjectivity-in-skilling]]: Social dimension of habituation
+
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[agential-control]]
+- [[narrow-field-of-affordances]]
+- [[capacity-hostile-environments]]

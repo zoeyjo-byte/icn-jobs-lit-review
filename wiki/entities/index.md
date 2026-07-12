@@ -11,6 +11,6 @@ Companies, research firms, tools, and platforms mentioned:
 | [[revelio-labs]] | 2026-07-03 | 2026-07-15 | Workforce intelligence platform that aggregates data from online professional profiles to construct longitudinal employment histories. Provides seniority classification and workforce composition data. |
 | [[artificial-personal-assistants]] | 2026-07-03 | 2026-07-17 | AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
 | [[callaway-santanna-framework]] | 2026-07-15 | 2026-07-15 | Econometric approach for analyzing treatment effects when units receive treatment at different times, used in the Ramp-Revelio study to analyze AI adoption impacts. |
-| [[ai-society]] | 2026-07-16 | 2026-07-16 | Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. |
+| [[ai-society]] | 2026-07-16 | 2026-07-17 | Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. |
 
 See [[index|Home]] for the full catalog.
