@@ -1,41 +1,41 @@
 # Intersubjectivity in Skilling
 
+First observed: 2026-07-03 | Last updated: 2026-07-18
+
 ## Definition
+Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. It emphasizes that capacity cultivation is not merely an individual process but a social one.
 
-The intersubjective dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+## Key Insights
+- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
+- A good mentor instills not only mechanical aspects of the skill but the value of the skill
+- In the mentor-mentee relationship, both parties develop shared intentions and "shared valuing" of the skill
+- Social practices performed by groups or whole societies provide a mentoring environment
+- Learning to value a capacity is part of the process of its habituation
 
-## Key Characteristics
+## Evidence from Research
+As detailed in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- "Skill habituation has a 'shared understanding' dimension"
+- "A good mentor is typically necessary in order to cultivate the proper motivational structure for becoming skilled"
+- "In the relationship between mentor and novice, the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill"
+- "Social practices play an important role in the formation of shared valuing regarding both the outputs and the skill itself"
 
-- **Mentorship**: Becoming skilled typically requires a mentor to guide the novice into becoming an expert
-- **Shared valuing**: Mentors instill not only mechanical aspects of the skill but also its value, so the skilled agent eventually views the value as their own
-- **Shared intentions**: Mentor and mentee develop shared intentions and come to have "shared valuing" of the skill
-- **Social practices**: Groups and societies provide mentoring environments (family, colleagues, citizens)
-- **Constitutive aim**: Social practices often generate moral reasons for action through their constitutive aim or telos
+## Implications for Market Research
+In market research, intersubjectivity is critical for:
+- Transferring tacit knowledge about research methodologies
+- Developing shared understanding of research quality standards
+- Cultivating the value of ethical research practices
+- Building professional identity and community among researchers
 
-## Philosophical Foundation
-
-As explained in the paper:
-
-> "Skill habituation has a 'shared understanding' dimension. First, becoming skilled typically requires a mentor to guide the novice into becoming an expert that engages in practice of the right kind. A good mentor is typically necessary in order to cultivate the proper motivational structure for becoming skilled."
-
-The paper cites Alasdair MacIntyre's observation that:
-
-> "becoming the kind of agent who is responsive to whatever it is that skillful action requires... 'has to be learned from teachers and exemplars who know how to communicate this kind of responsiveness to others through the habits of a common life'"
-
-## AI Implications
-
-AI systems, particularly [[artificial-personal-assistants]], can undermine intersubjective skilling by:
-- Reducing opportunities for human-to-human mentorship
-- Creating environments where users primarily interact with non-human entities
-- Limiting the development of shared valuing of capacities
-- Decreasing embodied, intersubjective interaction involved in capacity development
-
-> "While the development and exercise of human capacities depend on embodied, intersubjective interactions with others, APAs decrease embodied, intersubjective interaction involved in life-planning activities."
+AI adoption threatens intersubjectivity when it:
+- Replaces human mentorship with algorithmic guidance
+- Reduces opportunities for shared research experiences
+- Undermines the transmission of research values through social practices
+- Creates environments where research capacities are not collectively valued
 
 ## Related Concepts
-
-- [[embodiment-in-skilling]]
 - [[habituation-process]]
-- [[capacity-conducive-environments]]
-- [[capacity-hostile-environments]]
-- [[shared-valuing]]
+- [[embodiment-in-skilling]]
+- [[agential-control]]
+- [[human-capacities]]
+- [[ai-deskilling-structural-problem]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

@@ -1,72 +1,47 @@
 # Human Capacities
 
-**First Observed:** 2026-07-15
-**Last Updated:** 2026-07-16
+First observed: 2026-07-15 | Last updated: 2026-07-18
 
 ## Definition
+Human capacities are core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities. These capacities are fundamental to being human and can be undermined by AI systems when cultivated in capacity-hostile environments.
 
-Human capacities are the core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities. These capacities are fundamental to being human and can be undermined by AI systems when cultivated in capacity-hostile environments.
+## Key Components
+- **Epistemic capacities**: Include theoretical rationality (thinking, considering reasons, forming beliefs) and practical rationality (phronesis or practical wisdom)
+- **Social capacities**: Include moral capacity and social/caring capacities for developing meaningful relationships
+- **Creative capacity**: Involves making unfamiliar combinations of familiar ideas, transforming conceptual spaces
+- **Volitional capacity**: The ability to exert effort, overcome difficulty, persevere and grow to achieve intrinsically valuable goals
 
-## Four Core Capacity Domains
+## Philosophical Foundation
+As articulated in [[ferdman-2026-ai-deskilling-structural-problem]] and grounded in Developmental Perfectionism:
+- Human capacities are constitutive of flourishing
+- Competent exercise of capacities manifests achievement of intrinsically valuable goods
+- Capacity-deskilling is bad because impoverished capacities lead to impoverished lives
+- Capacities rarely operate in isolation; they typically function in combination
 
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]], human capacities include:
+## Evidence of Erosion
+Research shows erosion of human capacities due to AI dependence:
+- Erosion of critical thinking and analytical reasoning
+- Diminished diagnostic reasoning and clinical judgment
+- Reduced retention of tacit knowledge
+- Weakened moral judgment and ethical sensitivity
+- Declining activity awareness and competence maintenance
 
-### 1. Epistemic Capacities
-- **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
-- **Practical rationality**: Manifesting in phronesis (common sense or wisdom), doing the right thing in the right way for the right reason
-- Essential for knowledge acquisition and critical thinking
+## Implications for Market Research
+In market research, these capacities are essential for:
+- Epistemic: Critical evaluation of data, theoretical reasoning about consumer behavior
+- Social: Building rapport with participants, ethical research practices
+- Creative: Designing innovative research methodologies
+- Volitional: Overcoming research challenges, persevering through complex projects
 
-### 2. Social Capacities
-- **Moral capacity**: Developing ethical judgment and action
-- **Social and caring capacities**: For developing meaningful relationships of friendship and love
-- Required for mutual respect, honesty, and justice in human interactions
-
-### 3. Creative Capacity
-- Making **unfamiliar combinations of familiar ideas**
-- Transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures
-- Essential for innovation and problem-solving
-
-### 4. Volitional Capacity
-- The **meta-capacity** to exert effort, overcome difficulty, persevere and grow
-- Required to achieve intrinsically valuable goals
-- Necessary for developing and exercising all other capacities
-- Particularly important as developing any capacity is difficult
-
-## Characteristics
-
-- Capacities are **constitutive of human flourishing**
-- They require **habituation through practice** to develop
-- They depend on **agential control** for proper exercise
-- They develop through **intersubjective relationships**
-- They require **embodied interaction** for full cultivation
-- They involve **shared valuing** within social contexts
-
-## Market Research Applications
-
-In market research contexts, these capacities manifest as:
-- **Epistemic**: Critical analysis of data, interpretation of findings, methodological rigor
-- **Social**: Client relationship management, ethical research practices, team collaboration
-- **Creative**: Innovative research design, novel insights generation, creative problem-solving
-- **Volitional**: Persistence through research challenges, overcoming methodological limitations
-
-## AI Impact
-
-AI systems can undermine human capacities by:
-- Creating environments that restrict opportunities for capacity development
-- Automating routine tasks that build foundational capacities
-- Reducing embodied interaction essential for social capacities
-- Undermining the habituation process necessary for skill development
-
-As Ferdman argues, "capacity-deskilling is bad because inadequate development of these capacities can lead to 'capacity impoverishment', which, in turn, diminishes us as humans and undermines our flourishing."
+AI adoption threatens these capacities when it:
+- Automates foundational research tasks that serve as training grounds
+- Reduces opportunities for embodied researcher-participant interactions
+- Undermines the habituation process necessary for skill development
+- Creates environments where capacities are not collectively valued
 
 ## Related Concepts
-
 - [[developmental-perfectionism]]
 - [[ai-deskilling-structural-problem]]
 - [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
 - [[human-operating-model-gap]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

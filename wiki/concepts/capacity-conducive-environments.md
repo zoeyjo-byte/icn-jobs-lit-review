@@ -1,45 +1,41 @@
 # Capacity-Conducive Environments
 
-## Definition
+First observed: 2026-07-03 | Last updated: 2026-07-18
 
-Capacity-conducive environments are settings that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to [[capacity-hostile-environments]] as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+## Definition
+Capacity-conducive environments are socio-technical environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. These environments provide sufficient invitations for valuable activities that trigger the cultivation of core human capacities.
 
 ## Key Characteristics
+- Afford and encourage embodied interaction
+- Support intersubjective learning and shared valuing of capacities
+- Provide public goods that facilitate structured and unstructured interactions (community centers, public libraries)
+- Create opportunities for developing agential control over capacities
+- Encourage the process of habituation through varied experiences
 
-Capacity-conducive environments:
+## Examples
+- Physical workspaces designed for collaborative problem-solving
+- Mentorship programs that pair junior and senior researchers
+- Research methodologies that require direct participant interaction
+- Training programs emphasizing hands-on experience with feedback
 
-1. **Expand action possibilities**: Provide a rich field of affordances that invite diverse activities requiring competent exercise of human capacities
-2. **Encourage embodied interaction**: Create opportunities for physical presence and sensory experience in skill development
-3. **Support intersubjective habituation**: Facilitate learning from others and developing shared understanding of skill value
-4. **Promote well-rounded development**: Afford opportunities for deep, mastery-level cultivation of capacities
-5. **Value capacities**: Create conditions where excellence in human capacities is recognized and nurtured
+## Evidence from Research
+As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], capacity-conducive environments:
+- Support the gradual process of habituation necessary for skill development
+- Provide opportunities for developing agential control over capacities
+- Foster shared understanding of the value of capacities through social practices
+- Create conditions where users can learn to value mastery of capacities
 
-## Components
-
-As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], capacity-conducive environments include:
-
-- **Public goods**: Community centers, quality public spaces, public libraries that encourage structured and unstructured embodied interactions
-- **Mentorship opportunities**: Spaces and systems that facilitate relationships between novices and experts
-- **Failure-friendly contexts**: Environments that allow for disappointment and failure as part of the learning process
-- **Shared valuing practices**: Social contexts where the value of capacities is collectively recognized and reinforced
-
-## AI Design Implications
-
-The paper suggests that AI systems could be designed to be capacity-conducive by:
-
-- Providing opportunities for users to exercise [[agential-control]] rather than merely following automated suggestions
-- Creating interfaces that support embodied interaction rather than purely disembodied engagement
-- Facilitating intersubjective learning experiences rather than isolating users
-- Encouraging users to develop their [[capacity-to-will]] rather than offloading willpower to the system
-
-## Contrast with Capacity-Hostile Environments
-
-Unlike [[capacity-hostile-environments]], which restrict opportunities for capacity development, capacity-conducive environments recognize that "to ensure the activation of the capacities, the environment has to encourage the activity of φ-ing, otherwise the capacities might not be triggered."
+## Implications for Market Research
+In market research, capacity-conducive environments should:
+- Balance AI tools with opportunities for embodied researcher-participant interactions
+- Design training programs that maintain the habituation process for junior researchers
+- Create mentorship structures that transmit not just technical skills but the value of research capacities
+- Ensure AI adoption doesn't eliminate the "cognitive musculature" developed through routine research tasks
 
 ## Related Concepts
-
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
+- [[capacity-hostile-environments]]
+- [[agential-control]]
 - [[habituation-process]]
-- [[developmental-perfectionism]]
-- [[human-capacities]]
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[ai-deskilling-structural-problem]]

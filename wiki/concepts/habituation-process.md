@@ -1,47 +1,41 @@
 # Habituation Process
 
+First observed: 2026-07-03 | Last updated: 2026-07-18
+
 ## Definition
+The habituation process is the gradual development of skill through practice, involving inculcation through continued attunement to the demands of individual cases. It represents the pathway through which humans develop competence and mastery in various capacities.
 
-The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+## Key Insights
+- Skill generally cannot be learned through testimony alone and requires practice
+- Habituation involves refinement of action through successive trials and learning from mistakes
+- The process includes encountering and overcoming disappointment and failure
+- Habituation has two critical components: intersubjectivity and embodiment
+- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
 
-## Key Characteristics
+## Evidence from Research
+As detailed in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- "The process of becoming skilled is a gradual and slow process of habituation"
+- "Habituation involves inculcation through continued attunement to the demands of individual cases; refinement of the action through successive trials and learning from mistakes"
+- "Through habituation, we gain experience, which requires considerable time and living"
+- AI automation risks "depriving the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature"
 
-- **Gradual development**: Skill acquisition occurs through a slow, progressive process rather than instant mastery
-- **Practice-based**: Skills cannot be learned through testimony alone but require concrete experience
-- **Stage progression**: Moves from novice through advanced beginner, competent, proficient, to expert
-- **Error-based learning**: Involves refinement through successive trials and learning from mistakes
-- **Time-intensive**: Requires considerable time and lived experience
+## Implications for Market Research
+In market research, the habituation process is essential for developing:
+- The capacity for critical evaluation of research findings
+- Social capacities for building rapport with diverse participants
+- Creative capacities for innovative methodology development
+- Practical wisdom in research design and execution
 
-## Two Critical Components
-
-As emphasized in the paper, habituation has two essential dimensions:
-
-### Intersubjectivity
-- Requires mentorship to guide novices into becoming experts
-- Involves shared understanding of a skill's value between mentor and mentee
-- Social practices provide mentoring environments (family, colleagues, citizens)
-- Learning occurs through relationships that create "shared valuing" of the skill
-
-### Embodiment
-- Requires physical presence and sensory experience
-- Embodied 'participatory sense-making' is constitutive of social cognition
-- Being embodied is critical for recognizing others as moral agents
-- Disembodied interactions make it harder to form meaningful relationships
-
-## AI Deskilling Risk
-
-The paper warns that AI systems can undermine the habituation process by:
-- Automating routine tasks that deprive users of practice opportunities
-- Creating disembodied interaction environments
-- Reducing opportunities for intersubjective learning
-- Encouraging plan-following rather than plan-forming
-
-> "Automating routine tasks and leaving only exception-handling to the human user, 'deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise' (Lee et al. 2025)."
+AI adoption threatens the habituation process when it:
+- Automates foundational research tasks that serve as training grounds for junior researchers
+- Replaces opportunities for learning from mistakes in research design
+- Reduces exposure to the full spectrum of research challenges
+- Limits opportunities for mentorship in research practice
 
 ## Related Concepts
-
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
 - [[agential-control]]
-- [[narrow-field-of-affordances]]
-- [[capacity-hostile-environments]]
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[ai-deskilling-structural-problem]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[entry-level-squeeze]]
