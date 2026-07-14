@@ -27,3 +27,4 @@ Chronological record of every ingest operation.
 2026-07-11: Ingested s00146-025-02686-z.txt. Created 0, updated 6.
 2026-07-12: Ingested s00146-025-02686-z.txt. Created 2, updated 8.
 2026-07-13: Ingested s00146-0025-02686-z.txt (Ferdman 2026). Created 1 study page and updated 11 concept/entity pages with detailed content on AI deskilling as a structural problem, capacity-hostile environments, and implications for market research capacity development.
+2026-07-14: Ingested s00146-025-02686-z.txt. Updated 11 pages including [[ferdman-2026-ai-deskilling-structural-problem]], [[capacity-hostile-environments]], and [[artificial-personal-assistants]]. Expanded analysis of structural mechanisms for capacity deskilling with market research applications.
