@@ -1,86 +1,71 @@
-# [[artificial-personal-assistants]]
+# Artificial Personal Assistants
 
 ## Definition
-
 AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Technical Characteristics
-
-Artificial Personal Assistants (APAs) represent a fast-growing application of Large Language Models (LLMs) that:
-
-- Adapt to individual user's needs and preferences
-- Tailor advice based on user responses, habits, and history
-- Provide constant availability as "an always-on sounding board"
-- Combine multiple functions (scheduling, life coaching, moral advice, task management)
-- Operate across various domains due to LLMs being "trained to do everything for everyone at every environment"
-
-As Ferdman explains:
-
-> "APAs are attractive because they adapt to the individual user's needs, tailor their advice based on the user's responses, habits and preferences, and are willing to listen to the user without judgment. APAs are constantly available, constituting 'an always-on sounding board with whatever subject-matter expertise you need, configured with your preferred tone of interaction—anything from strict taskmaster to encouraging cheerleader' (Samuel 2025)."
+## Examples and Capabilities
+- **ChatGPT, Claude.ai, Gemini**: LLMs increasingly used as personal assistants
+- **Scheduling applications**: Like Sunsama, which "displays tasks synced from a variety of software... prompts you to prioritize today's work... schedules tasks logically into your next available time slot"
+- **Life planning tools**: That help users "organize my life" and "find purpose" as reported in usage studies
+- **Personal butlers**: That manage daily routines and decision-making
 
 ## Usage Patterns
+According to the Ferdman paper:
+- Users utilize LLMs to "help them be more aware of their intentions (e.g., daily habits, New Year's resolutions, introspective insights) and find small, easy ways of getting started with them"
+- Users rely on APAs to "determine and define their values, get past roadblocks, and take steps to self-develop"
+- Heavy users utilize LLMs for "social validation, self-regulation, and interpersonal guidance" (Kim et al. 2025a)
+- Sam Altman, CEO of OpenAI, envisions "eventually we can each have a personal AI team, full of virtual experts in different areas, working together to create almost anything we can imagine"
 
-Research indicates significant APA adoption for life-planning activities:
+## Capacity Implications
+APAs present a dual nature for human capacity development:
 
-> "A recent report on types of uses of LLMs has found that the second and third highest uses of LLMs were for life-planning: 'organizing my life' and 'finding purpose' respectively: it found that users utilize the models to help them be more aware of their intentions (e.g., daily habits, New Year's resolutions, introspective insights) and find small, easy ways of getting started with them. Additionally, users reported that they rely on APAs to determine and define their values, get past roadblocks, and take steps to self-develop: seeking advice on what they should do next, reframing a problem and helping them to stay focused (Zao-Sanders 2025)."
+### Potential Benefits
+- May free users from mundane tasks to focus on higher-level capacities
+- Could provide scaffolding for developing certain skills
 
-Another study shows:
+### Capacity-Hostile Risks
+1. **Plan-forming vs plan-following shift**:
+   - APAs afford "the invitation to become a plan-follower rather than a plan-former"
+   - Users may shift from self-deliberation to responding to APA outputs as environmental triggers
+   - "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities"
 
-> "Another study shows that heavy users utilize LLMs for social validation, self-regulation, and interpersonal guidance (Kim et al. 2025a)."
+2. **Reduced practical wisdom development**:
+   - "Constantly turning to APAs for advice... restricts the user's real-world experience and undermines the opportunity to develop practical wisdom"
+   - Practical wisdom requires "being an effective and savvy agent in the real world, equipped with valuable life experience"
 
-## Capacity Development Implications
+3. **Diminished intersubjectivity**:
+   - APAs "decrease embodied, intersubjective interaction involved in life-planning activities"
+   - "Preferring the advice of an APA over that of a friend or colleague may contribute to undermining the shared experience between persons"
 
-While APAs offer convenience, Ferdman identifies significant risks to human capacity development:
+4. **Narrowed affordance field**:
+   - APAs are "constantly available, designed to be helpful, always prompting the user to see if they could be of further assistance"
+   - This "might discourage the user from seeking out new opportunities for growth and exploration"
 
-### Plan-Forming vs. Plan-Following
+## Structural Perspective
+The structural analysis reveals that APAs become capacity-hostile when:
+- They are used at scale as "all-encompassing agent[s]" rather than limited tools
+- They leverage "AI capabilities, such as dynamic reasoning, real-time adaptability, and multi-scale operational coordination" to replace multiple human capacities
+- They create environments where users become acclimated to "merely responding to triggers in the environment"
 
-> "APAs afford much more than using it as a sophisticated calendar or occasional recommender system... APAs afford the replacement of many of the activities involved in both planning and executing one's plans, that would otherwise require the proper cultivation and competent exercise of our epistemic, social, moral and creative capacities."
+As Ferdman warns: "The more the APA does things for the user, the more it could constitute a capacity-hostile environment."
 
-The paper distinguishes between:
+## Contrast with Limited Tool Use
+APAs would not constitute capacity-hostile environments if:
+- Used in ways that enable users to develop and exercise capacities in other activities
+- Function as "sophisticated calendar or occasional recommender system" rather than comprehensive life managers
+- Preserve opportunities for users to initiate planning activities rather than merely respond to APA outputs
 
-- **Plan-forming**: Requires exercising agential control over initiating planning activities
-- **Plan-following**: Involves responding to triggers in the environment (APA outputs)
+## Implications for Market Research
+In market research contexts, APA-like tools could:
+- Undermine researchers' development of practical wisdom in research design
+- Reduce opportunities for embodied understanding of consumer behaviors
+- Diminish the intersubjective learning necessary for ethical research
+- Shift researchers from plan-forming (designing research) to plan-following (executing AI-suggested methodologies)
 
-> "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment... In this sequence of events, the user is not initiating the two functions of planning: settling and coordinating, but merely responding to the APAs recommendations."
-
-### Embodied Interaction Reduction
-
-> "APAs could also contribute to capacity-hostile environments by discouraging intersubjective habituation of the capacities. As APAs become more integrated into everyday systems, and replace more and more human activity, they afford an environment where the user increasingly interacts with non-human entities for the planning and execution of their daily activities."
-
-### Willpower Diminishment
-
-> "In capacity-hostile environments, the technology or tool will afford users the opportunity of not exercising their willpower, for example by replacing human activity with automated activity, or by offloading human activity, such as moral reasoning, to a non-human agent."
-
-## Market Research Applications
-
-APAs are increasingly used in market research contexts for:
-
-- Research design assistance
-- Data analysis planning
-- Client communication drafting
-- Project management and scheduling
-- Insight generation and interpretation
-
-However, Ferdman's analysis suggests these applications risk creating **capacity-hostile environments** when they:
-
-- Replace plan-forming with plan-following in research design
-- Reduce opportunities for embodied client interaction
-- Diminish the habituation process for developing research judgment
-- Undermine intersubjective learning among research teams
-
-## Notable Examples
-
-- **Sunsama**: A scheduling app that "displays tasks synced from a variety of software, alongside your calendar and unfinished tasks from yesterday. It prompts you to prioritize today's work and to link tasks to your objectives... Sunsama then schedules tasks logically into your next available time slot, intelligently rescheduling them when other tasks run into overtime."
-- **OpenAI's vision**: Sam Altman envisions "eventually we can each have a personal AI team, full of virtual experts in different areas, working together to create almost anything we can imagine" (Altman 2024)
-
-## Related Concepts
-
+## References
+- [[ferdman-2026-ai-deskilling-structural-problem]]
 - [[plan-forming-vs-plan-following]]
 - [[capacity-hostile-environments]]
-- [[agential-control]]
-- [[embodiment-in-skilling]]
-- [[habituation-process]]
-
-## Update
-
-2026-07-18: Expanded analysis of plan-forming vs. plan-following distinction and market research implications from [[ferdman-2026-ai-deskilling-structural-problem]].
+- [[capacity-conducive-environments]]
+- [[human-capacities]]
+- [[narrow-field-of-affordances]]
