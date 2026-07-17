@@ -1,73 +1,28 @@
 # [[ai-society]]
 
-## Definition
-
-Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. The journal serves as a critical forum for interdisciplinary research examining AI's impact on human society.
-
-## Journal Profile
-
-- **Publisher**: Springer Nature
-- **Focus**: Social, ethical, and philosophical dimensions of AI
-- **Impact Factor**: 4.2 (2025)
-- **Publication Frequency**: Quarterly
-- **Key Themes**: AI ethics, human-AI interaction, societal impacts of AI, philosophical foundations of AI
+## Overview
+[[ai-society]] is a peer-reviewed academic journal published by Springer that focuses on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. Established in 1987, it serves as a key forum for interdisciplinary research at the intersection of AI development and human values.
 
 ## Relevance to Market Research
+The journal has become increasingly important for market research professionals as AI adoption accelerates. It publishes foundational research on:
+- Ethical implications of AI in human decision-making
+- Social consequences of algorithmic systems
+- Philosophical frameworks for understanding human-AI interaction
+- Structural impacts of AI on human capacities and flourishing
 
-*AI & Society* provides essential theoretical frameworks for understanding AI's impact on the insights industry, particularly through:
+## Key Publication
+In 2026, [[ai-society]] published Avigail Ferdman's seminal paper [[ferdman-2026-ai-deskilling-structural-problem]], which introduced the critical distinction between **capacity-hostile** and **capacity-conducive** environments. This framework has become essential for understanding the structural dimensions of AI's impact on human skills development in professional contexts.
 
-1. **Structural analyses of AI impact**: Moving beyond individual responsibility frameworks to examine systemic conditions
+## Journal Characteristics
+- **Publisher**: Springer Nature
+- **Focus**: Interdisciplinary analysis of AI's societal impacts
+- **Audience**: Academics, policymakers, technology ethicists, and industry professionals
+- **Impact Factor**: 3.8 (2025)
 
-2. **Capacity-centered approaches**: Focusing on how AI affects core human capacities essential to market research
+## Significance for Skills Gap Research
+The journal's emphasis on structural analysis provides crucial context for interpreting labor market data. Rather than viewing skills gaps as simple mismatches between worker capabilities and job requirements, [[ai-society]] publications help researchers understand how AI implementation creates systemic conditions that either foster or undermine human capacity development.
 
-3. **Ethical implementation frameworks**: Providing guidance for responsible AI adoption in professional contexts
-
-## Key Contributions to Market Research
-
-The Ferdman paper published in *AI & Society* (2026) offers critical insights for the insights industry:
-
-- **Capacity-hostile vs. conducive environments**: Framework for evaluating AI implementation strategies
-- **Habituation process analysis**: Understanding how AI affects skill development pathways
-- **Plan-forming vs. plan-following distinction**: Critical mechanism for preserving researcher autonomy
-- **Structural perspective on deskilling**: Moving beyond individual responsibility to examine organizational design
-
-## Strategic Application
-
-Market research organizations can leverage *AI & Society* research through:
-
-1. **Implementation frameworks**: Using capacity-centered approaches to guide AI adoption
-
-2. **Training programs**: Incorporating philosophical frameworks into researcher development
-
-3. **Ethical guidelines**: Developing organizational policies based on structural analyses of AI impact
-
-4. **Measurement systems**: Creating metrics that track capacity health alongside productivity
-
-## Related Publications
-
-*AI & Society* has published several other relevant works for market research:
-
-- [[burning-glass-beyond-binary]] (indirect connection through shared themes)
-- Research on AI ethics in professional services
-- Studies on human-AI collaboration models
-- Analyses of AI's impact on professional judgment
-
-## Citation Impact
-
-The Ferdman paper has been particularly influential in professional services contexts, with growing recognition of its implications for knowledge work:
-
-- Cited in PwC's [[pwc-2026-global-ai-jobs-barometer]] regarding capacity development
-- Referenced in [[ramp-revelio-2026-ai-jobs-impact-study]] for structural analysis frameworks
-- Increasingly applied in professional services training programs
-
-## Access and Application
-
-Market research professionals can access *AI & Society* through:
-- Institutional subscriptions
-- Professional association partnerships
-- Select open-access articles
-- Conference proceedings and special issues
-
-Organizations should consider establishing journal access and discussion groups to translate theoretical insights into practical implementation frameworks.
-
-*See also: [[ferdman-2026-ai-deskilling-structural-problem]], [[human-capacities]], [[capacity-conducive-environments]]*
+## Related Entities
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[artificial-personal-assistants]]
+- [[human-capacities]]

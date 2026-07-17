@@ -1,74 +1,64 @@
 # [[human-capacities]]
 
 ## Definition
+Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. These capacities differ from skills in that their inadequate development diminishes us as humans and undermines our flourishing.
-
-## Four Categories of Human Capacities
+## Four Foundational Capacities
 
 ### 1. Epistemic Capacities
 - **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
 - **Practical rationality (phronesis)**: Doing the right thing in the right way for the right reason, manifesting as practical wisdom
-
-> *'Practical wisdom is necessary for critically reflecting on one's conceptions of a flourishing life, in order to set appropriate goals and strive to accomplish them in the right way.'*
+- **Critical vulnerability**: Automated reasoning systems undermine development of practical wisdom through reduced opportunities for self-deliberation and judgment
 
 ### 2. Social Capacities
-- **Moral capacity**: Ability to make ethical judgments and act accordingly
+- **Moral capacity**: Ability to recognize and respond to moral demands
 - **Social and caring capacities**: For developing meaningful relationships of friendship and love
+- **Critical vulnerability**: Disembodied interaction limits opportunities for "embodied understanding" through voice and gaze, essential for moral attention
 
 ### 3. Creative Capacity
 - Making unfamiliar combinations of familiar ideas
 - Transforming conceptual spaces without relying on luck or mechanical procedures
+- **Critical vulnerability**: AI content generation reduces need for creative problem-solving and diminishes opportunities for novel combinations
 
 ### 4. Volitional Capacity
-- The ability to exert effort, overcome difficulty, persevere and grow
-- Required for developing and exercising all other capacities
-- Functions as a 'meta-capacity' essential to human flourishing
+- Ability to exert effort, overcome difficulty, persevere and grow
+- Required to achieve intrinsically valuable goals
+- Functions as a "meta-capacity" necessary for developing other capacities
+- **Critical vulnerability**: Automation removes challenges requiring willpower development, creating environments where users don't exercise their capacity to will
 
-## Market Research Manifestations
+## Interdependence of Capacities
+As Richard Kraut notes, human capacities rarely operate in isolation:
+- The capacity to know involves theoretical and practical rationality
+- It requires the capacity to will ourselves to acquire knowledge
+- It depends on physical capacities, as knowledge is embodied
 
-| Capacity | Research Application | AI Threat |
-|----------|----------------------|-----------|
-| Epistemic | Critical analysis of data, client consultation | Automated insight generation undermining practical wisdom |
-| Social | Client relationship building, ethical research conduct | Disembodied interfaces reducing relationship depth |
-| Creative | Innovative research design, novel interpretation frameworks | Standardized AI methodologies constraining innovation |
-| Volitional | Perseverance through complex research challenges | Over-reliance on AI recommendations reducing effort |
+This interdependence means that capacity-hostile environments are typically hostile to multiple capacities simultaneously.
 
-## Capacity-Skill Framework
+## Evidence of Erosion
+Ferdman cites growing evidence of capacity erosion:
+- Erosion of critical thinking, decision-making and analytical reasoning with AI overreliance
+- Diminished diagnostic reasoning and clinical judgment in healthcare
+- Declining ethical sensitivity and weakened moral judgment
+- Struggles with empathy, time management, and problem-solving among digital natives
 
-Ferdman establishes that being capacity-skilled involves:
+## Implications for Market Research
+This framework explains:
+- Why AI exposure scores alone don't capture the full impact on human capabilities
+- How the **[[human-operating-model-gap]]** represents a fundamental misalignment with human flourishing
+- Why high-intensity AI adopters who maintain capacity-conducive environments see better long-term outcomes
+- The structural basis of the **[[entry-level-squeeze]]** phenomenon
 
-- Having **agential control** over the capacities
-- Obtained through **intersubjective, embodied habituation**
-- Manifested in competent exercise of the capacities
-- Supported by societal **shared valuing** of the capacities
+## Protecting Human Capacities
+Organizations can safeguard human capacities by:
+- Preserving opportunities for embodied interaction
+- Creating structured mentorship that transmits shared valuing
+- Ensuring AI tools support rather than replace plan-forming activities
+- Maintaining appropriate levels of difficulty in work processes
+- Measuring capacity development alongside productivity metrics
 
-> *'Being capacity-skilled is having agential control over the human capacities, obtained in a process of intersubjective, embodied habituation, manifested in competent exercise of the human capacities, as well as in societal shared valuing of the capacities.'*
-
-## Deskilling Consequences
-
-Capacity-deskilling leads to:
-
-- **Capacity impoverishment**: Diminished ability to exercise core human capacities
-- **Devalued capacities**: When persons develop capacities shallowly, they cannot learn to value masterful levels
-- **Structural entrenchment**: Societal devaluation of capacities when enough persons don't value excellence
-
-## Preservation Strategies
-
-Market research organizations can protect human capacities through:
-
-- Designing AI implementation strategies that preserve opportunities for agential control
-- Maintaining embodied client interaction channels
-- Creating structured mentorship programs for intersubjective learning
-- Developing metrics that track capacity health alongside productivity
-- Fostering organizational cultures that value capacity development
-
-## Measurement Framework
-
-Organizations can assess human capacity health through:
-- Epistemic metrics: Quality of researcher deliberation and practical wisdom
-- Social metrics: Depth of client relationships and ethical judgment
-- Creative metrics: Diversity and novelty of research approaches
-- Volitional metrics: Evidence of perseverance through research challenges
-
-*See also: [[developmental-perfectionism]], [[agential-control]], [[habituation-process]]*
+## Related Concepts
+- [[developmental-perfectionism]]
+- [[ai-deskilling-structural-problem]]
+- [[embodiment-in-skilling]]
+- [[agential-control]]
+- [[habituation-process]]
