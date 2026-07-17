@@ -1,51 +1,51 @@
-# Agential Control
+# [[agential-control]]
 
 ## Definition
-The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Agential control involves having full control over initiating an activity rather than merely responding to environmental triggers.
+
+The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Agential control represents the capacity to initiate and modify activities rather than merely responding to environmental triggers.
 
 ## Philosophical Foundation
-As Ferdman explains, skills require "control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers" (Pavese 2024). This distinction is critical for understanding human capacities:
 
-- **Skills**: Activities where the agent has full control over initiation and execution
-- **Habits**: Activities triggered automatically by something in the environment
+Ferdman draws on skill philosophy to establish that:
+- Skills require control over initiating the task, whereas habits do not
+- As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning
+- To cultivate a skill is to develop flexible links between thought and action that continue to evolve even after expertise has been achieved
 
-The development of agency involves a shift in the balance between automaticity and control through a process of "tuning and attuning" (Sherman 1991, p. 175). Cultivating a skill means developing "flexible links between thought and action, such that [they] continue to evolve even after expertise has been achieved" (Vigani 2021).
+> *'The implication is that an agent who performs out of habit, in response to triggers in the environment, is less skilled compared to the agent who initiated the activity, who has full agential control over it.'*
 
-## Role in Capacity Development
-Agential control is essential for the development of all human capacities:
+## Plan-Forming vs. Plan-Following
 
-1. **Epistemic capacities**: Required for self-directed inquiry and critical evaluation of information
-2. **Social capacities**: Necessary for initiating and maintaining authentic relationships
-3. **Creative capacity**: Enables novel combinations of ideas rather than mechanical reproduction
-4. **Volitional capacity**: Fundamental to exercising willpower and overcoming obstacles
+The distinction between **plan-forming** and **plan-following** is critical to understanding agential control:
 
-## Threats from AI Systems
-AI systems can undermine agential control through:
+- **Plan-forming**: Involves self-deliberation, settling functions (deciding between options), and coordination functions (organizing different types of plans). Requires exercising epistemic, moral, social, and creative capacities.
 
-- **Automation of initiation**: When AI systems like [[artificial-personal-assistants]] suggest plans and actions, users may shift from plan-forming to plan-following
-- **Reduced decision points**: Streamlined interfaces that minimize user choices
-- **Predictive systems**: That anticipate and execute actions before users consciously decide
+- **Plan-following**: Involves responding to triggers in the environment (like AI recommendations) without initiating the planning process. Represents a habitual rather than skilled activity.
 
-As Ferdman notes regarding life planning: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment." This represents a shift from exercising agential control to habitual response.
+## Market Research Implications
 
-## Implications for Market Research
-In AI-augmented market research, preserving agential control is critical for:
+AI tools threaten agential control in several key areas:
 
-- Maintaining researchers' ability to adjust methodologies in response to unexpected findings
-- Ensuring researchers initiate analytical processes rather than merely following AI-generated recommendations
-- Preserving the capacity for practical wisdom in interpreting complex human behaviors
-- Allowing researchers to take responsibility for research outcomes and learn from failures
+1. **Research design**: When AI systems generate complete research methodologies without requiring researcher input, they undermine the capacity for plan-forming in study design
 
-## Development Through Habituation
-Agential control develops through the [[habituation-process]], which requires:
-- Practice in initiating activities rather than responding to triggers
-- Opportunities to adjust actions based on feedback
-- Gradual transition from rule-following to fluid, context-sensitive engagement
-- Intersubjective guidance from mentors who model appropriate initiation of skilled activities
+2. **Insight interpretation**: Automated insight generation platforms that provide ready-made conclusions deprive researchers of opportunities to exercise agential control over interpretation
 
-## References
-- [[ferdman-2026-ai-deskilling-structural-problem]]
-- [[plan-forming-vs-plan-following]]
-- [[habituation-process]]
-- [[human-capacities]]
-- [[ai-deskilling-structural-problem]]
+3. **Client recommendations**: AI-powered recommendation engines that suggest client actions without requiring researcher deliberation reduce opportunities to develop practical wisdom
+
+## Preservation Strategies
+
+To maintain agential control in AI-augmented research:
+
+- Implement 'deliberation checkpoints' where researchers must pause AI recommendations to formulate their own interpretations
+- Design AI tools that present multiple options rather than single recommendations, preserving decision-making opportunities
+- Create structured reflection processes after AI-assisted activities to reinforce researcher autonomy
+- Maintain human oversight for high-stakes research decisions where practical wisdom is essential
+
+## Measurement Framework
+
+Organizations can assess agential control through:
+- Frequency of researcher-initiated research design modifications
+- Ratio of AI suggestions accepted vs. rejected with justification
+- Opportunities for researcher input in AI-generated reports
+- Documentation of researcher deliberation processes
+
+*See also: [[plan-forming-vs-plan-following]], [[practical-wisdom]], [[human-capacities]]*

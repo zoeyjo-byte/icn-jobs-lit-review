@@ -1,61 +1,52 @@
-# Habituation Process
+# [[habituation-process]]
 
 ## Definition
-The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
-Habituation is the process by which persons become skilled, characterized by:
+The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Habituation represents the developmental pathway through which humans acquire agential control over capacities.
 
-- **Gradual progression**: Moving through stages from novice to expert (Dreyfus and Dreyfus 1986)
-- **Experience-based learning**: Relying on concrete experience rather than abstract principles
-- **Refinement through practice**: "Refinement of the action through successive trials and learning from mistakes" (Ryle 2009, p. 234)
-- **Overcoming failure**: Encountering and overcoming disappointment is essential to the process
+## Key Characteristics
 
-As Ferdman explains, habituation "involves inculcation through continued attunement to the demands of individual cases" and requires "considerable time and living" (Sherman 1991). This process cannot be compressed or shortcut—it's fundamentally developmental.
+- **Gradual progression**: Moves through stages from novice to expert, with rule-following dominant in early stages and sophisticated contextual sensitivity characterizing later stages
+- **Experience-dependent**: Requires considerable time and living, with refinement through successive trials and learning from mistakes
+- **Non-testimonial**: Cannot be learned through testimony alone but requires concrete experience
+- **Failure-embracing**: Involves encountering and overcoming disappointment and failure as essential components of growth
 
-## Two Essential Components
+As Ferdman explains:
+> *'Habituation involves inculcation through continued attunement to the demands of individual cases; refinement of the action through successive trials and learning from mistakes. This includes encountering and overcoming disappointment and failure.'*
 
-### 1. Intersubjectivity
+## Intersubjective and Embodied Dimensions
 
-Habituation has a critical "shared understanding" dimension:
-- Requires mentors to guide novices not just in mechanical aspects but in the value of the skill
-- Involves developing "shared valuing" of both the product and the skill itself
-- Social practices performed by groups provide mentoring environments
-- As Alasdair MacIntyre noted, learning occurs "through the habits of a common life" with teachers who know how to communicate responsiveness
+The habituation process has two critical components:
 
-### 2. Embodiment
+1. **Intersubjectivity**: Requires mentorship to instill not only mechanical aspects of the skill but also the value of the skill, creating 'shared valuing' between mentor and mentee
 
-Successful habituation requires an embodied component:
-- "Embodied 'participatory sense-making' is constitutive of social cognition" (De Jaegher and Di Paolo 2007)
-- Physical presence enables spontaneous recognition of others as moral agents
-- Without embodied interaction, recognizing others as moral agents requires more mental effort
-- Disembodied interactions make it harder to form meaningful relationships
+2. **Embodiment**: Depends on physical presence and sensory experience, particularly for social and moral capacities where 'the spontaneity of recognizing the other as moral agent is inherent in the embodied interaction'
 
-## Threats from AI Systems
-AI systems can undermine the habituation process through:
+## AI Threats to Habituation
 
-- **Automation of routine tasks**: Depriving users of "routine opportunities to practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025)
-- **Reduced failure opportunities**: AI systems that prevent mistakes eliminate critical learning moments
-- **Diminished intersubjectivity**: Replacing human mentorship with algorithmic guidance
-- **Disembodied interaction**: Limiting opportunities for embodied learning
+AI systems undermine habituation through:
 
-As Ferdman warns, when "a person develops a capacity in a shallow way, they cannot learn to value the more masterful levels of the capacity, since learning to value the capacity is a result of an ongoing, gradual process of habituation, which they haven't gone through."
+- **Automation of routine tasks**: Deprives users of 'routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise' (Lee et al. 2025)
+- **Reduced failure opportunities**: AI's error-reduction capabilities eliminate valuable learning experiences from mistakes
+- **Disembodied interaction**: Digital mediation reduces opportunities for embodied skill development
+- **Shallow engagement**: AI's efficiency encourages surface-level interaction rather than deep practice
 
-## Implications for Market Research
-In AI-augmented market research, preserving the habituation process is critical for:
+## Market Research Examples
 
-- Developing researchers' practical wisdom through real-world experience
-- Ensuring new researchers learn not just methodologies but the value of research ethics
-- Maintaining opportunities for embodied understanding of consumer behaviors
-- Preserving the developmental pathway from novice to expert researcher
+1. **Automated data analysis tools** that generate insights without requiring researchers to engage with raw data, depriving them of opportunities to develop pattern recognition skills through repeated exposure
 
-## Structural Perspective
-The structural perspective reveals that habituation isn't merely an individual process but depends on environmental conditions. Capacity-hostile environments systematically undermine the conditions necessary for proper habituation, leading to what Ferdman calls "capacity impoverishment."
+2. **AI-powered reporting systems** that create standardized deliverables without requiring researchers to develop creative presentation approaches
 
-## References
-- [[ferdman-2026-ai-deskilling-structural-problem]]
-- [[agential-control]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
+3. **Chatbot client interfaces** that handle routine client inquiries, reducing junior researchers' opportunities to develop relationship management skills
+
+## Preservation Strategies
+
+To protect habituation processes in AI-augmented research:
+
+- Implement 'deliberate difficulty' in AI tools that preserves essential learning opportunities
+- Create structured mentorship programs with clear progression frameworks
+- Design AI systems that gradually reduce assistance as user competence grows
+- Maintain opportunities for embodied client interaction and team collaboration
+- Preserve opportunities for researchers to experience and learn from failures
+
+*See also: [[intersubjectivity-in-skilling]], [[embodiment-in-skilling]], [[capacity-conducive-environments]]*

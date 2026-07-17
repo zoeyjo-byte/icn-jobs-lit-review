@@ -1,74 +1,71 @@
-# Plan-Forming vs Plan-Following
+# [[plan-forming-vs-plan-following]]
 
 ## Definition
-The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. This distinction represents a fundamental mechanism through which AI systems can undermine human capacities.
 
 ## Philosophical Foundation
-Drawing on Michael Bratman's work on agency, Ferdman distinguishes between two modes of planning:
 
-### Plan-Forming
-- Involves **self-deliberation** on values and goals
-- Requires **agential control** over initiating the planning activity
-- Exercises two key functions:
-  1. **Settling function**: Managing finite cognitive resources when facing choices
-  2. **Coordination function**: Forming and organizing different types of plans and intentions
-- Involves **responsibility** for outcomes, enabling self-criticism and improvement
-- Requires exercising **epistemic, moral, social, and creative capacities**
-- Manifests practical wisdom in assessing situations and determining effective means
+Ferdman draws on Bratman's theory of agency to explain that:
 
-### Plan-Following
-- Involves **responding to triggers** in the environment
-- Lacks **agential control** over initiating the planning activity
-- Primarily **habitual** rather than skillful
-- Diminishes opportunities for **responsibility** and learning from failures
-- Requires a **shallower exercise** of human capacities
+- **Plan-forming** involves two critical agential functions:
+  * Settling function: Managing finite cognitive resources when facing choices
+  * Coordination function: Forming and organizing different types of plans and intentions
 
-As Ferdman explains: "Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating."
+- **Plan-following** involves responding to triggers in the environment without initiating the planning process
 
-## Role in Capacity Development
-This distinction is critical for understanding AI's impact on human capacities:
+> *'Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating.'*
 
-- **Plan-forming** is essential for developing practical wisdom and exercising human capacities
-- **Plan-following** environments can lead to capacity impoverishment by:
-  - Depriving users of routine opportunities to practice judgment
-  - Reducing opportunities for embodied interaction
-  - Diminishing intersubjective learning
-  - Encouraging habitual response rather than skillful action
+## Capacity Implications
 
-As Ferdman notes regarding AI personal assistants: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment."
+The plan-forming vs. plan-following distinction has profound implications for capacity development:
 
-## Threats from AI Systems
-AI systems can shift users from plan-forming to plan-following through:
+- **Plan-forming** requires exercising epistemic, moral, social, and creative capacities, as well as the capacity to will
+- **Plan-following** involves a shallower exercise of capacities, primarily responding to environmental triggers
+- **Transition from plan-forming to plan-following** represents a shift from skilled activity to habitual response
 
-- **Always-available assistance**: Constant prompts to see if the AI "could be of further assistance"
-- **Complete planning solutions**: Providing ready-made plans rather than supporting self-deliberation
-- **Reduced decision points**: Minimizing opportunities for user initiation
-- **Responsibility displacement**: Allowing users to shift blame to the AI when plans fail
+As Ferdman explains:
+> *'In plan-forming, the capacity to will is involved in initiating the plan, whereas in plan-following, it is absent, because the user is responding to a trigger in the environment—the APA output.'*
 
-The paper cites Sunsama, a scheduling app, as an example: "Each morning, Sunsama displays tasks synced from a variety of software... It prompts you to prioritize today's work... Sunsama then schedules tasks logically into your next available time slot... The app reminds you throughout the day when it's time to go to a meeting or when you should take a quick break."
+## Market Research Examples
 
-## Implications for Market Research
-In AI-augmented market research, preserving plan-forming is critical for:
+1. **Research design**:
+   - Plan-forming: Researcher develops methodology through self-deliberation on research questions, client needs, and resource constraints
+   - Plan-following: Researcher accepts AI-generated methodology without modification
 
-- Maintaining researchers' ability to exercise practical wisdom in research design
-- Ensuring researchers take responsibility for methodological choices
-- Preserving opportunities for creative problem-solving when unexpected findings emerge
-- Supporting the development of junior researchers' planning capabilities
+2. **Insight interpretation**:
+   - Plan-forming: Researcher develops interpretation framework through engagement with data and client context
+   - Plan-following: Researcher accepts AI-generated insights without critical evaluation
 
-## Structural Perspective
-The structural perspective reveals that the plan-forming/plan-following distinction isn't merely individual but depends on environmental design:
+3. **Client recommendations**:
+   - Plan-forming: Researcher develops strategic recommendations through consideration of multiple factors
+   - Plan-following: Researcher presents AI-generated recommendations without adaptation
 
-- Capacity-hostile environments systematically encourage plan-following
-- Capacity-conducive environments deliberately support plan-forming
-- The cumulative effect of multiple AI systems across different domains can create a narrow field of affordances for plan-forming
+## AI Threats to Plan-Forming
 
-## Contrast with Individual Responsibility
-Framing the issue as individual responsibility misses the structural dimensions: "Overreliance on APAs could lead to a reduced sense of personal competence... undermining the habituation of the capacities necessary for trusting one's decisions on life-planning."
+AI systems encourage plan-following through:
 
-## References
-- [[ferdman-2026-ai-deskilling-structural-problem]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[human-capacities]]
-- [[capacity-hostile-environments]]
-- [[artificial-personal-assistants]]
+- **Constant availability**: 'Always-on' interfaces that prompt users to seek assistance rather than initiate planning
+- **Personalization**: Tailoring advice to user preferences, reducing opportunities for challenging perspectives
+- **Seamless integration**: Making AI assistance the path of least resistance
+- **Reduced cognitive load**: Eliminating the effort required for self-deliberation
+
+## Preservation Strategies
+
+To maintain plan-forming capacities in AI-augmented research:
+
+- Implement 'deliberation checkpoints' where researchers must formulate their own interpretations before viewing AI suggestions
+- Design AI tools that present multiple options rather than single recommendations
+- Create structured reflection processes after AI-assisted activities
+- Maintain human oversight for high-stakes research decisions
+- Develop training programs that emphasize practical wisdom development
+
+## Measurement Framework
+
+Organizations can assess plan-forming vs. plan-following through:
+- Ratio of researcher-initiated modifications to AI suggestions
+- Documentation of researcher deliberation processes
+- Opportunities for researcher input in AI-generated outputs
+- Frequency of critical evaluation of AI recommendations
+
+*See also: [[agential-control]], [[practical-wisdom]], [[human-capacities]]*
