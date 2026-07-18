@@ -1,58 +1,58 @@
-# [[ai-deskilling-structural-problem]]
+# AI Deskilling is a Structural Problem
 
-## Definition
-The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. This reframes deskilling as a structural issue rather than an individual failing.
+The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. Unlike traditional deskilling (which refers to the obsolescence of specific job skills), AI deskilling targets core human capacities that are constitutive of human flourishing.
 
-## Core Argument
-Ferdman challenges the individual responsibility model of deskilling ("simply will themselves to cultivate 'the arts of personhood'") by demonstrating how:
+## Key Distinctions
 
-1. **Capacity cultivation is environmental**: We develop and exercise capacities in response to our social and material environment
-2. **Structural conditions matter**: Deficient environments lead to capacity deskilling and subsequent devaluation of those capacities
-3. **Systemic impact**: AI's rapid integration creates socio-technical systems that can systematically undermine human flourishing
+### Capacity vs. Skill
+- **Skills**: Domain-specific expertise (hunting, coding, writing) that can become obsolete through technological change
+- **Capacities**: Core human abilities (epistemic, social, creative, volitional) that constitute human flourishing
 
-## Key Framework Components
+While skill obsolescence has always been part of human history, capacity-deskilling is problematic because inadequate development of these core capacities diminishes us as humans.
 
-### 1. Capacity-Skill Analogy
-- Human capacities (epistemic, social, creative, volitional) function like skills
-- Capacity cultivation requires **agential control** and **habituation**
-- Deskilling of core human capacities diminishes us as humans
+## Mechanisms of AI Deskilling
 
-### 2. Structural Lens
-- Distinguishes between **capacity-hostile** and **capacity-conducive** environments
-- Focuses on the **field of affordances** created by AI systems
-- Analyzes impact on **embodied interaction** and **intersubjective learning**
+1. **Automation of Routine Tasks**: Deprives users of opportunities to "practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025), leaving them unprepared for exceptional circumstances.
 
-### 3. Harm Mechanism
-Capacity deskilling is harmful because:
-- Undermines our abilities in the "arts of personhood"
-- Diminishes epistemic, social, moral and creative capacities
-- Leads to impoverished lives through **capacity impoverishment**
+2. **Narrow Fields of Affordances**: Creates environments with limited action possibilities that restrict opportunities for capacity development and exercise.
 
-## Evidence from Research
-Ferdman cites multiple studies showing capacity erosion:
-- Erosion of activity awareness, competence maintenance, and output assessment with AI dependence (Rinta-Kahila et al. 2023)
-- Diminished diagnostic reasoning and clinical judgment in healthcare (NHS England 2023; Natali et al. 2025)
-- Declining critical thinking and decision-making (Bonicalzi et al. 2023; Lee et al. 2025)
-- Struggles with empathy, time management, and problem-solving among smartphone users (Halliday 2025)
+3. **Reduced Embodied Interaction**: Limits physical presence and sensory experience necessary for developing social and moral capacities.
+
+4. **Diminished Intersubjectivity**: Reduces opportunities for shared valuing of capacities through human relationships and mentorship.
+
+5. **Plan-Following Environments**: Encourages users to respond to AI-generated recommendations rather than exercising agential control through self-deliberation (see [[plan-forming-vs-plan-following]]).
+
+## Evidence of Deskilling
+
+Research shows growing evidence of:
+- Erosion of critical thinking and decision-making (Bonicalzi et al. 2023; Lee et al. 2025)
+- Decline in analytical reasoning (Zhai et al. 2024)
+- In healthcare: diminished diagnostic reasoning, declining clinical judgment, reduced retention of tacit knowledge, declining ethical sensitivity, and weakened moral judgment (NHS England 2023; Natali et al. 2025; Budzyń et al. 2025)
+- Young people struggling with "everyday but essential" skills like empathy, time management, and problem-solving (Halliday 2025)
+
+## Structural Perspective
+
+The key insight from [[ferdman-2026-ai-deskilling-structural-problem]] is that deskilling should not be framed as an individual responsibility problem. Rather than expecting people to "will themselves to cultivate 'the arts of personhood,'" we should ask "what kind of socio-technical environments would be best for the cultivation of our personhood."
 
 ## Implications for Market Research
-This framework explains critical industry phenomena:
-- The **[[human-operating-model-gap]]** between AI capabilities and human adaptation
-- Why high-intensity AI adopters who maintain capacity-conducive environments grow entry-level roles by 12.0%
-- The structural basis of the **[[entry-level-squeeze]]** phenomenon
-- How AI implementation choices determine whether systems create **capacity-hostile** or **capacity-conducive** work environments
 
-## Practical Applications
-Organizations can address the structural deskilling problem by:
-1. Evaluating AI applications based on their conduciveness to capacity cultivation
-2. Designing systems that preserve opportunities for embodied interaction
-3. Creating structured mentorship programs that transmit shared valuing
-4. Ensuring AI tools support rather than replace plan-forming activities
-5. Measuring not just productivity but capacity development outcomes
+In the market research industry, AI deskilling manifests as:
+- The [[entry-level-squeeze]] phenomenon, where AI automates foundational research tasks that historically served as training grounds
+- Reduced opportunities for researchers to develop judgment through hands-on experience
+- Diminished capacity for creative insight generation when AI tools provide immediate answers
+- Erosion of ethical sensitivity when AI systems make moral decisions without transparent reasoning
+
+Market research organizations should evaluate AI tools not just on efficiency metrics but on how they support or undermine researchers' capacity to engage meaningfully with data, clients, and research subjects.
 
 ## Related Concepts
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
-- [[developmental-perfectionism]]
 - [[human-capacities]]
-- [[ai-adoption-intensity-terciles]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[plan-forming-vs-plan-following]]
+- [[narrow-field-of-affordances]]
+- [[artificial-personal-assistants]]
+- [[developmental-perfectionism]]

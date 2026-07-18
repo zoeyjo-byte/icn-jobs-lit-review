@@ -1,64 +1,53 @@
-# [[human-capacities]]
+# Human Capacities
 
-## Definition
-Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Human capacities are the core abilities that constitute human flourishing, as identified in philosophical literature on human nature and well-being. According to Developmental Perfectionism (see [[developmental-perfectionism]]), these capacities are not merely instrumental but are constitutive of a flourishing human life. When humans competently develop and exercise these capacities, they lead flourishing lives.
 
-## Four Foundational Capacities
+## Core Human Capacities
 
-### 1. Epistemic Capacities
-- **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
-- **Practical rationality (phronesis)**: Doing the right thing in the right way for the right reason, manifesting as practical wisdom
-- **Critical vulnerability**: Automated reasoning systems undermine development of practical wisdom through reduced opportunities for self-deliberation and judgment
+1. **Epistemic Capacities**: Include theoretical rationality (thinking, considering reasons to believe, forming beliefs, contemplating) and practical rationality (manifesting in phronesis or practical wisdom). These capacities enable humans to navigate truth, knowledge, and reasoning in both abstract and concrete contexts.
 
-### 2. Social Capacities
-- **Moral capacity**: Ability to recognize and respond to moral demands
-- **Social and caring capacities**: For developing meaningful relationships of friendship and love
-- **Critical vulnerability**: Disembodied interaction limits opportunities for "embodied understanding" through voice and gaze, essential for moral attention
+2. **Social Capacities**: Encompass moral capacity as well as social and caring capacities for developing meaningful relationships of friendship and love. These capacities allow humans to form connections, understand others' perspectives, and participate in communal life.
 
-### 3. Creative Capacity
-- Making unfamiliar combinations of familiar ideas
-- Transforming conceptual spaces without relying on luck or mechanical procedures
-- **Critical vulnerability**: AI content generation reduces need for creative problem-solving and diminishes opportunities for novel combinations
+3. **Creative Capacities**: Involve making unfamiliar combinations of familiar ideas, transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures. Creativity enables humans to innovate, express themselves, and adapt to novel situations.
 
-### 4. Volitional Capacity
-- Ability to exert effort, overcome difficulty, persevere and grow
-- Required to achieve intrinsically valuable goals
-- Functions as a "meta-capacity" necessary for developing other capacities
-- **Critical vulnerability**: Automation removes challenges requiring willpower development, creating environments where users don't exercise their capacity to will
+4. **Volitional Capacity**: The ability to exert effort, overcome difficulty, persevere, and grow to achieve intrinsically valuable goals. This capacity is treated as a meta-capacity because developing and exercising any of the other human capacities requires willpower.
 
-## Interdependence of Capacities
-As Richard Kraut notes, human capacities rarely operate in isolation:
-- The capacity to know involves theoretical and practical rationality
-- It requires the capacity to will ourselves to acquire knowledge
-- It depends on physical capacities, as knowledge is embodied
+## Characteristics of Human Capacities
 
-This interdependence means that capacity-hostile environments are typically hostile to multiple capacities simultaneously.
+- **Interdependence**: Human capacities rarely operate in isolation (Kraut 2007). For example, the capacity to know involves theoretical rationality, practical rationality, volitional capacity, and physical capacities.
 
-## Evidence of Erosion
-Ferdman cites growing evidence of capacity erosion:
-- Erosion of critical thinking, decision-making and analytical reasoning with AI overreliance
-- Diminished diagnostic reasoning and clinical judgment in healthcare
-- Declining ethical sensitivity and weakened moral judgment
-- Struggles with empathy, time management, and problem-solving among digital natives
+- **Gradual Development**: Capacities develop through a slow process of habituation (see [[habituation-process]]), requiring practice, feedback, and time.
+
+- **Embodied Nature**: Capacities are developed and exercised through physical presence and sensory experience (see [[embodiment-in-skilling]]).
+
+- **Intersubjective Dimension**: Capacity development depends on relationships with others who guide and share the value of the capacity (see [[intersubjectivity-in-skilling]]).
+
+## Threats from AI Systems
+
+As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI systems can undermine human capacities through:
+
+1. **Automation of Routine Tasks**: Depriving users of opportunities to "practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025).
+
+2. **Narrow Fields of Affordances**: Creating environments with limited action possibilities that restrict capacity development.
+
+3. **Reduced Embodied Interaction**: Limiting opportunities for physical presence and sensory experience necessary for capacity cultivation.
+
+4. **Diminished Intersubjectivity**: Reducing opportunities for shared valuing of capacities through human relationships.
 
 ## Implications for Market Research
-This framework explains:
-- Why AI exposure scores alone don't capture the full impact on human capabilities
-- How the **[[human-operating-model-gap]]** represents a fundamental misalignment with human flourishing
-- Why high-intensity AI adopters who maintain capacity-conducive environments see better long-term outcomes
-- The structural basis of the **[[entry-level-squeeze]]** phenomenon
 
-## Protecting Human Capacities
-Organizations can safeguard human capacities by:
-- Preserving opportunities for embodied interaction
-- Creating structured mentorship that transmits shared valuing
-- Ensuring AI tools support rather than replace plan-forming activities
-- Maintaining appropriate levels of difficulty in work processes
-- Measuring capacity development alongside productivity metrics
+In market research, human capacities are essential for:
+- Interpreting nuanced consumer behavior
+- Building rapport with research participants
+- Creatively designing research methodologies
+- Exercising judgment when data is ambiguous
+
+AI tools that automate these processes without preserving opportunities for researchers to exercise these capacities risk creating capacity-hostile environments that ultimately degrade research quality.
 
 ## Related Concepts
+
 - [[developmental-perfectionism]]
 - [[ai-deskilling-structural-problem]]
-- [[embodiment-in-skilling]]
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
 - [[agential-control]]
-- [[habituation-process]]

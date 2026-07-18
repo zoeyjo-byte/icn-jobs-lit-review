@@ -55,6 +55,10 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[human-capacities]] | 2026-07-15 | 2026-07-18 | Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. |
 | [[plan-forming-vs-plan-following]] | 2026-07-17 | 2026-07-18 | The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
 | [[narrow-field-of-affordances]] | 2026-07-17 | 2026-07-18 | An environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. |
+| [[epistemic-capacities]] | 2026-07-18 | 2026-07-18 | The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. |
+| [[social-capacities]] | 2026-07-18 | 2026-07-18 | The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. |
+| [[creative-capacities]] | 2026-07-18 | 2026-07-18 | The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. |
+| [[volitional-capacity]] | 2026-07-18 | 2026-07-18 | The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. |
 
 ## Entities
 

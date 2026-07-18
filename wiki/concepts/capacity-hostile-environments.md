@@ -1,41 +1,54 @@
-# [[capacity-hostile-environments]]
+# Capacity-Hostile Environments
 
-## Definition
-Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments systematically undermine opportunities for meaningful human activity through AI mediation.
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments undermine the process of capacity cultivation by providing inadequate conditions for developing and exercising human capacities.
 
-## Key Characteristics
-- **Narrow field of affordances**: Provides limited action possibilities that restrict capacity development
-- **Disembodied interaction**: Minimizes physical presence and sensory experience critical to social skill development
-- **Habitual response patterns**: Encourages automatic reactions to environmental triggers rather than agential control
-- **Lack of shared valuing**: Fails to provide intersubjective contexts where the value of capacities is transmitted
+## Characteristics
 
-## Examples in Market Research
-1. **AI-powered survey platforms** that automate all aspects of questionnaire design, eliminating opportunities for researchers to develop expertise through iterative refinement
-2. **Automated reporting tools** that generate insights without requiring human interpretation, depriving analysts of the habituation process necessary for developing analytical judgment
-3. **Chatbot interview systems** that replace human moderators, eliminating the embodied interaction essential for developing empathy and rapport-building skills
+1. **Narrow Field of Affordances**: Provide limited action possibilities that restrict opportunities for engaging in activities requiring competent exercise of capacities.
 
-## Impact on Skills Development
-As Ferdman demonstrates, capacity-hostile environments create a vicious cycle:
-1. Reduced opportunities for meaningful engagement →
-2. Shallow development of capacities →
-3. Inability to value mastery of those capacities →
-4. Further disengagement from deep capacity cultivation
+2. **Shallow Skilling Opportunities**: Afford opportunities for shallow development of capacities but restrict opportunities for fuller, well-rounded development.
 
-This explains the **[[entry-level-squeeze]]** phenomenon, where entry-level positions increasingly lack the embodied, intersubjective experiences necessary for developing professional expertise.
+3. **Discouraged Embodiment**: Limit physical presence and sensory experience necessary for developing social and moral capacities.
 
-## Contrast with [[capacity-conducive-environments]]
-While capacity-hostile environments restrict human flourishing, capacity-conducive environments actively encourage development through:
-- Rich opportunities for embodied interaction
-- Structured mentoring relationships
-- Gradual habituation processes
-- Shared valuing of professional capacities
+4. **Reduced Intersubjectivity**: Limit opportunities for shared valuing of capacities through human relationships and mentorship.
 
-## Research Evidence
-Ferdman's analysis shows that capacity-hostile environments are particularly problematic when they involve **systematic affordance shrinkage** - when reduction in action possibilities is enduring and deeply entrenched, discouraging users from finding compensatory pathways.
+5. **Plan-Following Orientation**: Encourage responding to environmental triggers rather than exercising agential control through self-initiated activities.
+
+## Examples in AI Context
+
+1. **Healthcare AI Systems**: Afford offloading tasks to machines, leading to automation bias where users attribute excessive trust to AI tools. This risks loss of critical skills necessary for unexpected scenarios like system malfunctions (Natali et al. 2025).
+
+2. **Smartphones**: Provide disconnected interaction possibilities (swiping, clicking, scrolling) that fracture users' affordance space into disconnected fields, leading to alienation rather than offering opportunities for mutually informing cognitive and bodily skills (Butler 2024).
+
+3. **Artificial Personal Assistants**: Constantly available AI tools that replace human activity in life-planning and decision-making, discouraging users from seeking alternative avenues to exercise their capacities (see [[artificial-personal-assistants]]).
+
+## Structural Harm
+
+Capacity-hostile environments are normatively problematic when they lead to "affordance shrinkage" that is:
+- Systematic
+- Enduring
+- Deeply entrenched
+- Discouraging users from finding ways to compensate for the shrinkage
+
+## Contrast with Capacity-Conducive Environments
+
+Unlike capacity-conducive environments, which actively encourage capacity development through rich opportunities for embodied interaction and shared valuing, capacity-hostile environments undermine the structural conditions necessary for human flourishing.
+
+## Implications for Market Research
+
+In market research, capacity-hostile environments might include:
+- AI tools that automate the entire research process without opportunities for researchers to exercise judgment
+- Research platforms that limit embodied interaction with research participants
+- Analytics systems that provide immediate answers without requiring researchers to engage in the habituation process of developing analytical skills
+- Environments that encourage plan-following (executing pre-determined research protocols) rather than plan-forming (creatively designing research approaches)
 
 ## Related Concepts
-- [[narrow-field-of-affordances]]
+- [[capacity-conducive-environments]]
 - [[ai-deskilling-structural-problem]]
+- [[narrow-field-of-affordances]]
 - [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[agential-control]]
 - [[habituation-process]]
-- [[human-operating-model-gap]]
+- [[artificial-personal-assistants]]
+- [[entry-level-squeeze]]
