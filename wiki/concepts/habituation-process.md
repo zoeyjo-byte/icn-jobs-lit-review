@@ -1,52 +1,53 @@
 # [[habituation-process]]
 
 ## Definition
-The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Core Characteristics
-- **Gradual progression**: Moves through stages from novice to expert (Dreyfus & Dreyfus 5-stage model)
-- **Experience-based**: Requires concrete experience rather than abstract principles
-- **Error-driven refinement**: Involves learning from mistakes and overcoming disappointment
-- **Time-intensive**: Demands considerable time and living to develop mastery
+The **gradual process of becoming skilled through practice**, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Two Essential Components
+## Key Characteristics
+
+- **Cannot be learned through testimony alone** - requires concrete experience
+- Involves **progression through stages** from novice to expert
+- Requires **encountering and overcoming disappointment and failure**
+- Depends on **embodied interaction** and **intersubjective learning**
+- Creates **flexible links between thought and action** that evolve beyond expertise
+- Is a **process of growth rather than simple repetition**
+
+## Ferdman's Framework
+
+Ferdman explains habituation as the essential process through which skills develop:
+
+> "The process of becoming skilled is a gradual and slow process of habituation. Skill generally cannot be learnt through testimony, and requires practice. As we move through stages of skill development, from novice through to expert, we rely on concrete experience rather than abstract principles."
+
+This process involves refinement through successive trials and learning from mistakes, including encountering and overcoming disappointment and failure.
+
+## Two Critical Components
 
 ### 1. Intersubjectivity
-- Requires mentors to guide novices into proper motivational structures
-- Involves transmission of both technical knowledge and shared valuing of the skill
-- Creates "shared intentions" and "shared valuing" between mentor and mentee
-- Social practices at scale (family, colleagues, citizens) provide mentoring environments
+
+> "Skill habituation has a 'shared understanding' dimension. First, becoming skilled typically requires a mentor to guide the novice into becoming an expert that engages in practice of the right kind."
+
+Mentors instill not just mechanical aspects of skills but the value of the skill itself, creating shared valuing between mentor and mentee.
 
 ### 2. Embodiment
-- Depends on physical presence and sensory experience
-- Requires "embodied understanding" through voice, gaze, and shared physical space
-- Enables "participatory sense-making" in social cognition
-- Creates shared history and embodied interaction essential for skill development
 
-## AI's Disruptive Impact
-Ferdman demonstrates how AI systems threaten the habituation process through:
+> "Being embodied is critical for becoming skilled insofar as the process of 'shared valuing' of the skill requires some degree of doing something with the mentor(s), creating a shared history and a participatory sense-making regarding both the product of the skill and the skill itself."
 
-| Threat | Mechanism | Consequence |
-|--------|-----------|-------------|
-| **Automation bias** | Offloading tasks to AI systems | Deprives users of routine opportunities to strengthen "cognitive musculature" |
-| **Disembodied interaction** | Digital mediation replacing physical presence | Undermines embodied understanding critical to social capacities |
-| **Shallow engagement** | Fragmented digital experiences | Prevents deep attunement to individual cases |
-| **Reduced error exposure** | AI providing "correct" answers | Eliminates learning from mistakes and disappointment |
+Without embodied interaction, recognizing others as moral agents becomes more difficult, requiring "more mental efforts in attributing moral agency to the other."
 
-## Evidence from Market Research
-The paper cites evidence that "automating routine tasks and leaving only exception-handling to the human user, 'deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise.'" This explains the growing [[entry-level-squeeze]] phenomenon where entry-level positions increasingly lack the habituation opportunities necessary for professional development.
+## AI's Impact on Habituation
 
-## Creating Habituation-Conducive Environments
-Organizations can protect the habituation process by:
-- Designing AI tools that preserve opportunities for embodied interaction
-- Ensuring junior staff have structured opportunities for guided practice
-- Creating safe spaces for making and learning from mistakes
-- Maintaining human-led mentoring relationships alongside AI tools
-- Preserving opportunities for shared valuing of professional capacities
+AI systems threaten the habituation process by:
 
-## Related Concepts
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
-- [[agential-control]]
-- [[capacity-conducive-environments]]
-- [[ai-deskilling-structural-problem]]
+- **Automating routine tasks** that provide essential practice opportunities
+- **Replacing embodied interaction** with disembodied digital interfaces
+- **Reducing opportunities for mentorship** through automated guidance
+- **Encouraging plan-following** rather than plan-forming activities
+
+As Ferdman notes: "Automating routine tasks and leaving only exception-handling to the human user... deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature."
+
+## Update 2026-07-18
+
+Enhanced with Ferdman's detailed explanation of the 5-stage skill development process (novice, advanced beginner, competent, proficient, expert). Added specific connection to market research: "When AI tools automate foundational research tasks, they undermine the habituation process that traditionally allowed junior researchers to develop expertise through progressive responsibility."
+
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

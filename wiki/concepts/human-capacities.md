@@ -1,53 +1,52 @@
-# Human Capacities
+# [[human-capacities]]
 
-Human capacities are the core abilities that constitute human flourishing, as identified in philosophical literature on human nature and well-being. According to Developmental Perfectionism (see [[developmental-perfectionism]]), these capacities are not merely instrumental but are constitutive of a flourishing human life. When humans competently develop and exercise these capacities, they lead flourishing lives.
+## Definition
 
-## Core Human Capacities
+**Core abilities that constitute human flourishing**, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-1. **Epistemic Capacities**: Include theoretical rationality (thinking, considering reasons to believe, forming beliefs, contemplating) and practical rationality (manifesting in phronesis or practical wisdom). These capacities enable humans to navigate truth, knowledge, and reasoning in both abstract and concrete contexts.
+## Four Core Capacities
 
-2. **Social Capacities**: Encompass moral capacity as well as social and caring capacities for developing meaningful relationships of friendship and love. These capacities allow humans to form connections, understand others' perspectives, and participate in communal life.
+### 1. [[epistemic-capacities]]
 
-3. **Creative Capacities**: Involve making unfamiliar combinations of familiar ideas, transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures. Creativity enables humans to innovate, express themselves, and adapt to novel situations.
+> "The epistemic capacities include theoretical rationality: thinking, considering reasons to believe, forming beliefs, contemplating; and practical rationality, manifesting in phronesis (common sense or wisdom): doing the right thing in the right way for the right reason."
 
-4. **Volitional Capacity**: The ability to exert effort, overcome difficulty, persevere, and grow to achieve intrinsically valuable goals. This capacity is treated as a meta-capacity because developing and exercising any of the other human capacities requires willpower.
+### 2. [[social-capacities]]
 
-## Characteristics of Human Capacities
+> "The social capacities include the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love."
 
-- **Interdependence**: Human capacities rarely operate in isolation (Kraut 2007). For example, the capacity to know involves theoretical rationality, practical rationality, volitional capacity, and physical capacities.
+### 3. [[creative-capacities]]
 
-- **Gradual Development**: Capacities develop through a slow process of habituation (see [[habituation-process]]), requiring practice, feedback, and time.
+> "The capacity for creativity involves making unfamiliar combinations of familiar ideas, transforming a conceptual space, without relying merely on luck, accidents, or mechanical procedures."
 
-- **Embodied Nature**: Capacities are developed and exercised through physical presence and sensory experience (see [[embodiment-in-skilling]]).
+### 4. [[volitional-capacity]]
 
-- **Intersubjective Dimension**: Capacity development depends on relationships with others who guide and share the value of the capacity (see [[intersubjectivity-in-skilling]]).
+> "The capacity to will (volitional capacity): the ability to exert effort, overcome difficulty, persevere and grow, in order to achieve an intrinsically valuable goal."
 
-## Threats from AI Systems
+## Meta-Capacity Function
 
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI systems can undermine human capacities through:
+The volitional capacity serves as a meta-capacity essential for developing all others:
 
-1. **Automation of Routine Tasks**: Depriving users of opportunities to "practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025).
+> "Importantly, developing and exercising any of the human capacities is difficult, which therefore requires the competent exercise of the capacity to will. I will therefore treat the capacity to will as a meta-capacity of sorts."
 
-2. **Narrow Fields of Affordances**: Creating environments with limited action possibilities that restrict capacity development.
+## Why Capacities Matter
 
-3. **Reduced Embodied Interaction**: Limiting opportunities for physical presence and sensory experience necessary for capacity cultivation.
+These capacities are constitutive of human flourishing:
 
-4. **Diminished Intersubjectivity**: Reducing opportunities for shared valuing of capacities through human relationships.
+> "Capacity-deskilling is bad because our human capacities are constitutive of our flourishing. Impoverished capacities (i.e., capacity-deskilling), therefore, lead to impoverished lives."
 
-## Implications for Market Research
+Unlike domain-specific skills that can become obsolete, these core capacities are fundamental to being human:
 
-In market research, human capacities are essential for:
-- Interpreting nuanced consumer behavior
-- Building rapport with research participants
-- Creatively designing research methodologies
-- Exercising judgment when data is ambiguous
+> "Whereas deskilling of activities like hunting, basket-weaving or coding may be innocuous, capacity-deskilling should always be a cause for worry."
 
-AI tools that automate these processes without preserving opportunities for researchers to exercise these capacities risk creating capacity-hostile environments that ultimately degrade research quality.
+## Connection to Market Research
 
-## Related Concepts
+- Research quality depends on researchers' **epistemic capacities** for critical thinking and practical wisdom
+- **Social capacities** are essential for ethical research and meaningful client relationships
+- **Creative capacities** enable innovative research design and interpretation
+- **Volitional capacity** is required to overcome research challenges and maintain quality standards
 
-- [[developmental-perfectionism]]
-- [[ai-deskilling-structural-problem]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[agential-control]]
+## Update 2026-07-18
+
+Expanded with Ferdman's explanation of how capacities relate to intrinsically valuable goods: "Humans exercise their capacities in activities that yield outcomes that have intrinsic value like knowledge, beauty, morality, friendship." Added specific examples of how each capacity manifests in market research practice.
+
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

@@ -2,61 +2,52 @@
 
 ## Definition
 
-The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. Embodiment represents the physical foundation of capacity cultivation, emphasizing that many human capacities cannot be fully developed through disembodied interaction.
+The **essential role of physical presence and sensory experience** in the development of human capacities, particularly social and moral skills, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
+## Key Characteristics
 
-Ferdman draws on enactive cognition approaches to demonstrate that:
+- Enables **participatory sense-making** through embodied interaction
+- Critical for recognizing others as **moral agents**
+- Facilitates **shared valuing** of skills through physical co-presence
+- Provides the foundation for **social cognition** and moral attention
+- Creates opportunities for **spontaneous recognition** of others' agency
 
-- Embodied 'participatory sense-making' is constitutive of social cognition
-- Moral attention requires perceiving others as embodied beings through voice and gaze
-- Social interaction dynamics constitute an essential part of the cognitive process
-- The spontaneity of recognizing others as moral agents is inherent in embodied interaction
+## Ferdman's Framework
 
-> *'Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents. The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction...'
+Ferdman explains embodiment's critical role using the Enactive Approach in cognition:
 
-## Market Research Implications
+> "According to the Enactive Approach in cognition, embodied 'participatory sense-making' is constitutive of social cognition, for example in paying moral attention to the other, because the process of habituation of moral attention requires perceiving the other as an embodied being, who is similar to ourselves, through their voice and their gaze."
 
-Embodiment is particularly critical in market research due to the field's reliance on:
+Without embodiment, recognizing others as moral agents becomes significantly more difficult:
 
-- **Nonverbal communication**: Reading body language and emotional cues in qualitative research
-- **Contextual understanding**: Developing nuanced insights through physical presence in research environments
-- **Trust building**: Establishing client relationships through face-to-face interaction
-- **Ethical judgment**: Making morally complex decisions that require embodied moral sensitivity
+> "Crucially, without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents. The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction, whereas disembodied interaction requires the agent to exercise more mental efforts in attributing moral agency to the other."
 
-## AI Threats to Embodiment
+## Impact on Relationships
 
-AI systems undermine embodied skilling through:
+Embodiment is particularly important for developing meaningful relationships:
 
-1. **Disembodied interfaces**: Replacing face-to-face client and participant interactions with digital platforms
+> "Similarly, for the good of friendship, disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience."
 
-2. **Automated analysis**: Reducing opportunities for researchers to develop embodied pattern recognition through direct data engagement
+## AI's Threat to Embodied Skilling
 
-3. **Virtual collaboration**: Encouraging remote work patterns that minimize physical team interaction
+AI systems threaten embodied skilling by:
 
-4. **Reduced fieldwork**: AI-powered remote research methods decreasing opportunities for embodied research experiences
+- **Replacing face-to-face interaction** with digital interfaces
+- **Creating disembodied environments** that limit opportunities for embodied learning
+- **Reducing spontaneous recognition** of others' moral agency
+- **Undermining the 'return of the gaze'** essential for moral development
 
-As Ferdman notes regarding friendship development:
-> *'Disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience.'*
+As Ferdman notes: "While shared valuing might be achieved in the absence of any embodied interaction (say if the only form of interaction is mediated by online platforms), it would be much more difficult to achieve, compared to interactions that involve a significant level of embodiment."
 
-This applies equally to professional relationships in market research, where embodied interaction is essential for developing the trust and shared understanding necessary for high-quality insights.
+## Implications for Market Research
 
-## Preservation Strategies
+- **Virtual research methods** that eliminate embodied interaction with respondents undermine development of empathy and social capacities
+- **AI-mediated analysis** reduces opportunities for researchers to develop embodied understanding of human behavior
+- Market research firms must preserve **embodied research settings** even as they adopt AI tools
+- The **human operating model gap** widens when firms prioritize disembodied AI tools over embodied research practices
 
-To maintain embodiment in AI-augmented research:
+## Update 2026-07-18
 
-- Preserve opportunities for face-to-face client workshops and presentations
-- Design hybrid research methods that combine AI efficiency with embodied fieldwork
-- Create physical collaboration spaces that encourage team interaction
-- Implement 'embodiment audits' to assess critical research activities requiring physical presence
-- Develop training programs that emphasize embodied research skills
+Enhanced with Ferdman's explanation of how embodiment enables the spontaneity of moral recognition: "The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction." Added specific examples of how market research AI tools can undermine embodied skilling in qualitative research.
 
-## Measurement Framework
-
-Organizations can assess embodiment in skilling through:
-- Ratio of face-to-face to digital client interactions
-- Opportunities for embodied field research experiences
-- Quality of physical collaboration spaces
-- Frequency of embodied team reflection sessions
-
-*See also: [[intersubjectivity-in-skilling]], [[capacity-conducive-environments]], [[human-capacities]]*
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

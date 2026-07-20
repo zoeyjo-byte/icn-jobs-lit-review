@@ -1,58 +1,61 @@
-# Artificial Personal Assistants
+# [[artificial-personal-assistants]]
 
-AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. Examples include AI tools like ChatGPT, Claude.ai, and Gemini used as personal assistants.
+## Definition
 
-## Characteristics
+**AI systems based on Large Language Models** designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-1. **Adaptive Personalization**: Adapt to individual user's needs, tailoring advice based on responses, habits, and preferences.
+## Examples
 
-2. **Non-Judgmental Listening**: Willing to listen to users without judgment, providing a "sounding board" for personal issues.
+- ChatGPT used as a personal productivity assistant
+- Claude.ai for life coaching and organization
+- Gemini for scheduling and task management
+- Sunsama scheduling app that "displays tasks synced from various software" and "schedules tasks logically into your next available time slot"
 
-3. **Constant Availability**: "Always-on" presence that provides subject-matter expertise with preferred interaction tone.
+## Ferdman's Analysis
 
-4. **Comprehensive Scope**: Designed to "do everything for everyone at every environment" (Gebru and Torres 2023), from menial tasks to life planning.
+Ferdman analyzes APAs as a fast-growing use case of AI with significant implications for capacity development:
 
-## Uses in Practice
-
-Research cited in [[ferdman-2026-ai-deskilling-structural-problem]] shows:
-- Second and third highest uses of LLMs are for life-planning: "organizing my life" and "finding purpose"
-- Users utilize models to help with intention awareness (daily habits, New Year's resolutions)
-- Heavy users rely on LLMs for social validation, self-regulation, and interpersonal guidance
-- Users seek advice on what to do next, reframing problems, and staying focused
+> "APAs are a use-case of LLMs that can be integrated with other AI tools because LLMs are ultimately 'trained to do everything for everyone at every environment.' This makes then not only social companion, moral advisor, life coach and personal butler, but all of them combined in one."
 
 ## Capacity-Hostile Potential
 
-According to Ferdman's analysis, APAs can contribute to capacity-hostile environments through:
+APAs can create capacity-hostile environments through:
 
-1. **Plan-Following Affordances**: Encouraging users to respond to AI-generated recommendations rather than exercising agential control through self-initiated planning (see [[plan-forming-vs-plan-following]]).
+> "The leveraging of AI capabilities, such as dynamic reasoning, real-time adaptability, and multi-scale operational coordination to merge synergistically discrete uses of the APA in ways that greatly magnify their scope and power to alter lives."
 
-2. **Reduced Habituation Opportunities**: Automating routine planning activities deprives users of opportunities to "practice their judgment and strengthen their cognitive musculature" for exceptional circumstances.
+Specifically, they threaten capacity development by:
 
-3. **Diminished Embodied Interaction**: Decreasing opportunities for embodied, intersubjective interaction necessary for developing social capacities.
+1. **Replacing plan-forming with plan-following**:
+> "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment."
 
-4. **Narrowed Affordance Field**: Creating environments with limited action possibilities for developing planning capacities.
+2. **Undermining agential control**:
+> "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities that are ordinarily involved in making coherent plans."
 
-## Evidence of Deskilling
+3. **Reducing embodied interaction**:
+> "APAs decrease embodied, intersubjective interaction involved in life-planning activities."
 
-Ferdman cites evidence that:
-- Young people growing up with smartphones struggle with "everyday but essential" skills like empathy, time management, speaking to others, problem-solving, and critical thinking (Halliday 2025)
-- LLMs could potentially exacerbate this deskilling through over-reliance for life-planning activities
-- Overreliance on APAs could lead to reduced sense of personal competence (Gabriel et al. 2024)
+4. **Narrowing affordance fields**:
+> "APAs are constantly available, designed to be helpful, always prompting the user to see if they could be of further assistance. As such, they might discourage the user from seeking out new opportunities for growth and exploration."
+
+## Not Inherently Harmful
+
+Ferdman acknowledges APAs aren't inherently problematic:
+
+> "I readily acknowledge that using APAs to figure out one's daily schedule or using the APA as a sophisticated calendar or occasional recommender system does not in itself constitute a capacity-hostile environment."
+
+The danger comes from over-reliance and the scale of APA integration into life planning:
+
+> "It is the scale and extent of the APA as all-encompassing agent that is the cause for worry."
 
 ## Implications for Market Research
 
-In market research, APA-like tools might:
-- Undermine researchers' capacity for creative research design when AI provides immediate methodology suggestions
-- Reduce opportunities for developing practical wisdom through hands-on research experience
-- Diminish the volitional capacity needed to persist through challenging research problems
-- Create capacity-hostile environments when they automate the entire research planning process
+- Research teams using APAs for **project planning** risk undermining development of planning capacities
+- **AI-powered scheduling tools** that automate research coordination may narrow affordance fields for developing organizational skills
+- Market research firms must establish **boundaries for APA use** that preserve opportunities for human capacity development
+- The **human operating model gap** widens when firms adopt APAs without considering their impact on capacity development
 
-## Related Concepts
-- [[ai-deskilling-structural-problem]]
-- [[capacity-hostile-environments]]
-- [[plan-forming-vs-plan-following]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[entry-level-squeeze]]
-- [[human-capacities]]
+## Update 2026-07-18
+
+Enhanced with Ferdman's explanation of how APAs undermine practical wisdom development: "Constantly turning to APAs for advice... restricts the user's real-world experience and undermines the opportunity to develop practical wisdom." Added specific examples of APA use cases in market research project management.
+
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

@@ -2,70 +2,56 @@
 
 ## Definition
 
-The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. This distinction represents a fundamental mechanism through which AI systems can undermine human capacities.
+The **distinction between actively creating plans through self-deliberation** (requiring agential control) versus **executing pre-determined plans** (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
+## Key Characteristics
 
-Ferdman draws on Bratman's theory of agency to explain that:
+### Plan-Forming
 
-- **Plan-forming** involves two critical agential functions:
-  * Settling function: Managing finite cognitive resources when facing choices
-  * Coordination function: Forming and organizing different types of plans and intentions
+- Requires **self-deliberation** on values and goals
+- Involves **settling function**: managing finite cognitive resources when facing choices
+- Involves **coordination function**: forming and organizing different types of plans
+- Requires **agential control** over initiating planning activities
+- Enables **responsibility-taking** when plans fail
+- Develops **practical wisdom** through experience
 
-- **Plan-following** involves responding to triggers in the environment without initiating the planning process
+### Plan-Following
 
-> *'Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating.'*
+- Involves **responding to triggers** in the environment
+- More **habitual** than skillful
+- Lacks **initiating control** over planning activities
+- Reduces opportunities for **self-criticism and improvement**
+- Undermines development of **practical rationality**
 
-## Capacity Implications
+## Ferdman's Analysis
 
-The plan-forming vs. plan-following distinction has profound implications for capacity development:
+Ferdman explains the critical distinction:
 
-- **Plan-forming** requires exercising epistemic, moral, social, and creative capacities, as well as the capacity to will
-- **Plan-following** involves a shallower exercise of capacities, primarily responding to environmental triggers
-- **Transition from plan-forming to plan-following** represents a shift from skilled activity to habitual response
+> "Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating."
 
-As Ferdman explains:
-> *'In plan-forming, the capacity to will is involved in initiating the plan, whereas in plan-following, it is absent, because the user is responding to a trigger in the environment—the APA output.'*
+In contrast, plan-following lacks this initiating control:
 
-## Market Research Examples
+> "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment."
 
-1. **Research design**:
-   - Plan-forming: Researcher develops methodology through self-deliberation on research questions, client needs, and resource constraints
-   - Plan-following: Researcher accepts AI-generated methodology without modification
+## AI's Threat to Plan-Forming
 
-2. **Insight interpretation**:
-   - Plan-forming: Researcher develops interpretation framework through engagement with data and client context
-   - Plan-following: Researcher accepts AI-generated insights without critical evaluation
+AI systems like Artificial Personal Assistants threaten plan-forming capacities:
 
-3. **Client recommendations**:
-   - Plan-forming: Researcher develops strategic recommendations through consideration of multiple factors
-   - Plan-following: Researcher presents AI-generated recommendations without adaptation
+> "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities that are ordinarily involved in making coherent plans and executing them."
 
-## AI Threats to Plan-Forming
+This undermines practical wisdom development:
 
-AI systems encourage plan-following through:
+> "Constantly turning to APAs for advice, even if the advice is good, and the user is well motivated to form valuable goals in their life, restricts the user's real-world experience and undermines the opportunity to develop practical wisdom."
 
-- **Constant availability**: 'Always-on' interfaces that prompt users to seek assistance rather than initiate planning
-- **Personalization**: Tailoring advice to user preferences, reducing opportunities for challenging perspectives
-- **Seamless integration**: Making AI assistance the path of least resistance
-- **Reduced cognitive load**: Eliminating the effort required for self-deliberation
+## Implications for Market Research
 
-## Preservation Strategies
+- AI tools that **automate research design** eliminate opportunities for plan-forming
+- **Automated reporting systems** reduce researchers to plan-followers executing AI-generated narratives
+- Market researchers need to preserve **self-deliberation** on research questions and methods
+- The **human operating model gap** widens when firms prioritize AI-generated plans over human plan-forming
 
-To maintain plan-forming capacities in AI-augmented research:
+## Update 2026-07-18
 
-- Implement 'deliberation checkpoints' where researchers must formulate their own interpretations before viewing AI suggestions
-- Design AI tools that present multiple options rather than single recommendations
-- Create structured reflection processes after AI-assisted activities
-- Maintain human oversight for high-stakes research decisions
-- Develop training programs that emphasize practical wisdom development
+Enhanced with Ferdman's explanation of how plan-forming develops practical wisdom: "A wise person knows the effective means to one's ends and possesses an accurate understanding of their situation and circumstances... they also possess discernment: correct understanding of how the good and the bad apply in particular circumstances." Added specific connection to research methodology development.
 
-## Measurement Framework
-
-Organizations can assess plan-forming vs. plan-following through:
-- Ratio of researcher-initiated modifications to AI suggestions
-- Documentation of researcher deliberation processes
-- Opportunities for researcher input in AI-generated outputs
-- Frequency of critical evaluation of AI recommendations
-
-*See also: [[agential-control]], [[practical-wisdom]], [[human-capacities]]*
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

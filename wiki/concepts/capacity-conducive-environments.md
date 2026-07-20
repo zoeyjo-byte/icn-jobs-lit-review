@@ -1,45 +1,40 @@
 # [[capacity-conducive-environments]]
 
 ## Definition
-Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to [[capacity-hostile-environments]] as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
-- **Rich affordance space**: Provides diverse action possibilities that trigger multiple human capacities simultaneously
-- **Embodied interaction**: Supports physical presence and sensory experience essential for social and moral skill development
-- **Intersubjective learning**: Facilitates transmission of both technical knowledge and shared valuing of capacities
-- **Agential control opportunities**: Creates contexts where individuals must initiate and adjust actions rather than respond to environmental triggers
+Environments that **actively encourage the development and exercise of human capacities** through rich opportunities for embodied interaction and shared valuing, providing alternatives to [[capacity-hostile-environments]] as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+## Characteristics
+
+- Provide **wide fields of affordances** that trigger multiple capacities simultaneously
+- Encourage **embodied interaction** essential for social and moral capacity development
+- Support **intersubjective habituation** through mentor-mentee relationships
+- Afford opportunities for **plan-forming activities** rather than just plan-following
+- Create conditions for developing **agential control** over capacities
+- Foster **shared understanding** of the value of capacities
 
 ## Examples in Market Research
-1. **Hybrid research methodologies** that combine AI-powered data collection with human-led interpretation sessions
-2. **Mentorship programs** where junior researchers observe and participate in client consultations alongside experienced professionals
-3. **Collaborative analysis workshops** where teams collectively interpret findings, developing shared understanding through embodied discussion
-4. **Ethnographic fieldwork** that requires physical presence and sensory engagement with research subjects
 
-## Implementation Framework
-Based on Ferdman's analysis, capacity-conducive environments should include:
+- Research settings that **preserve embodied interaction** with respondents while using AI for data processing
+- **Collaborative analysis sessions** where teams interpret AI-generated insights together
+- **Mentorship programs** that guide junior researchers in developing critical thinking alongside AI tools
+- Workspaces designed with **community centers and public spaces** that encourage structured and unstructured embodied interactions
+- Research methodologies that **integrate AI as a tool** rather than replacement for human judgment
 
-| Component | Implementation in Market Research |
-|-----------|--------------------------------|
-| **Embodied engagement** | Regular in-person team sessions, fieldwork opportunities, client meetings |
-| **Intersubjective valuing** | Structured reflection sessions, shared project debriefs, storytelling about professional growth |
-| **Gradual habituation** | Scaffolded learning pathways from observation to independent practice |
-| **Agential control** | Opportunities for junior staff to initiate research questions and methodology choices |
+## Ferdman's Framework
+
+According to Ferdman's analysis, capacity-conducive environments must go beyond merely affording opportunities to actively encourage valuable activities:
+
+> "To ensure the activation of the capacities, the environment has to encourage the activity of φ-ing, otherwise the capacities might not be triggered. This is why the environment conducive to the capacities has to include public goods like community centers, quality public spaces, public libraries, etc. that encourage structured and unstructured embodied interactions."
+
+These environments recognize that capacity cultivation requires **habituation**—a gradual process of inculcation through continued attunement to individual cases.
 
 ## Contrast with [[capacity-hostile-environments]]
-While capacity-hostile environments create a vicious cycle of capacity impoverishment, capacity-conducive environments foster a virtuous cycle:
-1. Rich opportunities for engagement →
-2. Deep development of capacities →
-3. Appreciation of mastery in those capacities →
-4. Further investment in capacity cultivation
 
-This framework explains why high-intensity AI adopters like [[high-intensity-ai-adopters]] can grow entry-level roles by 12.0% - they've created capacity-conducive environments where AI augments rather than replaces human development.
+While capacity-hostile environments restrict capacity development through narrow affordance fields, capacity-conducive environments provide rich opportunities for developing the full range of human capacities. The critical difference lies in whether the environment merely provides opportunities or actively encourages engagement with those opportunities.
 
-## Research Evidence
-Ferdman demonstrates that capacity-conducive environments must go beyond merely affording opportunities for capacity exercise - they must actively **encourage** such engagement. This requires public goods like community spaces, quality public areas, and structured professional development opportunities that foster embodied interaction.
+## Update 2026-07-18
 
-## Related Concepts
-- [[embodiment-in-skilling]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[agential-control]]
-- [[value-chain-shift]]
+Enhanced with Ferdman's distinction between merely affording versus actively encouraging capacity development. Added specific explanation of how these environments support the transition from novice to expert: "As we move through stages of skill development, from novice through to expert, we rely on concrete experience rather than abstract principles."
+
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*

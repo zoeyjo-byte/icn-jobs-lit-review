@@ -1,64 +1,56 @@
-# Creative Capacities
+# [[creative-capacities]]
 
-Creative capacities are the human abilities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces. These capacities constitute a fundamental component of human flourishing, as they enable individuals to innovate, express themselves, and adapt to novel situations. According to Developmental Perfectionism (see [[developmental-perfectionism]]), the competent exercise of creative capacities yields intrinsically valuable outcomes like artistic expression, innovative solutions, and conceptual breakthroughs.
+## Definition
 
-## Characteristics of Creative Capacities
+The **human capacities related to generating novel ideas**, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-1. **Novel Combination**: The ability to make unfamiliar combinations of familiar ideas, going beyond mere association to create something genuinely new.
+## Key Characteristics
 
-2. **Conceptual Transformation**: The capacity to transform a conceptual space, altering how we understand and navigate domains of thought or practice.
+- Involves **making unfamiliar combinations** of familiar ideas
+- Requires **transforming conceptual spaces** rather than mechanical procedures
+- Develops through **habituation** and concrete experience
+- Depends on **embodied interaction** and **intersubjective learning**
+- Essential for **responding to novel situations** and unexpected events
 
-3. **Non-Mechanical Process**: Creativity involves more than luck, accidents, or mechanical procedures; it requires intentional engagement with the creative process.
+## Ferdman's Analysis
 
-4. **Value Judgment**: Creative work involves discerning which novel combinations have value and merit further development.
+Ferdman explains creative capacities as fundamental to human flourishing:
 
-## Development of Creative Capacities
+> "The capacity for creativity involves making unfamiliar combinations of familiar ideas, transforming a conceptual space, without relying merely on luck, accidents, or mechanical procedures."
 
-Creative capacities develop through a gradual process of habituation (see [[habituation-process]]), characterized by:
+These capacities are particularly important for life-planning:
 
-- **Embodied Exploration**: Physical engagement with materials, environments, and sensory experiences is essential for developing creative capacities (see [[embodiment-in-skilling]]).
+> "Life-planning also involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events."
 
-- **Intersubjective Feedback**: Creative development depends on relationships with mentors and peers who provide constructive criticism and share the value of creative work (see [[intersubjectivity-in-skilling]]).
+## Connection to Habituation
 
-- **Agential Control**: The ability to adjust the creative process as it unfolds, distinguishing skilled creation from habitual or automated production (see [[agential-control]]).
+Creative capacities develop through the habituation process:
 
-- **Plan-Forming**: Creativity often involves actively creating new pathways through self-deliberation rather than merely following pre-determined creative templates (see [[plan-forming-vs-plan-following]]).
+> "The process of becoming skilled is a gradual and slow process of habituation. Skill generally cannot be learnt through testimony, and requires practice."
 
-## Threats from AI Systems
+This requires encountering and overcoming disappointment and failure, which AI automation can eliminate:
 
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI systems can undermine creative capacities through:
+> "Automating routine tasks and leaving only exception-handling to the human user... deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature."
 
-1. **Premature Closure**: AI tools that provide immediate creative outputs may discourage the exploratory process necessary for genuine creativity.
+## AI's Dual Impact
 
-2. **Reduced Practice**: Automating creative tasks deprives users of opportunities to develop their own creative muscles through trial and error.
+AI presents both opportunities and threats to creative capacities:
 
-3. **Homogenization**: AI systems trained on existing data may reinforce conventional patterns rather than encouraging truly novel combinations.
+- **Threat**: AI tools that automate creative processes can undermine habituation
+- **Opportunity**: AI can serve as a tool that expands creative possibilities when used appropriately
 
-4. **Erosion of Creative Judgment**: Over-reliance on AI for creative decisions can diminish the ability to discern valuable creative work.
-
-## Evidence of Erosion
-
-Research cited in [[ferdman-2026-ai-deskilling-structural-problem]] shows growing evidence of:
-- Erosion of critical thinking and decision-making as a result of over-reliance on artificial intelligence
-- In healthcare, AI dependence has been found to diminish diagnostic reasoning and clinical judgment
-- Young people growing up with smartphones struggle with "everyday but essential" skills like problem-solving
+The critical factor is whether AI creates **capacity-conducive environments** or **capacity-hostile environments** for creativity.
 
 ## Implications for Market Research
 
-In market research, creative capacities are essential for:
-- Designing innovative research methodologies
-- Interpreting ambiguous data in novel ways
-- Developing compelling insights and storytelling
-- Creating engaging research experiences for participants
-- Adapting research approaches to novel market situations
+- **Research design** requires creative capacity to develop innovative methodologies
+- **Data interpretation** depends on creative capacity to identify novel insights
+- AI tools that **automate insight generation** undermine development of creative capacities
+- Market research firms must preserve opportunities for **creative problem-solving** even as they adopt AI
+- The **human operating model gap** widens when firms prioritize AI-generated insights over human creative capacity development
 
-AI tools that automate insight generation or research design without preserving opportunities for researchers to exercise these capacities risk creating capacity-hostile environments that ultimately degrade the innovative potential of market research.
+## Update 2026-07-18
 
-## Related Concepts
+Enhanced with Ferdman's explanation of how creative capacities relate to plan-forming: "Executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events." Added specific examples of how market research AI tools can either support or undermine creative capacity development in research design.
 
-- [[human-capacities]]
-- [[developmental-perfectionism]]
-- [[innovation]]
-- [[design-thinking]]
-- [[capacity-hostile-environments]]
-- [[agential-control]]
+*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
