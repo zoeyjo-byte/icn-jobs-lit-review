@@ -1,40 +1,61 @@
-# [[agential-control]]
+# Agential Control
+
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-18
 
 ## Definition
 
-The **ability to adjust the execution of an action as the performance unfolds**, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Agential control refers to the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this capacity is fundamental to human agency and distinguishes skilled activity from habitual responses to environmental triggers.
 
-## Key Characteristics
+## Philosophical Foundation
 
-- Essential for **initiating tasks** rather than merely responding to environmental triggers
-- Enables **flexible links between thought and action** that continue to evolve even after expertise is achieved
-- Critical for **plan-forming activities** (as opposed to plan-following)
-- Allows for **self-correction** during task performance
-- Develops through a process of **tuning and attuning** as agency develops
+The concept builds on philosophical work distinguishing skills from habits:
 
-## Ferdman's Analysis
+- Skills require control over initiating the task, whereas habits are merely elicited in response to environmental triggers
+- As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning
+- To cultivate a skill is to develop flexible links between thought and action that continue to evolve even after expertise has been achieved
 
-Ferdman emphasizes that agential control is what distinguishes skilled activity from habitual activity:
+As Ferdman explains: "The implication is that an agent who performs out of habit, in response to triggers in the environment, is less skilled compared to the agent who has full control over initiating the activity."
 
-> "Skills are therefore distinct from habits in an important respect: skills require control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers. A habitual activity is an activity that is triggered by something in the environment, where the agent performs the activity in response to the trigger. A skilled activity is one where the agent has full control over initiating the activity."
+## Plan-Forming vs. Plan-Following
 
-This distinction is crucial for understanding how AI systems can undermine capacity development. When AI takes over planning functions, users lose opportunities to exercise agential control over initiating planning activities.
+Agential control is particularly evident in the distinction between plan-forming and plan-following:
 
-## Implications for Market Research
+- **Plan-forming**: Requires exercising agential control over both the settling function (deciding between options) and coordination function (organizing different types of plans) of practical rationality
+- **Plan-following**: Involves merely responding to triggers in the environment without initiating the planning activity
 
-- AI tools that **automate research design** reduce opportunities to develop agential control over research planning
-- **Automated reporting systems** eliminate the need for researchers to initiate and adjust narrative construction
-- **Personal AI assistants** that generate daily schedules undermine development of time management capacities
-- Market researchers need environments that preserve opportunities for **self-deliberation** on research questions and methods
+This distinction is critical when evaluating AI personal assistants (APAs), which can shift users from plan-formers to plan-followers by providing pre-constructed plans that users merely execute.
 
-## Connection to [[plan-forming-vs-plan-following]]
+## Examples in Market Research
 
-Agential control is central to the distinction between plan-forming (requiring self-deliberation and settling functions) and plan-following (responding to triggers). Ferdman explains:
+In market research contexts, agential control manifests in:
 
-> "Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating."
+- Researchers initiating research questions rather than merely responding to AI-suggested topics
+- Analysts adjusting methodology in response to emerging data patterns rather than rigidly following pre-determined protocols
+- Moderators adapting interview techniques in real-time based on participant responses rather than strictly following scripted questions
+- Strategists developing novel research approaches to address unique business challenges rather than applying standardized templates
 
-## Update 2026-07-18
+## Threats from AI Systems
 
-Expanded with Ferdman's explanation of how agential control develops through the habituation process. Added specific examples of how AI systems in market research can undermine agential control development: "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities that are ordinarily involved in making coherent plans."
+AI systems can undermine agential control in market research through:
 
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
+- Automated research design tools that generate complete study protocols without researcher initiation
+- AI assistants that provide pre-constructed analysis paths, reducing opportunities for researchers to develop their own analytical approaches
+- Recommendation systems that suggest research topics based on past behavior rather than encouraging novel question formulation
+- Reporting tools that automatically generate insights without requiring researchers to engage in the interpretation process
+
+## Implications for Skill Development
+
+The erosion of agential control has significant implications for market research skill development:
+
+- Without opportunities to initiate research activities, junior researchers cannot develop the practical wisdom necessary for complex decision-making
+- Reduced experience in plan-forming diminishes researchers' ability to handle unexpected research challenges
+- Over-reliance on pre-constructed research paths limits the development of creative capacities needed for innovative research design
+
+## Related Concepts
+
+- [[plan-forming-vs-plan-following]]
+- [[habituation-process]]
+- [[practical-rationality]]
+- [[human-intensive-skills]]
+- [[ai-deskilling-structural-problem]]

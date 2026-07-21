@@ -1,36 +1,45 @@
-# [[ai-society]]
+# AI & Society
 
-## Definition
+**First Observed:** 2026-07-16
+**Last Updated:** 2026-07-18
 
-Academic journal published by Springer focusing on the **social, ethical, and philosophical implications** of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published.
+## Overview
 
-## Publication Details
+AI & Society is an academic journal published by Springer that focuses on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. The journal serves as a critical forum for interdisciplinary scholarship examining how AI systems impact human society, values, and flourishing.
 
-- **Title**: AI & SOCIETY
-- **Volume**: 41
-- **Year**: 2026
-- **Pages**: 3001–3013
-- **DOI**: https://doi.org/10.1007/s00146-025-02686-z
+## Relevance to Market Research
 
-## Scope and Focus
+AI & Society is particularly relevant to the market research industry for several reasons:
 
-AI & Society publishes research examining:
-- Ethical implications of AI systems
-- Social impacts of digital technologies
-- Philosophical questions about human-AI interaction
-- Policy frameworks for responsible AI development
-- Structural analyses of AI's impact on human capacities
+- Publishes foundational research on AI's impact on human capacities, such as [[ferdman-2026-ai-deskilling-structural-problem]]
+- Explores the ethical dimensions of AI adoption that directly affect research practices
+- Provides philosophical frameworks for understanding the human implications of AI systems
+- Addresses the structural dimensions of AI's impact on work and human flourishing
+- Offers critical perspectives on AI's role in mediating human activity and decision-making
 
-## Significance of Ferdman Publication
+## Key Contributions
 
-The journal provided the platform for Ferdman's groundbreaking analysis of AI deskilling as a structural problem:
+The journal has published several influential works relevant to market research:
 
-> "AI deskilling is a structural problem" established the critical distinction between capacity-hostile and capacity-conducive environments, fundamentally shifting the discourse from individual responsibility to structural conditions.
+- Ferdman's "AI deskilling is a structural problem" (2026) which introduces the concepts of capacity-hostile and capacity-conducive environments
+- Research on AI's impact on professional judgment and decision-making
+- Analyses of AI's effects on human capacities relevant to research quality
+- Philosophical examinations of AI's role in mediating human interaction
 
-The publication represents an important contribution to understanding how AI systems can undermine human capacities through systemic environmental design rather than individual failings.
+## Connection to Industry Challenges
 
-## Update 2026-07-18
+AI & Society's scholarship directly addresses several critical challenges facing the market research industry:
 
-Expanded with details from Ferdman's paper about the journal's relevance to market research: "The analysis moves beyond individual responsibility that agents have to cultivate their human capacities, demonstrating how AI's influence creates systemic conditions that could inhibit the development and exercise of human capacities by undermining the process of capacity cultivation." Added connection to the human operating model gap in research organizations.
+- The [[human-operating-model-gap]] between rapidly advancing AI capabilities and slower adaptation of human systems
+- The [[entry-level-squeeze]] phenomenon where AI automation reduces foundational learning opportunities
+- The structural dimensions of AI's impact on human capacities essential for quality research
+- Ethical considerations in AI-augmented research practices
+- The need to design capacity-conducive environments that preserve opportunities for developing human-intensive skills
 
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
+## Related Concepts
+
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[human-capacities]]

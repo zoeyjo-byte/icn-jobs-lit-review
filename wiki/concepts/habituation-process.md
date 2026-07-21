@@ -1,53 +1,65 @@
-# [[habituation-process]]
+# Habituation Process
+
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-18
 
 ## Definition
 
-The **gradual process of becoming skilled through practice**, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The habituation process refers to the gradual development of skill through practice, involving inculcation through continued attunement to the demands of individual cases. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this process is essential for developing human capacities and cannot be shortcut through testimony or abstract principles alone.
 
 ## Key Characteristics
 
-- **Cannot be learned through testimony alone** - requires concrete experience
-- Involves **progression through stages** from novice to expert
-- Requires **encountering and overcoming disappointment and failure**
-- Depends on **embodied interaction** and **intersubjective learning**
-- Creates **flexible links between thought and action** that evolve beyond expertise
-- Is a **process of growth rather than simple repetition**
+The habituation process exhibits these critical features:
 
-## Ferdman's Framework
+- **Gradual progression**: Moves through stages from novice to expert, with increasing sophistication and sensitivity to varying contexts
+- **Experience-based**: Requires considerable time and living, with refinement through successive trials and learning from mistakes
+- **Non-repetitive**: Involves growth rather than simple repetition, with each iteration building on previous experiences
+- **Context-sensitive**: Develops through attunement to the demands of individual cases rather than application of universal rules
+- **Failure-embracing**: Incorporates disappointment and failure as essential components of skill development
 
-Ferdman explains habituation as the essential process through which skills develop:
+As Ferdman explains: "Habituation involves inculcation through continued attunement to the demands of individual cases; refinement of the action through successive trials and learning from mistakes. This includes encountering and overcoming disappointment and failure."
 
-> "The process of becoming skilled is a gradual and slow process of habituation. Skill generally cannot be learnt through testimony, and requires practice. As we move through stages of skill development, from novice through to expert, we rely on concrete experience rather than abstract principles."
+## Two Essential Components
 
-This process involves refinement through successive trials and learning from mistakes, including encountering and overcoming disappointment and failure.
+The habituation process comprises two interdependent dimensions:
 
-## Two Critical Components
+### Intersubjectivity
 
-### 1. Intersubjectivity
+- Requires mentorship where a guide instills not only mechanical aspects of the skill but also the value of the skill
+- Involves developing "shared valuing" of the skill through relationships with others
+- Occurs at societal scale through social practices that generate moral reasons for action
+- Depends on shared intentions between mentor and mentee that evolve into shared valuing of the skill
 
-> "Skill habituation has a 'shared understanding' dimension. First, becoming skilled typically requires a mentor to guide the novice into becoming an expert that engages in practice of the right kind."
+### Embodiment
 
-Mentors instill not just mechanical aspects of skills but the value of the skill itself, creating shared valuing between mentor and mentee.
+- Necessitates physical presence and sensory experience in skill development
+- Relies on "embodied understanding" where agents recognize others as similar loci of embodied subjectivity
+- Enables "participatory sense-making" through the interplay between unfolding interaction and individuals engaged
+- Creates shared history and context that cannot be replicated in disembodied environments
 
-### 2. Embodiment
+## Threats from AI Systems
 
-> "Being embodied is critical for becoming skilled insofar as the process of 'shared valuing' of the skill requires some degree of doing something with the mentor(s), creating a shared history and a participatory sense-making regarding both the product of the skill and the skill itself."
+AI systems can undermine the habituation process in market research through:
 
-Without embodied interaction, recognizing others as moral agents becomes more difficult, requiring "more mental efforts in attributing moral agency to the other."
+- Automating routine research tasks that provide essential practice opportunities for developing cognitive skills
+- Providing instant answers that bypass the gradual process of developing research judgment
+- Reducing opportunities for learning from mistakes by preventing researchers from encountering and overcoming failures
+- Diminishing mentor-mentee relationships through automated guidance systems
+- Creating disembodied research environments that limit opportunities for embodied interaction
 
-## AI's Impact on Habituation
+## Implications for Market Research
 
-AI systems threaten the habituation process by:
+The erosion of proper habituation processes has significant consequences for the market research industry:
 
-- **Automating routine tasks** that provide essential practice opportunities
-- **Replacing embodied interaction** with disembodied digital interfaces
-- **Reducing opportunities for mentorship** through automated guidance
-- **Encouraging plan-following** rather than plan-forming activities
+- Junior researchers experience the [[entry-level-squeeze]] as AI automates foundational tasks that historically served as training grounds
+- Reduced opportunities for gradual skill development contribute to the [[seniorised-roles]] phenomenon where entry-level positions increasingly demand traditionally senior skills
+- Diminished mentor-mentee relationships undermine the transmission of tacit knowledge essential for research excellence
+- Disembodied research environments limit the development of social and moral capacities critical for ethical research practices
 
-As Ferdman notes: "Automating routine tasks and leaving only exception-handling to the human user... deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature."
+## Related Concepts
 
-## Update 2026-07-18
-
-Enhanced with Ferdman's detailed explanation of the 5-stage skill development process (novice, advanced beginner, competent, proficient, expert). Added specific connection to market research: "When AI tools automate foundational research tasks, they undermine the habituation process that traditionally allowed junior researchers to develop expertise through progressive responsibility."
-
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[agential-control]]
+- [[entry-level-squeeze]]
+- [[ai-deskilling-structural-problem]]

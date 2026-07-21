@@ -1,53 +1,73 @@
-# [[epistemic-capacities]]
+# Epistemic Capacities
+
+**First Observed:** 2026-07-18
+**Last Updated:** 2026-07-18
 
 ## Definition
 
-The **human capacities related to knowledge, reasoning, and understanding**, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Epistemic capacities are the human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis). As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for navigating truth and making informed decisions, and constitute a core component of human flourishing.
 
-## Two Components
+## Two Key Components
 
 ### Theoretical Rationality
 
-> "Thinking, considering reasons to believe, forming beliefs, contemplating"
-
-This involves the capacity to engage with truth, evidence, and logical reasoning to form accurate beliefs about the world.
+- Thinking, considering reasons to believe, forming beliefs, and contemplating
+- Essential for knowledge acquisition and critical evaluation of information
+- Enables researchers to assess the validity and reliability of data sources
+- Critical for distinguishing between correlation and causation in research findings
 
 ### Practical Rationality (Phronesis)
 
-> "Doing the right thing in the right way for the right reason"
+- Doing the right thing in the right way for the right reason
+- Manifests in practical wisdom: knowing effective means to ends and possessing accurate understanding of situations
+- Includes discernment: correct understanding of how the good and the bad apply in particular circumstances
+- Necessary for critically reflecting on conceptions of a flourishing life and setting appropriate goals
 
-Also known as practical wisdom or common sense, this involves:
-- Knowing effective means to one's ends
-- Possessing accurate understanding of situations and circumstances
-- Having discernment about how good and bad apply in particular contexts
-- Being an "effective and savvy agent in the real world, equipped with valuable life experience"
+As Ferdman explains: "To be well motivated is not enough, to have practical wisdom is to be an effective and savvy agent in the real world, equipped with valuable life experience."
 
-## Ferdman's Analysis
+## Role in Life-Planning
 
-Ferdman explains the critical role of epistemic capacities in human flourishing:
+Epistemic capacities play a critical role in life-planning:
 
-> "The competent exercise of the human capacities is the manifestation of the achievement of the intrinsically valuable goods, making the capacities intrinsically valuable too."
+- Exercise of theoretical rationality in self-deliberation on values and goals
+- Application of practical wisdom regarding coordinating goals and intentions with actions
+- Critical reflection on conceptions of a flourishing life to set appropriate research goals
+- Assessment of testimony from others in research contexts
 
-These capacities are particularly vulnerable to AI deskilling:
+## Threats from AI Systems
 
-> "There is growing evidence of the erosion of critical thinking, decision-making and analytical reasoning as a result of over-reliance on artificial intelligence."
+AI systems can undermine epistemic capacities through:
 
-## Connection to Plan-Forming
+- Providing instant answers that bypass the gradual development of research judgment
+- Reducing opportunities for researchers to exercise theoretical rationality in forming beliefs
+- Diminishing the need to develop practical wisdom through automated decision support
+- Creating environments where researchers outsource critical thinking to AI systems
+- Contributing to the erosion of critical thinking, decision-making, and analytical reasoning documented in multiple studies
 
-Epistemic capacities are essential for plan-forming activities:
+## Examples in Market Research
 
-> "Life-planning requires the cultivation and exercise of the epistemic capacities. This manifests in two ways: in exercising theoretical rationality manifested in self-deliberation on one's values and goals, and in exercising practical wisdom regarding coordinating one's goals and intentions with one's actions."
+In market research contexts, epistemic capacities manifest through:
 
-## Implications for Market Research
+- Theoretical rationality in evaluating research methodologies and data quality
+- Practical wisdom in determining appropriate research approaches for specific business challenges
+- Critical assessment of AI-generated insights for validity and relevance
+- Discernment in applying research findings to complex business situations
+- Self-deliberation on research ethics and professional standards
 
-- **Critical thinking** is essential for evaluating research quality and validity
-- **Practical wisdom** enables researchers to navigate complex client situations
-- AI tools that **automate analysis** undermine development of epistemic capacities
-- Market research firms must preserve opportunities for **self-deliberation** on research questions
-- The **human operating model gap** widens when firms prioritize AI-generated insights over human epistemic development
+## Implications for the Industry
 
-## Update 2026-07-18
+The erosion of epistemic capacities has significant implications for market research:
 
-Enhanced with Ferdman's explanation of how epistemic capacities relate to practical wisdom: "To be well motivated is not enough, to have practical wisdom is to be an effective and savvy agent in the real world, equipped with valuable life experience." Added specific examples of how market research AI tools can undermine epistemic capacity development in junior researchers.
+- Reduced ability to critically evaluate AI-generated insights
+- Diminished capacity to develop novel research approaches for complex problems
+- Weakened ability to translate research findings into actionable business recommendations
+- Contribution to the [[human-operating-model-gap]] between AI capabilities and human judgment
+- Increased vulnerability to research biases when critical thinking is outsourced to AI
 
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
+## Related Concepts
+
+- [[practical-rationality]]
+- [[phronesis]]
+- [[theoretical-rationality]]
+- [[human-capacities]]
+- [[ai-deskilling-structural-problem]]

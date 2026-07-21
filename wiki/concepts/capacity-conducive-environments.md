@@ -1,40 +1,49 @@
-# [[capacity-conducive-environments]]
+# Capacity-Conducive Environments
+
+**First Observed:** 2026-07-03
+**Last Updated:** 2026-07-18
 
 ## Definition
 
-Environments that **actively encourage the development and exercise of human capacities** through rich opportunities for embodied interaction and shared valuing, providing alternatives to [[capacity-hostile-environments]] as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Capacity-conducive environments are settings that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these environments provide sufficient invitations for valuable activities that trigger the competent exercise of human capacities, in contrast to capacity-hostile environments that restrict such opportunities.
 
 ## Characteristics
 
-- Provide **wide fields of affordances** that trigger multiple capacities simultaneously
-- Encourage **embodied interaction** essential for social and moral capacity development
-- Support **intersubjective habituation** through mentor-mentee relationships
-- Afford opportunities for **plan-forming activities** rather than just plan-following
-- Create conditions for developing **agential control** over capacities
-- Foster **shared understanding** of the value of capacities
+Capacity-conducive environments typically exhibit these features:
+
+- **Rich affordance landscape**: Provide diverse action possibilities that encourage development of multiple capacities simultaneously
+- **Embodied interaction opportunities**: Facilitate physical presence and sensory experience in skill development
+- **Intersubjective learning**: Support mentor-mentee relationships where both parties share intentions and develop "shared valuing" of capacities
+- **Agential control cultivation**: Encourage users to initiate activities rather than merely respond to environmental triggers
+- **Responsibility ownership**: Create contexts where users must take accountability for outcomes, enabling self-critique and growth
 
 ## Examples in Market Research
 
-- Research settings that **preserve embodied interaction** with respondents while using AI for data processing
-- **Collaborative analysis sessions** where teams interpret AI-generated insights together
-- **Mentorship programs** that guide junior researchers in developing critical thinking alongside AI tools
-- Workspaces designed with **community centers and public spaces** that encourage structured and unstructured embodied interactions
-- Research methodologies that **integrate AI as a tool** rather than replacement for human judgment
+In market research contexts, capacity-conducive environments include:
 
-## Ferdman's Framework
+- Research settings that preserve opportunities for human-to-human interaction in qualitative studies, maintaining the embodied component of understanding participant perspectives
+- Team structures that encourage collaborative sense-making through shared physical spaces or high-fidelity virtual environments
+- Training programs that incorporate gradual habituation through successive trials, learning from mistakes, and refinement of action
+- Processes that maintain researcher involvement in the full research cycle, from question formulation to interpretation, rather than offloading segments to AI
+- Community spaces (physical or virtual) that encourage researchers to share experiences and develop shared understanding of research values
 
-According to Ferdman's analysis, capacity-conducive environments must go beyond merely affording opportunities to actively encourage valuable activities:
+## Structural Design Principles
 
-> "To ensure the activation of the capacities, the environment has to encourage the activity of φ-ing, otherwise the capacities might not be triggered. This is why the environment conducive to the capacities has to include public goods like community centers, quality public spaces, public libraries, etc. that encourage structured and unstructured embodied interactions."
+As Ferdman explains, capacity-conducive environments should incorporate these design principles:
 
-These environments recognize that capacity cultivation requires **habituation**—a gradual process of inculcation through continued attunement to individual cases.
+1. **Embodied engagement**: Include public goods like community centers, quality public spaces, and libraries that encourage structured and unstructured embodied interactions
+2. **Intersubjective valuing**: Create contexts where researchers can develop shared understanding of the value of core capacities
+3. **Gradual habituation**: Structure skill development through progressive challenges that build on previous experiences
+4. **Volitional encouragement**: Design systems that require and reward effort, perseverance, and growth rather than expecting "virtuous superheroes"
 
-## Contrast with [[capacity-hostile-environments]]
+## Implications for Market Research
 
-While capacity-hostile environments restrict capacity development through narrow affordance fields, capacity-conducive environments provide rich opportunities for developing the full range of human capacities. The critical difference lies in whether the environment merely provides opportunities or actively encourages engagement with those opportunities.
+The transition to AI-augmented market research requires deliberate design of capacity-conducive environments to preserve the human capacities that differentiate quality insights. Organizations must balance AI adoption with maintaining opportunities for researchers to develop the epistemic, social, creative, and volitional capacities that constitute human flourishing. This is particularly critical as entry-level positions face increasing pressure from AI automation ([[entry-level-squeeze]]), making structured capacity development more essential than ever.
 
-## Update 2026-07-18
+## Related Concepts
 
-Enhanced with Ferdman's distinction between merely affording versus actively encouraging capacity development. Added specific explanation of how these environments support the transition from novice to expert: "As we move through stages of skill development, from novice through to expert, we rely on concrete experience rather than abstract principles."
-
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013.*
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[habituation-process]]
+- [[human-capacities]]
+- [[agential-control]]
