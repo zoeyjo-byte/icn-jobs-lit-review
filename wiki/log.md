@@ -34,3 +34,4 @@ Chronological record of every ingest operation.
 2026-07-18: Ingested s00146-025-02686-z.txt. Created 6, updated 4.
 2026-07-20: Ingested s00146-025-02686-z.txt. Updated 15 concept pages and 2 entity pages with detailed content from Ferdman's analysis of AI deskilling as a structural problem, including capacity-hostile environments, habituation process, and implications for Artificial Personal Assistants.
 2026-07-21: Ingested s00146-025-02686-z.txt. Updated 15 concept pages, 2 entity pages, and 1 study page with detailed analysis of capacity-hostile environments, human capacities, and AI's structural impact on skill development from Ferdman's research.
+2026-07-22: Ingested s00146-025-02686-z.txt. Created 0, updated 15.

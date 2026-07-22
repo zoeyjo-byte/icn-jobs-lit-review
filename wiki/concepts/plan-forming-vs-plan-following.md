@@ -1,66 +1,44 @@
-# Plan-Forming vs Plan-Following
-
-**First Observed:** 2026-07-17
-**Last Updated:** 2026-07-18
+# plan-forming-vs-plan-following
 
 ## Definition
+The distinction between plan-forming and plan-following refers to the difference between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-Plan-forming vs plan-following refers to the critical distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual). As established in [[ferdman-2026-ai-deskilling-structural-problem]], this distinction has significant implications for AI's impact on capacity development.
+## Key Insights
+According to Ferdman's 2026 analysis:
+- Plan-forming involves self-deliberation and requires exercising agential control over initiating the planning activity
+- Plan-following is more like a habit that is developed in response to a trigger in the environment
+- Forming a plan requires exercising the epistemic, moral, social and creative capacities involved in planning
+- Plan-forming includes two important agential roles: settling function (managing cognitive resources when facing choices) and coordination function (forming and organizing different types of plans)
+- Plan-forming involves taking responsibility if the plan fails, affording opportunities for self-criticism and improvement
+- Plan-following often involves shifting responsibility to the plan creator when failures occur
 
-## Plan-Forming
+## Connection to AI Systems
+Artificial Personal Assistants (APAs) can undermine plan-forming by:
+- Providing pre-constructed plans that users merely follow
+- Creating environments where users respond to APA outputs rather than initiating planning
+- Reducing opportunities for users to develop practical wisdom through real-world experience
+- Narrowing the field of affordances for gaining experience in independent planning
+- Discouraging users from seeking alternative avenues to compensate for reduced planning opportunities
 
-Plan-forming involves:
+## Implications for Market Research
+In market research, the plan-forming vs plan-following distinction is critical for:
+- Preserving researchers' ability to develop research designs through self-deliberation
+- Maintaining researchers' practical wisdom in adapting research approaches
+- Ensuring researchers take responsibility for research decisions rather than deferring to AI
+- Supporting the development of junior researchers' planning capacities
 
-- **Self-deliberation**: Actively considering values, goals, and circumstances to develop appropriate plans
-- **Agential control**: Full control over initiating the planning activity, including both settling function (deciding between options) and coordination function (organizing different types of plans)
-- **Responsibility ownership**: Taking accountability for plan outcomes, enabling self-critique and growth
-- **Practical wisdom**: Applying phronesis to determine effective means to ends and assess circumstances accurately
-
-As Ferdman explains: "Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating."
-
-## Plan-Following
-
-Plan-following involves:
-
-- **Environmental triggers**: Responding to recommendations or prompts from external sources
-- **Habitual response**: Executing plans without initiating the planning activity
-- **Diminished responsibility**: Ability to shift accountability for outcomes to the plan provider
-- **Reduced practical wisdom development**: Limited opportunities to develop judgment through trial and error
-
-As Ferdman states: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment."
-
-## AI Personal Assistants and the Shift
-
-AI personal assistants (APAs) can shift users from plan-formers to plan-followers through:
-
-- Providing complete plans that users merely execute, rather than supporting self-deliberation
-- Constant availability that discourages users from seeking alternative growth opportunities
-- Offloading small-scale decisions that over time amount to broader life goals
-- Creating environments where users become acclimated to responding to APA outputs rather than exercising agential control
-
-## Examples in Market Research
-
-In market research contexts, this distinction manifests through:
-
-- **Plan-forming**: Researchers developing novel research approaches through self-deliberation on client needs, methodological considerations, and resource constraints
-- **Plan-following**: Researchers executing pre-constructed research protocols generated by AI tools without critical evaluation
-- **Plan-forming**: Analysts adjusting methodology in response to emerging data patterns through practical wisdom
-- **Plan-following**: Analysts rigidly following AI-recommended analysis paths without adaptation
-
-## Implications for Capacity Development
-
-The shift from plan-forming to plan-following has significant implications:
-
-- Reduced opportunities to develop practical rationality and phronesis
-- Diminished development of creative capacities needed for innovative research design
-- Weakened volitional capacity as researchers rely on external direction rather than self-motivation
-- Erosion of epistemic capacities as researchers outsource critical thinking to AI systems
-- Contribution to the [[human-operating-model-gap]] between AI capabilities and human capacity development
+## Mitigation Strategies
+To protect plan-forming capacities in AI-assisted market research:
+- Design AI tools that support rather than replace researcher self-deliberation
+- Create opportunities for researchers to initiate research plans rather than follow AI-generated ones
+- Implement training that emphasizes the distinction between plan-forming and plan-following
+- Ensure AI tools don't narrow the field of affordances for independent planning
+- Develop research environments that encourage taking responsibility for research decisions
 
 ## Related Concepts
-
 - [[agential-control]]
 - [[practical-rationality]]
 - [[phronesis]]
-- [[ai-deskilling-structural-problem]]
 - [[artificial-personal-assistants]]
+- [[capacity-hostile-environments]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

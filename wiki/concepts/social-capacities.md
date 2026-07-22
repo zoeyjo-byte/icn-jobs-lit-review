@@ -1,76 +1,47 @@
-# Social Capacities
-
-**First Observed:** 2026-07-18
-**Last Updated:** 2026-07-18
+# social-capacities
 
 ## Definition
+Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity.
 
-Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for ethical research practices and constitute a core component of human flourishing in market research contexts.
+## Key Insights
+According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- Social capacities include the moral capacity as well as social and caring capacities for developing meaningful relationships of friendship and love
+- Moral capacity involves recognizing others as moral agents and making ethical judgments
+- Relational capacity involves forming and maintaining meaningful connections with others
+- Social capacities depend on embodied interaction for their development and exercise
+- Without embodied interaction, it would be hard to recognize others spontaneously as moral agents
+- Disembodied interactions make it harder to form meaningful friendships because they require more discipline for a diminished experience
 
-## Key Components
+## Connection to AI Systems
+AI systems can undermine social capacities by:
+- Creating disembodied environments that limit opportunities for embodied interaction
+- Replacing human interaction with AI mediation
+- Reducing opportunities for shared valuing of social capacities
+- Creating environments where users primarily interact with non-human entities
+- Undermining the intersubjective dimension of social capacity development
 
-### Moral Capacity
+## Implications for Market Research
+In market research, social capacities are essential for:
+- Developing empathy with research participants
+- Building rapport in qualitative research
+- Understanding cultural contexts and nuances
+- Making ethical judgments about research practices
+- Collaborating effectively with research teams
+- Interpreting social phenomena accurately
 
-- Ability to make ethical judgments and act accordingly in research contexts
-- Includes recognizing ethical dilemmas and applying moral reasoning
-- Essential for maintaining research integrity and participant welfare
-- Critical for navigating complex ethical challenges in sensitive research topics
-
-### Relational Capacity
-
-- Ability to form meaningful relationships of friendship, trust, and professional collaboration
-- Includes understanding others' perspectives and building rapport
-- Essential for effective client relationships and team collaboration
-- Critical for qualitative research methods requiring deep participant engagement
-
-As Ferdman explains: "The social capacities include the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love."
-
-## Role in Life-Planning and Research
-
-Social capacities play a critical role in both life-planning and market research:
-
-- Planning involves coordinating with others toward achieving complex research goals
-- Social relationships provide reasons for action that inform research goals (e.g., being a good researcher, contributing to knowledge)
-- Ethical research practices depend on moral capacity to protect participant welfare
-- Building rapport with research participants requires relational capacity
-- Team collaboration depends on shared understanding and mutual respect
-
-## Threats from AI Systems
-
-AI systems can undermine social capacities through:
-
-- Reducing opportunities for embodied interaction critical for developing moral attention
-- Diminishing mentor-mentee relationships essential for transmitting research ethics
-- Creating disembodied research environments that limit opportunities for relationship building
-- Replacing human-to-human interaction in customer interviews and focus groups
-- Reducing opportunities to develop shared valuing of research ethics through social practices
-
-As Ferdman notes: "Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents."
-
-## Examples in Market Research
-
-In market research contexts, social capacities manifest through:
-
-- Moral capacity in ensuring informed consent and protecting participant privacy
-- Relational capacity in building rapport with research participants during interviews
-- Ethical judgment in navigating conflicts of interest with clients
-- Team collaboration that depends on shared understanding of research values
-- Client relationships built on trust and mutual respect
-
-## Implications for the Industry
-
-The erosion of social capacities has significant implications for market research:
-
-- Reduced ability to conduct ethical research that protects participant welfare
-- Diminished quality of qualitative research that depends on human rapport
-- Weakened client relationships due to reduced relational capacity
-- Erosion of research community standards when shared valuing of ethics diminishes
-- Contribution to the [[human-operating-model-gap]] between AI capabilities and human social skills
+## Mitigation Strategies
+To protect social capacities in AI-assisted market research:
+- Design research methodologies that maintain embodied interaction where possible
+- Create opportunities for face-to-face research and team collaboration
+- Ensure AI tools don't replace the embodied dimension of research practice
+- Develop training that emphasizes the importance of embodied interaction
+- Balance AI implementation with preserving spaces for embodied research activities
+- Foster environments that encourage shared valuing of social research capacities
 
 ## Related Concepts
-
+- [[embodiment-in-skilling]]
 - [[moral-capacity]]
 - [[relational-capacity]]
-- [[embodiment-in-skilling]]
 - [[human-capacities]]
-- [[ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

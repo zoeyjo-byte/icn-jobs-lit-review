@@ -1,65 +1,56 @@
-# Habituation Process
-
-**First Observed:** 2026-07-03
-**Last Updated:** 2026-07-18
+# habituation-process
 
 ## Definition
+The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases. Skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-The habituation process refers to the gradual development of skill through practice, involving inculcation through continued attunement to the demands of individual cases. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this process is essential for developing human capacities and cannot be shortcut through testimony or abstract principles alone.
+## Key Insights
+According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- The process of becoming skilled is a gradual and slow process of habituation
+- Skill generally cannot be learnt through testimony, and requires practice
+- Habituation involves inculcation through continued attunement to the demands of individual cases
+- Refinement of the action occurs through successive trials and learning from mistakes
+- Encountering and overcoming disappointment and failure is an essential part of habituation
+- Skill development progresses through stages from novice to expert, with increasing sophistication and sensitivity to contexts
 
-## Key Characteristics
-
-The habituation process exhibits these critical features:
-
-- **Gradual progression**: Moves through stages from novice to expert, with increasing sophistication and sensitivity to varying contexts
-- **Experience-based**: Requires considerable time and living, with refinement through successive trials and learning from mistakes
-- **Non-repetitive**: Involves growth rather than simple repetition, with each iteration building on previous experiences
-- **Context-sensitive**: Develops through attunement to the demands of individual cases rather than application of universal rules
-- **Failure-embracing**: Incorporates disappointment and failure as essential components of skill development
-
-As Ferdman explains: "Habituation involves inculcation through continued attunement to the demands of individual cases; refinement of the action through successive trials and learning from mistakes. This includes encountering and overcoming disappointment and failure."
-
-## Two Essential Components
-
-The habituation process comprises two interdependent dimensions:
+## Components of Habituation
+The habituation process has two important components:
 
 ### Intersubjectivity
-
-- Requires mentorship where a guide instills not only mechanical aspects of the skill but also the value of the skill
-- Involves developing "shared valuing" of the skill through relationships with others
-- Occurs at societal scale through social practices that generate moral reasons for action
-- Depends on shared intentions between mentor and mentee that evolve into shared valuing of the skill
+- Becoming skilled typically requires a mentor to guide the novice
+- Mentors instill not only mechanical aspects of the skill but also the value of the skill
+- The process involves shared intentions and "shared valuing" of the skill
+- Social practices performed by groups or societies provide mentoring environments
 
 ### Embodiment
+- Successful habituation must include an embodied component
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Being embodied is critical for becoming skilled in social capacities
+- Without embodied interaction, it would be much harder to recognize others as moral agents
 
-- Necessitates physical presence and sensory experience in skill development
-- Relies on "embodied understanding" where agents recognize others as similar loci of embodied subjectivity
-- Enables "participatory sense-making" through the interplay between unfolding interaction and individuals engaged
-- Creates shared history and context that cannot be replicated in disembodied environments
-
-## Threats from AI Systems
-
-AI systems can undermine the habituation process in market research through:
-
-- Automating routine research tasks that provide essential practice opportunities for developing cognitive skills
-- Providing instant answers that bypass the gradual process of developing research judgment
-- Reducing opportunities for learning from mistakes by preventing researchers from encountering and overcoming failures
-- Diminishing mentor-mentee relationships through automated guidance systems
-- Creating disembodied research environments that limit opportunities for embodied interaction
+## Connection to AI Systems
+AI systems can undermine the habituation process by:
+- Automating routine tasks that would otherwise provide opportunities for practice
+- Replacing human activity with automated activity, depriving users of "cognitive musculature" development
+- Creating environments where users respond to AI outputs rather than initiating activities
+- Reducing opportunities for embodied interaction necessary for social capacity development
 
 ## Implications for Market Research
+In market research, preserving the habituation process is essential for:
+- Developing junior researchers' capacity for critical interpretation
+- Maintaining researchers' ability to handle unexpected findings
+- Ensuring the transmission of research wisdom across generations
+- Preserving the development of practical rationality in research design
 
-The erosion of proper habituation processes has significant consequences for the market research industry:
-
-- Junior researchers experience the [[entry-level-squeeze]] as AI automates foundational tasks that historically served as training grounds
-- Reduced opportunities for gradual skill development contribute to the [[seniorised-roles]] phenomenon where entry-level positions increasingly demand traditionally senior skills
-- Diminished mentor-mentee relationships undermine the transmission of tacit knowledge essential for research excellence
-- Disembodied research environments limit the development of social and moral capacities critical for ethical research practices
+## Mitigation Strategies
+To protect the habituation process in AI-assisted market research:
+- Design AI tools that maintain opportunities for researchers to practice core skills
+- Create structured mentorship programs that emphasize shared valuing of research capacities
+- Preserve spaces for embodied interaction between researchers
+- Ensure AI implementation doesn't automate the foundational tasks that serve as training grounds
 
 ## Related Concepts
-
 - [[intersubjectivity-in-skilling]]
 - [[embodiment-in-skilling]]
 - [[agential-control]]
-- [[entry-level-squeeze]]
-- [[ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

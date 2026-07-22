@@ -1,55 +1,43 @@
-# Developmental Perfectionism
-
-**First Observed:** 2026-07-15
-**Last Updated:** 2026-07-18
+# developmental-perfectionism
 
 ## Definition
+Developmental Perfectionism is a neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful.
 
-Developmental Perfectionism is a neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this philosophical framework provides the foundation for understanding why capacity-deskilling is harmful to human beings.
+## Key Insights
+According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
+- Developmental Perfectionism understands flourishing as a complex, unified, and well-rounded life
+- Humans exercise their capacities in activities that yield outcomes with intrinsic value like knowledge, beauty, morality, friendship
+- The competent exercise of human capacities is the manifestation of achieving intrinsically valuable goods
+- The value of being on the summit of Mt. Everest is gained from the competent exercise of capacities involved in climbing it, not from simply being there
+- Developmental Perfectionism explains why deskilling is bad: capacity-deskilling is bad because human capacities are constitutive of flourishing
+- Impoverished capacities (capacity-deskilling) lead to impoverished lives
 
-## Core Principles
+## Core Human Capacities
+Developmental Perfectionism identifies a set of core human capacities:
+- **Epistemic capacities**: theoretical rationality (thinking, considering reasons, forming beliefs) and practical rationality (phronesis/wisdom)
+- **Social capacities**: moral capacity and social/caring capacities for developing meaningful relationships
+- **Creative capacities**: making unfamiliar combinations of familiar ideas, transforming conceptual spaces
+- **Volitional capacity**: the ability to exert effort, overcome difficulty, persevere and grow to achieve intrinsically valuable goals
 
-Developmental Perfectionism is characterized by these key principles:
-
-- **Complex unity**: Human flourishing is not merely the sum of individual goods but a complex, unified whole
-- **Well-rounded life**: Flourishing involves the balanced development and exercise of multiple human capacities
-- **Intrinsic value**: Activities yield outcomes that have intrinsic value like knowledge, beauty, morality, and friendship
-- **Capacity manifestation**: The competent exercise of human capacities is the manifestation of intrinsically valuable goods
-- **Constitutive relationship**: Human capacities are constitutive of flourishing, not merely instrumental to it
-
-As Ferdman explains: "Developmental Perfectionism neatly captures why deskilling is bad: capacity-deskilling is bad because our human capacities are constitutive of our flourishing. Impoverished capacities (i.e., capacity-deskilling), therefore, lead to impoverished lives."
-
-## Why Deskilling is Harmful
-
-The framework explains why capacity-deskilling is harmful:
-
-- The value of an achievement is gained from the competent exercise of capacities involved, not merely from the outcome
-- For example, the value of reaching the summit of Mt. Everest comes from the competent exercise of climbing capacities, not merely from being there (e.g., via helicopter)
-- Impoverished capacities lead to impoverished lives because human capacities are constitutive of flourishing
-- Capacity-deskilling diminishes us as human beings by undermining our abilities in the 'arts of personhood'
-
-## Distinction from Skill Obsolescence
-
-Developmental Perfectionism distinguishes between:
-
-- **Benign skill obsolescence**: Where technological developments free up time and resources for cultivating other skills (e.g., hunting, basket-weaving, or coding)
-- **Harmful capacity-deskilling**: The deskilling of core human capacities—to know, create, form meaningful relationships, and use our willpower—which diminishes us as humans
-
-As Ferdman states: "Whereas deskilling of activities like hunting, basket-weaving or coding may be innocuous, capacity-deskilling should always be a cause for worry."
+## Connection to AI Deskilling
+Developmental Perfectionism provides the normative foundation for understanding AI deskilling:
+- Capacity-deskilling is bad because inadequate development of core capacities diminishes us as humans
+- Deskilling of core human capacities (to know, create, form relationships, use willpower) is different from skill obsolescence in domains like hunting or coding
+- While deskilling of activities like hunting may be innocuous, capacity-deskilling should always be a cause for worry
+- The framework explains why we have reason to ensure socio-technical environments are conducive to human capacity cultivation
 
 ## Implications for Market Research
-
-The Developmental Perfectionism framework has significant implications for the market research industry:
-
-- The industry's value increasingly depends on human capacities that constitute flourishing rather than easily automated skills
-- Organizations must preserve opportunities for developing the complex, unified set of capacities required for quality insights
-- The [[human-intensive-skills]] that differentiate human researchers from AI are constitutive of professional flourishing
-- AI adoption strategies should be evaluated based on whether they support or undermine the development of researchers' constitutive capacities
+In market research, Developmental Perfectionism suggests:
+- Research organizations should design AI systems that support rather than undermine core human capacities
+- The industry should value the full maturation of researchers' epistemic, social, creative and volitional capacities
+- Training programs should focus on developing the complete set of capacities necessary for research flourishing
+- Organizations should create environments that encourage the competent exercise of all human capacities
 
 ## Related Concepts
-
 - [[human-capacities]]
+- [[epistemic-capacities]]
+- [[social-capacities]]
+- [[creative-capacities]]
+- [[volitional-capacity]]
 - [[ai-deskilling-structural-problem]]
-- [[human-intensive-skills]]
-- [[capacity-conducive-environments]]
-- [[capacity-hostile-environments]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]
