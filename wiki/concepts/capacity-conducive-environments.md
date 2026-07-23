@@ -1,40 +1,33 @@
-# capacity-conducive-environments
+# Capacity-Conducive Environments
 
 ## Definition
-Capacity-conducive environments are environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities.
+Environments that **actively encourage the development and exercise of human capacities** through rich opportunities for embodied interaction and shared valuing, providing alternatives to capacity-hostile conditions as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities.
 
 ## Characteristics
-- Provide a broad field of affordances (rich action possibilities)
-- Encourage embodied user engagement
-- Support intersubjective habituation opportunities
-- Afford opportunities for cultivating the capacity to will
-- Include public goods that facilitate capacity development
+- Provide **broad fields of affordances** with multiple action possibilities
+- Support **agential control** by allowing users to initiate and adjust activities
+- Encourage **embodied interaction** essential for social and moral capacities
+- Facilitate **intersubjective habituation** through human-to-human learning
+- Balance AI assistance with opportunities for **plan-forming** rather than just plan-following
+- Include public goods like community spaces that encourage structured and unstructured interactions
 
-## Examples from Research
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
-- Community centers, quality public spaces, and public libraries that encourage structured and unstructured embodied interactions
-- Environments that provide opportunities for shared experiences necessary for shared valuing of social capacities
-- Settings where embodied engagement creates shared history and participatory sense-making
+## Examples in Market Research
+- AI tools that provide suggestions while preserving researcher control over final decisions
+- Hybrid collaboration models combining virtual and face-to-face interaction
+- Systems that explain AI recommendations to support human learning
+- Work environments that maintain opportunities for mentoring and shared valuing of research skills
+- Platforms that encourage creative expression alongside standardized reporting
 
-## Connection to Market Research
-In the market research industry, capacity-conducive environments can be fostered through:
-- Research methodologies that maintain human oversight in AI-assisted analysis
-- Physical research spaces designed for collaborative interpretation of data
-- Training programs that emphasize mentorship and shared valuing of research skills
-- Organizations that create opportunities for embodied interaction between researchers and research participants
+## Implementation Framework
+Creating capacity-conducive environments requires:
+1. **Affordance design**: Ensuring technology provides invitations for valuable activities
+2. **Embodiment support**: Preserving opportunities for physical presence and sensory experience
+3. **Intersubjective scaffolding**: Building in opportunities for shared learning and valuing
+4. **Agential preservation**: Maintaining human control over initiating and adjusting activities
+5. **Volitional encouragement**: Designing systems that require effort and perseverance
 
-## Implementation Strategies
-To create capacity-conducive environments in market research:
-- Design AI tools that complement rather than replace human capacities
-- Maintain spaces for embodied interaction in research processes
-- Foster mentorship relationships that transmit not just technical skills but the value of research
-- Create opportunities for researchers to develop agential control over their work
-- Ensure that AI implementation doesn't narrow the field of affordances for capacity development
+## Contrast with Capacity-Hostile Environments
+While capacity-hostile environments restrict development opportunities, capacity-conducive environments actively foster them. This distinction explains why the most successful AI adopters (the [[high-intensity-ai-adopters]]) grow employment by 10.2% - they've created environments where AI enhances rather than replaces human capacities.
 
-## Related Concepts
-- [[capacity-hostile-environments]]
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
-- [[agential-control]]
-- [[human-capacities]]
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+## Cross-References
+See also: [[capacity-hostile-environments]], [[agential-control]], [[embodiment-in-skilling]], [[intersubjectivity-in-skilling]], [[plan-forming-vs-plan-following]], [[human-operating-model-gap]], [[high-intensity-ai-adopters]]

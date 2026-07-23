@@ -1,58 +1,37 @@
 # Artificial Personal Assistants
 
-**First Observed:** 2026-07-03
-**Last Updated:** 2026-07-18
+## Definition
+AI systems based on **Large Language Models** designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
 
-## Overview
+## Examples and Capabilities
+- **ChatGPT, Claude.ai, Gemini**: Used for life-planning, organizing daily activities, finding purpose
+- **Sunsama**: Scheduling app that "displays tasks synced from various software... prompts you to prioritize today's work... schedules tasks logically into your next available time slot"
+- Capabilities include: organizing life, finding purpose, determining values, overcoming roadblocks, self-development guidance
 
-Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making. These systems, including applications built on platforms like ChatGPT, Claude.ai, and Gemini, represent one of the fastest-growing uses of AI technology with significant implications for human capacity development.
+## Usage Patterns
+Research shows users employ APAs for:
+- Life-planning: 'organizing my life' and 'finding purpose'
+- Social validation and self-regulation
+- Interpersonal guidance
+- Seeking advice on what to do next
+- Reframing problems and staying focused
 
-## Key Features
+## Capacity Impact
+APAs can create capacity-hostile environments by:
+- Reducing opportunities for **agential control** in planning activities
+- Encouraging **plan-following** rather than **plan-forming**
+- Undermining the **habituation process** for life-planning capacities
+- Limiting **embodied interaction** necessary for social capacities
+- Creating environments with **narrow fields of affordances**
 
-APAs typically offer these capabilities:
+As Ferdman explains: "APAs are a use-case of LLMs that can be integrated with other AI tools... This makes them not only social companion, moral advisor, life coach and personal butler, but all of them combined in one."
 
-- **Life organization**: Helping users manage daily schedules, habits, and routines
-- **Purpose finding**: Assisting with values clarification and long-term goal setting
-- **Problem reframing**: Helping users reframe challenges and identify solutions
-- **Social validation**: Providing feedback and validation on personal decisions
-- **Personal coaching**: Offering guidance on self-development and growth
+## Design Considerations
+To prevent capacity deskilling, APA design should:
+- Preserve opportunities for human initiation of planning activities
+- Support rather than replace **practical rationality (phronesis)**
+- Maintain spaces for embodied interaction and shared valuing
+- Avoid creating environments where users become dependent on AI for all planning
 
-As noted in [[ferdman-2026-ai-deskilling-structural-problem]], "APAs are attractive because they adapt to the individual user's needs, tailor their advice based on the user's responses, habits and preferences, and are willing to listen to the user without judgment."
-
-## Structural Impact on Capacity Development
-
-APAs can contribute to capacity-hostile environments through several mechanisms:
-
-- **Plan-forming reduction**: Shifting users from plan-formers to plan-followers by providing pre-constructed plans
-- **Agential control erosion**: Reducing opportunities to exercise control over initiating planning activities
-- **Responsibility displacement**: Enabling users to shift accountability for failed plans to the APA
-- **Habituation disruption**: Bypassing the gradual process of skill development through instant answers
-- **Intersubjectivity reduction**: Diminishing opportunities for shared valuing of capacities through human relationships
-
-## Examples in Professional Contexts
-
-In market research and professional settings, APAs are increasingly used for:
-
-- Research planning and design
-- Data analysis guidance
-- Report writing assistance
-- Client communication drafting
-- Professional development planning
-
-## Critical Concerns for Market Research
-
-The adoption of APAs in market research raises several critical concerns:
-
-- Contribution to the [[entry-level-squeeze]] by reducing opportunities for junior researchers to develop foundational skills
-- Erosion of [[agential-control]] in research design and interpretation
-- Undermining the [[habituation-process]] necessary for developing research judgment
-- Diminishing opportunities for [[intersubjectivity-in-skilling]] through reduced mentor-mentee interaction
-- Creating environments with a [[narrow-field-of-affordances]] for developing human-intensive research skills
-
-## Related Concepts
-
-- [[ai-deskilling-structural-problem]]
-- [[plan-forming-vs-plan-following]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[capacity-hostile-environments]]
+## Cross-References
+See also: [[plan-forming-vs-plan-following]], [[agential-control]], [[habituation-process]], [[ai-deskilling-structural-problem]], [[capacity-hostile-environments]], [[human-operating-model-gap]]

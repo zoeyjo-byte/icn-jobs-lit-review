@@ -1,43 +1,26 @@
-# ferdman-2026-ai-deskilling-structural-problem
+# Ferdman (2026) - AI Deskilling is a Structural Problem
 
-## Overview
-Avigail Ferdman's 2026 paper in AI & Society presents a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. The paper introduces the critical distinction between capacity-hostile and capacity-conducive environments and argues that AI deskilling should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue.
+## Publication Details
+Published in [[ai-society]] (2026), Volume 41, pages 3001-3013. DOI: https://doi.org/10.1007/s00146-025-02686-z. Authored by Avigail Ferdman of Technion – Israel Institute of Technology.
 
-## Key Arguments
-The paper makes several key arguments:
-- AI deskilling is harmful because it diminishes core human capacities that are constitutive of human flourishing
-- Capacity cultivation (skilling) involves acquiring agential control over capacities through a gradual process of habituation
-- Habituation depends on learning from others and shared understanding of a skill's value
-- AI mediation risks undermining the quality of conditions for capacity habituation
-- The problem should be analyzed structurally rather than as an individual responsibility issue
+## Key Findings
+This landmark philosophical analysis establishes that AI-induced deskilling is fundamentally a **structural problem**, not merely an individual responsibility issue. Ferdman introduces the critical distinction between **capacity-hostile environments** and **capacity-conducive environments** to analyze how AI systems undermine human capacities through systemic conditions rather than individual failings.
+
+The paper demonstrates that:
+- AI deskilling occurs when technology creates environments with a **narrow field of affordances** that restrict opportunities for developing core human capacities
+- Capacity cultivation requires **agential control**, **intersubjective habituation**, and **embodied interaction** - elements often undermined by AI mediation
+- **Artificial Personal Assistants (APAs)** exemplify how AI can create capacity-hostile environments by encouraging users to become **plan-followers** rather than **plan-formers**
+- Deskilling should be understood as a societal issue requiring structural solutions, not just individual adaptation
 
 ## Methodology
-Ferdman draws on philosophy of skill and social epistemology to construct a framework for understanding human capacities as skills. The analysis distinguishes between environments that are conducive to capacity cultivation and those that are hostile to it.
+Ferdman employs philosophical analysis grounded in:
+- Neo-Aristotelian **Developmental Perfectionism** framework for human flourishing
+- Philosophy of skill (agential control, habituation process)
+- Social epistemology (intersubjectivity in learning)
+- Affordance theory to analyze environmental constraints
 
-## Major Findings
-1. **Capacity-hostile environments** restrict, limit, or create a narrow field of affordances for capacity development and exercise
-2. **Capacity-conducive environments** actively encourage human capacity development through rich opportunities for embodied interaction
-3. **Agential control** is a key component of being skilled that distinguishes skills from habits
-4. **Habituation process** is the gradual development of skills through practice and attunement to individual cases
-5. **Intersubjectivity** is critical for skill development, as learning occurs through relationships with others
-6. **Embodiment** plays an essential role in developing social and moral capacities
+## Relevance to Market Research
+This study provides the theoretical foundation for understanding the **human operating model gap** in AI adoption. It explains why simply training workers on AI tools is insufficient - organizations must redesign work environments to be **capacity-conducive** rather than **capacity-hostile**. The analysis of **plan-forming vs plan-following** is particularly relevant to insights professionals who must maintain strategic thinking capabilities while leveraging AI for execution.
 
-## Implications for Market Research
-This framework has significant implications for the market research industry:
-- AI tools that automate analysis without preserving opportunities for human interpretation create capacity-hostile environments
-- Research organizations should design AI systems that maintain opportunities for researchers to exercise epistemic, social, and creative capacities
-- Training programs should emphasize intersubjective learning and embodied interaction to counteract potential deskilling effects
-- The industry should develop capacity-conducive environments that encourage researchers to maintain critical thinking and interpretation skills even when using AI tools
-
-## Related Concepts
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
-- [[human-capacities]]
-- [[ai-deskilling-structural-problem]]
-
-## References
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
+## Cross-References
+See also: [[ai-deskilling-structural-problem]], [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[agential-control]], [[habituation-process]], [[plan-forming-vs-plan-following]], [[human-capacities]], [[artificial-personal-assistants]]

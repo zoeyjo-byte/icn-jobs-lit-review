@@ -1,41 +1,26 @@
-# capacity-hostile-environments
+# Capacity-Hostile Environments
 
 ## Definition
-Capacity-hostile environments are environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. These environments afford opportunities for shallow skilling in capacities while restricting opportunities for fuller, well-rounded development and exercise of capacities.
+Environments that **restrict, limit, or create a narrow field of affordances** for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for **shallow skilling** while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
 ## Characteristics
-- Provide a narrow field of affordances (limited action possibilities)
-- Restrict embodied user engagement
-- Limit intersubjective habituation opportunities
-- Discourage the exercise of volitional capacity
-- May lead to "affordance shrinkage" - systematic, enduring reduction in action possibilities
+- Provide **limited action possibilities** that restrict opportunities for capacity development
+- Undermine **agential control** by encouraging habitual responses to environmental triggers
+- Reduce opportunities for **embodied interaction** necessary for social and moral capacities
+- Limit **intersubjective habituation** by decreasing human-to-human learning opportunities
+- Create conditions where users become **plan-followers** rather than **plan-formers**
 
-## Examples from Research
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
-- AI automation that replaces human activity without encouraging users to seek alternative avenues for capacity development
-- Disembodied environments like social media platforms that require more discipline for diminished experience
-- Systems that automate routine tasks, depriving users of opportunities to "practice their judgment and strengthen their cognitive musculature"
-- Artificial Personal Assistants (APAs) that encourage users to become plan-followers rather than plan-formers
+## Examples in Market Research
+- AI tools that automate all data interpretation, leaving researchers only to execute pre-determined analysis paths
+- Platforms that provide templated reporting with no opportunity for creative expression
+- Systems that replace human judgment with algorithmic recommendations without explanation
+- Virtual collaboration tools that eliminate face-to-face interaction necessary for developing **human-intensive-skills**
 
-## Connection to Market Research
-In the market research industry, capacity-hostile environments may emerge when:
-- AI tools automate data analysis without preserving opportunities for human interpretation
-- Research platforms reduce embodied interaction between researchers and participants
-- Automated reporting systems replace the need for researchers to develop narrative and storytelling skills
-- Organizations implement AI without considering how it affects the development of junior researchers' capacities
+## Impact on Skills Development
+When environments become capacity-hostile, they systematically undermine the **habituation process** required for skill development. As Ferdman explains, skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure. In hostile environments, workers lose opportunities to develop **practical rationality (phronesis)** - the ability to do the right thing in the right way for the right reason.
 
-## Mitigation Strategies
-To counteract capacity-hostile environments in market research:
-- Design AI tools that maintain opportunities for human oversight and interpretation
-- Preserve spaces for embodied interaction between researchers and research participants
-- Create structured opportunities for intersubjective learning between junior and senior researchers
-- Implement training programs that emphasize the development of epistemic, social, creative, and volitional capacities
+## Contrast with Capacity-Conducive Environments
+While capacity-hostile environments restrict development opportunities, **capacity-conducive environments** actively encourage capacity development through rich opportunities for embodied interaction and shared valuing. The distinction explains why simply providing AI tools without redesigning work processes exacerbates the **human operating model gap**.
 
-## Related Concepts
-- [[capacity-conducive-environments]]
-- [[narrow-field-of-affordances]]
-- [[ai-deskilling-structural-problem]]
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[agential-control]]
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+## Cross-References
+See also: [[capacity-conducive-environments]], [[narrow-field-of-affordances]], [[agential-control]], [[habituation-process]], [[embodiment-in-skilling]], [[ai-deskilling-structural-problem]], [[human-operating-model-gap]]

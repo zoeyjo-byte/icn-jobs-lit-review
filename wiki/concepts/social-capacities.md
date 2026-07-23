@@ -1,47 +1,48 @@
-# social-capacities
+# Social Capacities
 
 ## Definition
-Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity.
+The **human capacities related to forming meaningful relationships**, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Insights
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
-- Social capacities include the moral capacity as well as social and caring capacities for developing meaningful relationships of friendship and love
-- Moral capacity involves recognizing others as moral agents and making ethical judgments
-- Relational capacity involves forming and maintaining meaningful connections with others
-- Social capacities depend on embodied interaction for their development and exercise
-- Without embodied interaction, it would be hard to recognize others spontaneously as moral agents
-- Disembodied interactions make it harder to form meaningful friendships because they require more discipline for a diminished experience
+## Two Key Components
 
-## Connection to AI Systems
-AI systems can undermine social capacities by:
-- Creating disembodied environments that limit opportunities for embodied interaction
-- Replacing human interaction with AI mediation
-- Reducing opportunities for shared valuing of social capacities
-- Creating environments where users primarily interact with non-human entities
-- Undermining the intersubjective dimension of social capacity development
+### Moral Capacity
+- Recognizing others as moral agents
+- Making ethical judgments
+- Understanding right and wrong in context
+- Developing moral sensitivity through experience
 
-## Implications for Market Research
-In market research, social capacities are essential for:
-- Developing empathy with research participants
-- Building rapport in qualitative research
-- Understanding cultural contexts and nuances
-- Making ethical judgments about research practices
-- Collaborating effectively with research teams
-- Interpreting social phenomena accurately
+### Relational Capacity
+- Forming meaningful relationships of friendship and love
+- Understanding others' perspectives
+- Participating in communal life
+- Building trust and rapport with others
 
-## Mitigation Strategies
-To protect social capacities in AI-assisted market research:
-- Design research methodologies that maintain embodied interaction where possible
-- Create opportunities for face-to-face research and team collaboration
-- Ensure AI tools don't replace the embodied dimension of research practice
-- Develop training that emphasizes the importance of embodied interaction
-- Balance AI implementation with preserving spaces for embodied research activities
-- Foster environments that encourage shared valuing of social research capacities
+## Embodiment Requirement
+Crucially, social capacities require **embodied interaction** for proper development:
+- "Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents"
+- Disembodied interactions require more mental effort in attributing moral agency
+- Technologically mediated relationships provide diminished experiences
 
-## Related Concepts
-- [[embodiment-in-skilling]]
-- [[moral-capacity]]
-- [[relational-capacity]]
-- [[human-capacities]]
-- [[capacity-hostile-environments]]
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+## Role in Market Research
+Social capacities are essential for insights professionals:
+- **Empathy** for understanding consumer perspectives
+- **Client relationship management**
+- **Team collaboration** and knowledge sharing
+- **Ethical research practices** and participant treatment
+
+## Threat from AI Systems
+AI can undermine social capacities by:
+- Reducing opportunities for face-to-face interaction
+- Creating disembodied work environments
+- Replacing human-to-human learning with algorithmic guidance
+- Diminishing opportunities for shared valuing of research practices
+
+## Preserving Social Capacities in AI Adoption
+Organizations can protect these capacities by:
+- Maintaining hybrid work models that preserve physical interaction
+- Creating spaces for unstructured social interaction
+- Ensuring AI tools complement rather than replace human connection
+- Recognizing that some research methods (like ethnography) require embodied presence
+
+## Cross-References
+See also: [[embodiment-in-skilling]], [[human-intensive-skills]], [[moral-capacity]], [[relational-capacity]], [[ai-deskilling-structural-problem]], [[human-operating-model-gap]]

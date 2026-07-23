@@ -1,50 +1,36 @@
-# intersubjectivity-in-skilling
+# Intersubjectivity in Skilling
 
 ## Definition
-Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill.
+The **shared understanding dimension of skill development**, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Insights
-According to Ferdman's 2026 analysis in [[ferdman-2026-ai-deskilling-structural-problem]]:
-- Skill habituation has a 'shared understanding' dimension
-- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
-- A good mentor is typically necessary to cultivate the proper motivational structure for becoming skilled
-- Mentors instill not only mechanical aspects of the skill but, as importantly, the value of the skill
-- In the process of habituation, the skilled agent eventually comes to view the value of the skill as their own
-- The mentor-mentee relationship involves shared intentions and "shared valuing" of the skill
+## Philosophical Foundation
+Ferdman explains that skill habituation has a critical intersubjective component:
+- Becoming skilled typically requires a **mentor** to guide the novice into becoming an expert
+- In the mentor-mentee relationship, the mentor instills not only mechanical aspects but also the **value of the skill**
+- Through this process, the skilled agent eventually comes to view the value of the skill as their own
+- Both mentor and mentee develop **shared intentions** and come to have "shared valuing" of the skill
 
 ## Societal Dimension
-The process of habituation is intersubjective also on a societal scale:
-- Social practices performed by groups or whole societies can provide mentoring environments
-- The family, colleagues, citizens and other social groups contribute to skill development
-- Social practices often generate moral reasons for action, as they have a constitutive aim or telos
-- Learning is carried out through the practices of common life, as noted by Alasdair MacIntyre
-- Social practices play an important role in the formation of shared valuing regarding both the outputs of skilled activity and the skill itself
+Intersubjectivity operates at multiple levels:
+- **Individual**: Direct mentor-mentee relationships
+- **Group**: Learning through family, colleagues, or professional communities
+- **Societal**: Social practices that generate moral reasons for action and constitute aims for helping people fare well
 
-## Connection to AI Systems
-AI systems can undermine intersubjectivity in skilling by:
-- Replacing human mentors with AI advisors that cannot share the value of skills
+As Alasdair MacIntyre noted: "becoming the kind of agent who is responsive to whatever it is that skillful action requires... has to be learned from teachers and exemplars who know how to communicate this kind of responsiveness to others through the habits of a common life."
+
+## Threat from AI Mediation
+AI systems can undermine intersubjective skilling by:
+- Replacing human mentors with algorithmic guidance
 - Creating environments where users interact primarily with non-human entities
-- Reducing opportunities for shared valuing of capacities through embodied interaction
-- Diminishing the shared history and participatory sense-making that occurs in human relationships
+- Reducing opportunities for shared valuing of capacities
+- Diminishing the transmission of not just skills but their inherent value
 
-## Implications for Market Research
-In market research, preserving intersubjectivity is critical for:
-- Maintaining the transmission of research wisdom across generations
-- Ensuring researchers develop shared understanding of research values
-- Preserving the social dimension of research interpretation
-- Supporting the development of practical rationality through mentorship
+## Preserving Intersubjectivity in AI Adoption
+Organizations can maintain intersubjective learning by:
+- Ensuring AI tools complement rather than replace human mentoring
+- Creating structured opportunities for shared learning experiences
+- Preserving spaces for discussing not just how to do work but why it matters
+- Maintaining communities of practice where shared valuing occurs
 
-## Mitigation Strategies
-To protect intersubjectivity in AI-assisted market research:
-- Design AI tools that complement rather than replace human mentorship
-- Create structured opportunities for shared valuing of research capacities
-- Maintain spaces for embodied interaction between researchers
-- Ensure AI implementation doesn't replace the social dimension of research practice
-- Develop training programs that emphasize the intersubjective nature of research skills
-
-## Related Concepts
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[shared-valuing]]
-- [[capacity-hostile-environments]]
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+## Cross-References
+See also: [[habituation-process]], [[embodiment-in-skilling]], [[agential-control]], [[ai-deskilling-structural-problem]], [[human-operating-model-gap]], [[capacity-conducive-environments]]
