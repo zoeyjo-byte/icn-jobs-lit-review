@@ -36,3 +36,4 @@ Chronological record of every ingest operation.
 2026-07-21: Ingested s00146-025-02686-z.txt. Updated 15 concept pages, 2 entity pages, and 1 study page with detailed analysis of capacity-hostile environments, human capacities, and AI's structural impact on skill development from Ferdman's research.
 2026-07-22: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-07-23: Ingested s00146-025-02686-z.txt. Created 2, updated 15.
+2026-07-24: Ingested s00146-025-02686-z.txt. Created 1, updated 11.

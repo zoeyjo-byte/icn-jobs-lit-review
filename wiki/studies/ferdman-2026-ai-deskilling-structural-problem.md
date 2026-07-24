@@ -1,26 +1,57 @@
-# Ferdman (2026) - AI Deskilling is a Structural Problem
+# [[ferdman-2026-ai-deskilling-structural-problem]]
 
-## Publication Details
-Published in [[ai-society]] (2026), Volume 41, pages 3001-3013. DOI: https://doi.org/10.1007/s00146-025-02686-z. Authored by Avigail Ferdman of Technion – Israel Institute of Technology.
+## Study Overview
 
-## Key Findings
-This landmark philosophical analysis establishes that AI-induced deskilling is fundamentally a **structural problem**, not merely an individual responsibility issue. Ferdman introduces the critical distinction between **capacity-hostile environments** and **capacity-conducive environments** to analyze how AI systems undermine human capacities through systemic conditions rather than individual failings.
+Published in *AI & Society* (2026), this landmark philosophical analysis reframes AI-induced deskilling as a **structural problem** rather than an individual failing. Authored by Avigail Ferdman of Technion – Israel Institute of Technology, the paper challenges prevailing narratives that frame capacity erosion as a matter of personal responsibility, arguing instead that AI systems create **capacity-hostile environments** through systemic design choices.
 
-The paper demonstrates that:
-- AI deskilling occurs when technology creates environments with a **narrow field of affordances** that restrict opportunities for developing core human capacities
-- Capacity cultivation requires **agential control**, **intersubjective habituation**, and **embodied interaction** - elements often undermined by AI mediation
-- **Artificial Personal Assistants (APAs)** exemplify how AI can create capacity-hostile environments by encouraging users to become **plan-followers** rather than **plan-formers**
-- Deskilling should be understood as a societal issue requiring structural solutions, not just individual adaptation
+## Key Arguments
+
+### Structural Deskilling Framework
+- Introduces the critical distinction between **capacity-hostile environments** (which restrict opportunities for human capacity development) and **capacity-conducive environments** (which actively foster capacity cultivation)
+- Demonstrates how AI systems undermine the **habituation process** essential for skill development through:
+  - Reduction of **agential control** in plan-forming activities
+  - Diminishment of **embodied interaction** necessary for social capacities
+  - Erosion of **intersubjective valuing** through AI mediation
+- Establishes that deskilling occurs not through individual weakness but through **narrow fields of affordances** engineered into AI systems
+
+### Human Capacities Framework
+The paper identifies four core human capacities constitutive of flourishing:
+1. **Epistemic capacities**: Theoretical rationality (thinking, belief formation) and practical rationality (phronesis/wisdom)
+2. **Social capacities**: Moral capacity and relational capacities for meaningful relationships
+3. **Creative capacities**: Generating novel ideas through unfamiliar combinations
+4. **Volitional capacity**: Meta-capacity to exert effort, overcome difficulty, and persevere toward intrinsically valuable goals
+
+### Artificial Personal Assistants Analysis
+- Examines how LLM-based APAs (e.g., ChatGPT, Claude, Gemini) create capacity-hostile conditions by:
+  - Transforming users from **plan-formers** (requiring agential control) to **plan-followers** (responding to environmental triggers)
+  - Replacing embodied, intersubjective habituation with disembodied interaction
+  - Offloading routine decision-making that strengthens "cognitive musculature"
+  - Creating dependency that diminishes practical wisdom development
+- Cites evidence that young people growing up with smartphones already struggle with "everyday but essential" skills like empathy and critical thinking (Halliday 2025)
 
 ## Methodology
-Ferdman employs philosophical analysis grounded in:
-- Neo-Aristotelian **Developmental Perfectionism** framework for human flourishing
-- Philosophy of skill (agential control, habituation process)
-- Social epistemology (intersubjectivity in learning)
-- Affordance theory to analyze environmental constraints
 
-## Relevance to Market Research
-This study provides the theoretical foundation for understanding the **human operating model gap** in AI adoption. It explains why simply training workers on AI tools is insufficient - organizations must redesign work environments to be **capacity-conducive** rather than **capacity-hostile**. The analysis of **plan-forming vs plan-following** is particularly relevant to insights professionals who must maintain strategic thinking capabilities while leveraging AI for execution.
+The paper employs **conceptual analysis** grounded in:
+- Philosophy of skill (agential control, habituation processes)
+- Social epistemology (intersubjective valuing)
+- Developmental Perfectionism (neo-Aristotelian framework for human flourishing)
+- Affordance theory (Gibson 1979) applied to digital environments
 
-## Cross-References
-See also: [[ai-deskilling-structural-problem]], [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[agential-control]], [[habituation-process]], [[plan-forming-vs-plan-following]], [[human-capacities]], [[artificial-personal-assistants]]
+## Implications for Market Research
+
+1. **Skills Gap Analysis**: Traditional skills gap frameworks overlook structural capacity erosion in AI-exposed roles
+2. **Entry-Level Squeeze**: AI deskilling explains why foundational tasks crucial for capacity development are disappearing from entry-level positions
+3. **Human Operating Model Gap**: Highlights the growing misalignment between AI capabilities and human capacity development systems
+4. **Research Methodology**: Calls for measuring not just task automation but **affordance shrinkage** in AI-mediated work environments
+
+## Connections
+
+This study provides the philosophical foundation for understanding:
+- [[human-operating-model-gap]] as a structural phenomenon
+- [[entry-level-squeeze]] through the lens of habituation deprivation
+- [[capacity-hostile-environments]] in market research workflows
+- [[plan-forming-vs-plan-following]] distinction in AI-augmented decision making
+
+## Citations
+
+Ferdman, A. (2026). AI deskilling is a structural problem. *AI & Society*, 41, 3001–3013. https://doi.org/10.1007/s00146-025-02686-z

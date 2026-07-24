@@ -1,19 +1,48 @@
-# AI & Society
+# [[ai-society]]
 
-## Overview
-[[ai-society]] is a peer-reviewed academic journal published by Springer that focuses on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. Established in 1987, it has become a leading venue for critical reflection on AI's societal impacts.
+## Definition
+
+Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. Provides a venue for critical reflection on AI's societal impacts.
+
+## Key Information
+
+- **Publisher**: Springer Nature
+- **Focus areas**:
+  - Social implications of AI systems
+  - Ethical considerations in AI development and deployment
+  - Philosophical analysis of AI's impact on human capacities
+  - Policy frameworks for responsible AI
+- **Significance**: One of the leading interdisciplinary journals addressing the human dimensions of AI
 
 ## Relevance to Market Research
-The journal provides essential theoretical frameworks for understanding how AI transforms human capacities and work environments - directly relevant to the **human operating model gap** in insights organizations. Ferdman's 2026 paper on AI deskilling as a structural problem, which introduced critical concepts like **capacity-hostile environments** and **capacity-conducive environments**, was published here.
 
-## Key Contributions
-- Publishes interdisciplinary research bridging philosophy, sociology, and technology studies
-- Provides theoretical foundations for analyzing AI's impact on human capacities
-- Features critical perspectives often missing from industry-focused AI discourse
-- Serves as a venue for structural analyses of AI's societal effects, complementing empirical studies from firms like [[pwc]] and [[lightcast]]
+The journal's publication of Ferdman's (2026) work is particularly significant because:
 
-## Connection to Skills Gap Research
-The journal's focus on the philosophical dimensions of AI adoption helps explain why technical training alone cannot address the **entry-level squeeze** - organizations must also redesign work environments to support **embodiment in skilling** and **intersubjectivity in skilling**. This structural perspective is essential for developing comprehensive solutions to the human operating model gap.
+1. **Structural perspective on deskilling**: Challenges individual responsibility frameworks that dominate skills gap analyses
+2. **Capacity development framework**: Provides philosophical foundation for understanding why certain skills remain valuable despite AI
+3. **Affordance theory application**: Offers tools for analyzing how AI systems reshape work environments
+4. **Human flourishing focus**: Shifts attention from productivity metrics to human development outcomes
 
-## Cross-References
-See also: [[ferdman-2026-ai-deskilling-structural-problem]], [[ai-deskilling-structural-problem]], [[human-operating-model-gap]], [[developmental-perfectionism]]
+## Key Contributions to Skills Gap Research
+
+The Ferdman (2026) article in *AI & Society*:
+- Introduces the critical distinction between **capacity-hostile** and **capacity-conducive environments**
+- Demonstrates how AI systems undermine **habituation processes** essential for skill development
+- Analyzes the role of **embodiment** and **intersubjectivity** in capacity cultivation
+- Examines how **Artificial Personal Assistants** create environments that transform users from plan-formers to plan-followers
+- Provides the philosophical foundation for understanding the [[human-operating-model-gap]]
+
+## Implications for Market Research Practice
+
+1. **Beyond task analysis**: Evaluates AI impact based on capacity development opportunities, not just task automation
+2. **Quality of work assessment**: Considers whether AI tools preserve opportunities for meaningful capacity exercise
+3. **Long-term impact measurement**: Tracks how AI affects capacity development trajectories over careers
+4. **Structural solutions design**: Guides the creation of capacity-conducive work environments
+
+## Related Concepts
+
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[human-operating-model-gap]]
+- [[structural-approach-to-ai-impact]]
+- [[philosophical-foundations-of-skills-gap]]
