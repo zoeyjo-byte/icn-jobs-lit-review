@@ -1,59 +1,56 @@
 # [[agential-control]]
 
+**First observed:** 2026-07-03  
+**Last updated:** 2026-07-18  
+
 ## Definition
 
-The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
+Agential control is the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-## Philosophical Foundation
+## Key Characteristics
 
-As Ferdman (2026) explains:
-- Agential control involves the capacity to initiate activities rather than merely responding to environmental triggers
-- It represents the balance between automaticity and control that shifts through a process of tuning and attuning
-- It enables flexible links between thought and action that continue to evolve even after expertise has been achieved
+Based on [[ferdman-2026-ai-deskilling-structural-problem]], agential control has several defining features:
 
-## Distinction from Habitual Action
+1. **Initiation control**: Skilled agents have full control over initiating the activity, whereas habitual activities are triggered by something in the environment.
 
-| **Agential Control (Skill)** | **Habitual Action** |
-|----------------------------|---------------------|
-| Requires initiating the activity | Triggered by environmental cues |
-| Involves adjusting execution as performance unfolds | Follows predetermined pattern |
-| Maintains connection to reasons for action | Disconnected from original reasons |
-| Enables novel behavior in response to context | Limited to previously learned patterns |
+2. **Dynamic adjustment**: The ability to modify actions during performance based on changing circumstances and feedback.
 
-## Role in Capacity Development
+3. **Flexible thought-action links**: Developing flexible connections between thought and action that continue to evolve even after expertise has been achieved.
 
-Agential control is essential for:
-- **Plan-forming**: Creating plans through self-deliberation rather than following pre-determined plans
-- **Practical wisdom**: Making context-sensitive decisions that require understanding "the right thing in the right way for the right reason"
-- **Responsibility taking**: Owning outcomes of actions and learning from failures
-- **Volitional capacity**: Exerting effort to overcome difficulty in developing other capacities
+4. **Distinction from habits**: Unlike habits which are elicited in response to environmental triggers, skills require active control over the entire process.
 
-## Threats from AI Systems
+## Examples in Market Research Context
 
-AI systems threaten agential control by:
-- Transforming users from **plan-formers** to **plan-followers** (e.g., AI scheduling assistants that determine daily activities)
-- Creating **capacity-hostile environments** where users respond to AI outputs rather than initiating activities
-- Offloading routine decision-making that strengthens "cognitive musculature"
-- Diminishing opportunities to develop practical wisdom through real-world experience
+- A researcher who can adjust their interview approach based on participant responses rather than strictly following a script
+- An analyst who modifies their data interpretation when encountering unexpected patterns rather than applying rigid algorithms
+- A project manager who can pivot research methodology when initial approaches prove ineffective
+- A consultant who tailors their presentation to client reactions in real-time
 
-## Evidence in Market Research
+## Contrast with Habitual Action
 
-Studies cited by Ferdman (2026) show:
-- Healthcare professionals experiencing diminished diagnostic reasoning from AI dependence
-- Young people struggling with "everyday but essential" skills like empathy and critical thinking (Halliday 2025)
-- Users reporting reduced sense of personal competence from over-reliance on AI planning tools (Gabriel et al. 2024)
+The distinction between agential control and habitual action is critical for understanding capacity development:
 
-## Preservation Strategies
+- **With agential control**: The agent initiates the activity, exercises control throughout, and takes responsibility for outcomes
+- **Without agential control**: The agent responds to triggers in the environment, follows predetermined patterns, and may shift responsibility for outcomes
 
-1. Design AI tools with **intentional initiation points** where users must actively begin processes
-2. Create **decision journals** that document reasoning behind choices made with AI assistance
-3. Implement **progressive disclosure** in AI tools that gradually transfers control to users
-4. Establish **reflection protocols** after AI-assisted activities to reinforce agential control
+## Implications for AI Adoption
+
+AI systems can undermine agential control in several ways:
+
+- By providing ready-made solutions that eliminate the need to initiate planning activities
+- By creating environments where users respond to AI outputs rather than initiating their own actions
+- By offloading small-scale decisions that collectively build practical wisdom
+- By reducing opportunities to practice judgment and strengthen "cognitive musculature"
 
 ## Related Concepts
 
+- [[habituation-process]]
 - [[plan-forming-vs-plan-following]]
 - [[capacity-hostile-environments]]
-- [[practical-rationality]]
-- [[habituation-process]]
-- [[volitional-capacity]]
+- [[capacity-conducive-environments]]
+- [[human-capacities]]
+- [[epistemic-capacities]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z

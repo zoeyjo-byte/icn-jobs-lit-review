@@ -1,67 +1,65 @@
 # [[plan-forming-vs-plan-following]]
 
+**First observed:** 2026-07-17  
+**Last updated:** 2026-07-18  
+
 ## Definition
 
 The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Differences
+## Key Characteristics
 
-| **Plan-Forming** | **Plan-Following** |
-|------------------|-------------------|
-| Requires initiating the activity | Triggered by environmental cues |
-| Involves settling function (deciding between options) | Executes predetermined choices |
-| Requires coordination function (organizing plans) | Follows established patterns |
-| Demands practical wisdom and phronesis | Relies on habitual responses |
-| Involves taking responsibility for outcomes | Shifts responsibility to plan source |
-| Essential for developing practical rationality | Diminishes opportunities for capacity development |
+Based on [[ferdman-2026-ai-deskilling-structural-problem]], this distinction has several defining features:
 
-## Philosophical Foundation
+### Plan-Forming
 
-Drawing on Bratman's theory of agency, Ferdman (2026) explains:
-- Plan-forming involves future-directed intentions that serve two agential roles:
-  1. **Settling function**: Managing finite cognitive resources when facing choices
-  2. **Coordination function**: Forming and organizing different types of plans
-- Plan-following lacks these agential functions and operates more like a habit
-- True agency requires the capacity to form plans rather than merely follow them
+- **Agential control**: Requires initiating the activity and exercising control over all steps of planning
+- **Self-deliberation**: Involves thinking through values, goals, and effective means to ends
+- **Responsibility**: The agent takes responsibility for outcomes and opportunities for self-growth
+- **Capacity development**: Exercises epistemic, moral, social and creative capacities involved in planning
+- **Practical wisdom**: Develops phronesis through considering testimony of others and assessing circumstances
 
-## Role in Capacity Development
+### Plan-Following
 
-Plan-forming is essential because it:
-- Develops **practical wisdom** through real-world experience
-- Strengthens **epistemic capacities** through self-deliberation
-- Builds **volitional capacity** through overcoming decision-making challenges
-- Creates opportunities for **responsibility taking** and learning from failures
-- Supports the development of **intersubjective valuing** through shared planning
+- **Environmental triggers**: Initiated in response to something in the environment (e.g., AI recommendations)
+- **Habitual response**: More like a habit than a skill, lacking full control over initiating the activity
+- **Reduced responsibility**: Opportunity to shift responsibility to the plan source (e.g., AI system)
+- **Shallow capacity exercise**: Requires less deep engagement with human capacities
+- **Diminished growth**: Limits opportunities for developing practical wisdom through real-world experience
 
-## Threats from AI Systems
+## Examples in Market Research Context
 
-AI systems threaten plan-forming by:
-- Transforming users into **plan-followers** through AI scheduling and life-planning tools
-- Offloading the **settling function** (e.g., "help me plan my day")
-- Automating the **coordination function** (e.g., Sunsama scheduling app)
-- Creating dependency that diminishes **practical wisdom** development
-- Reducing opportunities to develop **responsibility taking** through plan execution
+### Plan-Forming
+- A researcher designing a novel methodology to address a unique client challenge
+- A team collaboratively developing a research approach through discussion and debate
+- An analyst creating a custom data visualization to communicate complex findings
 
-## Evidence in Market Research
+### Plan-Following
+- Using AI to generate a standard research proposal without modification
+- Following an AI-recommended analysis path without considering alternatives
+- Implementing a template-based reporting structure without adaptation
 
-Ferdman (2026) cites evidence that:
-- Users rely on LLMs for life-planning: "organizing my life" and "finding purpose" (Zao-Sanders 2025)
-- Heavy users utilize LLMs for social validation, self-regulation, and interpersonal guidance (Kim et al. 2025a)
-- Overreliance leads to reduced sense of personal competence (Gabriel et al. 2024)
-- APA users experience diminished opportunities for developing practical wisdom
+## Implications for AI Adoption
 
-## Preservation Strategies
+Artificial Personal Assistants (APAs) can encourage plan-following rather than plan-forming:
 
-1. Design AI tools that preserve **critical decision points** for human plan-forming
-2. Create **reflection protocols** after AI-assisted planning activities
-3. Implement **progressive disclosure** that gradually transfers planning control to users
-4. Establish **failure normalization** practices where plan adjustments are expected
-5. Maintain **embodied planning sessions** that require physical presence and interaction
+- By providing ready-made plans that users adopt without critical evaluation
+- By constantly prompting users with suggestions, creating environmental triggers
+- By reducing opportunities for small-scale decision-making that builds practical wisdom
+- By making users dependent on external planning rather than developing their own capacity
+
+Ferdman argues this shift from plan-forming to plan-following represents a structural deskilling problem, not merely an individual choice issue.
 
 ## Related Concepts
 
 - [[agential-control]]
-- [[practical-rationality]]
-- [[capacity-hostile-environments]]
-- [[artificial-personal-assistants]]
 - [[habituation-process]]
+- [[artificial-personal-assistants]]
+- [[capacity-hostile-environments]]
+- [[epistemic-capacities]]
+- [[practical-rationality]]
+- [[phronesis]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z

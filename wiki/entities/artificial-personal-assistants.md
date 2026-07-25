@@ -1,68 +1,68 @@
 # [[artificial-personal-assistants]]
 
+**First observed:** 2026-07-03  
+**Last updated:** 2026-07-18  
+
 ## Definition
 
-AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
+Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
 
-## Examples and Features
+## Key Characteristics
 
-- **LLM-based systems**: ChatGPT, Claude.ai, Gemini, and specialized scheduling tools like Sunsama
-- **Key capabilities**:
-  - Life organization: "help me plan my day"
-  - Purpose finding: "how should I fill an unscheduled hour between meetings"
-  - Social validation: Seeking interpersonal guidance
-  - Self-regulation: Helping users stay focused
-  - Value determination: Assisting in defining personal values
-- **Design characteristics**:
-  - Always available: "an always-on sounding board" (Samuel 2025)
-  - Adaptable: Tailors advice based on user's habits and preferences
-  - Non-judgmental: "willing to listen to the user without judgment" (Ma et al. 2023)
-  - Comprehensive: "trained to do everything for everyone at every environment" (Gebru and Torres 2023)
+Based on [[ferdman-2026-ai-deskilling-structural-problem]], APAs have several defining features:
 
-## Impact on Capacity Development
+1. **Adaptive personalization**: They adapt to individual user's needs, tailor advice based on responses, habits and preferences, and listen without judgment.
 
-As Ferdman (2026) analyzes, APAs threaten human capacities by:
+2. **Constant availability**: They constitute "an always-on sounding board with whatever subject-matter expertise you need, configured with your preferred tone of interaction."
 
-### Creating Capacity-Hostile Environments
-- Transforming users from **plan-formers** to **plan-followers** by handling settling and coordination functions
-- Offloading routine decision-making that strengthens "cognitive musculature"
-- Reducing opportunities to develop **practical wisdom** through real-world experience
-- Diminishing **agential control** over initiating planning activities
-- Creating dependency that weakens the **volitional capacity**
+3. **Comprehensive scope**: They are "trained to do everything for everyone at every environment," functioning as social companion, moral advisor, life coach and personal butler combined.
 
-### Undermining Habituation Processes
-- Removing routine opportunities to practice judgment
-- Replacing embodied, intersubjective habituation with disembodied interaction
-- Preventing the development of shared valuing through human mentorship
-- Limiting opportunities to learn from disappointment and failure
+4. **Integration capability**: They leverage AI capabilities like dynamic reasoning, real-time adaptability, and multi-scale operational coordination.
 
-## Evidence of Harmful Effects
+## Examples
 
-Ferdman (2026) cites evidence that:
-- Users report relying on LLMs for life-planning: "organizing my life" and "finding purpose" (Zao-Sanders 2025)
-- Heavy users utilize LLMs for social validation, self-regulation, and interpersonal guidance (Kim et al. 2025a)
-- Young people growing up with smartphones struggle with "everyday but essential" skills (Halliday 2025)
-- Overreliance leads to reduced sense of personal competence (Gabriel et al. 2024)
+- ChatGPT, Claude.ai, and Gemini used for life-planning and organization
+- Sunsama scheduling app that "displays tasks synced from various software" and "schedules tasks logically into your next available time slot"
+- Personal AI teams envisioned by OpenAI CEO Sam Altman where "eventually we can each have a personal AI team, full of virtual experts in different areas"
 
-## Market Research Implications
+## Capacity Impact Analysis
 
-1. **Entry-Level Squeeze**: APAs contribute to the disappearance of foundational capacity-building tasks
-2. **Human Operating Model Gap**: Highlights misalignment between AI capabilities and human capacity systems
-3. **Skills Gap Analysis**: Traditional frameworks overlook capacity deskilling from planning automation
-4. **Research Methodology**: Calls for measuring not just task automation but affordance shrinkage
+APAs may create capacity-hostile environments in several ways:
 
-## Design Considerations for Capacity-Conducive APAs
+### 1. Field of Affordances
+- Reduce opportunities for routine decision-making that builds "cognitive musculature"
+- Discourage seeking alternative avenues for growth and exploration
+- Create dependency that reduces sense of personal competence
 
-1. Preserve **critical initiation points** where users must actively begin planning
-2. Create **reflection protocols** that encourage users to analyze their decision-making
-3. Implement **progressive disclosure** that gradually transfers planning control to users
-4. Maintain **embodied interaction requirements** for critical planning activities
-5. Design **failure normalization** features that treat mistakes as learning opportunities
+### 2. Embodied Interaction
+- Decrease opportunities for embodied, intersubjective habituation
+- Replace human interaction for planning and daily activities
+- Limit shared experiences necessary for shared valuing of capacities
+
+### 3. Agential Control
+- Encourage responding to AI outputs rather than initiating planning activities
+- Shift users from plan-forming to plan-following behavior
+- Reduce opportunities to take responsibility for planning outcomes
+
+## Structural Implications
+
+The paper argues that APAs represent a structural deskilling problem because:
+
+- They create environments where users cannot be expected to be "virtuous superheroes" who resist deskilling
+- They undermine the habituation process necessary for capacity development
+- They reduce opportunities for developing practical wisdom through real-world experience
+- They narrow the field of affordances for capacity cultivation across multiple human spheres
 
 ## Related Concepts
 
 - [[capacity-hostile-environments]]
 - [[plan-forming-vs-plan-following]]
-- [[habituation-process]]
 - [[agential-control]]
-- [[human-operating-model-gap]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[ai-deskilling-structural-problem]]
+- [[narrow-field-of-affordances]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z

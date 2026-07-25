@@ -37,3 +37,4 @@ Chronological record of every ingest operation.
 2026-07-22: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-07-23: Ingested s00146-025-02686-z.txt. Created 2, updated 15.
 2026-07-24: Ingested s00146-025-02686-z.txt. Created 1, updated 11.
+2026-07-25: Ingested s00146-025-02686-z.txt. Created 0, updated 7.
