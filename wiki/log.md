@@ -38,3 +38,4 @@ Chronological record of every ingest operation.
 2026-07-23: Ingested s00146-025-02686-z.txt. Created 2, updated 15.
 2026-07-24: Ingested s00146-025-02686-z.txt. Created 1, updated 11.
 2026-07-25: Ingested s00146-025-02686-z.txt. Created 0, updated 7.
+2026-07-26: Ingested s00146-025-02686-z.txt. Updated 5 pages including [[ferdman-2026-ai-deskilling-structural-problem]], [[ai-deskilling-structural-problem]], [[capacity-hostile-environments]], [[agential-control]], and [[habituation-process]] with detailed analysis of how AI creates structural conditions for deskilling through capacity-hostile environments, with specific focus on Artificial Personal Assistants as case study.

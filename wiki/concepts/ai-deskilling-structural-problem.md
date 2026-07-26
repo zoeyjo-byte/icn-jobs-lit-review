@@ -1,66 +1,29 @@
 # [[ai-deskilling-structural-problem]]
 
 ## Definition
+The phenomenon where AI systems undermine human capacities through systemic environmental conditions that restrict opportunities for capacity cultivation, rather than through individual failings or choices. This concept, established in [[ferdman-2026-ai-deskilling-structural-problem]], reframes deskilling from an individual responsibility issue to a structural problem requiring societal solutions.
 
-The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. This should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue.
+## Key Insights
+Traditional analyses often frame deskilling as a matter of individual responsibility—expecting people to simply resist AI dependence. Ferdman demonstrates this overlooks crucial structural aspects: we develop and exercise capacities in response to our social and material environment. A deficient environment can lead to deskilling of core human capacities, and to the subsequent devaluation of their worth as they continue to weaken.
 
-## Key Arguments
-
-### Beyond Individual Responsibility
-- Challenges the "virtuous superhero" expectation that individuals should will themselves to resist deskilling (Mitcham 2024)
-- Demonstrates how AI's influence creates **systemic conditions** that inhibit capacity development
-- Shows that deficient environments lead to deskilling of core human capacities
-- Argues that devalued capacities continue to weaken, creating a negative feedback loop
-
-### Capacity Impoverishment Framework
-- Distinguishes between **skill obsolescence** (sometimes beneficial) and **capacity impoverishment** (always harmful)
-- Establishes that core human capacities (epistemic, social, creative, volitional) are constitutive of flourishing
-- Shows how capacity deskilling diminishes us as humans and undermines flourishing
-- Introduces **capacity-hostile environments** as the structural mechanism for deskilling
-
-### Evidence of Deskilling
-Ferdman (2026) documents growing evidence of:
-- Erosion of critical thinking (Bonicalzi et al. 2023; Gerlich 2025; Lee et al. 2025)
-- Decline in decision-making and analytical reasoning (Zhai et al. 2024)
-- Diminished diagnostic reasoning in healthcare (NHS England 2023; Natali et al. 2025)
-- Reduced ethical sensitivity and weakened moral judgment (Budzyń et al. 2025)
-
-## Structural Mechanisms
-
-1. **Narrow fields of affordances**: AI systems create environments with limited action possibilities
-2. **Habituation deprivation**: Automation removes routine opportunities to practice capacities
-3. **Disembodied interaction**: Digital interfaces replace physical presence necessary for social capacities
-4. **Plan-following orientation**: Transforms users from plan-formers to plan-followers
-5. **Intersubjective erosion**: Replaces human mentorship with algorithmic guidance
-
-## Implications for Market Research
-
-1. **Skills Gap Analysis**: Traditional frameworks overlook structural capacity erosion
-2. **Entry-Level Squeeze**: Explains disappearance of foundational capacity-building tasks from entry-level roles
-3. **Human Operating Model Gap**: Highlights misalignment between AI capabilities and human capacity systems
-4. **Research Methodology**: Calls for measuring affordance shrinkage alongside task automation
+## Mechanisms of Structural Deskilling
+1. **Narrowing of affordance fields**: AI systems reduce action possibilities, creating what Ferdman calls a "narrow field of affordances" that restricts opportunities for meaningful engagement
+2. **Automation of habituation processes**: By replacing routine activities, AI deprives users of the practice necessary for developing capacities
+3. **Undermining intersubjectivity**: AI mediation reduces opportunities for learning from others, which is essential for both skill acquisition and understanding the value of capacities
+4. **Diminishing embodiment**: Many AI interfaces restrict embodied interaction, which is critical for developing social and moral capacities
 
 ## Contrast with Individual Responsibility Framework
+While an individual responsibility approach expects people to "will themselves" to cultivate capacities despite AI's influence, the structural perspective recognizes that:
+- Without proper mentoring, agents lack the "know-how" for capacity development
+- Without shared understanding, agents don't obtain valuing of capacities
+- Environments must actively encourage capacity development rather than merely afford opportunities
 
-| **Structural Approach** | **Individual Responsibility** |
-|-------------------------|-------------------------------|
-| Focuses on environmental conditions | Focuses on personal willpower |
-| Seeks systemic solutions | Expects "virtuous superheroes" |
-| Addresses root causes | Treats symptoms |
-| Recognizes capacity devaluation cycle | Assumes capacity value is stable |
+## Societal Implications
+The structural perspective necessitates societal-level interventions, including:
+- Designing AI systems that preserve opportunities for capacity cultivation
+- Creating public spaces that encourage embodied interaction
+- Developing policies that ensure AI adoption doesn't systematically undermine capacity development
+- Recognizing that "virtuous superheroes" cannot overcome systematically hostile environments
 
-## Mitigation Strategies
-
-1. Design **capacity-conducive environments** that actively foster capacity development
-2. Preserve **agential control** in critical decision points
-3. Maintain **embodied interaction** opportunities in AI workflows
-4. Create **structured habituation pathways** alongside AI adoption
-5. Foster **intersubjective valuing** through human-AI teaming
-
-## Related Concepts
-
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[human-operating-model-gap]]
-- [[entry-level-squeeze]]
-- [[developmental-perfectionism]]
+## Update 2026-07-18
+Expanded with Ferdman's analysis of how structural deskilling operates through specific mechanisms including affordance shrinkage and the relationship between automation and habituation. Added concrete examples from the source including healthcare AI leading to diminished diagnostic reasoning and smartphone interfaces fracturing affordance spaces.
