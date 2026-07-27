@@ -1,34 +1,54 @@
-# [[capacity-hostile-environments]]
+# Capacity-Hostile Environments
 
 ## Definition
+
 Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
 ## Characteristics
-Capacity-hostile environments typically feature:
-- **Limited action possibilities** that restrict opportunities for developing capacities
-- **Reduced embodied interaction** that undermines social and moral capacity development
-- **Diminished intersubjectivity** that prevents shared valuing of capacities
-- **Automation of habituation processes** that deprives users of necessary practice
-- **Systematic affordance shrinkage** that is enduring and deeply entrenched
 
-## Examples from Research
-1. **Healthcare AI systems**: Create environments where clinicians offload diagnostic reasoning to algorithms, leading to "automation bias" where users attribute excessive trust to AI tools. This risks loss of critical skills necessary for unexpected scenarios like system malfunctions.
+- Restrict, limit, or create narrow fields of affordances for capacity development and exercise
+- Afford opportunities for shallow skilling in capacities while restricting well-rounded development
+- May lead to **affordance shrinkage** - systematic, enduring reduction in action possibilities
+- Discourage users from finding compensatory pathways for capacity exercise
+- Often created through AI automation that replaces routine human activities
 
-2. **Smartphone interfaces**: Provide disconnected interaction possibilities (swiping, clicking, scrolling) that fracture the user's affordance space into disconnected fields, ultimately leading to alienation rather than offering opportunities for mutually informing cognitive and bodily skills.
+## AI-Induced Examples
 
-3. **Social media platforms**: Even without malicious intent, these disembodied environments herd users to behave in certain ways through targeted adverts and filtered newsfeeds, making user ignorance "utterly predictable" and often a feature of platform design.
+1. **Healthcare AI Systems**:
+   - Afford offloading diagnostic tasks to machines
+   - Create automation bias where users attribute excessive trust to AI
+   - Lead to erosion of critical diagnostic reasoning and clinical judgment
+   - Diminish retention of tacit knowledge and ethical sensitivity
 
-4. **Artificial Personal Assistants**: When users outsource life-planning to APAs, they may shift from plan-forming (requiring agential control) to plan-following (habitual response to triggers), undermining development of practical rationality.
+2. **Social Media Platforms**:
+   - Create information bubbles through targeted algorithms
+   - Reduce opportunities for embodied moral interaction
+   - Undermine spontaneous recognition of others as moral agents
+   - Fragment affordance space into disconnected fields
 
-## Contrast with Capacity-Conducive Environments
-While capacity-hostile environments restrict development opportunities, [[capacity-conducive-environments]] actively encourage capacity cultivation through:
-- Public goods like community centers and libraries that encourage structured and unstructured embodied interactions
-- Environments that provide sufficient invitations for valuable activities
-- Spaces that foster shared experiences necessary for shared valuing of capacities
-- Affordances that encourage rather than merely afford embodied interaction
+3. **Artificial Personal Assistants**:
+   - Replace routine decision-making that constitutes capacity practice
+   - Encourage plan-following rather than plan-forming
+   - Reduce need for self-deliberation on values and goals
+   - Undermine development of practical wisdom through real-world experience
 
-## Implications for AI Design
-Ferdman argues we must evaluate AI applications based on their conduciveness to capacity cultivation. Capacity-hostile environments are normatively problematic when they systematically discourage users from finding ways to compensate for affordance shrinkage.
+## Structural Harm Mechanism
 
-## Update 2026-07-18
-Added detailed examples from Ferdman's analysis of healthcare AI, smartphone interfaces, and social media platforms as capacity-hostile environments. Incorporated the distinction between merely affording versus actively encouraging embodied interaction. Expanded with analysis of how capacity-hostile environments lead to devaluation of capacities through shallow habituation.
+Capacity-hostile environments are particularly harmful because:
+- They prevent proper **habituation process** necessary for skill development
+- They undermine **intersubjectivity in skilling** by reducing human mentorship opportunities
+- They create disembodied conditions that impair **embodiment in skilling**
+- They systematically shrink the field of affordances for **volitional capacity** exercise
+
+## Market Research Implications
+
+In the insights industry, capacity-hostile environments may emerge when:
+- AI completely automates data collection without preserving opportunities for researcher-participant interaction
+- Analysis tools provide definitive conclusions without requiring researcher interpretation
+- Reporting systems generate final deliverables without opportunities for creative presentation
+- Client communication becomes fully mediated through AI intermediaries
+
+Organizations should audit research workflows for capacity-hostile conditions using the framework in [[ai-deskilling-structural-problem]].
+
+## Update
+2026-07-19: Added specific examples of capacity-hostile conditions in market research workflows and expanded structural harm mechanisms.

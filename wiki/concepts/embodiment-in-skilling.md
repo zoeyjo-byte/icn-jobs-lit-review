@@ -1,4 +1,4 @@
-# [[embodiment-in-skilling]]
+# Embodiment in Skilling
 
 ## Definition
 
@@ -6,50 +6,60 @@ The essential role of physical presence and sensory experience in the developmen
 
 ## Philosophical Foundation
 
-Drawing on the Enactive Approach in cognition, Ferdman (2026) argues:
-- **Participatory sense-making**: Embodied interaction is constitutive of social cognition (De Jaegher and Di Paolo 2007)
-- **Embodied understanding**: Recognizing others as similar loci of embodied subjectivity through voice and gaze
-- **Spontaneous recognition**: The return of the gaze enables spontaneous recognition of others as moral agents
-- **Emergent dynamics**: Meaning is generated in the interplay between unfolding interaction and participants
+According to the Enactive Approach in cognition:
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Moral attention requires perceiving others as embodied beings similar to ourselves
+- Social interaction dynamics constitute an essential part of the cognitive process
+- Meaning is generated in the interplay between unfolding interaction and participants
 
-## Role in Capacity Development
+## Critical Functions of Embodiment
 
-Embodiment is essential because:
-- It enables **moral attention** through perceiving others as embodied beings similar to ourselves
-- It supports **intersubjective habituation** through shared physical presence
-- It facilitates **spontaneous recognition** of others as moral agents without excessive mental effort
-- It creates opportunities for **embodied understanding** of social capacities
-- It provides the foundation for **meaningful relationships** necessary for capacity development
+### Moral Recognition
+- Without embodied interaction, spontaneous recognition of others as moral agents is difficult
+- The return of the gaze creates spontaneity in moral recognition
+- Disembodied interaction requires extra mental effort to attribute moral agency
 
-## Threats from AI Systems
+### Relationship Formation
+- For friendship, disembodied interactions make meaningful connection harder
+- Technologically mediated virtue friendships require more discipline for diminished experience
+- "Constant living together" in physical spaces deepens relationships
 
-AI systems threaten embodiment in skilling by:
-- **Disembodied interaction**: Replacing physical presence with digital interfaces
-- **Fractured affordance spaces**: Creating disconnected fields of interaction that lead to alienation
-- **Reduced moral attention**: Making it harder to recognize others as moral agents
-- **Diminished friendship quality**: Technologically mediated virtue friendships require more discipline for diminished experience (Grasso 2025)
-- **Narrowed capacity development**: Limiting opportunities to develop capacities that require physical presence
+### Skill Development
+- Being embodied is critical for shared valuing of skills
+- Doing something with mentors creates shared history and participatory sense-making
+- Embodied interaction provides richer feedback for habituation process
 
-## Evidence in Market Research
+## AI-Induced Embodiment Deficits
 
-Ferdman (2026) cites evidence that:
-- Smartphone users struggle with "everyday but essential" skills like empathy (Halliday 2025)
-- Disembodied interactions make it harder to form meaningful friendships
-- Without embodied interaction, recognizing others as moral agents requires excessive mental effort
-- Social media platforms herd users into predictable behaviors through designed affordances
+Digital environments create embodiment deficits by:
 
-## Preservation Strategies
+1. **Fragmenting Affordance Space**:
+   - Smartphones provide disconnected interaction fields (swiping, clicking, scrolling)
+   - This fractures user's affordance space into disconnected fields
+   - Ultimately leads to alienation rather than mutually informing skill development
 
-1. **Embodied interaction requirements**: Mandate physical presence for critical capacity development activities
-2. **Hybrid workspace design**: Create environments that blend digital tools with embodied interaction opportunities
-3. **Physical ritual integration**: Incorporate embodied practices into AI-augmented workflows
-4. **Sensory awareness training**: Develop practices that heighten awareness of embodied interaction
-5. **Community space investment**: Support physical spaces that encourage embodied engagement
+2. **Undermining Moral Attention**:
+   - Reducing opportunities to perceive others as embodied moral agents
+   - Making moral reasoning more effortful and less spontaneous
+   - Diminishing capacity for embodied moral attention
+
+3. **Shallowing Relationships**:
+   - Replacing physical co-presence with mediated interaction
+   - Reducing opportunities for the "constant living together" that builds deep relationships
+   - Creating environments where friendship requires more discipline for less reward
+
+## Market Research Applications
+
+To preserve embodiment in AI-augmented research:
+- Maintain in-person client workshops and co-creation sessions
+- Design research methods that preserve embodied participant interaction
+- Create physical collaboration spaces that encourage spontaneous interaction
+- Balance remote work with intentional embodied team activities
+- Use AI to enhance rather than replace embodied client relationships
 
 ## Related Concepts
 
-- [[capacity-conducive-environments]]
-- [[intersubjectivity-in-skilling]]
-- [[social-capacities]]
-- [[moral-capacity]]
-- [[disembodied-interaction]]
+See [[capacity-conducive-environments]], [[intersubjectivity-in-skilling]], and [[human-capacities]] for deeper analysis of embodiment's role in capacity development.
+
+## Update
+2026-07-19: Expanded analysis of embodiment deficits in digital environments and added specific market research applications.

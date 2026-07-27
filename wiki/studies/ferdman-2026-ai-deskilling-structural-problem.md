@@ -1,27 +1,46 @@
-# [[ferdman-2026-ai-deskilling-structural-problem]]
+# AI deskilling is a structural problem
+
+**Published:** November 5, 2025
+**Journal:** AI & Society (2026) 41:3001–3013
+**DOI:** https://doi.org/10.1007/s00146-025-02686-z
 
 ## Overview
-Avigail Ferdman's 2026 paper published in [[ai-society]], titled "AI deskilling is a structural problem," presents a philosophical analysis of how AI systems undermine human capacities through systemic environmental conditions rather than individual failings. The study challenges the framing of deskilling as merely an individual responsibility issue, arguing instead that AI creates structural conditions that inhibit the development and exercise of core human capacities.
+
+Avigail Ferdman's groundbreaking paper establishes that AI-induced deskilling should be understood as a structural problem requiring societal solutions rather than merely an individual responsibility issue. The research introduces the critical distinction between 'capacity-hostile environments' and 'capacity-conducive environments' to identify how AI systems undermine human capacities through systemic environmental conditions.
 
 ## Key Contributions
-The paper introduces the critical distinction between **capacity-hostile environments** and **capacity-conducive environments**, demonstrating how AI mediation can restrict the conditions necessary for capacity cultivation. Ferdman draws on philosophy of skill and social epistemology to establish that capacity cultivation (skilling) requires:
-- Acquisition of **agential control** over capacities
-- A gradual process of **habituation** through practice
-- **Intersubjective** learning from others
-- **Embodied** interaction with mentors and environments
 
-## Methodology
-Ferdman employs conceptual analysis grounded in neo-Aristotelian ethics, particularly **developmental perfectionism**, which frames human flourishing as a complex, unified life achieved through competent exercise of core capacities. The analysis examines how AI systems alter the "world of affordances" that shape human development.
+### Structural Framework for Capacity Cultivation
+- Introduces **agential control** as the ability to adjust action execution during performance, distinguishing skills from habits
+- Details the **habituation process** as a gradual, embodied, intersubjective journey requiring practice, failure, and mentorship
+- Identifies **intersubjectivity in skilling** as essential for shared valuing of capacities between mentor and mentee
+- Emphasizes **embodiment in skilling** as critical for social and moral capacity development
 
-## Case Study: Artificial Personal Assistants
-The paper analyzes Large Language Model-based [[artificial-personal-assistants]] as a rapidly growing AI application that risks creating capacity-hostile environments. When users outsource life-planning to APAs, they may:
-- Shift from **plan-forming** (requiring agential control) to **plan-following** (habitual response to triggers)
-- Experience reduced opportunities for developing **practical rationality** (phronesis)
-- Undermine the **habituation process** necessary for cultivating capacities
-- Diminish **intersubjective** relationships that provide shared valuing of capacities
+### Capacity-Hostile vs Conducive Environments
+- **Capacity-hostile environments** restrict, limit, or create narrow fields of affordances for capacity development
+- **Capacity-conducive environments** actively encourage development through embodied interaction and shared valuing
+- Demonstrates how AI automation can create **narrow fields of affordances** that systematically shrink action possibilities
 
-## Implications
-Ferdman concludes that deskilling should be understood as a societal problem requiring structural solutions, not merely individual adaptation. The paper calls for evaluating AI applications based on their conduciveness to capacity cultivation and emphasizes society's obligation to foster environments where humans can develop their full capacities.
+### Artificial Personal Assistants Case Study
+Analyzes how APAs like ChatGPT, Claude.ai, and Gemini used for life-planning create capacity-hostile conditions by:
+- Encouraging **plan-following** rather than **plan-forming**, undermining agential control
+- Reducing opportunities for embodied interaction essential for social capacity development
+- Creating environments where users become dependent on external validation rather than self-deliberation
+- Offloading routine decision-making that constitutes necessary practice for developing practical wisdom
 
-## Update 2026-07-18
-Added detailed analysis of how APAs create capacity-hostile environments through automation of life-planning activities, with specific examples from the source including Sunsama scheduling app analysis. Incorporated Ferdman's distinction between plan-forming versus plan-following as it relates to agential control.
+## Implications for Market Research
+
+This research has profound implications for the insights industry where:
+- Critical thinking and practical wisdom (**epistemic capacities**) are essential for interpreting complex data
+- Client relationships depend on well-developed **social capacities** for trust and understanding
+- Innovation requires robust **creative capacities** to generate novel research approaches
+- The **volitional capacity** to persevere through research challenges is increasingly threatened by AI automation
+
+Organizations must design research workflows that maintain **capacity-conducive environments** by preserving opportunities for embodied client interaction, mentorship, and self-directed problem-solving rather than complete automation of research processes.
+
+## Related Concepts
+
+See [[capacity-hostile-environments]], [[agential-control]], [[habituation-process]], [[plan-forming-vs-plan-following]], and [[human-capacities]] for detailed analysis of Ferdman's framework.
+
+## Update
+2026-07-19: Expanded analysis of capacity-hostile mechanisms in AI research tools and implications for market research workflows.

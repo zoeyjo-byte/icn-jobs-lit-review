@@ -1,62 +1,65 @@
-# [[narrow-field-of-affordances]]
+# Narrow Field of Affordances
 
 ## Definition
 
 An environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
+## Characteristics
 
-- **Limited action possibilities**: Fewer invitations for valuable activities that trigger human capacities
-- **Systematic restriction**: Not merely occasional limitations but enduring, deeply entrenched constraints
-- **Compensation discouragement**: Environment actively discourages users from finding alternative avenues
-- **Cumulative effect**: Multiple narrow affordance fields across different life domains
-- **Affordance shrinkage**: Progressive reduction in action possibilities over time (Dokumacı 2023; Krueger 2023)
+- Restricts the number of action possibilities available to agents
+- Limits opportunities to engage in activities requiring competent capacity exercise
+- May lead to "affordance shrinkage" - systematic, enduring reduction in action possibilities
+- Discourages users from finding ways to compensate for the shrinkage
+- Often created by AI systems that automate routine human activities
 
-## Mechanisms of Restriction
+## AI-Induced Examples
 
-1. **Automation bias**: Offloading tasks to AI reduces opportunities to practice capacities
-2. **Disembodied interaction**: Digital interfaces replace embodied engagement necessary for social capacities
-3. **Plan-following orientation**: AI tools transform users from plan-formers to plan-followers
-4. **Habituation deprivation**: Removing routine opportunities to strengthen "cognitive musculature"
-5. **Intersubjective erosion**: Replacing human mentorship with algorithmic guidance
+### Healthcare AI Systems
+- Affords offloading diagnostic tasks to machines
+- Creates automation bias where users attribute excessive trust to AI
+- Leads to loss of critical skills necessary for unexpected scenarios like system malfunctions
+- Reduces opportunities to practice judgment and strengthen "cognitive musculature"
 
-## Evidence in Market Research
+### Smartphone Environments
+- Provides disconnected interaction fields (swiping, clicking, scrolling)
+- Fractures user's affordance space into separate, repeatable tasks
+- Leads to alienation rather than mutually informing skill development
+- Creates impoverished environment for cognitive and bodily skill development
 
-Ferdman (2026) demonstrates how narrow fields of affordances manifest in:
-- **Healthcare**: AI tools that offload diagnostic reasoning, leading to diminished clinical judgment
-- **Daily life**: Smartphone interfaces that fracture affordance spaces into disconnected fields
-- **Work environments**: AI scheduling tools that determine daily activities without user initiation
-- **Social interaction**: Platforms that herd users into predictable behaviors through designed affordances
+### Artificial Personal Assistants
+- Replaces routine decision-making that constitutes capacity practice
+- Reduces need for small-scale decisions that build broader life-planning skills
+- Undermines habituation of capacities necessary for trusting one's decisions
+- Creates dependency that diminishes sense of personal competence
 
-## Impact on Capacity Development
+## Structural Harm Mechanism
 
-Narrow fields of affordances:
-- Prevent the **habituation process** essential for skill development
-- Undermine **intersubjective valuing** by replacing human mentors
-- Diminish **embodiment in skilling** by reducing physical presence opportunities
-- Create dependency that weakens the **volitional capacity**
-- Systematically erode **practical wisdom** through offloading of routine decisions
+Narrow fields of affordances are particularly harmful because:
+- They prevent proper **habituation process** necessary for skill development
+- They undermine **intersubjectivity in skilling** by reducing human interaction
+- They create disembodied conditions that impair **embodiment in skilling**
+- They systematically shrink opportunities for **volitional capacity** exercise
 
-## Contrast with Rich Affordance Fields
+## Market Research Applications
 
-Unlike capacity-conducive environments that provide diverse action possibilities, narrow fields of affordances:
-- Offer only superficial opportunities for capacity exercise
-- Fail to trigger the integrated operation of multiple capacities
-- Discourage users from seeking alternative growth avenues
-- Create environments where capacity devaluation becomes self-reinforcing
+In insights organizations, narrow fields of affordances may appear when:
+- AI tools provide definitive research conclusions without requiring interpretation
+- Reporting systems generate standardized deliverables without creative input
+- Data collection becomes fully automated without researcher-participant interaction
+- Client communication is mediated through AI intermediaries
 
-## Mitigation Strategies
+## Design Principles for Rich Affordance Fields
 
-1. **Affordance mapping**: Audit AI tools for capacity development opportunities
-2. **Critical friction points**: Design intentional limitations that preserve key capacity exercise moments
-3. **Embodied interaction requirements**: Mandate physical presence for critical capacity-building activities
-4. **Habituation pathways**: Create structured progression for developing capacities alongside AI
-5. **Compensation encouragement**: Design environments that actively support alternative growth avenues
+To create environments with rich affordance fields:
+1. Preserve multiple pathways for capacity expression and development
+2. Design AI tools that suggest rather than dictate actions
+3. Maintain spaces for embodied client interaction
+4. Create opportunities for both routine practice and exceptional challenge
+5. Balance structured guidance with unstructured exploration
 
 ## Related Concepts
 
-- [[capacity-hostile-environments]]
-- [[affordance-shrinkage]]
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[plan-forming-vs-plan-following]]
+See [[capacity-hostile-environments]], [[affordance-shrinkage]], and [[ai-deskilling-structural-problem]] for deeper analysis of affordance mechanisms.
+
+## Update
+2026-07-19: Added specific market research applications and expanded design principles for rich affordance fields.

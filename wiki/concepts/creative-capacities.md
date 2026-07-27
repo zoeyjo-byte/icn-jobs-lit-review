@@ -1,38 +1,61 @@
 # Creative Capacities
 
 ## Definition
-The **human capacities related to generating novel ideas**, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation, as established in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+## Core Characteristics
+
 - Making unfamiliar combinations of familiar ideas
-- Transforming conceptual spaces
-- Generating novel approaches to problems
-- Innovation without relying merely on luck, accidents, or mechanical procedures
-- Essential for responding to unexpected events and surprises in planning
+- Transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures
+- Required for reconsidering and responding to novel situations, surprises, and unexpected events
+- Enables adaptation to changing circumstances and innovation
+- Involves both divergent and convergent thinking processes
 
-## Role in Market Research
-Creative capacities are vital for insights professionals:
-- Developing innovative research methodologies
-- Finding novel interpretations of data
-- Creating compelling research narratives
-- Adapting to unexpected research challenges
-- Transforming conceptual spaces to generate new market insights
+## Role in Life-Planning
 
-## Threat from AI Systems
-AI can undermine creative capacities by:
-- Providing predetermined solutions that eliminate opportunities for novel thinking
-- Creating environments where users follow AI recommendations rather than exploring alternatives
-- Reducing opportunities for the kind of trial and error that leads to creative breakthroughs
-- Encouraging reliance on algorithmic pattern recognition over human creativity
+Creative capacities are essential for:
+- Responding to the incompleteness of plans through novel solutions
+- Adapting to unexpected events that provide growth opportunities
+- Transforming conceptual spaces to find new pathways toward goals
+- Generating innovative approaches to life challenges
+- Creating meaningful responses to novel circumstances
 
-As Ferdman explains: "Planning one's life also involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events."
+## AI Impact on Creative Capacities
 
-## Preserving Creative Capacities in AI Adoption
-Organizations can protect these capacities by:
-- Using AI for inspiration rather than predetermined paths
-- Preserving opportunities for researchers to develop and defend their own creative approaches
-- Creating environments that encourage experimentation and risk-taking
-- Maintaining spaces for unstructured brainstorming and idea generation
+Artificial Intelligence systems have complex effects on creative capacities:
 
-## Cross-References
-See also: [[creative-thinking]], [[innovation-capacity]], [[ai-deskilling-structural-problem]], [[human-capacities]], [[human-operating-model-gap]], [[value-chain-shift]]
+### Threats
+- Standardizing outputs through AI templates and suggestions
+- Reducing need for unfamiliar combinations by providing ready-made solutions
+- Creating environments with narrow fields of affordances for creative exploration
+- Undermining the habituation process necessary for deep creative skill development
+
+### Opportunities
+- Providing new tools for idea generation and exploration
+- Augmenting human creativity through collaborative human-AI workflows
+- Freeing cognitive resources for higher-level creative tasks
+- Offering new conceptual spaces to transform
+
+## Market Research Applications
+
+In the insights industry, preserving and enhancing creative capacities requires:
+
+### Threat Mitigation
+- Avoiding complete reliance on AI for insight generation
+- Maintaining spaces for unstructured brainstorming and idea exploration
+- Preserving opportunities for researchers to develop creative problem-solving skills
+- Designing workflows that prevent AI from standardizing research outputs
+
+### Opportunity Maximization
+- Using AI as a collaborative partner rather than replacement
+- Creating human-AI workflows that leverage complementary strengths
+- Developing training programs that integrate AI tools while preserving creative development
+- Designing research challenges that require creative transformation of conceptual spaces
+
+## Related Concepts
+
+See [[conceptual-transformation]], [[creative-process]], and [[innovation-capacity]] for deeper analysis of creative capacity mechanisms.
+
+## Update
+2026-07-19: Added specific market research applications with threat mitigation and opportunity maximization strategies.

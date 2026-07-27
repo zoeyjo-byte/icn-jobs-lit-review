@@ -1,60 +1,60 @@
-# [[intersubjectivity-in-skilling]]
+# Intersubjectivity in Skilling
 
 ## Definition
 
-The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Components
+## Core Mechanisms
 
 ### Mentor-Mentee Relationship
-- **Shared valuing**: Mentor instills not just how to perform the skill but why it matters
-- **Intersubjective connection**: Both mentor and mentee develop shared intentions regarding the skill
-- **Gradual transfer**: Moves from direct instruction to shared understanding to independent practice
-- **Value internalization**: Novice eventually views the value of the skill as their own
+- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
+- A good mentor instills not only the mechanical aspects of the skill but also the value of the skill
+- In the relationship, both mentor and mentee develop shared intentions
+- They come to have "shared valuing" of the skill, eventually viewing its value as their own
 
 ### Societal Dimension
-- **Social practices**: Groups or societies provide mentoring environments through family, colleagues, citizens
-- **Constitutive aims**: Social practices have telos that ultimately help people fare well rather than badly (Manne 2013)
-- **Common life**: Learning occurs through practices of common life where responsiveness to skillful action is communicated (MacIntyre 2017)
+- Social practices performed by groups or whole societies provide mentoring environments
+- The family, colleagues, citizens collectively form a mentoring environment
+- Social practices generate moral reasons for action through constitutive aims or telos
+- These practices help people "fare well rather than badly" (Manne 2013)
 
-## Role in Capacity Development
+## Why Intersubjectivity Matters
 
-Intersubjectivity is essential because:
-- It enables the development of **shared understanding** about why capacities matter
-- It provides the **motivational structure** necessary for sustained capacity development
-- It creates **embodied understanding** through shared history and participatory sense-making
-- It supports the transition from external guidance to internalized value
-- It connects individual capacity development to societal flourishing
+Learning to value a capacity is part of the process of its habituation. When:
+- A person develops a capacity shallowly, they cannot learn to value masterful levels
+- Enough persons don't value excellence of a human capacity (e.g., critical thinking), the capacity risks atrophy
+- Agents lack proper mentoring of "know-how" and shared valuing, they cannot be expected to cultivate capacities
 
-## Threats from AI Systems
+## AI Threats to Intersubjective Skilling
 
-AI systems threaten intersubjectivity in skilling by:
-- **Replacing human mentors** with algorithmic guidance that lacks shared valuing
-- **Creating disembodied interactions** that diminish opportunities for embodied understanding
-- **Undermining shared experiences** necessary for developing social capacities
-- **Reducing opportunities** for developing moral capacities through human relationships
-- **Narrowing affordance fields** that limit intersubjective learning opportunities
+Artificial Personal Assistants and other AI systems undermine intersubjective skilling by:
 
-## Evidence in Market Research
+1. **Replacing Human Mentorship**:
+   - Providing individualized advice without shared history or context
+   - Lacking understanding of the constitutive aims of professional practices
+   - Creating isolated learning experiences without community validation
 
-Ferdman (2026) demonstrates that:
-- Artificial Personal Assistants (APAs) replace human interaction with algorithmic advice
-- Users report seeking social validation and interpersonal guidance from LLMs (Kim et al. 2025a)
-- Heavy APA users experience reduced opportunities for embodied interaction necessary for moral attention
-- Disembodied interactions make it harder to form meaningful friendships (Grasso 2025)
+2. **Undermining Shared Valuing**:
+   - Failing to transmit the deeper value of capacities beyond instrumental use
+   - Reducing opportunities for collective deliberation on professional standards
+   - Fragmenting professional communities through personalized AI interactions
 
-## Preservation Strategies
+3. **Diminishing Shared Experiences**:
+   - Preferring APA advice over friend/colleague consultation weakens shared experiences
+   - Reducing embodied interaction that creates "constant living together"
+   - Making relationships shallower through technologically mediated interaction
 
-1. **Human-AI teaming**: Design workflows where AI handles technical aspects while humans provide value guidance
-2. **Structured mentorship**: Pair AI tools with human mentors who focus on value transmission
-3. **Shared experience requirements**: Ensure AI-mediated workflows preserve opportunities for embodied interaction
-4. **Value articulation protocols**: Create processes for explicitly discussing why capacities matter
-5. **Community building**: Foster communities of practice around AI-augmented work
+## Market Research Implications
+
+In the insights industry, preserving intersubjectivity requires:
+- Maintaining spaces for collective interpretation of research findings
+- Creating opportunities for senior-junior researcher collaboration on complex projects
+- Designing client engagements that foster shared understanding rather than AI-mediated transactions
+- Preserving professional associations and conferences as spaces for shared valuing
 
 ## Related Concepts
 
-- [[embodiment-in-skilling]]
-- [[capacity-conducive-environments]]
-- [[social-capacities]]
-- [[moral-capacity]]
-- [[shared-valuing]]
+See [[habituation-process]], [[embodiment-in-skilling]], and [[capacity-conducive-environments]] for deeper analysis of intersubjective learning mechanisms.
+
+## Update
+2026-07-19: Expanded analysis of AI threats to intersubjective skilling and added specific market research implications.
