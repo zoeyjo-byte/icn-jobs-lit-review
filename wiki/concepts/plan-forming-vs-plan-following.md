@@ -1,60 +1,40 @@
 # Plan-Forming vs Plan-Following
 
+**First Observed**: 2026-07-17
+
 ## Definition
 
-The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The distinction between actively creating plans through self-deliberation (plan-forming) versus executing pre-determined plans (plan-following), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Differences
+## Key Characteristics
 
-| **Plan-Forming** | **Plan-Following** |
-|-------------------|---------------------|
-| Requires self-deliberation on values and goals | Triggered by environmental cues (APA outputs) |
-| Involves settling function: deciding between options | Involves responding to pre-determined options |
-| Requires coordination function: organizing different plans | Follows pre-organized sequence |
-| Demands full agential control over initiating activity | Responds to triggers in environment |
-| Takes responsibility if plan fails | Shifts responsibility to plan source |
-| Develops practical wisdom through real-world experience | Diminishes practical wisdom development |
+Plan-forming requires **agential control** over the entire planning process, including:
+- The settling function (deciding between options)
+- The coordination function (organizing different types of plans)
+- Taking responsibility for outcomes
+- Responding to unexpected events and surprises
 
-## Philosophical Foundation
+Plan-following, by contrast, involves:
+- Responding to triggers in the environment
+- Executing plans constructed by external entities
+- Absence of the capacity to will in initiating planning activities
+- Reduced opportunity for self-criticism and improvement
 
-Based on Bratman's theory of agency:
-- Planning is a manifestation of practical rationality
-- Intentions have settling function: managing finite cognitive resources during choice
-- Intentions have coordination function: forming and organizing different plans
-- Planning facilitates coordination over time and with others
-- Planning involves responding to unexpected events that provide growth opportunities
+## AI Implications
 
-## AI's Impact on Planning
+Artificial Personal Assistants (APAs) often encourage plan-following behavior by:
+- Providing ready-made plans for life organization
+- Prompting users with "how should I fill an unscheduled hour" suggestions
+- Creating dependency through constant availability and helpfulness
 
-Artificial Personal Assistants (APAs) shift users from plan-forming to plan-following by:
+As noted by Ferdman (2026), "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment." This shift from plan-forming to plan-following undermines the development of practical wisdom, which requires "real-world experience and... the opportunity to develop practical wisdom."
 
-1. **Replacing Self-Deliberation**:
-   - Providing ready-made plans for life organization, career, relationships
-   - Reducing need for users to reflect on their own values and goals
-   - Undermining development of practical wisdom through real-world experience
+## Capacity Development Impact
 
-2. **Automating Coordination**:
-   - Apps like Sunsama automatically schedule tasks into available time slots
-   - Removing need for users to coordinate their own activities
-   - Diminishing opportunities to develop coordination function of planning
+The transition from plan-forming to plan-following represents a critical mechanism through which AI systems can create **capacity-hostile environments**. When humans outsource planning activities to AI systems:
+- They lose opportunities to practice judgment and strengthen cognitive musculature
+- They become acclimated to responding to environmental triggers rather than exercising agency
+- They miss chances for self-criticism when plans fail
+- They experience reduced sense of personal competence
 
-3. **Creating Habitual Responses**:
-   - Training users to respond to APA prompts rather than initiate planning
-   - Transforming life-planning from skill to habit
-   - Reducing agential control over initiating planning activities
-
-## Market Research Implications
-
-In insights work, preserving plan-forming requires:
-- Maintaining researcher judgment in designing research approaches
-- Creating opportunities for researchers to develop practical wisdom through client interaction
-- Avoiding complete automation of research design and interpretation
-- Preserving spaces for researchers to explain and defend their methodological choices
-- Designing workflows where researchers initiate analysis rather than follow AI suggestions
-
-## Related Concepts
-
-See [[agential-control]], [[epistemic-capacities]], and [[practical-rationality]] for deeper analysis of planning mechanisms.
-
-## Update
-2026-07-19: Added specific APA examples like Sunsama and expanded market research implications.
+This phenomenon is particularly concerning for the development of **epistemic capacities** and **volitional capacity**, as planning one's life requires the competent exercise of theoretical and practical rationality, moral reasoning, and the ability to will oneself into action.

@@ -1,64 +1,69 @@
 # Epistemic Capacities
 
+**First Observed**: 2026-07-18
+**Last Updated**: 2026-07-19
+
 ## Definition
 
-The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions, as established in [[ferdman-2026-ai-deskilling-structural-problem]].
+The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. These capacities are constitutive of human flourishing rather than merely instrumental.
 
-## Two Core Dimensions
+## Philosophical Framework
+
+Based on Ferdman's (2026) analysis in [[ferdman-2026-ai-deskilling-structural-problem]], epistemic capacities include:
 
 ### Theoretical Rationality
-- Thinking, considering reasons to believe, forming beliefs, contemplating
-- Involves evaluating evidence and constructing coherent belief systems
-- Essential for knowledge acquisition and truth-seeking
-- Required for critically examining one's own beliefs and assumptions
+- Thinking and considering reasons to believe
+- Forming accurate beliefs about the world
+- Contemplating complex ideas and concepts
+- Engaging in critical analysis and evaluation
 
 ### Practical Rationality (Phronesis)
 - Doing the right thing in the right way for the right reason
-- Common sense or wisdom in practical matters
-- Knowing effective means to ends and possessing accurate situational understanding
-- Includes discernment: correct understanding of how good and bad apply in circumstances
-- To be well motivated is not enough; practical wisdom makes one effective in the real world
+- Knowing effective means to one's ends
+- Possessing accurate understanding of one's situation and circumstances
+- Having discernment: correct understanding of how the good and bad apply in particular circumstances
+
+As Ferdman explains: "To be well motivated is not enough, to have practical wisdom is to be an effective and savvy agent in the real world, equipped with valuable life experience."
 
 ## Role in Life-Planning
 
-Epistemic capacities are essential for:
-- Self-deliberation on values and goals
-- Exercising theoretical rationality in forming beliefs about flourishing
-- Applying practical wisdom regarding coordinating goals with actions
-- Critically reflecting on conceptions of a flourishing life
-- Setting appropriate goals and striving to accomplish them in the right way
+Epistemic capacities are essential for life-planning because:
+- They enable self-deliberation on values and goals (theoretical rationality)
+- They support coordination of goals and intentions with actions (practical wisdom)
+- They allow for critical reflection on conceptions of a flourishing life
+- They help set appropriate goals and strive to accomplish them in the right way
 
 ## AI Threats to Epistemic Capacities
 
-Artificial Personal Assistants and other AI systems undermine epistemic capacities by:
+AI systems threaten epistemic capacities through:
 
-1. **Replacing Self-Deliberation**:
-   - Providing ready-made answers to value questions
-   - Reducing need for users to form their own beliefs through reasoning
-   - Diminishing opportunities to develop practical wisdom through real-world experience
+1. **Erosion of critical thinking**: "There is growing evidence of the erosion of critical thinking... as a result of overreliance on artificial intelligence" (Bonicalzi et al. 2023; Gerlich 2025; Lee et al. 2025)
 
-2. **Creating Automation Bias**:
-   - Encouraging excessive trust in AI-generated information
-   - Undermining critical evaluation of sources and evidence
-   - Reducing capacity for independent judgment
+2. **Automation bias**: In healthcare, AI dependence has been found to diminish diagnostic reasoning and declining clinical judgment (NHS England 2023)
 
-3. **Shrinking Affordance Fields**:
-   - Automating routine decision-making that constitutes capacity practice
-   - Depriving users of opportunities to "practice their judgment and strengthen cognitive musculature"
-   - Creating environments where users are "atrophied and unprepared when exceptions arise"
+3. **Deskilling of practical wisdom**: When AI systems make recommendations, users may outsource the settling and coordination functions of planning, reducing opportunities to develop practical wisdom
+
+4. **Reduced opportunity for self-correction**: When plans fail, users may shift responsibility to the AI rather than engaging in self-criticism and improvement
 
 ## Market Research Implications
 
-In the insights industry, preserving epistemic capacities requires:
-- Maintaining researcher judgment in interpreting AI-generated data
-- Creating spaces for collective deliberation on research findings
-- Designing workflows that preserve opportunities for theoretical and practical reasoning
-- Avoiding complete automation of analysis that removes researcher interpretation
-- Developing training programs that strengthen researchers' practical wisdom
+Epistemic capacities are fundamental to market research work:
 
-## Related Concepts
+- **Theoretical rationality** is required for interpreting complex data and forming accurate insights
+- **Practical wisdom** is essential for designing appropriate research methodologies and interpreting findings in context
+- **Critical thinking** enables researchers to evaluate AI-generated insights rather than accepting them uncritically
 
-See [[practical-rationality]], [[theoretical-rationality]], and [[plan-forming-vs-plan-following]] for deeper analysis of epistemic capacity mechanisms.
+The increasing use of AI in research threatens these capacities through:
+- Overreliance on AI-generated summaries and insights
+- Reduced opportunities for researchers to practice interpretation skills
+- Narrowing of the field of affordances for developing practical wisdom
 
-## Update
-2026-07-19: Expanded AI threat mechanisms and added specific market research implications.
+## Preservation Strategies
+
+To maintain epistemic capacities in AI-augmented research environments:
+- Preserve space for human interpretation alongside AI analysis
+- Create structured opportunities for researchers to exercise practical wisdom
+- Maintain embodied mentorship relationships that support intersubjective habituation
+- Design workflows that require researchers to explain and justify AI-generated insights
+
+As Ferdman (2026) warns: "Overreliance on APAs could lead to a reduced sense of personal competence... undermining the habituation of the capacities necessary for trusting one's decisions on life-planning." The same principle applies to research decision-making.

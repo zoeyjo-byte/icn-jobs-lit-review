@@ -1,62 +1,62 @@
 # Developmental Perfectionism
 
+**First Observed**: 2026-07-15
+**Last Updated**: 2026-07-19
+
 ## Definition
 
-Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful, as established in [[ferdman-2026-ai-deskilling-structural-problem]].
+Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. This framework explains why impoverished capacities lead to impoverished lives.
+
+## Philosophical Foundation
+
+Developmental Perfectionism, as articulated by Kauppinen (2025) and referenced in [[ferdman-2026-ai-deskilling-structural-problem]], conceptualizes human flourishing through:
+
+- A complex, unified conception of the good life
+- The intrinsic value of human capacities
+- The relationship between capacity exercise and intrinsically valuable goods
+
+As Ferdman (2026) explains: "Developmental Perfectionism is a neo-Aristotelian approach to human flourishing, where flourishing is understood as a complex, unified, and well-rounded life. Humans exercise their capacities in activities that yield outcomes that have intrinsic value like knowledge, beauty, morality, friendship."
 
 ## Core Principles
 
-- Human flourishing is a complex, unified, and well-rounded life (Hurka 1993)
-- Humans exercise capacities in activities yielding intrinsically valuable outcomes
-- The competent exercise of capacities manifests achievement of intrinsically valuable goods
-- Capacity-deskilling is bad because capacities are constitutive of flourishing
-- Impoverished capacities lead to impoverished lives
+1. **Capacities as Constitutive of Flourishing**:
+   - Human capacities are not merely instrumental but constitutive of flourishing
+   - The competent exercise of capacities manifests intrinsically valuable goods
+   - Example: The value of summiting Everest comes from the competent exercise of climbing capacities, not merely being at the summit
 
-## Key Distinction
+2. **Intrinsic Value of Capacities**:
+   - Capacities have value in themselves, not just for their outcomes
+   - "The competent exercise of the human capacities is the manifestation of the achievement of the intrinsically valuable goods, making the capacities intrinsically valuable too"
 
-The value distinction between:
-- **Competent exercise of capacities**: Gains value from the process (e.g., climbing Mt. Everest)
-- **Mere presence**: Lacks the value of the competent exercise (e.g., arriving by helicopter)
+3. **Interconnectedness of Capacities**:
+   - Capacities rarely operate in isolation
+   - Multiple capacities combine to achieve intrinsically valuable outcomes
+   - Impoverished capacities lead to impoverished lives
 
-> "The value of being on the summit of Mt. Everest is gained from the competent exercise of a combination of capacities involved in climbing it, and not from simply being there."
+## Connection to Deskilling Analysis
+
+Developmental Perfectionism provides the normative foundation for understanding why capacity-deskilling is harmful:
+
+- Deskilling is bad because inadequate development of core human capacities diminishes us as humans
+- Capacity-deskilling leads to "capacity impoverishment," which undermines our flourishing
+- From this perspective, while deskilling of activities like hunting or coding may be innocuous, capacity-deskilling should always be a cause for worry
+
+As Ferdman (2026) states: "Developmental Perfectionism neatly captures why deskilling is bad: capacity-deskilling is bad because our human capacities are constitutive of our flourishing. Impoverished capacities (i.e., capacity-deskilling), therefore, lead to impoverished lives."
 
 ## Four Core Human Capacities
 
-1. **Epistemic Capacities**:
-   - Theoretical rationality: thinking, considering reasons, forming beliefs
-   - Practical rationality (phronesis): doing right thing in right way for right reason
+The framework identifies four essential capacities that constitute human flourishing:
 
-2. **Social Capacities**:
-   - Moral capacity for recognizing others as moral agents
-   - Social and caring capacities for meaningful relationships
+1. **Epistemic capacities**: Theoretical and practical rationality for knowledge and decision-making
+2. **Social capacities**: Moral and relational capacities for meaningful relationships
+3. **Creative capacities**: Ability to generate novel ideas and transform conceptual spaces
+4. **Volitional capacity**: Meta-capacity to exert effort, overcome difficulty, and grow
 
-3. **Creative Capacities**:
-   - Making unfamiliar combinations of familiar ideas
-   - Transforming conceptual spaces without relying on luck
+## Market Research Implications
 
-4. **Volitional Capacity**:
-   - Ability to exert effort, overcome difficulty, persevere and grow
-   - Treated as meta-capacity necessary for developing all others
+This philosophical framework explains why the **human-operating-model-gap** matters:
+- When AI systems deskills researchers' core capacities, it undermines their professional flourishing
+- Capacity-conducive research environments support the exercise of multiple capacities simultaneously
+- The structural approach to deskilling calls for designing research workflows that preserve opportunities for capacity exercise
 
-## Why It Matters for AI Ethics
-
-Developmental Perfectionism explains why capacity-deskilling is problematic:
-- It provides normative foundation for why preserving human capacities matters
-- Shows why skill obsolescence differs from capacity deskilling
-- Demonstrates that impoverished capacities lead directly to impoverished lives
-- Establishes that capacity cultivation is constitutive of human flourishing
-
-## Market Research Applications
-
-In insights work, Developmental Perfectionism suggests:
-- Research value comes from competent exercise of capacities, not just deliverables
-- AI tools should enhance rather than replace capacity exercise
-- Organizations should design workflows preserving opportunities for capacity development
-- Professional development should focus on all four capacity dimensions
-
-## Related Concepts
-
-See [[human-capacities]], [[ai-deskilling-structural-problem]], and [[epistemic-capacities]] for deeper analysis of how perfectionism informs AI ethics.
-
-## Update
-2026-07-19: Expanded market research applications and clarified distinction between competent exercise and mere presence.
+Developmental Perfectionism provides the theoretical foundation for understanding why merely automating research tasks without preserving capacity-development pathways leads to impoverished research outcomes and researcher experiences.

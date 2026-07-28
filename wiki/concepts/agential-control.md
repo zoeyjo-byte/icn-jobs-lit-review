@@ -1,55 +1,56 @@
 # Agential Control
 
+**First Observed**: 2026-07-03
+**Last Updated**: 2026-07-19
+
 ## Definition
 
 The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
 ## Philosophical Foundation
 
-- Involves the ability to adjust action execution as performance unfolds
-- Develops as the balance between automaticity and control shifts through tuning and attuning
-- Allows for flexible links between thought and action that evolve even after expertise is achieved
-- Is essential for distinguishing skilled activity from habitual activity
+Drawing on the philosophy of skill, agential control represents:
+- The capacity to modify actions in response to unfolding circumstances
+- The ability to initiate activities rather than merely respond to triggers
+- A spectrum where agency develops through a process of "tuning and attuning" (Sherman 1991)
 
-## Key Distinctions
+As Ferdman (2026) explains: "To be skilled in something is to have agential control over it, the ability to adjust the execution of the action as the performance unfolds. As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning."
 
-| **Skilled Activity** | **Habitual Activity** |
-|----------------------|------------------------|
-| Agent has full control over initiating the activity | Triggered by something in the environment |
-| Requires self-deliberation and settling function | Response to environmental triggers |
-| Involves taking responsibility for outcomes | Allows shifting responsibility to external factors |
-| Enables adaptation to novel circumstances | Limited flexibility in changing conditions |
+## Distinction from Habitual Action
 
-## AI Impact on Agential Control
+The critical distinction between skilled action and habitual action:
 
-Artificial Personal Assistants (APAs) threaten agential control by:
+| **Skilled Action** | **Habitual Action** |
+|-------------------|---------------------|
+| Requires control over initiating the task | Triggered by environmental cues |
+| Agent has full control over the activity | Agent performs in response to triggers |
+| Allows for adjustment during execution | Follows predetermined patterns |
+| Develops through habituation process | Forms through repetition |
 
-1. **Automating Decision-Making**:
-   - Replacing self-deliberation with algorithmic suggestions
-   - Reducing opportunities to practice settling function of planning
-   - Diminishing capacity to coordinate complex intentions
+## AI Implications
 
-2. **Creating Plan-Following Behaviors**:
-   - Encouraging users to respond to APA outputs rather than initiate planning
-   - Transforming life-planning from skill to habit
-   - Undermining development of practical wisdom through real-world experience
+AI systems can undermine agential control through:
 
-3. **Reducing Responsibility Taking**:
-   - Allowing users to shift blame to AI when plans fail
-   - Diminishing opportunities for self-criticism and improvement
-   - Weakening connection between action and consequence
+1. **Automation of routine tasks** that deprive users of opportunities to practice judgment
+2. **Artificial Personal Assistants** that encourage plan-following rather than plan-forming
+3. **Algorithmic recommendations** that shape user behavior through environmental triggers
 
-## Market Research Implications
+As Ferdman (2026) notes regarding AI personal assistants: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment."
 
-In insights work, preserving agential control requires:
-- Maintaining researcher judgment in interpreting AI-generated insights
-- Designing workflows where researchers initiate analysis rather than follow AI suggestions
-- Creating opportunities for researchers to explain and defend their interpretations
-- Preserving spaces for researchers to develop practical wisdom through client interaction
+## Connection to Capacity Development
 
-## Related Concepts
+Agential control is essential for developing all human capacities because:
+- It enables the habituation process through active engagement
+- It allows for learning from mistakes and overcoming failures
+- It supports the development of practical rationality (phronesis)
+- It is necessary for taking responsibility when plans fail
 
-See [[plan-forming-vs-plan-following]], [[habituation-process]], and [[epistemic-capacities]] for deeper analysis of how agential control supports human flourishing.
+Without opportunities to exercise agential control, individuals cannot develop the **epistemic capacities**, **social capacities**, or **volitional capacity** necessary for human flourishing in the age of AI.
 
-## Update
-2026-07-19: Expanded analysis of APA impacts on agential control and added specific market research workflow considerations.
+## Market Research Relevance
+
+In market research, agential control is critical for:
+- Interpreting ambiguous data where AI might provide oversimplified conclusions
+- Navigating complex client relationships that require nuanced judgment
+- Developing innovative research methodologies that respond to unique challenges
+- Maintaining ethical standards in research design and execution

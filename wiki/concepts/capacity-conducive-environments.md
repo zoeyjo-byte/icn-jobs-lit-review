@@ -1,56 +1,56 @@
 # Capacity-Conducive Environments
 
+**First Observed**: 2026-07-03
+**Last Updated**: 2026-07-19
+
 ## Definition
 
-Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to capacity-hostile conditions. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to capacity-hostile conditions. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities.
 
-## Characteristics
+## Key Characteristics
 
+Capacity-conducive environments:
+- Provide a rich field of affordances for capacity development
 - Encourage rather than merely afford embodied interaction
-- Provide public goods like community centers, quality public spaces, and libraries
-- Create opportunities for shared experiences necessary for shared valuing
-- Afford sufficient action possibilities to develop and exercise human capacities
-- Encourage agents to develop and exercise their **volitional capacity**
+- Support the intersubjective dimension of skill habituation
+- Foster shared valuing of human capacities
+- Create conditions for developing agential control over capacities
 
-## Essential Components
+## Examples and Components
 
-### Embodied Interaction Spaces
-- Physical environments that facilitate face-to-face engagement
-- Settings where spontaneous recognition of others as moral agents occurs naturally
-- Spaces designed for multi-sensory interaction beyond digital mediation
+According to Ferdman (2026), capacity-conducive environments include:
 
-### Intersubjective Mentorship Structures
-- Formal and informal mentorship opportunities
-- Communities of practice where shared valuing of capacities develops
-- Social practices that generate moral reasons for action through constitutive aims
+1. **Public goods infrastructure**:
+   - Community centers
+   - Quality public spaces
+   - Public libraries
+   - Educational institutions
 
-### Affordance Diversity
-- Multiple pathways for capacity expression and development
-- Opportunities for both routine practice and exceptional challenge
-- Balance between structured guidance and unstructured exploration
+2. **Embodied interaction spaces** that afford:
+   - Face-to-face dialogue
+   - Shared physical activities
+   - Non-verbal communication
+   - Spontaneous social encounters
 
-## Market Research Applications
+3. **Mentorship structures** that provide:
+   - Guidance in proper practice
+   - Shared understanding of skill value
+   - Opportunities for intersubjective habituation
 
-Capacity-conducive environments in insights organizations include:
+## Structural Importance
 
-- **Client Co-Creation Sessions**: In-person workshops where researchers and clients jointly interpret findings
-- **Mentorship Programs**: Structured pairing of junior and senior researchers for skill transmission
-- **Cross-Functional Teams**: Groups combining research, data science, and business expertise
-- **Physical Collaboration Spaces**: Offices designed to encourage spontaneous interaction and idea sharing
-- **Ethical Review Boards**: Forums for collective deliberation on research ethics and implications
+Ferdman (2026) emphasizes that merely having the opportunity to engage in capacity-building activities does not guarantee that agents will actually do so. To ensure activation of human capacities, environments must actively encourage these activities:
 
-## Design Principles
+> "To ensure the activation of the capacities, the environment has to encourage the activity of φ-ing, otherwise the capacities might not be triggered. This is why the environment conducive to the capacities has to include public goods like community centers, quality public spaces, public libraries, etc. that encourage structured and unstructured embodied interactions."
 
-To create capacity-conducive environments in AI-augmented research:
-1. Preserve embodied interaction points in research workflows
-2. Design AI tools that augment rather than replace human judgment
-3. Create structured opportunities for intersubjective skill development
-4. Ensure AI systems provide transparency about limitations to support critical evaluation
-5. Balance automation of routine tasks with preservation of capacity-building activities
+Capacity-conducive environments also afford opportunities for cultivating the **volitional capacity** by encouraging agents to develop and exercise their other capacities without expecting them to be "virtuous superheroes."
 
-## Related Concepts
+## Connection to Market Research
 
-See [[embodiment-in-skilling]], [[intersubjectivity-in-skilling]], and [[ai-deskilling-structural-problem]] for deeper analysis of capacity cultivation mechanisms.
+In the market research context, capacity-conducive environments would:
+- Support the development of **epistemic capacities** necessary for interpreting complex data
+- Foster **social capacities** essential for building client relationships and conducting qualitative research
+- Encourage **creative capacities** needed for innovative research design
+- Strengthen **volitional capacity** required to overcome research challenges
 
-## Update
-2026-07-19: Added specific design principles for market research organizations and expanded market research applications.
+These environments directly address the **human-operating-model-gap** by creating conditions where human capacities can flourish alongside AI tools rather than being deskilled by them.
