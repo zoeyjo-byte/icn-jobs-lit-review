@@ -1,74 +1,72 @@
-# Human Capacities
-
-**First Observed**: 2026-07-15
-**Last Updated**: 2026-07-19
+# [[human-capacities]]
 
 ## Definition
+Human capacities are core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems as established in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. These capacities are constitutive of human flourishing rather than merely instrumental.
+## Categories of Human Capacities
+According to Ferdman's analysis in [[ferdman-2026-ai-deskilling-structural-problem]], human capacities can be categorized as follows:
 
-## Philosophical Framework
-
-Based on Developmental Perfectionism (Kauppinen 2025) as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], human capacities are:
-
-- Constitutive of human flourishing rather than merely instrumental
-- Intrinsically valuable in themselves
-- Best developed and exercised through capacity-conducive environments
-- Interconnected rather than operating in isolation
-
-As Ferdman (2026) explains: "Humans exercise their capacities in activities that yield outcomes that have intrinsic value like knowledge, beauty, morality, friendship... The competent exercise of the human capacities is the manifestation of the achievement of the intrinsically valuable goods, making the capacities intrinsically valuable too."
-
-## Four Core Capacity Categories
-
-### 1. Epistemic Capacities
-
+### Epistemic Capacities
 The human capacities related to knowledge, reasoning, and understanding:
-- **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
-- **Practical rationality (phronesis)**: Doing the right thing in the right way for the right reason
-- Essential for navigating truth and making informed decisions
+- **Theoretical Rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
+- **Practical Rationality (Phronesis)**: Doing the right thing in the right way for the right reason; practical wisdom in decision-making
 
-### 2. Social Capacities
+### Social Capacities
+The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life:
+- **Moral Capacity**: Recognizing others as moral agents, making ethical judgments
+- **Relational Capacity**: Forming meaningful relationships of friendship and love
 
-The human capacities related to forming meaningful relationships:
-- **Moral capacity**: Recognizing others as moral agents, making ethical judgments
-- **Relational capacity**: Building and maintaining meaningful relationships
-- Essential for friendship, love, and communal life
+### Creative Capacities
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces:
+- Involves creating without relying merely on luck, accidents, or mechanical procedures
+- Enables innovation and adaptation to novel situations
 
-### 3. Creative Capacities
-
-The human capacities related to innovation and adaptation:
-- Making unfamiliar combinations of familiar ideas
-- Transforming conceptual spaces without relying on luck or mechanical procedures
-- Essential for responding to novel situations and generating new insights
-
-### 4. Volitional Capacity
-
-The human capacity to exert effort, overcome difficulty, persevere, and grow:
+### Volitional Capacity
+The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals:
 - Treated as a meta-capacity necessary for developing all other capacities
-- Required to achieve intrinsically valuable goals
-- Particularly important given that developing other capacities is difficult
+- Required for the difficult process of cultivating other human capacities
 
-## Interconnectedness
+## Why Capacities Matter
+Human capacities are fundamental to flourishing for several reasons:
 
-These capacities rarely operate in isolation. As Richard Kraut notes (cited in Ferdman 2026):
-- The capacity to know involves theoretical rationality, practical rationality, and physical capacities
-- Multiple capacities combine to achieve intrinsically valuable outcomes
-- Capacity-hostile environments often undermine multiple capacities simultaneously
+1. **Constitutive Relationship**: "The competent exercise of the human capacities is the manifestation of the achievement of the intrinsically valuable goods, making the capacities intrinsically valuable too."
 
-## AI Threats to Human Capacities
+2. **Value of Process**: The value of achievements is gained from the competent exercise of capacities involved, not merely from the outcome (e.g., the value of climbing Mt. Everest comes from the climb itself).
 
-AI systems threaten human capacities through:
-- Creating **narrow fields of affordances** that restrict action possibilities
-- Undermining **embodiment** necessary for social capacity development
-- Encouraging **plan-following** rather than **plan-forming** activities
-- Disrupting the **habituation process** necessary for skill development
+3. **Holistic Nature**: "Human capacities rarely operate in isolation from each other... capacity-hostile environments are typically hostile to the capacities in that they undermine the opportunity to engage in activities that involve the exercise a combination of the capacities at a time."
 
-## Market Research Significance
+## Capacity-Deskilling vs. Skill Obsolescence
+It's important to distinguish between innocuous skill obsolescence and harmful capacity-deskilling:
 
-Understanding human capacities is critical for addressing the **human-operating-model-gap**:
-- Market research requires the competent exercise of all four capacity categories
-- AI adoption threatens to deskill researchers' core capacities
-- Capacity-conducive research environments preserve opportunities for capacity exercise
-- The structural approach to deskilling calls for designing workflows that maintain capacity-development pathways
+- **Skill Obsolescence**: "Skill obsolescence has always been part of human history, where technological developments free up time and resources for the cultivation of other skills." Deskilling of activities like hunting or basket-weaving may be innocuous.
 
-As Ferdman (2026) concludes: "Rather than focusing only on how human agents ought to engage with AI tools, we should also ask what kind of socio-technical environments would be best for the cultivation of our personhood."
+- **Capacity-Deskilling**: "The deskilling of our core human capacities—to know, create, form meaningful relationships, and use our willpower—is a different matter." Capacity-deskilling should always be a cause for worry because inadequate development of these capacities diminishes us as humans.
+
+## Impact of AI on Human Capacities
+AI systems can undermine human capacities through several mechanisms:
+
+1. **Capacity-Hostile Environments**: AI can create environments that restrict opportunities for capacity development and exercise.
+
+2. **Automation Bias**: Offloading tasks to AI can lead to erosion of critical thinking, decision-making, and analytical reasoning.
+
+3. **Disembodied Interaction**: Digital interfaces limit opportunities for embodied interaction necessary for social and moral capacities.
+
+4. **Plan-Following Orientation**: AI tools that encourage users to follow pre-determined plans rather than form their own undermine practical rationality.
+
+## Implications for Market Research
+In the market research industry, preserving human capacities is critical for:
+- Developing epistemic capacities for interpreting complex human behaviors
+- Exercising social capacities to build trust with research participants
+- Applying creative capacities to design innovative research approaches
+- Using volitional capacity to overcome research challenges and ethical dilemmas
+
+Organizations should evaluate AI implementations based on whether they support or undermine researchers' human capacities, as outlined in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+## Related Concepts
+- [[epistemic-capacities]]
+- [[social-capacities]]
+- [[creative-capacities]]
+- [[volitional-capacity]]
+- [[developmental-perfectionism]]
+- [[capacity-hostile-environments]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]
