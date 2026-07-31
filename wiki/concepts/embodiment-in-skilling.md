@@ -1,54 +1,43 @@
 # [[embodiment-in-skilling]]
 
 ## Definition
-Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. As established in [[ferdman-2026-ai-deskilling-structural-problem]], embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, with significant implications for AI's impact on human flourishing.
+The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
 ## Key Characteristics
-According to Ferdman's analysis in [[ferdman-2026-ai-deskilling-structural-problem]], embodiment in skilling has several critical features:
+- **Participatory sense-making**: Embodied interaction constitutes an essential part of the cognitive process
+- **Moral recognition**: Spontaneous recognition of others as moral agents through embodied interaction
+- **Shared history**: Creation of shared experiences necessary for shared valuing of skills
+- **Return of gaze**: Critical element in embodied interaction for recognizing others as moral agents
+- **Diminished experience**: Technologically mediated interactions provide diminished experience compared to embodied interaction
 
-1. **Participatory Sense-Making**: Embodied 'participatory sense-making' is constitutive of social cognition, for example in paying moral attention to others.
+## Importance in Market Research
+Embodiment is critical for developing:
+- Client relationship skills through face-to-face interaction
+- Interviewing techniques that require reading nonverbal cues
+- Ethical judgment through embodied moral attention
+- Team collaboration that benefits from shared physical presence
 
-2. **Embodied Understanding**: One comes to apprehend other perceived bodies as being similar loci of embodied subjectivity, creating 'embodied understanding.'
+## Threats from AI Systems
+As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI can undermine embodiment by:
+- Replacing face-to-face client interactions with digital communication
+- Reducing opportunities for embodied moral attention in research practice
+- Creating disembodied environments that require more mental effort to attribute moral agency
+- Diminishing the shared history that supports shared valuing of research skills
 
-3. **Spontaneous Recognition**: The spontaneity of recognizing others as moral agents is inherent in embodied interaction, whereas disembodied interaction requires more mental effort in attributing moral agency.
-
-4. **Shared History Creation**: Being embodied is critical for becoming skilled insofar as the process of 'shared valuing' of the skill requires some degree of doing something with the mentor(s), creating a shared history.
-
-## Role in Capacity Development
-Embodiment is fundamental to human capacity development:
-
-1. **Moral Attention**: The process of habituation of moral attention requires perceiving others as embodied beings through their voice and gaze.
-
-2. **Meaningful Relationships**: For the good of friendship, disembodied interactions make it harder to form meaningful relationships because "technologically mediated virtue friendships require more discipline for a diminished experience."
-
-3. **Social Interaction Dynamics**: "Meaning is generated and transformed in the interplay between the unfolding interaction process and the individuals engaged in it."
-
-4. **Capacity Triggering**: Environments that afford embodied interaction trigger the development of capacities that would otherwise remain dormant.
-
-## Impact of AI on Embodiment
-AI systems can undermine embodiment in several ways:
-
-1. **Disembodied Interfaces**: Digital interfaces that replace face-to-face interaction limit opportunities for embodied sense-making necessary for social and moral capacities.
-
-2. **Reduced Shared Experiences**: AI mediation decreases opportunities for creating the shared history and participatory sense-making regarding both the product of the skill and the skill itself.
-
-3. **Automation of Physical Tasks**: When AI handles tasks that would normally involve physical engagement, it deprives users of embodied learning opportunities.
-
-4. **Fractured Affordance Space**: As with smartphone interfaces, AI can fracture the user's affordance space into disconnected fields, ultimately leading to alienation rather than offering opportunities for mutually informing and enriching cognitive and bodily skills.
-
-## Implications for Market Research
-In the market research industry, preserving embodiment is critical for:
-- Developing empathy through face-to-face interaction with research participants
-- Building trust through embodied presence in client relationships
-- Interpreting non-verbal cues in qualitative research
-- Creating meaningful shared experiences that deepen understanding of human behaviors
-
-Organizations should evaluate AI implementations based on whether they preserve or undermine opportunities for embodied capacity development, as outlined in [[ferdman-2026-ai-deskilling-structural-problem]].
+## Preserving Embodiment in AI Environments
+Strategies to maintain embodied skill development:
+- Design research workflows that preserve critical face-to-face interactions
+- Create hybrid environments that balance digital and embodied interaction
+- Implement practices that encourage embodied team collaboration
+- Maintain physical spaces for client engagement and team development
+- Balance AI assistance with opportunities for embodied practice
 
 ## Related Concepts
-- [[intersubjectivity-in-skilling]]
-- [[habituation-process]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[embodied-interaction]]
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[intersubjectivity-in-skilling]]: Shared understanding dimension of skill development
+- [[social-capacities]]: Human capacities related to forming meaningful relationships
+- [[capacity-hostile-environments]]: Environments that restrict embodied interaction
+- [[human-operating-model-gap]]: Growing disparity between AI capabilities and human systems
+
+## Update Log
+2026-07-03: Initial creation
+2026-07-19: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific preservation strategies for market research context
