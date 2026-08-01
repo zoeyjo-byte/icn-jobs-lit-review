@@ -1,38 +1,46 @@
 # [[capacity-hostile-environments]]
 
 ## Definition
-Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
-## Characteristics
-- Provide limited action possibilities that restrict opportunities for capacity development
-- Afford opportunities for shallow skilling while restricting fuller development of capacities
-- Often result in "affordance shrinkage" - systematic, enduring reduction in action possibilities
-- May encourage users to become plan-followers rather than plan-formers
-- Typically undermine intersubjective and embodied habituation processes
+## Key Characteristics
+- Provide a narrow field of affordances that limit engagement in activities requiring competent capacity exercise
+- Restrict opportunities for **intersubjective, embodied habituation** of capacities
+- Undermine the process of **shared valuing** of capacities
+- Create conditions where users are discouraged from finding compensation for capacity shrinkage
+- Often result from **affordance shrinkage** that is systematic, enduring, and deeply entrenched
 
-## Examples in Market Research
-- AI systems that automate routine data analysis tasks without providing opportunities for analysts to develop deeper understanding
-- Disembodied digital environments that replace face-to-face client interactions
-- Tools that generate survey questions without requiring researchers to engage in the cognitive process of question formulation
-- Platforms that provide automated insights without requiring interpretation skills
+## AI-Induced Examples
+- Healthcare AI systems automating diagnostic reasoning, leading to diminished clinical judgment
+- Social media platforms fracturing affordance space into disconnected fields, causing alienation
+- AI personal assistants offloading life-planning activities, reducing practical wisdom development
+- Automated writing tools replacing critical thinking and creative composition processes
 
-## Impact on Skills Development
-As documented in [[ferdman-2026-ai-deskilling-structural-problem]], capacity-hostile environments lead to:
-- Reduced development of [[agential-control]] over professional capacities
-- Impoverished [[habituation-process]] due to lack of meaningful practice
-- Diminished [[intersubjectivity-in-skilling]] as AI replaces human mentorship
-- Weakened [[embodiment-in-skilling]] when interactions become disembodied
-- Ultimately resulting in capacity deskilling that undermines professional expertise
+## Affordance Analysis Framework
+Ferdman identifies three key axes for analyzing capacity-hostile environments in relation to AI:
 
-## Contrast with
-- [[capacity-conducive-environments]]: Environments that actively encourage capacity development
-- [[narrow-field-of-affordances]]: The specific mechanism through which capacity-hostile environments operate
+### 1. AI Automation and Affordance Field
+When automation replaces routine tasks, it deprives users of opportunities to 'practice their judgment and strengthen their cognitive musculature' (Lee et al. 2025). Users become 'atrophied and unprepared when exceptions arise.'
 
-## Related Research
-- [[ferdman-2026-ai-deskilling-structural-problem]]: Foundational analysis of capacity-hostile environments
-- [[ai-deskilling-structural-problem]]: The broader phenomenon of AI-induced capacity deskilling
-- [[human-operating-model-gap]]: The growing disparity between AI capabilities and human systems
+### 2. Embodied Habituation
+Environments restricting embodied interaction limit opportunities to develop social and moral capacities. Disembodied interactions require 'more discipline for a diminished experience' of meaningful relationships (Grasso 2025).
+
+### 3. Intersubjective Habituation
+Reduced human interaction undermines the shared understanding dimension of skill development. Without 'shared valuing' of capacities through relationships, individuals cannot learn to value mastery levels of capacities.
+
+## Market Research Implications
+- AI tools automating data analysis create capacity-hostile environments for junior researchers by removing foundational learning experiences
+- Over-automation of respondent interaction undermines empathy and interpersonal skill development
+- Organizations should evaluate AI implementations based on whether they preserve sufficient affordances for capacity development
+- Research designs should maintain opportunities for embodied interaction with respondents
+
+## Related Concepts
+- [[capacity-conducive-environments]]
+- [[narrow-field-of-affordances]]
+- [[ai-deskilling-structural-problem]]
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[agential-control]]
 
 ## Update Log
-2026-07-03: Initial creation
-2026-07-20: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific examples from market research context
+2026-07-20: Expanded definition with Ferdman's three-axis analysis framework, specific AI examples, and market research implications.

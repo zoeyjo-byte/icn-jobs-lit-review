@@ -1,52 +1,61 @@
 # [[epistemic-capacities]]
 
 ## Definition
-The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing rather than merely instrumental.
 
-## Key Components
+## Two Core Components
 
 ### Theoretical Rationality
 - Thinking, considering reasons to believe
-- Forming beliefs based on evidence
-- Contemplating complex ideas and concepts
-- Developing coherent knowledge structures
+- Forming beliefs, contemplating
+- Knowledge acquisition and evaluation
+- Critical analysis of information sources
+- Essential for research design and data interpretation
 
 ### Practical Rationality (Phronesis)
 - Doing the right thing in the right way for the right reason
-- Knowing effective means to one's ends
-- Possessing accurate understanding of situations and circumstances
-- Having discernment: correct understanding of how good and bad apply in particular circumstances
-- Being an effective and savvy agent in the real world
+- Knowing effective means to ends
+- Accurate understanding of situations and circumstances
+- Discernment in assessing testimony of others
+- Critical for research ethics and methodological choices
 
-## Importance in Market Research
-Epistemic capacities are critical for:
-- Critical analysis of complex data sets
-- Interpreting ambiguous research findings
-- Developing sound research methodologies
-- Making ethical judgments about research practices
-- Navigating uncertainty in emerging markets
+## Development Process
+Epistemic capacities develop through:
+- Intersubjective habituation with mentors
+- Embodied interaction with research subjects
+- Agential control over knowledge production
+- Encountering and learning from failures
+- Shared valuing of truth-seeking practices
 
-## Threats from AI Systems
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI can undermine epistemic capacities by:
-- Automating data analysis without requiring researchers to develop analytical judgment
-- Providing ready-made insights that reduce need for independent interpretation
-- Creating environments where researchers respond to AI outputs rather than initiating analysis
-- Reducing opportunities to develop practical wisdom through real-world experience
+## AI Impact Analysis
+AI systems can undermine epistemic capacities by:
+- Automating data analysis processes that remove researcher initiation
+- Providing single 'correct' interpretations that eliminate critical evaluation
+- Reducing opportunities for theoretical reasoning through over-automation
+- Undermining practical wisdom development through plan-following
+- Creating environments where researchers respond to AI outputs rather than initiating
 
-## Preserving Epistemic Capacities
-Strategies to maintain epistemic capacities in AI environments:
-- Design AI tools that provide data rather than complete interpretations
-- Create opportunities for researchers to develop independent analytical judgment
-- Implement workflows that require human adjustment of AI-generated insights
-- Balance AI assistance with opportunities for independent critical thinking
-- Maintain critical points where human interpretation is required
+## Market Research Implications
+- Research organizations must preserve opportunities for epistemic capacity development
+- AI tools should augment rather than replace critical thinking processes
+- Training programs should emphasize theoretical and practical rationality
+- Junior researchers need opportunities to initiate research design
+- Organizations should avoid implementations where AI determines research conclusions
+
+## Practical Wisdom in Research
+Phronesis is particularly critical for researchers:
+- Knowing effective means to research goals
+- Understanding specific research contexts and circumstances
+- Discerning quality of data sources and respondent feedback
+- Making ethical judgments in complex research situations
+- Developing accurate interpretations of ambiguous findings
 
 ## Related Concepts
-- [[practical-wisdom]]: Competent exercise of practical rationality
-- [[agential-control]]: Ability to adjust execution of analytical activities
-- [[human-capacities]]: Broader category of capacities constitutive of human flourishing
-- [[ai-deskilling-structural-problem]]: Phenomenon where AI systems undermine capacities
+- [[theoretical-rationality]]
+- [[practical-rationality]]
+- [[phronesis]]
+- [[human-capacities]]
+- [[ai-deskilling-structural-problem]]
 
 ## Update Log
-2026-07-18: Initial creation
-2026-07-19: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific preservation strategies for market research context
+2026-07-20: Added detailed framework of epistemic capacities from Ferdman (2026) paper, including practical wisdom applications in market research.

@@ -44,3 +44,4 @@ Chronological record of every ingest operation.
 2026-07-29: Ingested s00146-025-02686-z.txt. Created 0, updated 12.
 2026-07-30: Ingested s00146-025-02686-z.txt. Updated 5 wiki pages with detailed analysis from Ferdman (2026) paper on AI deskilling as a structural problem, including comprehensive updates to [[ferdman-2026-ai-deskilling-structural-problem]], [[capacity-hostile-environments]], [[agential-control]], [[habituation-process]], and [[artificial-personal-assistants]]. Added market research implications, structural mechanisms, and cross-references to related concepts.
 2026-07-31: Ingested s00146-025-02686-z.txt (Ferdman 2026 AI Deskilling Study). Created 1, updated 14.
+2026-08-01: Ingested s00146-025-02686-z.txt. Updated 16 concept pages and 1 study page with detailed analysis from Ferdman's AI deskilling research, including capacity-hostile environments framework, human capacities taxonomy, and implications for market research industry.

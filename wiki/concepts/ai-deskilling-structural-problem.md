@@ -3,42 +3,58 @@
 ## Definition
 The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. This should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue.
 
-## Key Characteristics
-- **Systemic nature**: Results from environmental conditions rather than individual failings
-- **Capacity impoverishment**: Leads to diminished human capacities through restricted development opportunities
-- **Structural solution requirement**: Cannot be addressed through individual willpower alone
-- **Affordance-based mechanism**: Operates through creating narrow fields of affordances
-- **Value devaluation**: When capacities are not properly developed, their value is not recognized
+## Core Argument
+Ferdman challenges the individual responsibility framing of deskilling by demonstrating:
+- Deskilling results from structural conditions in socio-technical environments
+- Capacity cultivation depends on environmental affordances
+- AI systems can create capacity-hostile environments through design
+- Expecting individuals to 'will themselves' to resist deskilling is unrealistic
+- Societal solutions are required to foster capacity-conducive environments
 
-## Evidence in Market Research
-Documented impacts include:
-- The [[entry-level-squeeze]] phenomenon where foundational tasks are automated
-- Decline in critical thinking skills among researchers over-reliant on AI analysis tools
-- Reduced development of client relationship skills due to disembodied interactions
-- Diminished ethical sensitivity when moral reasoning is offloaded to AI systems
+## Structural vs Individual Framing
+| **Individual Responsibility Approach** | **Structural Approach** |
+|--------------------------------------|--------------------------|
+| Focuses on how agents ought to engage with AI | Asks what socio-technical environments best cultivate personhood |
+| Expects persons to be 'virtuous superheroes' | Recognizes environments shape capacity development |
+| Blames individuals for capacity loss | Identifies systemic conditions causing deskilling |
+| Ignores environmental constraints | Analyzes affordance fields created by AI systems |
 
-## Contrast with Individual Responsibility Approach
-The structural perspective differs from individual responsibility approaches by:
-- Focusing on environmental design rather than personal willpower
-- Recognizing that agents cannot be expected to be "virtuous superheroes"
-- Highlighting the need for capacity-conducive environments
-- Addressing the intersubjective and embodied requirements for skill development
-- Providing societal rather than individual solutions
+## Key Structural Mechanisms
 
-## Implications for Organizations
-Market research organizations should:
-- Evaluate AI applications based on their conduciveness to capacity cultivation
-- Design workflows that preserve opportunities for skill development
-- Maintain mentoring relationships that support intersubjective learning
-- Balance AI assistance with embodied interaction opportunities
-- Recognize that deskilling is a structural problem requiring organizational solutions
+### Narrow Field of Affordances
+AI systems can create environments with limited action possibilities that:
+- Restrict opportunities for capacity development
+- Afford only shallow skilling in capacities
+- Discourage users from seeking alternative growth avenues
+- Systematically shrink opportunities for embodied interaction
+
+### Automation of Habituation Process
+Automating routine tasks deprives users of:
+- Opportunities to 'practice judgment and strengthen cognitive musculature'
+- Necessary feedback for long-term memory knowledge retrieval
+- Habituation process required for proper capacity development
+- Experiences of disappointment and failure essential for growth
+
+### Disembodiment of Interaction
+AI systems often encourage:
+- Determinate, separate, repeatable tasks rather than integrated skill development
+- Reduced opportunities for embodied, intersubjective habituation
+- Diminished shared valuing of capacities through human relationships
+- Alienation rather than enriched cognitive and bodily skills
+
+## Market Research Implications
+- AI adoption strategies must consider structural impact on researcher capacities
+- Organizations should evaluate AI tools based on conduciveness to capacity cultivation
+- Training programs need to preserve opportunities for embodied learning
+- Research designs should maintain human elements necessary for capacity development
+- Industry standards should promote capacity-conducive AI implementations
 
 ## Related Concepts
-- [[capacity-hostile-environments]]: Environments that restrict capacity development
-- [[human-operating-model-gap]]: Growing disparity between AI capabilities and human systems
-- [[ai-adoption-methodological-innovation]]: Advances in measuring AI adoption impacts
-- [[ferdman-2026-ai-deskilling-structural-problem]]: Foundational research on this phenomenon
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[structural-deskilling]]
+- [[affordance-shrinkage]]
+- [[ai-adoption-impact]]
 
 ## Update Log
-2026-07-03: Initial creation
-2026-07-19: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific implications for market research organizations
+2026-07-20: Added comprehensive structural analysis framework from Ferdman (2026) paper, including comparison table and key structural mechanisms.

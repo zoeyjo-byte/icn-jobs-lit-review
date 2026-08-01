@@ -7,51 +7,56 @@ The distinction between actively creating plans through self-deliberation (requi
 
 ### Plan-Forming
 - Involves self-deliberation on values and goals
-- Requires exercising theoretical and practical rationality
-- Involves settling function (deciding between options)
-- Requires coordination function (organizing different plans)
-- Necessitates agential control over initiating activities
-- Allows for responding to unexpected events and surprises
-- Essential for developing practical wisdom
+- Requires exercising settling function (deciding between options)
+- Requires exercising coordination function (organizing different plans)
+- Involves taking responsibility for plan outcomes
+- Enables learning from plan failures
+- Requires full agential control over initiating planning activity
 
 ### Plan-Following
-- Involves executing pre-determined plans
-- More habitual, triggered by environmental cues
-- Limited agential control over initiating activities
-- Reduced opportunity for self-criticism and improvement
-- Less development of practical wisdom
-- May lead to diminished sense of personal competence
+- Involves responding to triggers in the environment
+- Focuses on executing predetermined steps
+- Lacks responsibility for plan creation
+- Limits learning opportunities from plan failures
+- More habitual than skillful
+- Reduces agential control over planning process
 
-## Importance in Market Research
-This distinction is critical for:
-- Research design where self-deliberation on methodology is essential
-- Client engagement requiring adaptation to unexpected findings
-- Ethical decision-making that cannot be fully predetermined
-- Developing practical wisdom in interpreting complex data
-- Maintaining critical thinking when using AI assistance tools
+## Capacity Development Impact
+According to Ferdman's analysis:
+- Plan-forming develops epistemic capacities through self-deliberation
+- Plan-forming cultivates practical wisdom through real-world experience
+- Plan-forming requires and develops volitional capacity
+- Plan-following provides shallower exercise of capacities
+- Over-reliance on plan-following undermines capacity development
 
-## Threats from AI Systems
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI can encourage plan-following by:
-- Providing complete research plans without requiring user initiation
-- Creating environments where users respond to AI outputs rather than initiating activities
-- Reducing opportunities for practitioners to develop practical wisdom
-- Undermining the habituation process necessary for plan-forming
-- Creating capacity-hostile environments through narrow fields of affordances
+## AI Personal Assistants Case Study
+APAs often encourage plan-following behavior:
+- Users ask APA to help form plans for soulmates, careers, or daily schedules
+- APA proposes plan and helps user refine it based on preferences
+- User then follows the APA-generated plan
+- In this sequence, user doesn't initiate settling or coordination functions
+- Capacity to will is absent because user responds to APA output trigger
 
-## Preserving Plan-Forming Capabilities
-Strategies to maintain plan-forming capabilities in AI environments:
-- Design AI tools that provide suggestions rather than complete plans
-- Create opportunities for practitioners to initiate key research activities
-- Implement workflows that require human adjustment of AI-generated outputs
-- Balance AI assistance with opportunities for independent decision-making
-- Maintain critical points where human self-deliberation is required
+## Market Research Implications
+- Research design should preserve opportunities for plan-forming
+- AI tools should augment rather than replace research planning
+- Junior researchers need plan-forming opportunities for capacity development
+- Organizations should avoid implementations where AI generates complete research plans
+- Training should emphasize self-deliberation in research design
+
+## Structural Importance
+The distinction reveals how AI can create capacity-hostile environments:
+- When AI systems generate complete plans, they narrow affordance field
+- Users become habituated to responding to AI outputs rather than initiating
+- Practical wisdom development is undermined by lack of real-world experience
+- Responsibility shifting occurs when APA-generated plans fail
 
 ## Related Concepts
-- [[agential-control]]: Ability to adjust execution of actions during performance
-- [[practical-wisdom]]: Competent exercise of practical rationality
-- [[artificial-personal-assistants]]: AI systems that may encourage plan-following
-- [[human-operating-model-gap]]: Growing disparity between AI capabilities and human systems
+- [[agential-control]]
+- [[practical-wisdom]]
+- [[ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[artificial-personal-assistants]]
 
 ## Update Log
-2026-07-17: Initial creation
-2026-07-20: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific preservation strategies for market research context
+2026-07-20: Added detailed analysis of plan-forming vs plan-following distinction from Ferdman (2026) paper, including AI personal assistants case study and market research implications.

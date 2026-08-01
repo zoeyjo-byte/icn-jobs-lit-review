@@ -1,43 +1,58 @@
 # [[embodiment-in-skilling]]
 
 ## Definition
-The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as established in [[ferdman-2026-ai-deskilling-structural-problem]].
 
 ## Key Characteristics
-- **Participatory sense-making**: Embodied interaction constitutes an essential part of the cognitive process
-- **Moral recognition**: Spontaneous recognition of others as moral agents through embodied interaction
-- **Shared history**: Creation of shared experiences necessary for shared valuing of skills
-- **Return of gaze**: Critical element in embodied interaction for recognizing others as moral agents
-- **Diminished experience**: Technologically mediated interactions provide diminished experience compared to embodied interaction
+- Involves 'participatory sense-making' constitutive of social cognition
+- Enables recognition of others as embodied beings similar to ourselves
+- Creates 'embodied understanding' through voice and gaze
+- Facilitates spontaneity in recognizing others as moral agents
+- Critical for developing moral attention and relational capacities
 
-## Importance in Market Research
-Embodiment is critical for developing:
-- Client relationship skills through face-to-face interaction
-- Interviewing techniques that require reading nonverbal cues
-- Ethical judgment through embodied moral attention
-- Team collaboration that benefits from shared physical presence
+## Embodied Interaction Benefits
+According to the Enactive Approach in cognition:
+- Meaning is generated in the interplay between interaction process and participants
+- Embodied interaction constitutes an essential part of the cognitive process
+- Return of the gaze enables spontaneous recognition of others as moral agents
+- Physical presence supports development of shared valuing
 
-## Threats from AI Systems
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI can undermine embodiment by:
-- Replacing face-to-face client interactions with digital communication
-- Reducing opportunities for embodied moral attention in research practice
-- Creating disembodied environments that require more mental effort to attribute moral agency
-- Diminishing the shared history that supports shared valuing of research skills
+## Disembodiment Challenges
+Without embodied interaction:
+- Recognizing others as moral agents requires more mental effort
+- Forming meaningful friendships becomes harder (Grasso 2025)
+- Technologically mediated virtue friendships require 'more discipline for a diminished experience'
+- Moral attention development is impaired
+- Shared valuing of capacities is difficult to achieve
 
-## Preserving Embodiment in AI Environments
-Strategies to maintain embodied skill development:
-- Design research workflows that preserve critical face-to-face interactions
-- Create hybrid environments that balance digital and embodied interaction
-- Implement practices that encourage embodied team collaboration
-- Maintain physical spaces for client engagement and team development
-- Balance AI assistance with opportunities for embodied practice
+## AI Impact Analysis
+AI systems often create disembodied environments that:
+- Restrict opportunities for embodied interaction
+- Fracture affordance space into disconnected fields
+- Encourage determinate, separate, repeatable tasks
+- Ultimately lead to alienation rather than skill development
+- Create narrow fields of affordances for capacity cultivation
+
+## Market Research Implications
+- In-person respondent interaction is critical for developing researcher capacities
+- Fully automated research methods undermine embodied learning opportunities
+- Organizations should preserve opportunities for embodied collaboration
+- AI tools should complement rather than replace embodied research practices
+- Training programs should emphasize embodied interaction components
+
+## Structural Importance
+The structural dimension highlights that:
+- Disembodied environments do not provide right affordances for social capacity development
+- Users cannot be expected to 'will themselves' into overcoming disembodiment challenges
+- Capacity-conducive environments must actively encourage embodied interaction
+- Public goods like community centers support embodied interaction necessary for flourishing
 
 ## Related Concepts
-- [[intersubjectivity-in-skilling]]: Shared understanding dimension of skill development
-- [[social-capacities]]: Human capacities related to forming meaningful relationships
-- [[capacity-hostile-environments]]: Environments that restrict embodied interaction
-- [[human-operating-model-gap]]: Growing disparity between AI capabilities and human systems
+- [[intersubjectivity-in-skilling]]
+- [[habituation-process]]
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[ai-deskilling-structural-problem]]
 
 ## Update Log
-2026-07-03: Initial creation
-2026-07-19: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific preservation strategies for market research context
+2026-07-20: Expanded definition with Ferdman's analysis of embodied interaction's role in capacity development, including Enactive Approach insights and market research implications.

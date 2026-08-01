@@ -1,44 +1,53 @@
 # [[creative-capacities]]
 
 ## Definition
-The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require specific conditions for development.
 
 ## Key Characteristics
-- Making unfamiliar combinations of familiar concepts
-- Transforming conceptual spaces without relying on luck or mechanical procedures
-- Responding to novel situations, surprises, and unexpected events
-- Developing innovative approaches to complex problems
-- Generating original insights from ambiguous data
+- Making unfamiliar combinations of familiar ideas
+- Transforming conceptual spaces without relying on luck
+- Avoiding mechanical procedures in favor of genuine innovation
+- Developing through embodied, intersubjective habituation
+- Requiring agential control over the creative process
 
-## Importance in Market Research
-Creative capacities are critical for:
-- Developing innovative research methodologies
-- Interpreting ambiguous findings in novel ways
-- Creating compelling research narratives
-- Adapting research approaches to unexpected challenges
-- Generating actionable insights from complex data
+## Development Process
+Creative capacities develop through:
+- Opportunities for plan-forming rather than plan-following
+- Encountering and responding to novel situations and surprises
+- Embodied interaction that provides rich sensory input
+- Intersubjective feedback from mentors and peers
+- Agential control over initiating creative activities
+- Overcoming disappointment and failure in creative attempts
 
-## Threats from AI Systems
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI can undermine creative capacities by:
-- Providing ready-made research approaches that reduce need for innovation
-- Automating insight generation without requiring creative interpretation
-- Creating environments where researchers follow AI suggestions rather than developing original ideas
-- Reducing opportunities to respond to unexpected research challenges
+## AI Impact Analysis
+AI systems can undermine creative capacities by:
+- Providing ready-made solutions that eliminate need for novel thinking
+- Creating environments where users respond to AI outputs rather than initiating
+- Reducing opportunities for encountering and responding to surprises
+- Automating routine tasks that provide foundation for creative leaps
+- Narrowing the field of affordances for creative exploration
 
-## Preserving Creative Capacities
-Strategies to maintain creative capacities in AI environments:
-- Design AI tools that provide data rather than complete insights
-- Create opportunities for researchers to develop original interpretations
-- Implement workflows that require human adjustment of AI-generated suggestions
-- Balance AI assistance with opportunities for independent creative thinking
-- Maintain critical points where human creativity is required
+## Market Research Implications
+- Research organizations must preserve opportunities for creative capacity development
+- AI tools should augment rather than replace creative insight generation
+- Training programs should emphasize creative problem-solving
+- Junior researchers need opportunities to develop research designs from scratch
+- Organizations should avoid implementations where AI determines research directions
+
+## Creative Capacity in Research
+Critical applications in market research include:
+- Developing novel research methodologies for complex problems
+- Making unexpected connections between disparate data points
+- Transforming conceptual frameworks to generate new insights
+- Adapting research approaches to unexpected findings
+- Creating innovative presentation formats for research findings
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]: Distinction relevant to creative research design
-- [[human-capacities]]: Broader category of capacities constitutive of human flourishing
-- [[ai-deskilling-structural-problem]]: Phenomenon where AI systems undermine capacities
-- [[value-chain-shift]]: Fundamental repositioning of where value is created in insights organizations
+- [[innovation-framework]]
+- [[creative-process]]
+- [[human-capacities]]
+- [[ai-deskilling-structural-problem]]
+- [[plan-forming-vs-plan-following]]
 
 ## Update Log
-2026-07-18: Initial creation
-2026-07-19: Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]], including specific preservation strategies for market research context
+2026-07-20: Added detailed framework of creative capacities from Ferdman (2026) paper, including development process and market research applications.
