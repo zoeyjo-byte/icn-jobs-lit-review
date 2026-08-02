@@ -3,44 +3,43 @@
 ## Definition
 The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-## Key Characteristics
-- Represents flexible links between thought and action that continue evolving even after expertise is achieved
-- Involves the ability to tune and attune agency through development
-- Distinguishes skilled activity (agent has full control over initiating) from habitual activity (triggered by environment)
-- Essential for plan-forming rather than plan-following behavior
+## Philosophical Framework
+According to Ferdman's analysis of skill philosophy:
+- To cultivate a skill is to develop flexible links between thought and action
+- As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning
+- Skills are distinct from habits because skills require control over initiating the task, while habits are elicited in response to environmental triggers
 
-## Relation to Capacity Development
-According to Ferdman's analysis:
-- Agential control is necessary for initiating the habituation process
-- Without control over task initiation, users cannot develop full mastery of capacities
-- AI systems that automate task initiation undermine agential control
-- Plan-forming (requiring agential control) vs. plan-following (more habitual) represents a critical distinction
+## Plan-Forming vs. Plan-Following
+Ferdman applies this concept to life planning and decision-making:
+- **Plan-forming**: Requires exercising agential control over both settling function (deciding between options) and coordination function (organizing different types of plans)
+- **Plan-following**: Involves responding to triggers in the environment without initiating the planning process
 
-## AI Impact Examples
-- When AI personal assistants generate complete research plans, researchers lose agential control over research design
-- Automated survey tools that select questions without researcher input diminish control over data collection
-- Report generation AI that produces final outputs without researcher initiation undermines control over knowledge production
+When users rely on Artificial Personal Assistants (APAs) to form their life plans, they may lose opportunities to exercise agential control, becoming plan-followers rather than plan-formers.
 
-## Market Research Implications
-- Junior researchers need opportunities to exercise agential control over research processes
-- AI tools should preserve researcher control over initiating key research activities
-- Organizations should avoid implementations where AI triggers researcher responses rather than researchers initiating actions
-- Training programs should emphasize developing agential control when using AI tools
+## Importance for Capacity Development
+Agential control is critical for human capacity development because:
+1. It enables self-criticism and improvement when plans fail
+2. It requires exercising epistemic, social, moral and creative capacities
+3. It develops practical wisdom through real-world experience
+4. It maintains responsibility for outcomes, fostering growth
 
-## Development Framework
-Agential control develops through:
-1. Novice stage: Rule-following with significant external guidance
-2. Advanced beginner: Increased sensitivity to contextual variations
-3. Competent stage: More sophisticated engagement with tasks
-4. Proficient stage: Rapid, fluid, involved engagement
-5. Expert stage: Continued evolution of thought-action links even after expertise
+## Market Research Applications
+In market research roles, agential control is essential for:
+- Developing research questions that address genuine business needs
+- Adapting research methodologies to unexpected findings
+- Interpreting data with contextual understanding
+- Making judgment calls when automated tools provide conflicting results
+- Creating research plans that integrate multiple data sources and perspectives
+
+## AI Impact Considerations
+AI tools can either support or undermine agential control in research:
+- **Supportive**: AI as a tool that enhances researchers' ability to exercise control (e.g., providing additional data perspectives)
+- **Undermining**: AI systems that remove opportunities for researchers to initiate planning or adjust execution (e.g., fully automated research workflows)
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]
-- [[habituation-process]]
-- [[ai-deskilling-structural-problem]]
-- [[narrow-field-of-affordances]]
-- [[human-capacities]]
+- [[plan-forming-vs-plan-following]]: The critical distinction with implications for capacity development
+- [[habituation-process]]: How skills develop through practice requiring agential control
+- [[capacity-hostile-environments]]: Environments that undermine opportunities for agential control
 
-## Update Log
-2026-07-20: Added detailed explanation of agential control from Ferdman (2026) paper, including development framework and market research implications.
+## Update History
+2026-07-21: Expanded with detailed explanation of agential control from [[ferdman-2026-ai-deskilling-structural-problem]], including the plan-forming vs. plan-following distinction and applications to market research roles.

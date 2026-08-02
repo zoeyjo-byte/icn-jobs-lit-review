@@ -1,34 +1,37 @@
-# AI & Society
+# [[ai-society]]
 
-**First Observed**: 2026-07-16
+## Overview
+Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. Provides a venue for critical reflection on AI's societal impacts.
 
-## Description
+## Key Publications
+- [[ferdman-2026-ai-deskilling-structural-problem]] (2026): Avigail Ferdman's landmark paper introducing the concepts of capacity-hostile and capacity-conducive environments, analyzing how AI systems can undermine human capacities through structural conditions rather than individual failings.
 
-Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. Provides a venue for critical reflection on AI's societal impacts.
+## Scope and Focus
+AI & Society publishes interdisciplinary research examining:
+- Ethical implications of AI development and deployment
+- Social impacts of automation and algorithmic decision-making
+- Philosophical questions about human-AI relationships
+- Policy considerations for responsible AI governance
+- Critical analyses of AI's impact on human capacities and flourishing
 
-## Key Characteristics
+## Relevance to Market Research
+The journal's focus provides important frameworks for understanding:
+- How AI adoption in market research may impact researcher capacities
+- Ethical considerations in AI-driven insights generation
+- Structural conditions that support or undermine capacity development in research roles
+- The balance between AI automation and human expertise in research workflows
 
-- **Publisher**: Springer Nature
-- **Focus Areas**: Ethics of AI, social implications of digital technologies, philosophical examinations of human-AI interaction
-- **Significance**: Serves as a primary publication venue for structural analyses of AI's impact on human capacities and flourishing
-- **Relevance to MRX**: Offers critical perspectives on how AI adoption affects human capacities essential to market research work, including epistemic, social, and creative capacities
+## Key Themes for Market Research
+1. **Capacity development**: How research environments can foster or hinder the development of epistemic, social, creative, and volitional capacities
+2. **Structural deskilling**: How AI systems may create capacity-hostile environments in research organizations
+3. **Embodied research**: The importance of physical presence and interaction in developing research skills
+4. **Intersubjective learning**: How mentorship and shared valuing transmit research expertise
+5. **Agential control**: Maintaining researcher autonomy in AI-assisted research workflows
 
-## Notable Contributions to Skills Gap Research
+## Related Concepts
+- See [[ferdman-2026-ai-deskilling-structural-problem]] for the journal's most relevant publication to market research capacity development
+- See [[capacity-hostile-environments]] for analysis of environments that restrict capacity development
+- See [[human-capacities]] for the core abilities constitutive of human flourishing in research contexts
 
-The journal has published several influential papers examining AI's impact on human capacities relevant to market research:
-- Ferdman's analysis of capacity-hostile environments and deskilling as a structural problem
-- Studies on how AI systems affect critical thinking, moral reasoning, and creative capacities
-- Research on the philosophical foundations of human-AI collaboration
-
-## Connection to Structural Deskilling Analysis
-
-AI & Society provides the theoretical framework necessary to move beyond individual responsibility narratives about AI adoption. As Ferdman (2026) demonstrates in her paper published in this journal, deskilling should be understood as a structural problem requiring societal solutions rather than merely an individual responsibility issue.
-
-The journal's focus on the philosophical and ethical dimensions of AI makes it particularly valuable for understanding the deeper implications of AI adoption in market research, where human capacities for interpretation, relationship-building, and creative insight remain essential despite increasing AI integration.
-
-## Relationship to Other Entities
-
-- Closely associated with [[ferdman-2026-ai-deskilling-structural-problem]]
-- Complements research from [[pwc]] on AI's impact on job markets
-- Provides philosophical foundation for understanding the [[human-operating-model-gap]]
-- Offers critical perspective on AI adoption that complements empirical studies like the [[ramp-revelio-2026-ai-jobs-impact-study]]
+## Update History
+2026-07-21: Added information about [[ferdman-2026-ai-deskilling-structural-problem]] as a significant publication in the journal with direct relevance to AI's impact on human capacities in professional contexts.
