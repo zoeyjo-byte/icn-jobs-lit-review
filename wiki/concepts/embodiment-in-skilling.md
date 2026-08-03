@@ -1,58 +1,53 @@
-# [[embodiment-in-skilling]]
+# Embodiment in Skilling
+
+First observed: 2026-07-03
+Last updated: 2026-07-21
 
 ## Definition
-The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as established in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
-- Involves 'participatory sense-making' constitutive of social cognition
-- Enables recognition of others as embodied beings similar to ourselves
-- Creates 'embodied understanding' through voice and gaze
-- Facilitates spontaneity in recognizing others as moral agents
-- Critical for developing moral attention and relational capacities
+Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, with significant implications for AI's impact on capacity development.
 
-## Embodied Interaction Benefits
-According to the Enactive Approach in cognition:
-- Meaning is generated in the interplay between interaction process and participants
-- Embodied interaction constitutes an essential part of the cognitive process
-- Return of the gaze enables spontaneous recognition of others as moral agents
-- Physical presence supports development of shared valuing
+## Characteristics
 
-## Disembodiment Challenges
-Without embodied interaction:
-- Recognizing others as moral agents requires more mental effort
-- Forming meaningful friendships becomes harder (Grasso 2025)
-- Technologically mediated virtue friendships require 'more discipline for a diminished experience'
-- Moral attention development is impaired
-- Shared valuing of capacities is difficult to achieve
+According to Ferdman's analysis, embodiment in skilling has several critical features:
 
-## AI Impact Analysis
-AI systems often create disembodied environments that:
-- Restrict opportunities for embodied interaction
-- Fracture affordance space into disconnected fields
-- Encourage determinate, separate, repeatable tasks
-- Ultimately lead to alienation rather than skill development
-- Create narrow fields of affordances for capacity cultivation
+1. **Constitutive of social cognition**: "Embodied 'participatory sense-making' is constitutive of social cognition, for example in paying moral attention to the other."
 
-## Market Research Implications
-- In-person respondent interaction is critical for developing researcher capacities
-- Fully automated research methods undermine embodied learning opportunities
-- Organizations should preserve opportunities for embodied collaboration
-- AI tools should complement rather than replace embodied research practices
-- Training programs should emphasize embodied interaction components
+2. **Recognition of moral agency**: "Without being embodied in a social interaction... we would be hard-pressed to recognize them spontaneously as moral agents."
 
-## Structural Importance
-The structural dimension highlights that:
-- Disembodied environments do not provide right affordances for social capacity development
-- Users cannot be expected to 'will themselves' into overcoming disembodiment challenges
-- Capacity-conducive environments must actively encourage embodied interaction
-- Public goods like community centers support embodied interaction necessary for flourishing
+3. **Spontaneity of recognition**: "The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction."
+
+4. **Shared experience foundation**: Embodied interaction creates "shared history and a participatory sense-making regarding both the product of the skill and the skill itself."
+
+## Examples in Market Research
+
+Several research practices demonstrate embodiment in skilling:
+
+- **Face-to-face interviewing**: The physical presence of researcher and participant enables nuanced understanding through embodied cues like gaze, posture, and vocal tone.
+
+- **Ethnographic observation**: Direct observation of behavior in natural settings requires physical presence to capture contextual meaning.
+
+- **Workshop facilitation**: In-person workshops create opportunities for embodied interaction that enhance group dynamics and insight generation.
+
+- **Client presentations**: Physical presence during presentations enables researchers to read audience reactions and adjust communication in real-time.
+
+## Contrast with Disembodied Interaction
+
+Embodiment in skilling should be contrasted with disembodied interaction. As Ferdman notes, "disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience." Similarly, disembodied research methods may undermine capacity development.
+
+## Implications for Skills Gap Research
+
+Understanding embodiment in skilling is critical for addressing the skills gap:
+
+- Explains why fully remote research methods might create [[capacity-hostile-environments]]
+- Highlights risks of AI tools that replace embodied interaction with disembodied interfaces
+- Identifies why the [[human-operating-model-gap]] requires attention to physical research environments
+- Suggests strategies for preserving embodied interaction opportunities in hybrid research models
 
 ## Related Concepts
-- [[intersubjectivity-in-skilling]]
-- [[habituation-process]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[ai-deskilling-structural-problem]]
 
-## Update Log
-2026-07-20: Expanded definition with Ferdman's analysis of embodied interaction's role in capacity development, including Enactive Approach insights and market research implications.
+See also: [[intersubjectivity-in-skilling]], [[habituation-process]], [[agential-control]], [[capacity-conducive-environments]], [[human-capacities]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

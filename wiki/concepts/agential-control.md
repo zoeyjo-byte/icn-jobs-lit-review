@@ -1,45 +1,53 @@
-# [[agential-control]]
+# Agential Control
+
+First observed: 2026-07-03
+Last updated: 2026-07-21
 
 ## Definition
-The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-## Philosophical Framework
-According to Ferdman's analysis of skill philosophy:
-- To cultivate a skill is to develop flexible links between thought and action
-- As agency develops, the balance between automaticity and control shifts through a process of tuning and attuning
-- Skills are distinct from habits because skills require control over initiating the task, while habits are elicited in response to environmental triggers
+Agential control is the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-## Plan-Forming vs. Plan-Following
-Ferdman applies this concept to life planning and decision-making:
-- **Plan-forming**: Requires exercising agential control over both settling function (deciding between options) and coordination function (organizing different types of plans)
-- **Plan-following**: Involves responding to triggers in the environment without initiating the planning process
+## Characteristics
 
-When users rely on Artificial Personal Assistants (APAs) to form their life plans, they may lose opportunities to exercise agential control, becoming plan-followers rather than plan-formers.
+According to Ferdman's analysis, agential control has several critical features:
 
-## Importance for Capacity Development
-Agential control is critical for human capacity development because:
-1. It enables self-criticism and improvement when plans fail
-2. It requires exercising epistemic, social, moral and creative capacities
-3. It develops practical wisdom through real-world experience
-4. It maintains responsibility for outcomes, fostering growth
+1. **Initiation control**: Skilled agents have full control over initiating activities, whereas habitual activities are triggered by something in the environment.
 
-## Market Research Applications
-In market research roles, agential control is essential for:
-- Developing research questions that address genuine business needs
-- Adapting research methodologies to unexpected findings
-- Interpreting data with contextual understanding
-- Making judgment calls when automated tools provide conflicting results
-- Creating research plans that integrate multiple data sources and perspectives
+2. **Adjustment capacity**: Skilled performance involves the ability to modify execution in response to changing circumstances during performance.
 
-## AI Impact Considerations
-AI tools can either support or undermine agential control in research:
-- **Supportive**: AI as a tool that enhances researchers' ability to exercise control (e.g., providing additional data perspectives)
-- **Undermining**: AI systems that remove opportunities for researchers to initiate planning or adjust execution (e.g., fully automated research workflows)
+3. **Developmental progression**: As agency develops, "the balance between automaticity and control shifts through a process of tuning and attuning," allowing for increasingly sophisticated performance.
+
+4. **Distinction from habits**: "Skills are therefore distinct from habits in an important respect: skills require control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers."
+
+## Examples in Market Research
+
+Several research practices demonstrate agential control:
+
+- **Research design adaptation**: When researchers modify their methodology in response to unexpected findings during fieldwork, exercising control over the research process.
+
+- **Ethical decision-making**: When researchers encounter ethical dilemmas and adjust their approach based on contextual understanding rather than following predetermined protocols.
+
+- **Creative problem-solving**: When researchers develop novel approaches to address research challenges that don't fit standard methodologies.
+
+- **Client consultation**: When researchers actively shape research questions through dialogue with clients rather than merely executing predetermined briefs.
+
+## Contrast with Habitual Action
+
+Agential control should be contrasted with habitual action, where "an agent who performs out of habit, in response to triggers in the environment, is less skilled compared to the agent who initiated the activity, who has full agential control over it." This distinction is critical for understanding how AI systems might undermine capacity development.
+
+## Implications for Skills Gap Research
+
+Understanding agential control is critical for addressing the skills gap:
+
+- Identifies a key mechanism through which [[capacity-hostile-environments]] undermine capacity development
+- Highlights the risk that AI tools create environments where researchers become "plan-followers" rather than [[plan-forming-vs-plan-following]]
+- Explains why automation of routine research tasks might erode researchers' ability to handle unexpected scenarios
+- Directly relates to the [[human-operating-model-gap]] between AI capabilities and human systems
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]: The critical distinction with implications for capacity development
-- [[habituation-process]]: How skills develop through practice requiring agential control
-- [[capacity-hostile-environments]]: Environments that undermine opportunities for agential control
 
-## Update History
-2026-07-21: Expanded with detailed explanation of agential control from [[ferdman-2026-ai-deskilling-structural-problem]], including the plan-forming vs. plan-following distinction and applications to market research roles.
+See also: [[plan-forming-vs-plan-following]], [[habituation-process]], [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[human-capacities]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

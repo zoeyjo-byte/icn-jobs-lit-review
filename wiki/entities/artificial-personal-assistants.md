@@ -1,53 +1,53 @@
-# [[artificial-personal-assistants]]
+# Artificial Personal Assistants
+
+First observed: 2026-07-03
+Last updated: 2026-07-21
 
 ## Definition
-AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
 
-## Key Features
-- Adapt to individual user's needs and tailor advice based on responses, habits and preferences
-- Available constantly as 'an always-on sounding board with whatever subject-matter expertise you need'
-- Can function as social companion, moral advisor, life coach and personal butler combined
-- Leverage AI capabilities like dynamic reasoning, real-time adaptability, and multi-scale operational coordination
+Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
 
-## Capacity Impact Analysis
-According to Ferdman's research, APAs can create capacity-hostile environments through:
+## Characteristics
 
-### Plan-Following vs Plan-Forming
-- APAs afford environments where users respond to AI-generated plans rather than initiating their own
-- This undermines **agential control** over the planning process
-- Users become habituated to responding to triggers (APA outputs) rather than exercising control
+According to Ferdman's analysis, APAs have several critical features:
 
-### Reduced Practical Wisdom Development
-- Practical wisdom requires 'being an effective and savvy agent in the real world, equipped with valuable life experience'
-- Constant reliance on APAs for life planning restricts real-world experience necessary for developing practical wisdom
-- APAs do not know 'to remove itself as the training wheels and resist being called upon to provide a model for every decision'
+1. **All-encompassing nature**: "APAs are a use-case of LLMs that can be integrated with other AI tools because LLMs are ultimately 'trained to do everything for everyone at every environment.'" This makes them not just calendar assistants but "social companion, moral advisor, life coach and personal butler, but all of them combined in one."
 
-### Diminished Intersubjective Habituation
-- APAs decrease opportunities for embodied, intersubjective interaction involved in life-planning
-- Preferring APA advice over human advice undermines shared experiences necessary for capacity development
-- Reduces opportunities for developing shared valuing of capacities through human relationships
+2. **Plan-following encouragement**: APAs afford the replacement of many activities involved in planning and executing plans, creating environments where users respond to APA outputs rather than exercising agential control.
 
-## Market Research Applications
-APAs are increasingly used in market research for:
-- Research design assistance
-- Data analysis planning
-- Report structuring
-- Respondent interaction scripting
-- Time management for researchers
+3. **Capacity-hostile potential**: When users become overly dependent on APAs, they may experience reduced opportunities for habituation of core human capacities.
 
-## Implications for Research Industry
-- Over-reliance on APAs could undermine development of critical thinking and practical wisdom among researchers
-- Organizations should implement APA use policies that preserve opportunities for plan-forming
-- Training should emphasize maintaining agential control when using APA tools
-- Balance between efficiency gains and capacity preservation needs careful evaluation
-- Research designs should maintain human elements necessary for capacity development
+4. **Convenience trap**: The constant availability and helpfulness of APAs may limit agents' ability to transition to developing capacities independently: "unlike a good human moral exemplar, the APA, by its purpose of giving advice, would not know to remove itself as the training wheels."
+
+## Examples in Market Research
+
+Several APA applications relate to market research:
+
+- **Research planning assistants**: Tools that help researchers plan studies, schedule interviews, and manage timelines
+
+- **Insight generation assistants**: Systems that help researchers interpret data and generate preliminary insights
+
+- **Client communication assistants**: Tools that help researchers draft client communications and reports
+
+- **Ethical decision assistants**: Systems that provide guidance on research ethics considerations
+
+## Contrast with Capacity-Conducive Tools
+
+APAs should be contrasted with capacity-conducive tools that preserve opportunities for capacity development. As Ferdman argues, the concern isn't with using APAs as "sophisticated calendar or occasional recommender system" but with over-reliance that undermines capacity development.
+
+## Implications for Skills Gap Research
+
+Understanding APAs is critical for addressing the skills gap:
+
+- Explains how AI tools might undermine researchers' capacity development through plan-following
+- Highlights why the [[human-operating-model-gap]] requires attention to APA design
+- Identifies risks of APAs that automate too many research planning activities
+- Suggests strategies for using APAs in ways that preserve capacity development opportunities
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]
-- [[agential-control]]
-- [[practical-wisdom]]
-- [[capacity-hostile-environments]]
-- [[ai-deskilling-structural-problem]]
 
-## Update Log
-2026-07-20: Added detailed analysis of how APAs create capacity-hostile environments based on Ferdman (2026) paper, including market research implications.
+See also: [[plan-forming-vs-plan-following]], [[capacity-hostile-environments]], [[agential-control]], [[ai-deskilling-structural-problem]], [[human-capacities]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

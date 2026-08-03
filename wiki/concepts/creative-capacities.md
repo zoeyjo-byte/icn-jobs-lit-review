@@ -1,53 +1,53 @@
-# [[creative-capacities]]
+# Creative Capacities
+
+First observed: 2026-07-18
+Last updated: 2026-07-21
 
 ## Definition
-The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require specific conditions for development.
 
-## Key Characteristics
-- Making unfamiliar combinations of familiar ideas
-- Transforming conceptual spaces without relying on luck
-- Avoiding mechanical procedures in favor of genuine innovation
-- Developing through embodied, intersubjective habituation
-- Requiring agential control over the creative process
+Creative capacities are the human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require habituation through practice rather than mechanical procedures.
 
-## Development Process
-Creative capacities develop through:
-- Opportunities for plan-forming rather than plan-following
-- Encountering and responding to novel situations and surprises
-- Embodied interaction that provides rich sensory input
-- Intersubjective feedback from mentors and peers
-- Agential control over initiating creative activities
-- Overcoming disappointment and failure in creative attempts
+## Characteristics
 
-## AI Impact Analysis
-AI systems can undermine creative capacities by:
-- Providing ready-made solutions that eliminate need for novel thinking
-- Creating environments where users respond to AI outputs rather than initiating
-- Reducing opportunities for encountering and responding to surprises
-- Automating routine tasks that provide foundation for creative leaps
-- Narrowing the field of affordances for creative exploration
+According to Ferdman's analysis, creative capacities have several critical features:
 
-## Market Research Implications
-- Research organizations must preserve opportunities for creative capacity development
-- AI tools should augment rather than replace creative insight generation
-- Training programs should emphasize creative problem-solving
-- Junior researchers need opportunities to develop research designs from scratch
-- Organizations should avoid implementations where AI determines research directions
+1. **Novel combination**: Involves making unfamiliar combinations of familiar ideas rather than relying on luck or accidents.
 
-## Creative Capacity in Research
-Critical applications in market research include:
-- Developing novel research methodologies for complex problems
-- Making unexpected connections between disparate data points
-- Transforming conceptual frameworks to generate new insights
-- Adapting research approaches to unexpected findings
-- Creating innovative presentation formats for research findings
+2. **Conceptual transformation**: Enables transformation of conceptual spaces, allowing for innovation beyond incremental improvement.
+
+3. **Non-mechanical nature**: Cannot be reduced to mechanical procedures: "without relying merely on luck, accidents, or mechanical procedures."
+
+4. **Habituation requirement**: Develops through a gradual process of practice, encountering and overcoming disappointment, with intersubjective and embodied components.
+
+## Examples in Market Research
+
+Several research practices engage creative capacities:
+
+- **Methodological innovation**: Developing novel research approaches for unique challenges that don't fit standard methodologies
+
+- **Insight generation**: Making unexpected connections between data points to generate novel interpretations
+
+- **Problem reframing**: Transforming how research questions are conceptualized to reveal new avenues for exploration
+
+- **Visualization design**: Creating innovative ways to represent complex data that reveal new patterns and meanings
+
+## Contrast with AI-Generated Creativity
+
+Creative capacities should be contrasted with AI-generated outputs. While AI can produce novel combinations, human creativity involves understanding the value and meaning of those combinations within a broader context - a capacity that requires habituation through practice.
+
+## Implications for Skills Gap Research
+
+Understanding creative capacities is critical for addressing the skills gap:
+
+- Explains why AI tools that automate insight generation might undermine researcher development
+- Highlights risks of the [[entry-level-squeeze]] where junior researchers lack opportunities to develop creative capacities
+- Identifies why the [[human-operating-model-gap]] requires attention to creative development
+- Suggests strategies for preserving creative capacity development in AI-augmented research
 
 ## Related Concepts
-- [[innovation-framework]]
-- [[creative-process]]
-- [[human-capacities]]
-- [[ai-deskilling-structural-problem]]
-- [[plan-forming-vs-plan-following]]
 
-## Update Log
-2026-07-20: Added detailed framework of creative capacities from Ferdman (2026) paper, including development process and market research applications.
+See also: [[human-capacities]], [[habituation-process]], [[capacity-hostile-environments]], [[ai-deskilling-structural-problem]], [[plan-forming-vs-plan-following]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

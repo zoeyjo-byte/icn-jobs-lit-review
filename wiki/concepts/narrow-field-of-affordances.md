@@ -1,61 +1,53 @@
-# [[narrow-field-of-affordances]]
+# Narrow Field of Affordances
+
+First observed: 2026-07-17
+Last updated: 2026-07-21
 
 ## Definition
-An environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
-- Limits the number of action possibilities available to agents
-- Restricts opportunities to engage in activities requiring human capacities
-- Creates conditions where users are discouraged from finding compensation
-- Often results from systematic, enduring, and deeply entrenched affordance shrinkage
-- May appear beneficial in efficiency but harmful for capacity development
+A narrow field of affordances is an environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Affordance Theory Foundation
-Drawing on Gibson's ecological psychology:
-- Affordances are action possibilities formed by agent-environment relationship
-- Not mere opportunities but invitations influencing agent behavior
-- Proper cultivation of capacities depends on environments affording relevant activities
-- Absence of invitation for activities means associated capacities won't be triggered
+## Characteristics
 
-## AI-Induced Narrowing Mechanisms
+According to Ferdman's analysis, narrow fields of affordances have several critical features:
 
-### Automation of Routine Tasks
-- Deprives users of 'routine opportunities to practice judgment and strengthen cognitive musculature'
-- Leaves users 'atrophied and unprepared when exceptions arise' (Lee et al. 2025)
-- Removes habituation process necessary for capacity development
+1. **Limited action possibilities**: Environments that restrict the range of possible actions available to agents.
 
-### Disembodied Interaction
-- Smartphones provide possibilities for disconnected, separate, repeatable tasks
-- Fractures affordance space into disconnected fields
-- Ultimately leads to alienation rather than enriched skills
-- Makes moral attention and relationship formation more difficult
+2. **Affordance shrinkage**: When the reduction in action possibilities is systematic, enduring and deeply entrenched, discouraging users from finding ways to compensate.
 
-### Algorithmic Guidance
-- Creates environments where users respond to AI outputs rather than initiating
-- Encourages plan-following rather than plan-forming behavior
-- Reduces opportunities for agential control over task initiation
-- Limits development of practical wisdom through real-world experience
+3. **Capacity restriction**: Narrow fields of affordances restrict opportunities for developing and exercising human capacities, particularly when they undermine the habituation process.
 
-## Market Research Examples
-- Fully automated survey tools that eliminate researcher input in question design
-- AI report generators that produce final outputs without researcher initiation
-- Respondent interaction systems that replace human-moderated discussions
-- Data analysis tools that provide single 'correct' interpretation without alternatives
+4. **Structural nature**: These limitations arise from the design of the environment rather than individual choices, making them a structural problem.
 
-## Capacity-Conducive Alternatives
-Organizations can broaden affordance fields by:
-- Designing AI tools that suggest rather than determine
-- Preserving opportunities for researcher initiation of key processes
-- Creating feedback systems that encourage agential control
-- Maintaining embodied interaction components in research
-- Ensuring AI tools don't eliminate opportunities for capacity exercise
+## Examples in Market Research
+
+Several industry practices create narrow fields of affordances:
+
+- **Automated research platforms**: Systems that limit researchers to predetermined analytical pathways, restricting opportunities for creative insight generation.
+
+- **Standardized reporting templates**: Templates that constrain how researchers present findings, limiting opportunities for developing communication capacities.
+
+- **AI-driven participant recruitment**: Systems that automate participant selection, reducing researchers' opportunities to develop ethical judgment in recruitment.
+
+- **Predictive analytics tools**: Tools that present predetermined interpretations of data, narrowing researchers' opportunities to develop analytical reasoning capacities.
+
+## Contrast with Rich Affordance Fields
+
+Narrow fields of affordances should be contrasted with rich affordance fields that provide diverse action possibilities. As Ferdman notes, capacity-conducive environments "afford opportunities for the development and exercise of the capacities" through "structured and unstructured embodied interactions."
+
+## Implications for Skills Gap Research
+
+Understanding narrow fields of affordances is critical for addressing the skills gap:
+
+- Explains how AI tools might inadvertently create [[capacity-hostile-environments]]
+- Highlights why the [[human-operating-model-gap]] requires attention to environmental design
+- Identifies risks of AI systems that automate too many research activities
+- Suggests strategies for designing AI tools that preserve rich fields of affordances
 
 ## Related Concepts
-- [[capacity-hostile-environments]]
-- [[affordance-shrinkage]]
-- [[agential-control]]
-- [[ai-deskilling-structural-problem]]
-- [[embodiment-in-skilling]]
 
-## Update Log
-2026-07-20: Expanded definition with Ferdman's analysis of AI-induced narrowing mechanisms and market research examples.
+See also: [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[habituation-process]], [[human-capacities]], [[ai-deskilling-structural-problem]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

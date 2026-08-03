@@ -1,60 +1,53 @@
-# [[social-capacities]]
+# Social Capacities
+
+First observed: 2026-07-18
+Last updated: 2026-07-21
 
 ## Definition
-The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require intersubjective, embodied habituation for development.
 
-## Core Components
+Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require embodied, intersubjective habituation for proper development.
 
-### Moral Capacity
-- Recognizing others as moral agents
-- Making ethical judgments in complex situations
-- Understanding moral dimensions of actions
-- Developing moral attention through embodied interaction
-- Essential for research ethics and respondent treatment
+## Characteristics
 
-### Relational Capacity
-- Forming meaningful relationships of friendship and love
-- Understanding others' perspectives
-- Participating in communal life
-- Developing shared valuing through interaction
-- Critical for client relationships and team collaboration
+According to Ferdman's analysis, social capacities have several critical features:
 
-## Development Requirements
-Social capacities develop through:
-- Embodied interaction with return of the gaze
-- Participatory sense-making in social contexts
-- Shared experiences that create 'embodied understanding'
-- Intersubjective habituation with mentors
-- Opportunities for moral reasoning in real situations
+1. **Moral capacity**: The ability to recognize others as moral agents, make ethical judgments, and act with integrity.
 
-## AI Impact Analysis
-AI systems can undermine social capacities by:
-- Creating disembodied interaction environments
-- Reducing opportunities for embodied respondent interaction
-- Fracturing affordance space into disconnected fields
-- Making 'technologically mediated virtue friendships require more discipline for a diminished experience' (Grasso 2025)
-- Undermining spontaneity in recognizing others as moral agents
+2. **Relational capacity**: The ability to form meaningful connections, understand others' perspectives, and maintain healthy relationships.
 
-## Market Research Implications
-- In-person research methods preserve social capacity development opportunities
-- Fully automated research designs undermine moral capacity development
-- Organizations should maintain embodied interaction components
-- Training programs need to emphasize ethical reasoning in research
-- Junior researchers require opportunities for embodied client interaction
+3. **Embodied nature**: Requires physical presence and sensory experience for proper development: "Without being embodied in a social interaction... we would be hard-pressed to recognize them spontaneously as moral agents."
 
-## Structural Importance
-The structural dimension highlights that:
-- Disembodied environments don't provide right affordances for social capacity development
-- Users cannot be expected to 'will themselves' into overcoming disembodiment challenges
-- Capacity-conducive environments must actively encourage embodied interaction
-- Public goods like community centers support embodied interaction necessary for flourishing
+4. **Intersubjective development**: Develops through relationships with others who guide and share the value of these capacities.
+
+## Examples in Market Research
+
+Several research practices engage social capacities:
+
+- **Participant rapport building**: Establishing trust with research participants through embodied interaction and shared understanding
+
+- **Ethical decision-making**: Navigating complex ethical dilemmas in research design and execution
+
+- **Client relationship management**: Understanding client needs beyond stated requirements through meaningful dialogue
+
+- **Team collaboration**: Working effectively with research teams through shared understanding and mutual respect
+
+## Contrast with Social Skills
+
+Social capacities should be contrasted with mere social skills. While social skills might be techniques for interaction, social capacities are constitutive of flourishing and involve deeper understanding and connection. As Ferdman argues, capacity-deskilling diminishes us as humans.
+
+## Implications for Skills Gap Research
+
+Understanding social capacities is critical for addressing the skills gap:
+
+- Explains why fully remote research methods might undermine capacity development
+- Highlights risks of AI tools that replace human interaction in research processes
+- Identifies why the [[human-operating-model-gap]] requires attention to embodied research practices
+- Suggests strategies for preserving social capacity development in digital research environments
 
 ## Related Concepts
-- [[moral-capacity]]
-- [[relational-capacity]]
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
-- [[ai-deskilling-structural-problem]]
 
-## Update Log
-2026-07-20: Expanded definition with Ferdman's analysis of social capacity development requirements and market research implications.
+See also: [[moral-capacity]], [[relational-capacity]], [[embodiment-in-skilling]], [[intersubjectivity-in-skilling]], [[human-capacities]], [[capacity-hostile-environments]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.

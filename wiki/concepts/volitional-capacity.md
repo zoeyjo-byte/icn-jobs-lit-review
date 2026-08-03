@@ -1,51 +1,53 @@
-# [[volitional-capacity]]
+# Volitional Capacity
+
+First observed: 2026-07-18
+Last updated: 2026-07-21
 
 ## Definition
-The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this capacity is essential for navigating the challenges of capacity development.
 
-## Key Characteristics
-- Meta-capacity required for developing all other human capacities
-- Involves exerting effort and overcoming difficulty
-- Enables perseverance through challenging learning processes
-- Critical for growth toward intrinsically valuable goals
-- Developed through encountering and overcoming disappointment and failure
+Volitional capacity is the human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. As established in [[ferdman-2026-ai-deskilling-structural-problem]], this capacity is essential for the habituation process through which all other capacities develop.
 
-## Development Process
-Volitional capacity develops through:
-- Opportunities to face and overcome meaningful challenges
-- Experiencing and learning from failure
-- Gradual increase in difficulty that matches developing competence
-- Supportive environments that encourage growth
-- Recognition of intrinsic value in the struggle itself
+## Characteristics
 
-## AI Impact Analysis
-AI systems can undermine volitional capacity by:
-- Removing challenges through over-automation
-- Creating environments where users don't need to exert effort
-- Eliminating opportunities to learn from failure
-- Providing instant solutions that bypass struggle
-- Narrowing affordance fields to eliminate meaningful challenges
+According to Ferdman's analysis, volitional capacity has several critical features:
 
-## Market Research Implications
-- Organizations should design research challenges appropriate to skill levels
-- Training programs must include opportunities to struggle and grow
-- Junior researchers need appropriately challenging assignments
-- AI tools should preserve meaningful challenges rather than eliminate them
-- Performance evaluations should recognize effort and growth, not just outcomes
+1. **Meta-capacity status**: "I will therefore treat the capacity to will as a meta-capacity of sorts" necessary for developing all other capacities.
 
-## Structural Importance
-The structural dimension highlights that:
-- Capacity-hostile environments actively discourage volitional capacity development
-- Users cannot be expected to 'will themselves' in deficient environments
-- Capacity-conducive environments must actively encourage volitional development
-- Organizations have societal obligation to foster environments supporting willpower growth
+2. **Effort requirement**: Involves the ability to exert effort and overcome difficulty, which is inherent in capacity development.
+
+3. **Growth orientation**: Enables growth toward intrinsically valuable goals rather than merely achieving predetermined outcomes.
+
+4. **Habituation dependency**: Develops through the same habituation process as other capacities, requiring practice and overcoming challenges.
+
+## Examples in Market Research
+
+Several research practices engage volitional capacity:
+
+- **Methodological persistence**: Continuing to refine research approaches despite initial failures or inconclusive results
+
+- **Ethical perseverance**: Maintaining research integrity despite pressure to produce favorable results
+
+- **Learning from failure**: Persisting through challenging research projects and learning from setbacks
+
+- **Capacity development**: Exerting effort to develop new research skills and capacities despite the difficulty involved
+
+## Contrast with Willpower
+
+Volitional capacity should be contrasted with simple willpower. While willpower might be about short-term discipline, volitional capacity involves sustained effort toward intrinsically valuable goals that contribute to flourishing. As Ferdman argues, capacity development "requires effort and determination."
+
+## Implications for Skills Gap Research
+
+Understanding volitional capacity is critical for addressing the skills gap:
+
+- Explains why capacity-hostile environments that remove challenges undermine all capacity development
+- Highlights why AI tools that automate too many research activities might undermine researcher development
+- Identifies why the [[human-operating-model-gap]] requires attention to challenge design in research workflows
+- Suggests strategies for preserving opportunities for volitional development in AI-augmented research
 
 ## Related Concepts
-- [[human-capacities]]
-- [[habituation-process]]
-- [[ai-deskilling-structural-problem]]
-- [[capacity-conducive-environments]]
-- [[growth-mindset]]
 
-## Update Log
-2026-07-20: Expanded definition with Ferdman's analysis of volitional capacity as meta-capacity and its critical role in all capacity development.
+See also: [[human-capacities]], [[habituation-process]], [[capacity-hostile-environments]], [[ai-deskilling-structural-problem]], [[developmental-perfectionism]]
+
+## References
+
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
