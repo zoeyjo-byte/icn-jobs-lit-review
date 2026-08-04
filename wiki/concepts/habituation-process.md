@@ -1,55 +1,48 @@
 # Habituation Process
 
-First observed: 2026-07-03
-Last updated: 2026-07-21
+**First Observed**: 2026-07-03 | **Last Updated**: 2026-07-22
 
-## Definition
+The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As established in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-The habituation process is the gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
+## Core Characteristics
+- **Gradual progression**: Moves through stages from novice to expert (Dreyfus and Dreyfus 5-stage model)
+- **Experience-dependent**: Requires considerable time and living, not merely theoretical knowledge
+- **Failure-integrated**: Involves encountering and overcoming disappointment through successive trials
+- **Context-sensitive**: Refinement occurs through attunement to demands of individual cases rather than abstract principles
 
-## Characteristics
+## Essential Components
 
-According to Ferdman's analysis, the habituation process has several critical features:
+### Intersubjective Dimension
+Skill habituation has a 'shared understanding' dimension where:
+- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
+- Mentors instill not only mechanical aspects but also the intrinsic value of the skill
+- Shared valuing develops through relationships where both mentor and mentee come to view the skill's value as their own
+- Social practices performed by groups or whole societies provide mentoring environments
 
-1. **Gradual progression**: Skill development occurs through stages from novice to expert, with increasing sophistication and sensitivity to varying contexts.
+### Embodied Dimension
+Successful habituation requires an embodied component because:
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Recognizing others as moral agents depends on embodied interaction (voice, gaze)
+- Disembodied interactions require more mental effort to attribute moral agency to others
+- Meaning is generated in the interplay between unfolding interaction and participants
 
-2. **Practice requirement**: "Skill generally cannot be learnt through testimony, and requires practice." This distinguishes skills from mere competences.
+## AI Threat Analysis
+AI systems threaten the habituation process through:
 
-3. **Learning from failure**: The process involves "encountering and overcoming disappointment and failure," which is essential for developing true mastery.
+### Automation of Routine Tasks
+- Bainbridge's 'Ironies of Automation': Automating routine tasks deprives users of opportunities to practice judgment and strengthen 'cognitive musculature'
+- Without routine opportunities to exercise capacities, users become unprepared for exceptional circumstances
+- Example: Healthcare AI that offloads diagnostic reasoning diminishes clinical judgment development
 
-4. **Two critical components**:
-   - **Intersubjectivity**: Skill habituation has a 'shared understanding' dimension requiring mentors
-   - **Embodiment**: Successful habituation must include an embodied component
+### Replacement of Embodied Interaction
+- Digital environments fracture affordance space into disconnected fields (swiping, clicking, scrolling)
+- Disembodied interactions make it harder to form meaningful relationships necessary for shared valuing
+- Example: Over-reliance on APAs for life-planning replaces embodied mentor-mentee relationships
 
-## Examples in Market Research
+## Structural Implications
+The habituation process reveals why deskilling is a structural problem rather than individual failing:
+- When AI creates environments with narrow fields of affordances, it systematically undermines opportunities for habituation
+- Without proper mentoring and embodied interaction, individuals cannot develop the shared understanding necessary to value capacities
+- Capacity-hostile environments create a vicious cycle where shallow skill development prevents appreciation of more masterful capacity levels
 
-Several research practices demonstrate the habituation process:
-
-- **Qualitative interviewing**: Developing interviewing skills through repeated practice, learning to adjust questions based on participant responses, and overcoming initial awkwardness.
-
-- **Analytical reasoning**: Building capacity to identify patterns in data through repeated exposure to diverse datasets and research contexts.
-
-- **Ethical judgment**: Developing the ability to navigate complex ethical dilemmas through experience and mentorship.
-
-- **Client management**: Learning to navigate diverse client expectations through repeated interactions and reflection.
-
-## Contrast with Mechanical Repetition
-
-The habituation process should be contrasted with mechanical repetition. As Ferdman notes, "while becoming skilled in the capacities requires successive attempts at an activity, the process itself is one of growth rather than simple repetition." True habituation involves progressive refinement rather than mere repetition.
-
-## Implications for Skills Gap Research
-
-Understanding the habituation process is critical for addressing the skills gap:
-
-- Explains why AI automation of routine research tasks might undermine capacity development
-- Highlights the risk that AI tools create [[capacity-hostile-environments]] by removing opportunities for practice and failure
-- Identifies why the [[entry-level-squeeze]] threatens capacity development for junior researchers
-- Suggests organizational strategies to preserve habituation opportunities in AI-augmented research
-
-## Related Concepts
-
-See also: [[intersubjectivity-in-skilling]], [[embodiment-in-skilling]], [[agential-control]], [[capacity-hostile-environments]], [[human-capacities]]
-
-## References
-
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+As Ferdman argues, this necessitates societal solutions that preserve opportunities for meaningful habituation rather than expecting individuals to be 'virtuous superheroes' who overcome structural limitations through willpower alone. The **volitional-capacity** itself requires habituation through environments that encourage rather than discourage capacity development.

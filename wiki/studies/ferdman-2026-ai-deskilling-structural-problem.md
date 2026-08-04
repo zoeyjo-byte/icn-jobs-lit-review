@@ -1,62 +1,84 @@
 # Ferdman (2026): AI Deskilling is a Structural Problem
 
-**Published in**: AI & Society (2026) 41:3001-3013
-**DOI**: [10.1007/s00146-025-02686-z](https://doi.org/10.1007/s00146-025-02686-z)
-**Author**: Avigail Ferdman (Technion - Israel Institute of Technology)
+**First Observed**: 2026-07-10 | **Last Updated**: 2026-07-22
 
-## Abstract
+## Overview
+This landmark paper published in [[ai-society]] presents a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Avigail Ferdman introduces the critical distinction between capacity-hostile and capacity-conducive environments, analyzes the role of agential control and habituation in capacity development, and examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging plan-following rather than plan-forming.
 
-This landmark paper argues for applying a structural perspective to AI-induced deskilling. It introduces the concept of 'capacity-hostile environments' to identify instances where AI mediation impedes human capacity cultivation. The analysis moves beyond individual responsibility, demonstrating how AI's influence creates systemic conditions that inhibit the development and exercise of human capacities by undermining the process of capacity cultivation. Drawing on the philosophy of skill and social epistemology, Ferdman argues that capacity cultivation (skilling) includes acquiring agential control over capacities, inculcated through a long, gradual process of habituation that depends on learning from others.
+## Research Question
+Rather than framing deskilling as an individual responsibility issue, Ferdman asks: How do AI systems create structural conditions that inhibit the development and exercise of human capacities by undermining the process of capacity cultivation?
+
+## Methodology
+The paper employs philosophical analysis drawing on:
+- Philosophy of skill (agential control, habituation process)
+- Social epistemology (intersubjectivity in skilling)
+- Enactive cognition (embodiment in skilling)
+- Developmental perfectionism (framework for human flourishing)
 
 ## Key Findings
 
-### Core Human Capacities Framework
-The paper identifies four interrelated human capacities constitutive of flourishing:
-- **Epistemic capacities**: Theoretical rationality (thinking, considering reasons) and practical rationality (phronesis/wisdom)
-- **Social capacities**: Moral capacity and relational capacities for meaningful connections
-- **Creative capacities**: Generating novel ideas through unfamiliar combinations of familiar concepts
-- **Volitional capacity**: Meta-capacity to exert effort, overcome difficulty, and persevere toward intrinsically valuable goals
+### Capacity-Hostile vs Capacity-Conducive Environments
+- **Capacity-hostile environments** restrict, limit, or create narrow fields of affordances for capacity development
+- **Capacity-conducive environments** actively encourage development through embodied, intersubjective interaction
+- Example: Disembodied digital environments vs community centers with face-to-face interaction
 
-### Skill Development Process
-Capacity cultivation occurs through:
-- **Agential control**: Ability to adjust execution of actions during performance
-- **Habituation**: Gradual process requiring practice, encountering and overcoming disappointment
-  - **Intersubjectivity**: Learning from mentors who instill both mechanical aspects and shared valuing of skills
-  - **Embodiment**: Physical presence essential for social/moral skill development
+### Four Core Human Capacities
+The paper identifies four capacities constitutive of human flourishing:
+1. **Epistemic capacities**: Theoretical and practical rationality
+2. **Social capacities**: Moral and relational capacities
+3. **Creative capacities**: Novel combination and conceptual transformation
+4. **Volitional capacity**: Meta-capacity for exerting effort and overcoming difficulty
 
-### Structural Analysis of Deskilling
-The paper establishes:
-- **Capacity-hostile environments**: Restrict development through narrow fields of affordances
-- **Affordance shrinkage**: Systematic reduction in action possibilities that discourages compensation
-- **Plan-forming vs plan-following**: Critical distinction between creating plans (requiring agential control) and executing pre-determined plans
+### Plan-Forming vs Plan-Following
+- **Plan-forming** requires agential control over initiating planning activities
+- **Plan-following** involves responding to environmental triggers without initiating planning
+- Artificial Personal Assistants encourage plan-following, undermining capacity development
 
-### Artificial Personal Assistants Case Study
-APAs exemplify capacity-hostile environments by:
-- Encouraging users to become plan-followers rather than plan-formers
-- Offloading small-scale decisions that cumulatively erode life-planning capacities
-- Reducing embodied, intersubjective habituation opportunities
-- Creating environments where users respond to AI triggers rather than exercising agential control
+### Habituation Process Requirements
+Capacity development requires:
+- **Agential control** over initiating capacity-development activities
+- **Intersubjectivity** through mentor-mentee relationships
+- **Embodiment** through physical presence and sensory experience
+- **Shared valuing** of capacities as intrinsically valuable
 
-## Methodology
+## Evidence of Deskilling
+The paper cites growing evidence of AI-induced deskilling:
+- Erosion of activity awareness, competence maintenance, and output assessment (Rinta-Kahila et al. 2023)
+- Diminished diagnostic reasoning, clinical judgment, and ethical sensitivity in healthcare (NHS England 2023; Natali et al. 2025)
+- Decline in critical thinking, decision-making, and analytical reasoning (Bonicalzi et al. 2023; Gerlich 2025; Lee et al. 2025)
 
-The paper employs philosophical analysis drawing on:
-- Philosophy of skill (agential control, habituation)
-- Social epistemology (intersubjective skill development)
-- Neo-Aristotelian ethics ([[developmental-perfectionism]])
-- Affordance theory (Gibson, Withagen)
+## Artificial Personal Assistants Case Study
+APAs exemplify capacity-hostile environments because they:
+- Replace plan-forming with plan-following, undermining agential control
+- Discourage users from seeking alternative growth opportunities
+- Reduce need for routine decision-making that builds capacity
+- Decrease embodied, intersubjective interaction necessary for capacity development
+- Example: Sunsama scheduling app plans users' days, removing opportunities for self-directed planning
 
-## Implications for Market Research
+## Philosophical Framework
+The analysis employs **developmental-perfectionism**, a neo-Aristotelian approach where:
+- Human flourishing is a complex, unified, well-rounded life
+- Competent exercise of capacities yields intrinsically valuable goods
+- Capacity-deskilling is bad because capacities are constitutive of flourishing
+- Impoverished capacities lead to impoverished lives
 
-This research has profound implications for the industry:
-- AI tools that automate core research activities without preserving skill development opportunities create [[capacity-hostile-environments]]
-- Remote/digital research methods may undermine [[embodiment-in-skilling]] essential for ethical research
-- Overreliance on AI-generated research plans risks researchers becoming "plan-followers" rather than "plan-formers"
-- Organizations must evaluate AI adoption based on [[human-operating-model-gap]] considerations
+## Societal Implications
+The structural perspective necessitates:
+- Evaluating AI applications based on conduciveness to capacity cultivation
+- Creating capacity-conducive environments through public goods
+- Shifting responsibility from individuals to society for preserving capacity-development opportunities
+- Recognizing that expecting 'virtuous superheroes' to resist deskilling overlooks structural realities
 
-## Related Concepts
+## Contrast with Individual-Responsibility Approaches
+Unlike frameworks treating deskilling as individual failing, Ferdman demonstrates:
+- Persons develop capacities in response to social and material environment
+- Deficient environments lead to deskilling and subsequent devaluation of capacities
+- Without proper mentoring and shared valuing, individuals cannot cultivate capacities
+- Example: Students cannot develop critical thinking if educational environments prioritize AI-generated content
 
-See also: [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[agential-control]], [[habituation-process]], [[intersubjectivity-in-skilling]], [[embodiment-in-skilling]], [[ai-deskilling-structural-problem]], [[developmental-perfectionism]], [[human-capacities]], [[plan-forming-vs-plan-following]], [[narrow-field-of-affordances]], [[epistemic-capacities]], [[social-capacities]], [[creative-capacities]], [[volitional-capacity]], [[artificial-personal-assistants]]
-
-## References
-
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+## Practical Applications
+The paper informs:
+- AI design principles that preserve opportunities for capacity development
+- Educational approaches that balance AI assistance with meaningful practice
+- Workplace policies that maintain embodied, intersubjective learning opportunities
+- Public policy supporting capacity-conducive environments through community infrastructure

@@ -1,53 +1,42 @@
 # Agential Control
 
-First observed: 2026-07-03
-Last updated: 2026-07-21
+**First Observed**: 2026-07-03 | **Last Updated**: 2026-07-22
 
-## Definition
+Agential control refers to the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-Agential control is the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
+## Philosophical Foundation
+The concept emerges from skill philosophy where:
+- To be skilled is to have flexible links between thought and action that continue evolving even after expertise is achieved
+- Agency development involves a process of tuning and attuning where the balance between automaticity and control shifts
+- Skilled agents maintain the capacity for novel behavior, distinguishing them from highly reliable automatons
 
-## Characteristics
+## Critical Distinctions
 
-According to Ferdman's analysis, agential control has several critical features:
+### Skills vs. Habits
+| Characteristic | Skills | Habits |
+|----------------|--------|--------|
+| Initiation | Agent-controlled | Environment-triggered |
+| Adaptability | Adjustable during execution | Fixed response pattern |
+| Development | Requires habituation process | Formed through repetition |
+| Value | Involves shared understanding | Lacks intrinsic valuation |
 
-1. **Initiation control**: Skilled agents have full control over initiating activities, whereas habitual activities are triggered by something in the environment.
+### Plan-Forming vs. Plan-Following
+This distinction, central to understanding AI's impact on capacity development:
+- **Plan-forming**: Requires exercising agential control over initiating planning activities (settling function and coordination function)
+- **Plan-following**: Responding to triggers in the environment without initiating the planning process
 
-2. **Adjustment capacity**: Skilled performance involves the ability to modify execution in response to changing circumstances during performance.
+## AI Impact Analysis
+Artificial Personal Assistants (APAs) exemplify how AI systems can undermine agential control:
+- When users outsource life-planning to APAs, they shift from plan-formers to plan-followers
+- APAs designed as "always-on sounding boards" discourage users from initiating planning activities
+- Over-reliance on AI for decision-making erodes the capacity for **practical rationality** (phronesis)
 
-3. **Developmental progression**: As agency develops, "the balance between automaticity and control shifts through a process of tuning and attuning," allowing for increasingly sophisticated performance.
+As Ferdman argues, this represents a structural problem: environments that encourage plan-following rather than plan-forming create conditions where users cannot develop the **volitional-capacity** necessary to initiate capacity-development activities. The loss of agential control particularly threatens **epistemic-capacities** and **social-capacities** that require self-directed cultivation.
 
-4. **Distinction from habits**: "Skills are therefore distinct from habits in an important respect: skills require control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers."
+## Implications for Capacity Development
+Agential control is foundational to the **habituation process** of skill development. Without control over initiating activities, individuals cannot:
+- Take responsibility for failed plans and learn from mistakes
+- Develop the shared understanding necessary for valuing capacities
+- Exercise the **volitional-capacity** required to overcome difficulty in capacity development
 
-## Examples in Market Research
-
-Several research practices demonstrate agential control:
-
-- **Research design adaptation**: When researchers modify their methodology in response to unexpected findings during fieldwork, exercising control over the research process.
-
-- **Ethical decision-making**: When researchers encounter ethical dilemmas and adjust their approach based on contextual understanding rather than following predetermined protocols.
-
-- **Creative problem-solving**: When researchers develop novel approaches to address research challenges that don't fit standard methodologies.
-
-- **Client consultation**: When researchers actively shape research questions through dialogue with clients rather than merely executing predetermined briefs.
-
-## Contrast with Habitual Action
-
-Agential control should be contrasted with habitual action, where "an agent who performs out of habit, in response to triggers in the environment, is less skilled compared to the agent who initiated the activity, who has full agential control over it." This distinction is critical for understanding how AI systems might undermine capacity development.
-
-## Implications for Skills Gap Research
-
-Understanding agential control is critical for addressing the skills gap:
-
-- Identifies a key mechanism through which [[capacity-hostile-environments]] undermine capacity development
-- Highlights the risk that AI tools create environments where researchers become "plan-followers" rather than [[plan-forming-vs-plan-following]]
-- Explains why automation of routine research tasks might erode researchers' ability to handle unexpected scenarios
-- Directly relates to the [[human-operating-model-gap]] between AI capabilities and human systems
-
-## Related Concepts
-
-See also: [[plan-forming-vs-plan-following]], [[habituation-process]], [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[human-capacities]]
-
-## References
-
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+This understanding reframes deskilling not as individual failure but as a structural issue requiring societal solutions that preserve opportunities for agential control in AI-mediated environments.

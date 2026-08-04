@@ -1,53 +1,54 @@
 # AI & Society
 
-First observed: 2026-07-16
-Last updated: 2026-07-21
+**First Observed**: 2026-07-16 | **Last Updated**: 2026-07-22
 
-## Definition
+AI & Society is an academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. Provides a venue for critical reflection on AI's societal impacts.
 
-AI & Society is an academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. It provides a venue for critical reflection on AI's societal impacts.
+## Journal Overview
+- **Publisher**: Springer Nature
+- **Focus Areas**: Social, ethical, and philosophical dimensions of AI
+- **Scope**: Interdisciplinary research examining AI's impact on human values, institutions, and flourishing
+- **Significance**: Premier venue for critical scholarship on AI beyond technical considerations
 
-## Characteristics
+## Key Contributions
 
-According to the Ferdman paper and journal information:
+### Critical AI Scholarship
+- Publishes research that examines AI systems through philosophical, ethical, and social lenses
+- Provides platform for structural analyses of AI impacts rather than purely instrumental perspectives
+- Example: Ferdman's analysis of capacity-hostile environments reframes deskilling as structural problem
 
-1. **Interdisciplinary focus**: Publishes research at the intersection of AI technology and societal implications, including philosophy, ethics, and social science perspectives.
+### Interdisciplinary Approach
+- Bridges philosophy, social sciences, and technology studies
+- Encourages dialogue between technical AI developers and social theorists
+- Example: Ferdman's paper integrates skill philosophy with social epistemology to analyze AI impacts
 
-2. **Critical perspective**: Provides a platform for critical analysis of AI's impact beyond technical considerations, as demonstrated by the Ferdman paper.
+## Relevance to Market Research
+The journal's focus on human-AI interaction has direct implications for market research:
 
-3. **Academic rigor**: As a peer-reviewed journal, maintains high academic standards for published research.
+### Research Ethics
+- Examines ethical considerations in AI-mediated data collection
+- Analyzes impacts of AI on researcher-participant relationships
+- Example: How AI chatbots affect authenticity of consumer insights
 
-4. **Timely relevance**: Publishes research addressing emerging AI developments and their societal implications.
+### Capacity Development
+- Explores how AI tools impact researchers' epistemic and social capacities
+- Analyzes structural conditions affecting skill development in AI-augmented research
+- Example: Ferdman's framework helps assess whether AI tools create capacity-conducive environments for researchers
 
-## Examples in Market Research
+### Structural Analysis
+- Provides methodologies for examining AI's systemic impacts beyond individual use cases
+- Offers frameworks for evaluating AI's long-term effects on professional capacities
+- Example: The capacity-hostile vs capacity-conducive environment distinction helps assess AI's impact on research quality
 
-Several connections exist between AI & Society and market research:
+## Connection to Skills Gap Research
+AI & Society contributes to understanding the human operating model gap by:
+- Publishing research on how AI systems undermine human capacities through structural conditions
+- Providing philosophical frameworks like developmental perfectionism to evaluate AI's impact on flourishing
+- Highlighting the need to assess AI applications based on conduciveness to capacity cultivation
 
-- **Ethical frameworks**: The journal publishes research that informs ethical frameworks for AI use in market research.
-
-- **Capacity development**: Ferdman's paper provides a framework for understanding how AI tools might impact researchers' capacity development.
-
-- **Structural analysis**: The journal's focus on structural perspectives helps market researchers understand AI's impact beyond individual skill gaps.
-
-- **Philosophical foundations**: Provides philosophical grounding for understanding why certain capacities are constitutive of flourishing in research work.
-
-## Contrast with Technical AI Journals
-
-AI & Society should be contrasted with technical AI journals that focus primarily on algorithmic improvements and performance metrics. The journal's distinctive contribution is its focus on the human and societal dimensions of AI.
-
-## Implications for Skills Gap Research
-
-Understanding AI & Society is critical for addressing the skills gap:
-
-- Provides theoretical frameworks for understanding the structural nature of AI's impact on capacity development
-- Offers philosophical grounding for why certain capacities are constitutive of flourishing in research work
-- Highlights the importance of evaluating AI tools based on their impact on human capacities
-- Suggests directions for future research on AI's impact in the market research industry
-
-## Related Concepts
-
-See also: [[ferdman-2026-ai-deskilling-structural-problem]], [[ai-deskilling-structural-problem]], [[human-capacities]], [[capacity-hostile-environments]], [[human-operating-model-gap]]
-
-## References
-
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001-3013.
+## Practical Applications for Market Research
+The journal's scholarship informs:
+- Design of AI tools that scaffold rather than replace researcher capacities
+- Development of training programs that preserve opportunities for skill development
+- Creation of research environments that encourage embodied, intersubjective learning
+- Evaluation frameworks for assessing AI's impact on research quality beyond efficiency metrics
