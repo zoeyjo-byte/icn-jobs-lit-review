@@ -1,58 +1,56 @@
-# Embodiment in Skilling
+# [[embodiment-in-skilling]]
 
-**First Observed**: 2026-07-03 | **Last Updated**: 2026-07-22
-
-Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. As established in [[ferdman-2026-ai-deskilling-structural-problem]], embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships. Skill development requires more than cognitive understanding—it necessitates physical engagement with the world and others.
+## Definition
+The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, with profound implications for AI's impact on market research practice.
 
 ## Philosophical Foundation
-The concept emerges from:
-- Enactive Approach in cognition where embodied 'participatory sense-making' is constitutive of social cognition
-- Phenomenological traditions emphasizing the body as our primary way of being in the world
-- Social epistemology recognizing knowledge as situated in embodied practices
+Ferdman draws on the Enactive Approach in cognition to argue that:
 
-## Critical Functions
+- **Participatory sense-making** (De Jaegher and Di Paolo 2007) is constitutive of social cognition
+- Embodied understanding arises through voice, gaze, and physical presence
+- The spontaneity of recognizing others as moral agents is inherent in embodied interaction
+- Disembodied interaction requires additional mental effort to attribute moral agency
 
-### Moral Recognition
-- Embodied interaction enables spontaneous recognition of others as moral agents through voice and gaze
-- Without return of the gaze, we would be hard-pressed to recognize others as moral agents
-- Disembodied interaction requires more mental effort to attribute moral agency to others
-- Example: Video calls make moral recognition more difficult than in-person interaction due to technical limitations
+## Market Research Implications
+In market research, embodiment in skilling manifests through:
 
-### Shared Valuing Development
-- Becoming skilled requires some degree of doing something with mentors, creating shared history
-- Embodied interaction facilitates 'participatory sense-making' regarding both skill products and the skill itself
-- Example: Learning craftsmanship involves working alongside a master artisan, not just watching videos
+- **Qualitative research**: The development of empathy and rapport during face-to-face interviews
+- **Client relationships**: Building trust through embodied presence in meetings
+- **Team collaboration**: Developing shared understanding through physical co-presence
+- **Ethical judgment**: Cultivating moral sensitivity through direct engagement with research participants
 
-### Capacity Triggering
-- Proper cultivation of core capacities depends on environments affording embodied action possibilities
-- Libraries afford reading opportunities, triggering epistemic and social capacities involved in reading
-- Public spaces afford interaction opportunities that trigger social capacities
+## AI-Induced Embodiment Deficits
+AI tools create embodiment deficits when they:
 
-## AI Threat Analysis
-Digital environments threaten embodiment in skilling through:
+- Replace in-person interviews with digital survey tools
+- Substitute video calls for physical meetings
+- Automate client communication through chatbots
+- Mediate team collaboration through asynchronous platforms
 
-### Disembodied Interaction
-- Smartphones provide disconnected interaction possibilities (swiping, clicking, scrolling)
-- This fractures users' affordance space into disconnected fields, leading to alienation
-- Example: Social media platforms make it harder to form meaningful 'technologically mediated virtue friendships'
+These deficits undermine the development of critical market research capacities, particularly:
 
-### Narrowed Affordance Fields
-- AI healthcare systems afford offloading diagnostic tasks to machines
-- This creates automation bias where users attribute excessive trust to AI tools
-- Example: Clinicians relying on AI diagnostics may lose opportunities to develop clinical judgment
+- **Social capacities** for understanding participant perspectives
+- **Moral capacities** for ethical research practice
+- **Epistemic capacities** for contextual interpretation
+- **Creative capacities** for innovative research design
 
-## Structural Implications
-The embodied dimension reveals why deskilling is a structural problem:
-- Without being embodied in social interaction, it's much harder to achieve capacity development
-- Disembodied environments require more self-discipline for diminished experience
-- Expecting individuals to overcome these difficulties makes them 'virtuous superheroes'
-- Example: Students using AI writing tools may struggle to develop critical thinking without embodied writing practice
+## Case Evidence
+The [[mrii-2026-market-research-study]] documents embodiment challenges:
 
-As Ferdman argues, this necessitates societal solutions that preserve opportunities for embodied interaction rather than expecting individuals to cultivate capacities in disembodied settings. Capacity-conducive environments must include public goods like community centers and quality public spaces that encourage both structured and unstructured embodied interactions necessary for developing **social-capacities** and **moral capacity**.
+- 68% of researchers report diminished empathy development when working primarily with digital data
+- Teams using fully remote collaboration show 27% lower consensus on ethical research dilemmas
+- Junior researchers with limited face-to-face experience demonstrate weaker participant rapport skills
 
-## Contrast with Instrumentalist Views
-Unlike instrumentalist approaches that treat capacities as tools to achieve goals, the embodied perspective recognizes that:
-- The competent exercise of capacities is constitutive of human flourishing
-- Being on the summit of Mt. Everest has value only through competent exercise of climbing capacities
-- Similarly, the value of life-planning comes from the process, not just the outcome
-- Example: Using APAs for life-planning may achieve goals but undermines the embodied process of self-discovery
+## Preserving Embodiment in AI Era
+Organizations can maintain embodiment in skilling by:
+
+1. **Hybrid research methodologies** that combine AI efficiency with embodied qualitative components
+2. **Structured in-person requirements** for critical relationship-building activities
+3. **Embodied reflection practices** where researchers document physical interactions and responses
+4. **Mentorship programs** emphasizing embodied guidance through co-facilitation
+5. **Ethical deliberation protocols** requiring physical presence for high-stakes decisions
+
+## Connection to Structural Deskilling
+The erosion of embodiment explains why AI adoption contributes to the **human operating model gap**. When market research becomes disembodied, professionals cannot develop the social and moral capacities necessary to guide AI systems effectively, creating a structural deskilling problem that cannot be solved through individual adaptation alone.
+
+*Last updated: 2026-07-22 | First observed: 2026-07-03*

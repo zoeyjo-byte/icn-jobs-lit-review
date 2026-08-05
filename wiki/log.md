@@ -47,3 +47,4 @@ Chronological record of every ingest operation.
 2026-08-01: Ingested s00146-025-02686-z.txt. Updated 16 concept pages and 1 study page with detailed analysis from Ferdman's AI deskilling research, including capacity-hostile environments framework, human capacities taxonomy, and implications for market research industry.
 2026-08-02: Ingested s00146-025-02686-z.txt. Updated 6 pages with detailed analysis from Ferdman's 'AI deskilling is a structural problem' paper, including expanded content on capacity-hostile environments, agential control, habituation process, plan-forming vs. plan-following distinction, and AI & Society journal context. Enhanced connections between concepts and market research implications.
 2026-08-04: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
+2026-08-05: Ingested s00146-025-02686-z.txt. Created 0, updated 7.

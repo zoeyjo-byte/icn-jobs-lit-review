@@ -1,23 +1,44 @@
-# Capacity-Hostile Environments
+# [[capacity-hostile-environments]]
 
-**First Observed**: 2026-07-03 | **Last Updated**: 2026-07-22
+## Definition
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing in market research contexts.
 
-Capacity-hostile environments are settings that restrict, limit, or create a narrow field of affordances for the development and exercise of human capacities. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
+## Characteristics
+Capacity-hostile environments:
 
-## Key Characteristics
-- Provide limited action possibilities that restrict opportunities for capacity development
-- Encourage habit-like responses rather than skilled agency requiring **agential control**
-- Feature disembodied interactions that undermine **intersubjectivity-in-skilling**
-- Create systematic, enduring **affordance shrinkage** that discourages users from finding compensatory pathways
-- Often result from AI systems that automate human activities without encouraging alternative capacity-exercising avenues
+- Provide **narrow fields of affordances** that systematically reduce action possibilities
+- Undermine **agential control** by encouraging habitual responses to environmental triggers rather than skillful initiation of activities
+- Restrict opportunities for **embodiment in skilling** through disembodied interactions
+- Limit **intersubjectivity in skilling** by reducing meaningful human-to-human guidance
+- Fail to support the gradual **habituation process** necessary for skill development
 
-## Examples in Practice
-- **Digital communication platforms** that fracture users' affordance space into disconnected fields (swiping, clicking, scrolling), leading to alienation rather than opportunities for mutually enriching cognitive and bodily skills
-- **AI healthcare systems** that afford offloading diagnostic tasks to machines, creating automation bias where users attribute excessive trust to AI tools over human judgment
-- **Artificial Personal Assistants** that replace human planning activities, discouraging users from developing **practical rationality** through self-deliberation
+## Examples in Market Research
 
-## Structural Implications
-The danger of capacity-hostile environments extends beyond individual skill loss. When persons develop capacities in shallow ways, they cannot learn to value more masterful levels of those capacities, since this valuation results from an ongoing, gradual **habituation process** they haven't experienced. On a societal scale, when enough persons don't value excellence in human capacities (e.g., critical thinking), those capacities risk atrophy. Crucially, as Ferdman argues, framing deskilling as an individual responsibility issue overlooks how AI's influence creates systemic conditions that inhibit capacity development. The structural perspective shifts responsibility from individuals to society to create environments conducive to human flourishing.
+1. **AI-powered survey tools** that automate questionnaire design without preserving opportunities for researchers to develop their understanding of question framing through practice and failure
+
+2. **Automated data interpretation systems** that provide ready-made insights without requiring researchers to engage in the iterative process of developing analytical judgment
+
+3. **Virtual research platforms** that replace face-to-face interactions with disembodied digital interfaces, undermining the development of empathy and social capacities essential for qualitative research
+
+4. **AI scheduling assistants** that manage researchers' calendars without opportunities to develop time management skills through trial and error
+
+## Consequences
+When market research professionals operate in capacity-hostile environments:
+
+- They experience **capacity impoverishment** across epistemic, social, creative, and volitional domains
+- Their ability to exercise **practical rationality** (phronesis) diminishes, reducing their capacity for wise judgment in complex research scenarios
+- The **value-chain shift** accelerates as organizations prioritize AI efficiency over human capacity development
+- The **entry-level squeeze** intensifies as foundational research tasks become automated, eliminating traditional training grounds
 
 ## Contrast with Capacity-Conducive Environments
-Unlike [[capacity-conducive-environments]], which actively encourage embodied, intersubjective habituation of capacities, capacity-hostile environments systematically undermine the conditions necessary for developing **epistemic-capacities**, **social-capacities**, **creative-capacities**, and **volitional-capacity**. Public goods like community centers, quality public spaces, and libraries represent capacity-conducive alternatives that encourage both structured and unstructured embodied interactions necessary for shared valuing of capacities.
+Unlike [[capacity-conducive-environments]], which actively encourage capacity development through rich opportunities for embodied interaction and shared valuing, capacity-hostile environments create conditions where researchers cannot develop the deep expertise needed to complement AI systems effectively. This structural problem explains the growing **human operating model gap** observed in AI adoption.
+
+## Remediation Strategies
+Organizations can transform capacity-hostile environments by:
+
+- Designing AI tools with **deliberate friction** that preserves opportunities for skill development
+- Creating structured mentorship programs that support **intersubjective habituation**
+- Ensuring research workflows maintain **embodied interaction** with participants
+- Implementing reflection practices that develop **agential control** over AI-assisted workflows
+
+*Last updated: 2026-07-22 | First observed: 2026-07-03*
