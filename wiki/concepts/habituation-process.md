@@ -1,60 +1,53 @@
 # [[habituation-process]]
 
 ## Definition
-The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-## Stages of Habituation
-Ferdman describes habituation as a multi-stage process:
+The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-1. **Novice stage**: Rule-based learning with limited contextual understanding
-2. **Advanced beginner**: Recognition of situational elements through concrete experience
-3. **Competent stage**: Development of deliberate planning for action
-4. **Proficient stage**: Holistic perception of situations with intuitive guidance
-5. **Expert stage**: Fluid performance with deep situational understanding
+## Key Characteristics
 
-This progression, adapted from Dreyfus and Dreyfus (1986), emphasizes that skill development requires successive attempts at an activity where the process itself is one of growth rather than simple repetition.
+1. **Gradual progression**: Moves through stages from novice to expert (Dreyfus and Dreyfus 1986):
+   - Novice: Relies on rules and context-free features
+   - Advanced beginner: Recognizes situational aspects
+   - Competent: Develops conceptual hierarchical view
+   - Proficient: Sees situations holistically
+   - Expert: Has intuitive perspective
 
-## Essential Components
-The habituation process requires:
+2. **Experience-dependent**: Requires "considerable time and living" (Sherman 1991) rather than abstract principles
 
-- **Embodied practice**: Physical engagement with the activity
-- **Disappointment encounters**: Opportunities to experience and learn from failure
-- **Gradual progression**: Incremental challenges that build on previous learning
-- **Mentor guidance**: Support from experienced practitioners who understand the learning trajectory
-- **Value internalization**: Developing personal commitment to the skill's importance
+3. **Error-driven refinement**: Involves "refinement of the action through successive trials and learning from mistakes" (Ryle 2009)
 
-## Market Research Context
-In market research, the habituation process develops critical capacities through:
+4. **Non-mechanical**: Cannot be achieved through repetition alone; requires growth rather than simple repetition
 
-- **Qualitative interviewing**: Learning to adjust questions based on participant responses through repeated practice
-- **Data interpretation**: Developing analytical judgment by working through ambiguous cases
-- **Research design**: Mastering methodology selection through trial and error
-- **Client consultation**: Building communication skills through real interactions
+## Components of Habituation
 
-## AI Disruption of Habituation
-AI systems threaten the habituation process by:
+### Intersubjectivity
 
-- **Error elimination**: Providing 'correct' answers without opportunities to learn from mistakes
-- **Automation of routine tasks**: Removing foundational practice opportunities that build expertise
-- **Template standardization**: Reducing variation in research scenarios that enable nuanced understanding
-- **Feedback loop shortening**: Bypassing the iterative refinement process essential for skill development
+- **Mentor-guided development**: Requires a mentor to instill not only mechanical aspects but also the value of the skill
+- **Shared valuing**: Both mentor and mentee develop "shared intentions" and come to have "shared valuing" of the skill
+- **Social practice embedding**: Social practices performed by groups provide mentoring environments that generate moral reasons for action
 
-## Case Study: Entry-Level Researcher Development
-The [[mrii-2026-market-research-study]] documents how AI adoption has disrupted traditional habituation pathways:
+### Embodiment
 
-- Junior researchers now skip foundational data collection practice as AI handles survey programming
-- Analysis templates reduce opportunities to develop independent interpretation skills
-- Automated reporting limits exposure to client communication challenges
+- **Participatory sense-making**: Embodied 'participatory sense-making' is constitutive of social cognition
+- **Embodied understanding**: Recognizing others as moral agents requires perceiving them as embodied beings
+- **Shared history creation**: Becoming skilled requires "doing something with the mentor(s), creating a shared history"
 
-This creates the **entry-level squeeze** where entry positions demand senior-level judgment skills without providing the habituation process necessary to develop them.
+## AI Impact on Habituation
 
-## Preserving Habituation in AI Era
-Organizations can protect the habituation process by:
+AI systems can undermine the habituation process by:
 
-- Creating **deliberate practice zones** where researchers work without AI assistance
-- Implementing **error documentation protocols** that normalize learning from mistakes
-- Designing **progressive challenge frameworks** that gradually increase complexity
-- Establishing **reflection practices** where researchers articulate their learning journey
-- Maintaining **mentor-apprentice relationships** that support intersubjective habituation
+1. **Automating routine tasks**: Depriving users of "routine opportunities to practice their judgment" (Lee et al. 2025)
+2. **Reducing embodied interaction**: Creating disembodied environments that make it "harder to form meaningful friendship" (Grasso 2025)
+3. **Eliminating failure opportunities**: Removing chances to learn from mistakes and disappointment
+4. **Undermining shared valuing**: Reducing intersubjective relationships necessary for understanding a skill's value
 
-*Last updated: 2026-07-22 | First observed: 2026-07-03*
+## Contrast with Habit Formation
+
+Habituation differs fundamentally from habit formation:
+- **Habituation**: Requires control over initiating activities; involves growth through practice
+- **Habit formation**: Triggered by environmental cues; involves mechanical repetition without growth
+
+## Update: 2026-07-25
+
+Expanded with detailed analysis from Ferdman's paper on how AI systems create conditions that undermine the habituation process. Added specific explanation of the five-stage skill development model and how AI automation prevents progression through these stages. Incorporated discussion of how the absence of embodied interaction in AI-mediated environments restricts opportunities for intersubjective habituation of capacities, particularly affecting the development of social and moral capacities.

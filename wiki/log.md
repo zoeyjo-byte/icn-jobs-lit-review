@@ -48,3 +48,4 @@ Chronological record of every ingest operation.
 2026-08-02: Ingested s00146-025-02686-z.txt. Updated 6 pages with detailed analysis from Ferdman's 'AI deskilling is a structural problem' paper, including expanded content on capacity-hostile environments, agential control, habituation process, plan-forming vs. plan-following distinction, and AI & Society journal context. Enhanced connections between concepts and market research implications.
 2026-08-04: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-05: Ingested s00146-025-02686-z.txt. Created 0, updated 7.
+2026-08-06: Ingested s00146-025-02686-z.txt. Created 0, updated 5. Synthesized Ferdman's analysis of capacity-hostile environments across concept and entity pages, with particular focus on the plan-forming vs. plan-following distinction and its implications for AI's impact on human capacity development.

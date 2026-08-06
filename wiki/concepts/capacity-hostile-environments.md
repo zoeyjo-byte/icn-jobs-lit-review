@@ -1,44 +1,33 @@
 # [[capacity-hostile-environments]]
 
 ## Definition
-Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing in market research contexts.
+
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
 ## Characteristics
-Capacity-hostile environments:
 
-- Provide **narrow fields of affordances** that systematically reduce action possibilities
-- Undermine **agential control** by encouraging habitual responses to environmental triggers rather than skillful initiation of activities
-- Restrict opportunities for **embodiment in skilling** through disembodied interactions
-- Limit **intersubjectivity in skilling** by reducing meaningful human-to-human guidance
-- Fail to support the gradual **habituation process** necessary for skill development
+1. **Narrow field of affordances**: Provides limited action possibilities that restrict opportunities for developing and exercising human capacities
+2. **Discourages agential control**: Encourages habitual responses to environmental triggers rather than initiating activities with full control
+3. **Undermines habituation**: Creates conditions that prevent the gradual, practice-based development of capacities
+4. **Reduces intersubjectivity**: Limits opportunities for shared understanding and valuing of capacities through human relationships
+5. **Diminishes embodiment**: Restricts physical presence and sensory experience necessary for capacity development
 
-## Examples in Market Research
+## Examples in AI Context
 
-1. **AI-powered survey tools** that automate questionnaire design without preserving opportunities for researchers to develop their understanding of question framing through practice and failure
+- **AI automation of routine tasks**: Deprives users of "routine opportunities to practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025), leaving them unprepared for exceptional circumstances
+- **Disembodied digital interactions**: Social media platforms that require "more discipline for a diminished experience" of technologically mediated virtue friendships (Grasso 2025)
+- **Artificial Personal Assistants**: Create environments where users become plan-followers rather than plan-formers, responding to AI-generated recommendations rather than initiating planning activities
 
-2. **Automated data interpretation systems** that provide ready-made insights without requiring researchers to engage in the iterative process of developing analytical judgment
+## Mechanisms of Capacity Impoverishment
 
-3. **Virtual research platforms** that replace face-to-face interactions with disembodied digital interfaces, undermining the development of empathy and social capacities essential for qualitative research
-
-4. **AI scheduling assistants** that manage researchers' calendars without opportunities to develop time management skills through trial and error
-
-## Consequences
-When market research professionals operate in capacity-hostile environments:
-
-- They experience **capacity impoverishment** across epistemic, social, creative, and volitional domains
-- Their ability to exercise **practical rationality** (phronesis) diminishes, reducing their capacity for wise judgment in complex research scenarios
-- The **value-chain shift** accelerates as organizations prioritize AI efficiency over human capacity development
-- The **entry-level squeeze** intensifies as foundational research tasks become automated, eliminating traditional training grounds
+1. **Affordance shrinkage**: Systematic, enduring reduction in action possibilities that discourages users from finding compensatory avenues
+2. **Shallow valuation**: When persons develop capacities in shallow ways, they cannot learn to value masterful levels of those capacities
+3. **Structural discouragement**: Environments designed to herd users toward certain behaviors regardless of individual dispositions
 
 ## Contrast with Capacity-Conducive Environments
-Unlike [[capacity-conducive-environments]], which actively encourage capacity development through rich opportunities for embodied interaction and shared valuing, capacity-hostile environments create conditions where researchers cannot develop the deep expertise needed to complement AI systems effectively. This structural problem explains the growing **human operating model gap** observed in AI adoption.
 
-## Remediation Strategies
-Organizations can transform capacity-hostile environments by:
+Unlike [[capacity-conducive-environments]], capacity-hostile environments fail to encourage structured and unstructured embodied interactions necessary for intersubjective habituation of capacities. They particularly undermine the development of [[social-capacities]] and [[epistemic-capacities]] that require physical presence and shared experiences.
 
-- Designing AI tools with **deliberate friction** that preserves opportunities for skill development
-- Creating structured mentorship programs that support **intersubjective habituation**
-- Ensuring research workflows maintain **embodied interaction** with participants
-- Implementing reflection practices that develop **agential control** over AI-assisted workflows
+## Update: 2026-07-25
 
-*Last updated: 2026-07-22 | First observed: 2026-07-03*
+Expanded with specific mechanisms from Ferdman's analysis, including detailed explanation of how narrow fields of affordances systematically undermine capacity development. Added concrete examples of AI systems that create capacity-hostile conditions, particularly focusing on the distinction between plan-forming versus plan-following behaviors. Incorporated analysis of how capacity-hostile environments undermine the volitional capacity by removing opportunities to exercise willpower in developing other capacities.
