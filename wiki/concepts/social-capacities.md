@@ -1,69 +1,51 @@
 # [[social-capacities]]
 
 ## Definition
-The human capacities related to **forming meaningful relationships, understanding others' perspectives, and participating in communal life**, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
+Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and can be undermined by AI systems through reduced embodied interaction.
 
-## Philosophical Foundation
-Ferdman identifies two essential components of social capacities:
+## Key Components
+Ferdman identifies two fundamental aspects of social capacities:
 
 ### Moral Capacity
-- Recognizing and responding to **moral demands**
-- Developing **ethical sensitivity** through experience
-- Understanding **right action** in complex situations
-- Essential for navigating moral dimensions of life
+- Recognizing others as moral agents
+- Making ethical judgments in complex situations
+- Understanding moral reasons for action
+- Developing moral sensitivity through experience
 
 ### Relational Capacity
-- Forming **meaningful relationships** of friendship and love
-- Developing **shared understanding** with others
-- Participating in **communal life** and shared practices
-- Essential for human connection and belonging
+- Forming meaningful friendships and love relationships
+- Understanding others' perspectives and emotions
+- Participating in communal life and shared practices
+- Building trust and rapport with others
 
-As Ferdman explains: *'The social capacities include the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love.'*
+## Role in Life-Planning
+Ferdman emphasizes that social capacities are essential for life-planning:
+- Planning involves coordinating with others toward complex goals
+- Life goals (e.g., being a good parent, helping combat climate change) are drawn from social relationships
+- Social relationships provide reasons for action that inform life planning
+- Moral considerations shape decisions about what constitutes a flourishing life
 
-## Critical Role in Human Flourishing
-Social capacities are constitutive of flourishing because:
-- They enable **competent exercise** of relationship-building activities
-- Their development yields **intrinsic value** through connection and community
-- Impoverishment leads to **diminished capacity** for meaningful interaction
-- They are essential for **self-worth** and **mutual respect** in relationships
+## Implications for AI Systems
+Ferdman argues that disembodied AI interaction environments can undermine social capacities through:
+- Making it harder to recognize others as moral agents without embodied interaction
+- Requiring more mental effort to attribute moral agency to others
+- Creating technologically mediated relationships that require more discipline for diminished experience
+- Narrowing the affordance space for developing meaningful relationships
 
-## Threats from AI Systems
-AI systems undermine social capacities through:
+## Professional Context
+In market research, social capacities manifest as:
+- Building rapport with research participants
+- Understanding participants' perspectives and experiences
+- Ethical conduct in handling sensitive data
+- Collaborating effectively with research teams
+- Communicating findings with nuance and context
 
-### Artificial Personal Assistants
-APAs disrupt social development by:
-- Replacing **human interaction** with algorithmic guidance
-- Reducing opportunities for **embodied sense-making** with others
-- Creating environments where users **interact primarily with non-human agents**
-- Undermining **shared valuing** through lack of embodied connection
+## Capacity Development
+Social capacities develop through:
+- Embodied interaction with others, including the return of the gaze
+- Shared experiences that create participatory sense-making
+- Mentorship that instills both techniques and the value of ethical practice
+- Environments that encourage structured and unstructured embodied interactions
 
-### Disembodied Interaction
-Digital interfaces threaten social capacities by:
-- Making it harder to form **meaningful friendships**
-- Requiring more discipline for **diminished relational experience**
-- Creating 'technologically mediated virtue friendships'
-- Fracturing the user's **affordance space into disconnected fields**
-
-## Evidence of Erosion
-Ferdman documents growing evidence of:
-- **Diminished ethical sensitivity** in healthcare (NHS England 2023)
-- **Reduced retention** of tacit knowledge
-- **Weakened moral judgment** (Budzyń et al. 2025)
-- **Erosion of critical thinking** in professional contexts
-
-## Implications for Market Research
-In market research organizations, threats to social capacities manifest as:
-- **[[entry-level-squeeze]]** where AI automates foundational client interaction
-- **[[human-operating-model-gap]]** between AI capabilities and human systems
-- **Erosion of ethical sensitivity** documented in industry studies
-- **Weakened client relationships** as AI handles preliminary analysis
-
-## Preserving Social Capacities
-Organizations can protect social capacities by:
-- Designing AI tools that **augment rather than replace** human interaction
-- Creating structured opportunities for **embodied collaboration**
-- Ensuring AI systems **don't undermine shared valuing** practices
-- Preserving spaces for **face-to-face client engagement**
-- Building **communities of practice** around ethical research standards
-
-As Ferdman concludes, social capacities are not merely instrumental but constitutive of human flourishing. Protecting them requires societal commitment to fostering capacity-conducive environments in the age of AI, particularly those that encourage embodied interaction and shared valuing.
+## Update
+2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how disembodied AI interaction environments can undermine social capacities in professional contexts, with specific examples from research practice.

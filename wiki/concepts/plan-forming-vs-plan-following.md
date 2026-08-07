@@ -1,71 +1,54 @@
 # [[plan-forming-vs-plan-following]]
 
 ## Definition
-The distinction between **actively creating plans through self-deliberation** (requiring agential control) versus **executing pre-determined plans** (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+The distinction between plan-forming and plan-following refers to the difference between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
 ## Philosophical Foundation
-Ferdman draws on Bratman's theory of agency to establish that:
+Ferdman draws on Bratman's theory of agency to explain this distinction:
+- Plan-forming involves two key agential roles: settling (deciding between options) and coordinating (forming and organizing different types of plans)
+- Plan-forming requires exercising epistemic, moral, social, and creative capacities
+- Plan-forming involves taking responsibility for plans and learning from failures
+- Plan-following is more like a habit triggered by environmental cues
+
+## Key Differences
 
 ### Plan-Forming
-- Involves **self-deliberation** on values and goals
-- Requires **settling function**: managing finite cognitive resources when facing choices
-- Requires **coordination function**: forming and organizing different types of plans
-- Enables **response to unexpected events** that could be sources of growth
-- Manifests **practical wisdom** (phronesis) in coordinating intentions with actions
-
-As Ferdman explains: *'Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan, including over initiating the two functions of planning: settling (deciding between options) and coordinating.'*
+- Requires agential control over initiating the planning activity
+- Involves self-deliberation on values and goals
+- Requires practical wisdom in coordinating intentions with actions
+- Involves taking responsibility if plans fail
+- Provides opportunities for self-criticism and improvement
+- Develops epistemic capacities through self-initiated activity
 
 ### Plan-Following
-- Involves **responding to triggers** in the environment
-- Lacks **initiation capability** over planning functions
-- More like a **habit than a skill**
-- Absent the **capacity to will** oneself into initiating planning activity
-- Reduces opportunity for **self-criticism and improvement**
+- Triggered by environmental cues (e.g., AI recommendations)
+- Involves responding to pre-determined plans rather than creating them
+- Requires shallower exercise of capacities involved in planning
+- Allows shifting responsibility for failures to the plan source
+- Reduces opportunities for developing practical wisdom
+- Undermines habituation of planning capacities
 
-## Critical Differences
+## Implications for AI Systems
+Ferdman argues that AI systems like [[artificial-personal-assistants]] can encourage plan-following through:
+- Providing constant recommendations that users respond to rather than initiate
+- Automating routine planning activities that would develop "cognitive musculature"
+- Creating environments where users become accustomed to responding to AI outputs
+- Reducing opportunities to develop practical wisdom through experience
+- Narrowing the field of affordances for self-initiated planning
 
-| **Plan-Forming** | **Plan-Following** |
-|----------------|------------------|
-| Agent initiates planning activity | Activity triggered by environmental cues |
-| Requires agential control | More habitual in nature |
-| Involves self-deliberation on values | Follows pre-determined recommendations |
-| Enables practical wisdom development | Limits real-world experience |
-| Creates responsibility for outcomes | Shifts responsibility to external entity |
-| Supports habituation process | Undermines skill development |
+## Professional Context
+In market research, this distinction manifests as:
+- Plan-forming: Developing innovative research approaches through self-deliberation
+- Plan-following: Executing standardized research templates without adaptation
+- Plan-forming: Taking responsibility for research design choices and learning from failures
+- Plan-following: Following AI-generated research protocols without critical evaluation
 
-## Threats from AI Systems
+## Capacity Development
+Plan-forming supports capacity development by:
+- Providing opportunities to exercise agential control
+- Developing practical wisdom through experience
+- Strengthening epistemic capacities through self-deliberation
+- Building volitional capacity through effortful planning
 
-### Artificial Personal Assistants
-APAs encourage plan-following through:
-- Providing **constant availability** as 'always-on sounding board'
-- Offering **personalized recommendations** based on past behavior
-- Creating environments where users **respond to APA outputs** rather than initiating planning
-- Reducing need for **small-scale decision-making** that builds broader skills
-
-As Ferdman states: *'Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment.'*
-
-### Cumulative Impact
-The paper documents how over-reliance on APAs leads to:
-- **Reduced sense of personal competence** (Gabriel et al. 2024)
-- **Diminished practical wisdom** through lack of real-world experience
-- **Weakened capacity to will** oneself into initiating planning activities
-- **Narrowed field of affordances** for life-planning activities
-
-## Implications for Market Research
-In market research organizations, the plan-forming vs. plan-following distinction explains:
-- **[[entry-level-squeeze]]** where AI automates foundational planning tasks
-- **[[human-operating-model-gap]]** between AI capabilities and human development systems
-- **Erosion of critical thinking** documented in industry studies
-- **Weakened ethical sensitivity** as AI handles preliminary planning
-
-The shift from plan-forming to plan-following directly contributes to capacity-hostile environments where researchers lose opportunities to develop through self-deliberation.
-
-## Preserving Plan-Forming Opportunities
-Organizations can protect plan-forming capacity by:
-- Designing AI tools that **support rather than replace** self-deliberation
-- Creating 'training wheels' approaches where AI support **decreases over time**
-- Ensuring researchers maintain **final decision authority** over planning
-- Providing opportunities for **embodied deliberation** that cannot be fully automated
-- Building **failure-tolerant environments** where mistakes become learning opportunities
-
-As Ferdman concludes, preserving plan-forming capacity is not merely an individual responsibility but requires capacity-conducive environments that society must actively foster in the age of AI.
+## Update
+2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how AI systems encourage plan-following behavior at the expense of plan-forming agency in professional contexts.

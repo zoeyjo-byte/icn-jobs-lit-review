@@ -1,61 +1,43 @@
 # [[creative-capacities]]
 
 ## Definition
-The human capacities related to **generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces**, which enable innovation and adaptation. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
+Creative capacities are the human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and can be undermined by AI systems through reduced opportunities for embodied problem-solving.
 
-## Philosophical Foundation
-Ferdman defines creative capacities as involving:
-- Making **unfamiliar combinations** of familiar ideas
-- **Transforming conceptual spaces** without relying merely on luck, accidents, or mechanical procedures
-- Generating **novel solutions** to complex problems
-- Enabling **innovation and adaptation** in changing circumstances
+## Key Characteristics
+Ferdman explains that creative capacities involve:
+- Making unfamiliar combinations of familiar ideas
+- Transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures
+- Responding to novel situations, surprises, and unexpected events
+- Generating innovative approaches to complex problems
 
-As Ferdman explains: *'The capacity for creativity involves making unfamiliar combinations of familiar ideas, transforming a conceptual space (Boden 2004), without relying merely on luck, accidents, or mechanical procedures (Gaut, 2010).'*
+## Role in Life-Planning
+Ferdman emphasizes that creative capacities are essential for life-planning:
+- Planning is always incomplete and requires the ability to reconsider and respond to novel situations
+- Executing plans requires creativity in adapting to changing circumstances
+- Navigating unexpected events in life requires creative problem-solving
+- Transforming conceptual spaces enables reimagining one's life path
 
-## Critical Role in Human Flourishing
-Creative capacities are constitutive of flourishing because:
-- They enable **competent exercise** of innovation-related activities
-- Their development yields **intrinsic value** through novelty and transformation
-- Impoverishment leads to **diminished capacity** for adaptive problem-solving
-- They are essential for **responding to unexpected events** in life planning
+## Implications for AI Systems
+Ferdman argues that AI systems can undermine creative capacities through:
+- Providing ready-made solutions that reduce opportunities for creative problem-solving
+- Automating routine tasks that would otherwise develop creative approaches
+- Creating environments with narrow fields of affordances that limit creative exploration
+- Reducing embodied interaction that is essential for creative insight
 
-## Threats from AI Systems
-AI systems undermine creative capacities through:
+## Professional Context
+In market research, creative capacities manifest as:
+- Developing innovative research methodologies
+- Generating novel insights from data
+- Adapting research approaches to unexpected challenges
+- Transforming conceptual frameworks for understanding consumer behavior
+- Creating compelling narratives from research findings
 
-### Artificial Personal Assistants
-APAs disrupt creative development by:
-- Providing **pre-determined solutions** rather than encouraging novel combinations
-- Reducing opportunities for **responding to novel situations** and surprises
-- Creating dependency that **diminishes sense of personal competence**
-- Undermining **plan-forming** in favor of plan-following
+## Capacity Development
+Creative capacities develop through:
+- Opportunities to encounter and overcome disappointment and failure
+- Environments that afford exploration and experimentation
+- Mentorship that encourages creative risk-taking
+- Embodied interaction that provides rich sensory input for creative connections
 
-### Automation Design
-Many AI implementations threaten creative capacities by:
-- **Depriving users of routine opportunities** to practice creative problem-solving
-- Creating **exception-handling scenarios** without foundational skill development
-- **Narrowing the field of affordances** for creative exploration
-- Encouraging **mechanical procedures** rather than novel combinations
-
-## Evidence of Erosion
-Ferdman documents growing evidence of:
-- **Erosion of critical thinking** (Bonicalzi et al. 2023; Gerlich 2025; Lee et al. 2025)
-- **Decline in decision-making** and analytical reasoning (Zhai et al. 2024)
-- **Reduced retention** of tacit knowledge and ethical sensitivity
-- **Weakened capacity** to respond to unexpected events
-
-## Implications for Market Research
-In market research organizations, threats to creative capacities manifest as:
-- **[[entry-level-squeeze]]** where AI automates foundational analysis tasks
-- **[[human-operating-model-gap]]** between AI capabilities and human systems
-- **Erosion of innovative thinking** documented in industry studies
-- **Reduced capacity** to transform conceptual spaces in response to market changes
-
-## Preserving Creative Capacities
-Organizations can protect creative capacities by:
-- Designing AI tools that **augment rather than replace** creative exploration
-- Creating environments with **rich fields of affordances** for novel combinations
-- Ensuring researchers maintain **final decision authority** over creative direction
-- Providing opportunities for **embodied brainstorming** that cannot be fully automated
-- Building **failure-tolerant environments** where unexpected outcomes become learning opportunities
-
-As Ferdman concludes, creative capacities are not merely instrumental but constitutive of human flourishing. Protecting them requires societal commitment to fostering capacity-conducive environments in the age of AI that encourage novel combinations and conceptual transformation rather than mechanical procedures.
+## Update
+2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how AI systems can undermine creative capacities in professional contexts, with specific examples from research practice.
