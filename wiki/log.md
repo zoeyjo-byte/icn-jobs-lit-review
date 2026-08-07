@@ -49,3 +49,4 @@ Chronological record of every ingest operation.
 2026-08-04: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-05: Ingested s00146-025-02686-z.txt. Created 0, updated 7.
 2026-08-06: Ingested s00146-025-02686-z.txt. Created 0, updated 5. Synthesized Ferdman's analysis of capacity-hostile environments across concept and entity pages, with particular focus on the plan-forming vs. plan-following distinction and its implications for AI's impact on human capacity development.
+2026-08-07: Ingested s00146-025-02686-z.txt. Created 0, updated 15.

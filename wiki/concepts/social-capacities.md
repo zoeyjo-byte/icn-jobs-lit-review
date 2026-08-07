@@ -1,76 +1,69 @@
-# Social Capacities
+# [[social-capacities]]
 
-**First Observed**: 2026-07-18 | **Last Updated**: 2026-07-22
+## Definition
+The human capacities related to **forming meaningful relationships, understanding others' perspectives, and participating in communal life**, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
 
-Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be systematically undermined by AI systems that create capacity-hostile environments.
-
-## Core Components
+## Philosophical Foundation
+Ferdman identifies two essential components of social capacities:
 
 ### Moral Capacity
-- Recognizing others as moral agents
-- Understanding ethical principles and applying them in context
-- Developing moral sensitivity through embodied interaction
-- Example: Recognizing when a colleague needs support beyond professional requirements
+- Recognizing and responding to **moral demands**
+- Developing **ethical sensitivity** through experience
+- Understanding **right action** in complex situations
+- Essential for navigating moral dimensions of life
 
 ### Relational Capacity
-- Forming meaningful relationships of friendship and love
-- Understanding others' perspectives and emotional states
-- Participating in communal life and shared practices
-- Example: Building trust through consistent, reliable interaction over time
+- Forming **meaningful relationships** of friendship and love
+- Developing **shared understanding** with others
+- Participating in **communal life** and shared practices
+- Essential for human connection and belonging
 
-## Development Process
-Social capacities develop through:
+As Ferdman explains: *'The social capacities include the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love.'*
 
-### Embodied Interaction
-- Spontaneous recognition of others as moral agents through voice and gaze
-- Without return of the gaze, we would be hard-pressed to recognize others as moral agents
-- Disembodied interaction requires more mental effort to attribute moral agency
-- Example: Video calls make moral recognition more difficult than in-person interaction
+## Critical Role in Human Flourishing
+Social capacities are constitutive of flourishing because:
+- They enable **competent exercise** of relationship-building activities
+- Their development yields **intrinsic value** through connection and community
+- Impoverishment leads to **diminished capacity** for meaningful interaction
+- They are essential for **self-worth** and **mutual respect** in relationships
 
-### Intersubjective Habituation
-- Becoming socially skilled requires mentors to instill both mechanical aspects and intrinsic value of relationships
-- Shared valuing develops through relationships where both mentor and mentee view social capacities as valuable
-- Social practices performed by groups generate moral reasons for action
-- Example: Community organizations establishing shared valuing of civic engagement
+## Threats from AI Systems
+AI systems undermine social capacities through:
 
-### Participatory Sense-Making
-- Meaning is generated in the interplay between unfolding interaction and participants
-- Social interaction itself constitutes an essential part of the cognitive process
-- Embodied understanding develops through shared history and participatory sense-making
-- Example: Learning workplace culture through shared experiences rather than formal rules
-
-## AI Threat Analysis
-Digital environments threaten social capacities through:
+### Artificial Personal Assistants
+APAs disrupt social development by:
+- Replacing **human interaction** with algorithmic guidance
+- Reducing opportunities for **embodied sense-making** with others
+- Creating environments where users **interact primarily with non-human agents**
+- Undermining **shared valuing** through lack of embodied connection
 
 ### Disembodied Interaction
-- Smartphones provide disconnected interaction possibilities (swiping, clicking, scrolling)
-- This fractures users' affordance space into disconnected fields, leading to alienation
-- Technologically mediated virtue friendships require more discipline for diminished experience
-- Example: Social media interactions that prioritize quantity over quality of connections
+Digital interfaces threaten social capacities by:
+- Making it harder to form **meaningful friendships**
+- Requiring more discipline for **diminished relational experience**
+- Creating 'technologically mediated virtue friendships'
+- Fracturing the user's **affordance space into disconnected fields**
 
-### Narrowed Affordance Fields
-- AI systems that automate relationship-building processes
-- Recommendation algorithms that narrow social exposure
-- Communication tools that reduce interaction to standardized responses
-- Example: Dating apps that reduce relationship formation to swipe-based selection
+## Evidence of Erosion
+Ferdman documents growing evidence of:
+- **Diminished ethical sensitivity** in healthcare (NHS England 2023)
+- **Reduced retention** of tacit knowledge
+- **Weakened moral judgment** (Budzyń et al. 2025)
+- **Erosion of critical thinking** in professional contexts
 
-## Structural Implications
-The deskilling of social capacities represents a structural problem because:
-- Disembodied environments make it harder to form meaningful relationships necessary for shared valuing
-- Without proper mentoring and embodied interaction, individuals cannot develop social capacities
-- Capacity-hostile environments create conditions where moral recognition becomes increasingly difficult
-- Example: Workplace environments that prioritize digital communication over face-to-face interaction
+## Implications for Market Research
+In market research organizations, threats to social capacities manifest as:
+- **[[entry-level-squeeze]]** where AI automates foundational client interaction
+- **[[human-operating-model-gap]]** between AI capabilities and human systems
+- **Erosion of ethical sensitivity** documented in industry studies
+- **Weakened client relationships** as AI handles preliminary analysis
 
-## Contrast with Instrumentalist Views
-Unlike instrumentalist approaches that treat social capacities as tools to achieve goals, the structural perspective recognizes:
-- The process of relationship development has intrinsic value
-- Being a certain kind of social agent matters more than merely achieving social outcomes
-- Example: The value of friendship comes from the shared experience, not just the benefits received
+## Preserving Social Capacities
+Organizations can protect social capacities by:
+- Designing AI tools that **augment rather than replace** human interaction
+- Creating structured opportunities for **embodied collaboration**
+- Ensuring AI systems **don't undermine shared valuing** practices
+- Preserving spaces for **face-to-face client engagement**
+- Building **communities of practice** around ethical research standards
 
-## Preservation Strategies
-Protecting social capacities requires:
-- Designing AI tools that enhance rather than replace embodied interaction
-- Creating environments that encourage rather than discourage face-to-face engagement
-- Preserving opportunities for unstructured social interaction
-- Supporting public spaces that facilitate meaningful community building
-- Example: Workplace policies that balance digital tools with regular in-person collaboration
+As Ferdman concludes, social capacities are not merely instrumental but constitutive of human flourishing. Protecting them requires societal commitment to fostering capacity-conducive environments in the age of AI, particularly those that encourage embodied interaction and shared valuing.

@@ -1,51 +1,65 @@
 # [[agential-control]]
 
 ## Definition
-The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues. This concept is fundamental to understanding the difference between human expertise and automated behavior in market research contexts.
+The ability to **adjust the execution of an action as the performance unfolds**, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
 ## Philosophical Foundation
-Ferdman draws on skill philosophy to establish that agential control involves:
+Drawing on skill philosophy, Ferdman establishes that agential control involves:
+- **Flexible links between thought and action** that continue evolving even after expertise is achieved
+- **Balance between automaticity and control** that shifts through a process of tuning and attuning
+- **Initiation capability** where the agent has full control over starting the activity
 
-- **Initiation control**: The capacity to begin an activity rather than merely respond to environmental triggers
-- **Adjustment flexibility**: The ability to modify execution as circumstances change
-- **Responsibility assumption**: Taking ownership for outcomes, including failures that provide learning opportunities
-- **Value integration**: Aligning actions with deeper understanding of why the activity matters
+As Ferdman states: *'To be skilled in something is to have agential control over it, the ability to adjust the execution of the action as the performance unfolds.'*
 
-## Contrast with Habitual Behavior
-| **Agential Control** | **Habitual Behavior** |
-|----------------------|------------------------|
-| Initiated by the agent | Triggered by environment |
-| Flexible adjustment | Rigid execution |
-| Responsibility assumed | Responsibility displaced |
-| Value-integrated | Value-neutral |
-| Requires volitional capacity | Requires minimal willpower |
+## Distinction from Habitual Action
+Agential control fundamentally differs from habitual action:
 
-## Market Research Implications
-In AI-augmented market research, agential control manifests through:
+| **Agential Control (Skill)** | **Habitual Action** |
+|---------------------------|---------------------|
+| Agent initiates the activity | Activity triggered by environmental cues |
+| Agent adjusts execution during performance | Execution follows predetermined pattern |
+| Requires conscious engagement | Often operates below conscious awareness |
+| Develops through habituation process | Forms through repetition and reinforcement |
+| Enables novel behavior in response to circumstances | Limited to previously encountered situations |
 
-- **Research design**: Researchers who initiate and adjust methodologies based on emerging insights rather than following AI-prescribed templates
-- **Data interpretation**: Analysts who exercise judgment in contextualizing AI-generated insights rather than accepting outputs uncritically
-- **Ethical decision-making**: Professionals who take responsibility for research ethics rather than deferring to AI recommendations
-- **Client communication**: Researchers who adapt messaging based on client reactions rather than delivering standardized reports
+## Critical Role in Capacity Development
+Agential control is essential for developing human capacities because:
+- It enables **self-deliberation** in planning activities
+- Supports **responsibility-taking** when plans succeed or fail
+- Allows **adjustment to novel situations** and unexpected events
+- Facilitates **learning from mistakes** through conscious reflection
+- Underpins the development of **practical wisdom** (phronesis)
 
 ## Threats from AI Systems
-AI tools can undermine agential control through:
+As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], AI systems threaten agential control through:
 
-- **Automation bias**: Over-trusting AI recommendations without critical evaluation
-- **Decision offloading**: Transferring responsibility for research judgments to AI systems
-- **Template dependency**: Relying on AI-generated research frameworks without modification
-- **Feedback loop reduction**: Eliminating opportunities to learn from mistakes when AI handles error correction
+### Artificial Personal Assistants
+APAs encourage **plan-following rather than plan-forming**:
+- Users respond to APA recommendations rather than initiating planning functions
+- Settling and coordinating functions of planning are offloaded to the AI
+- Reduced opportunity to take responsibility for plan outcomes
+- Diminished development of practical wisdom through real-world experience
+
+### Automation Design
+Many AI systems are designed to minimize user agency:
+- 'Always-on' availability discourages independent action initiation
+- Seamless integration removes friction points necessary for skill development
+- Personalization creates dependency on AI recommendations
+- Offloading routine tasks weakens 'cognitive musculature' needed for exceptions
+
+## Implications for Market Research
+In market research organizations, preserving agential control is critical for:
+- Maintaining **researcher expertise** in interpreting AI-generated insights
+- Preventing **deskilling of junior analysts** who need opportunities to develop judgment
+- Ensuring **quality control** when AI handles preliminary analysis
+- Supporting **innovation** through novel combinations of insights
+
+The **[[entry-level-squeeze]]** phenomenon directly relates to diminished agential control, as AI systems automate foundational tasks that traditionally provided training grounds for developing research expertise.
 
 ## Preserving Agential Control
-Market research organizations can maintain agential control by:
-
-1. Implementing **AI transparency requirements** that reveal the reasoning behind recommendations
-2. Designing **deliberate friction** in AI tools that requires researcher input at critical decision points
-3. Creating **reflection protocols** where researchers document their judgment process alongside AI outputs
-4. Establishing **error review sessions** that normalize learning from research mistakes
-5. Developing **hybrid workflows** where AI handles routine tasks while humans focus on novel, complex challenges
-
-## Connection to Skills Gap
-The erosion of agential control explains the **seniorised roles** phenomenon where entry-level positions increasingly demand skills traditionally reserved for senior positions. When AI handles routine tasks, researchers must demonstrate higher-order judgment capabilities from the outset, but without opportunities to develop these through the **habituation process**, creating a structural skills gap.
-
-*Last updated: 2026-07-22 | First observed: 2026-07-03*
+Organizations can protect agential control by:
+- Designing AI tools with **intentional friction points**
+- Creating 'training wheels' approaches where AI support decreases over time
+- Ensuring researchers maintain **final decision authority**
+- Providing opportunities for **plan-forming** alongside AI assistance
+- Preserving spaces for **embodied deliberation** that cannot be fully automated

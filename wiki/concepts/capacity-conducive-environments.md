@@ -1,51 +1,64 @@
 # [[capacity-conducive-environments]]
 
 ## Definition
-Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to [[capacity-hostile-environments]]. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities, with critical implications for sustainable AI integration in market research.
+Environments that **actively encourage the development and exercise of human capacities** through rich opportunities for embodied interaction and shared valuing, providing alternatives to capacity-hostile conditions as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities.
 
-## Essential Components
-Capacity-conducive environments provide:
+## Essential Characteristics
+- Provide **broad fields of affordances** that invite valuable activities
+- Encourage **embodied engagement** rather than merely affording it
+- Support **intersubjective habituation** through mentor-mentee relationships
+- Foster **shared valuing** of capacities through community practices
+- Enable development of **agential control** over capacity execution
 
-1. **Embodied interaction opportunities** - Physical presence and sensory experience essential for developing social and moral capacities
-2. **Intersubjective mentorship** - Guidance from experienced practitioners who instill both mechanical aspects and value of skills
-3. **Gradual habituation pathways** - Structured progression from novice to expert through successive trials and learning from mistakes
-4. **Agential control preservation** - Opportunities to initiate and adjust activities rather than merely respond to environmental triggers
-5. **Shared valuing of capacities** - Cultural recognition of the intrinsic worth of developing human capacities
+## Key Components
 
-## Market Research Implementation
-In market research organizations, capacity-conducive environments manifest through:
+### Embodied Interaction Spaces
+As emphasized in [[ferdman-2026-ai-deskilling-structural-problem]], capacity-conducive environments include:
+- **Community centers** that facilitate face-to-face interaction
+- **Quality public spaces** designed for spontaneous encounters
+- **Public libraries** that afford reading and knowledge sharing
+- **Workspaces** that encourage embodied collaboration rather than digital isolation
 
-- **Hybrid research methodologies** that combine AI efficiency with human-led qualitative components requiring embodied interaction
-- **Structured mentorship programs** where junior researchers learn through guided practice rather than solely relying on AI tools
-- **Deliberate friction design** in AI tools that preserves opportunities for developing analytical judgment through challenging cases
-- **Community spaces** (physical or virtual) that encourage shared reflection on research practice and values
-- **Error-embracing cultures** that normalize disappointment and failure as necessary components of the **habituation process**
+These physical spaces are critical because, as Ferdman notes: *'Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents.'*
+
+### Intersubjective Habituation Framework
+Capacity-conducive environments support the two essential components of habituation:
+
+1. **Intersubjectivity**: 
+   - Provide mentors who instill both mechanical aspects and **value of the skill**
+   - Create shared intentions and 'shared valuing' between mentor and mentee
+   - Enable social practices that generate moral reasons for action
+   - As Alasdair MacIntyre noted, learning occurs through 'the habits of a common life'
+
+2. **Embodiment**:
+   - Facilitate 'participatory sense-making' through embodied interaction
+   - Enable recognition of others as moral agents through voice and gaze
+   - Support development of social capacities through physical presence
+   - Create conditions where 'meaning is generated and transformed in the interplay between unfolding interaction and participants'
+
+## Application to Market Research
+In market research organizations, capacity-conducive environments would feature:
+
+- **Hybrid research methodologies** that balance AI analysis with human interpretation
+- **Structured mentorship programs** connecting junior and senior researchers
+- **Collaborative workspaces** designed for embodied sense-making
+- **Deliberate 'friction points'** that preserve opportunities for habituation
+- **Shared valuing practices** that celebrate development of epistemic and social capacities
+
+Such environments directly address the **[[human-operating-model-gap]]** by ensuring AI adoption doesn't eliminate the affordances necessary for developing research expertise.
 
 ## Contrast with Capacity-Hostile Environments
-Unlike [[capacity-hostile-environments]], which narrow the field of affordances and encourage plan-following behaviors, capacity-conducive environments:
+Unlike **[[capacity-hostile-environments]]** which create narrow fields of affordances, capacity-conducive environments:
+- Provide sufficient invitations for valuable activities
+- Encourage agents to develop and exercise their **[[volitional-capacity]]**
+- Enable the gradual process of habituation through successive trials
+- Support development of practical wisdom through real-world experience
 
-- Expand opportunities for **plan-forming vs plan-following**
-- Support development of **volitional capacity** through appropriately challenging tasks
-- Foster **intersubjectivity in skilling** through meaningful human-to-human guidance
-- Maintain rich **embodiment in skilling** essential for social capacities
-- Enable the gradual **habituation process** necessary for true expertise
+## Implementation Guidance
+Organizations can foster capacity-conducive environments by:
+- Designing AI tools that **augment rather than replace** human decision-making
+- Creating 'training wheels' approaches where AI support gradually decreases
+- Preserving opportunities for **plan-forming** rather than encouraging plan-following
+- Ensuring AI systems don't undermine the **habituation process** essential for expertise development
 
-## Business Value
-Organizations cultivating capacity-conducive environments demonstrate:
-
-- 23% higher retention of research talent according to [[mrii-2026-market-research-study]]
-- Greater innovation capacity as researchers develop deeper **creative capacities**
-- Enhanced ethical decision-making through preserved **social capacities**
-- More effective AI implementation as researchers maintain **epistemic capacities** to evaluate AI outputs
-- Reduced **human operating model gap** through aligned human-AI development
-
-## Implementation Framework
-Creating capacity-conducive environments requires:
-
-1. **Environmental audit** to identify capacity-hostile elements in current workflows
-2. **Affordance mapping** to redesign workflows preserving critical capacity-development opportunities
-3. **Mentorship infrastructure** supporting intersubjective habituation
-4. **Evaluation metrics** tracking capacity development alongside productivity
-5. **Leadership commitment** to valuing human capacity development as strategic imperative
-
-*Last updated: 2026-07-22 | First observed: 2026-07-03*
+As Ferdman concludes, these environments represent a societal obligation in the age of AI, not merely an individual responsibility.

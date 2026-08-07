@@ -1,53 +1,66 @@
-# Intersubjectivity in Skilling
+# [[intersubjectivity-in-skilling]]
 
-**First Observed**: 2026-07-03 | **Last Updated**: 2026-07-22
-
-Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill. Skills development cannot occur in isolation but requires relationships that foster shared valuing of capacities.
+## Definition
+The **shared understanding dimension of skill development**, where learning occurs through relationships with others who guide and share the value of the skill. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill. Skill development cannot occur in isolation but requires intersubjective relationships that create shared valuing of capacities.
 
 ## Philosophical Foundation
-The concept emerges from:
-- Virtue ethics frameworks where moral development occurs through relationships
-- Social epistemology recognizing knowledge as socially situated
-- Enactive cognition approaches emphasizing participatory sense-making
+Ferdman establishes that intersubjectivity in skilling involves:
 
-## Critical Components
+### Mentor-Mentee Relationship
+- Mentor provides **guidance in practice of the right kind**
+- Instills not only **mechanical aspects** but also **value of the skill**
+- Creates conditions where mentee eventually **views the value as their own**
+- Develops **shared intentions** and 'shared valuing' of the skill
 
-### Mentor-Mentee Relationships
-- Good mentors are typically necessary to cultivate proper motivational structure for skill development
-- Mentors instill both technical competence and appreciation for the skill's intrinsic value
-- Shared intentions develop where both mentor and mentee come to view the skill's value as their own
-- Example: A writing mentor doesn't just teach grammar but cultivates appreciation for clear communication as valuable in itself
+As Ferdman states: *'A good mentor is typically necessary in order to cultivate the proper motivational structure for becoming skilled... the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill, such that in the process of habituation, the skilled agent eventually comes to view the value of the skill as their own.'*
 
-### Societal-Level Practices
-- Social practices performed by groups or whole societies provide mentoring environments
-- Family, colleagues, and citizens collectively generate moral reasons for action
-- Social practices have constitutive aims (telos) that ultimately help people fare well
-- Example: Academic communities establish shared valuing of intellectual rigor through peer review and discourse
+### Societal Dimension
+Intersubjectivity extends beyond individual mentorship to societal practices:
+- Social practices performed by groups provide **mentoring environments**
+- Family, colleagues, and citizens create **shared valuing contexts**
+- As Kate Manne argues, social practices **generate moral reasons for action**
+- Alasdair MacIntyre noted learning occurs through 'the habits of a common life'
 
-## AI Impact Analysis
-AI systems threaten intersubjectivity in skilling through:
+## Critical Role in Capacity Development
+Intersubjectivity is essential because:
+- Enables transmission of **tacit knowledge** that cannot be codified
+- Creates **shared understanding** of why a capacity matters
+- Supports development of **practical wisdom** through real-world examples
+- Provides **emotional scaffolding** during challenging learning phases
+- Establishes **normative frameworks** for evaluating skill development
 
-### Replacement of Human Guidance
-- Artificial Personal Assistants provide advice without shared valuing of capacities
-- APAs lack the ability to instill appreciation for why capacities matter beyond instrumental value
-- Example: An AI life coach might help organize daily tasks but cannot convey why self-directed planning matters for human flourishing
+## Threats from AI Systems
+AI systems undermine intersubjectivity in skilling through:
 
-### Erosion of Shared Valuing
-- When enough persons don't value excellence in human capacities, those capacities risk atrophy
-- AI-mediated environments make it harder to develop the shared understanding necessary to appreciate capacities
-- Example: Over-reliance on AI for critical thinking diminishes societal valuing of deep analytical reasoning
+### Artificial Personal Assistants
+APAs disrupt intersubjective learning by:
+- Replacing **human mentors** with algorithmic guidance
+- Providing advice without **shared history** or embodied understanding
+- Lacking capacity to instill **value of the skill** beyond instrumental utility
+- Creating environments where users **don't develop shared valuing**
 
-## Structural Implications
-The intersubjective dimension reveals why deskilling is a structural problem:
-- Learning to value a capacity is part of the habituation process; without proper mentoring, individuals cannot learn to value more masterful levels of capacities
-- On a societal scale, when environments lack opportunities for intersubjective skill development, capacities become devalued
-- Capacity-hostile environments create conditions where individuals cannot develop the shared understanding necessary to resist deskilling
+### Disembodied Interaction
+Digital interfaces threaten intersubjectivity by:
+- Reducing opportunities for **embodied sense-making**
+- Making it harder to form **meaningful relationships**
+- Requiring more mental effort to **attribute moral agency** to others
+- Creating 'technologically mediated virtue friendships' with **diminished experience**
 
-As Ferdman argues, this necessitates societal solutions that preserve opportunities for meaningful intersubjective learning rather than expecting individuals to cultivate capacities in isolation. The **volitional-capacity** itself depends on intersubjective relationships that model why capacity development matters for human flourishing within a **developmental-perfectionism** framework.
+## Implications for Market Research
+In market research organizations, disrupted intersubjectivity manifests as:
+- **[[entry-level-squeeze]]** where traditional mentorship pathways disappear
+- **Weakened ethical sensitivity** as AI handles preliminary analysis
+- **Loss of tacit knowledge** documented in industry studies
+- **Erosion of shared valuing** around research quality standards
 
-## Contrast with Individual-Responsibility Approaches
-Unlike frameworks that treat deskilling as individual failing, the intersubjective perspective recognizes that:
-- Persons cannot be expected to 'will themselves' to cultivate capacities if their social environment doesn't value them
-- First, agents lack proper mentoring for the 'know-how' of capacity development
-- Second, they cannot obtain shared understanding regarding the value of capacities
-- Example: Students cannot develop critical thinking if educational environments prioritize AI-generated content over thoughtful discussion
+The **[[human-operating-model-gap]]** directly relates to disrupted intersubjective learning, as AI adoption outpaces adaptation of human development systems.
+
+## Preserving Intersubjective Learning
+Organizations can protect intersubjective skilling by:
+- Designing AI tools that **augment rather than replace** human mentorship
+- Creating **structured opportunities** for embodied interaction
+- Ensuring AI systems **don't undermine shared valuing** practices
+- Preserving spaces for **shared deliberation** that cannot be fully automated
+- Building **communities of practice** around research excellence
+
+As Ferdman concludes, intersubjectivity is not merely an individual responsibility but requires capacity-conducive environments that society must actively foster in the age of AI. Without these environments, the shared understanding necessary for capacity development cannot flourish.

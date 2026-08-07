@@ -1,97 +1,70 @@
-# Human Capacities
+# [[human-capacities]]
 
-**First Observed**: 2026-07-15 | **Last Updated**: 2026-07-22
+## Definition
+Core abilities that **constitute human flourishing**, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of our flourishing, and their impoverishment leads to diminished lives.
 
-Human capacities are core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are not merely instrumental but constitutive of human flourishing within a developmental-perfectionism framework.
+## Philosophical Foundation
+Drawing on Developmental Perfectionism (Kauppinen 2025), Ferdman identifies four core human capacities:
 
-## Four Core Capacity Categories
-
-### Epistemic Capacities
-**Definition**: Human capacities related to knowledge, reasoning, and understanding.
-
-**Components**:
-- Theoretical rationality: thinking, considering reasons to believe, forming beliefs, contemplating
-- Practical rationality (phronesis): doing the right thing in the right way for the right reason
-
-**Flourishing Role**:
+### [[epistemic-capacities]]
+- **Theoretical rationality**: thinking, considering reasons to believe, forming beliefs, contemplating
+- **Practical rationality** (phronesis/common sense/wisdom): doing the right thing in the right way for the right reason
 - Essential for navigating truth and making informed decisions
-- Enable competent exercise of practical reason
-- Constitute intrinsic value through knowledge achievement
 
-**AI Threats**:
-- Erosion of critical thinking through over-reliance on AI-generated content
-- Diminished diagnostic reasoning in healthcare AI systems
-- Reduced capacity for self-deliberation when using AI life planners
+### [[social-capacities]]
+- **Moral capacity**: recognizing and responding to moral demands
+- **Relational capacity**: developing meaningful relationships of friendship and love
+- Essential for forming meaningful relationships and participating in communal life
 
-### Social Capacities
-**Definition**: Human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life.
+### [[creative-capacities]]
+- Making **unfamiliar combinations** of familiar ideas
+- **Transforming conceptual spaces** without relying merely on luck or mechanical procedures
+- Essential for innovation and adaptation
 
-**Components**:
-- Moral capacity: recognizing others as moral agents, understanding ethical principles
-- Relational capacity: developing meaningful relationships of friendship and love
+### [[volitional-capacity]]
+- The **meta-capacity** to exert effort, overcome difficulty, persevere, and grow
+- Required for achieving intrinsically valuable goals
+- Necessary for developing all other capacities
 
-**Flourishing Role**:
-- Necessary for mutual respect between persons
-- Enable participation in shared valuing practices
-- Constitute intrinsic value through meaningful relationships
+As Ferdman explains: *'The competent exercise of the human capacities is the manifestation of the achievement of the intrinsically valuable goods, making the capacities intrinsically valuable too.'*
 
-**AI Threats**:
-- Diminished ethical sensitivity through AI decision-making systems
-- Weakened moral judgment in disembodied digital environments
-- Reduced opportunities for embodied interaction necessary for moral recognition
+## Why Capacities Matter
+Human capacities are constitutive of flourishing because:
+- They enable achievement of **intrinsically valuable goods** (knowledge, beauty, morality, friendship)
+- Their competent exercise **manifests human excellence**
+- Impoverished capacities lead to **impoverished lives**
+- They constitute our 'arts of personhood' required for self-worth and mutual respect
 
-### Creative Capacities
-**Definition**: Human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces.
+## Threats from AI Systems
+AI systems undermine human capacities through:
 
-**Components**:
-- Novel combination: creating unfamiliar connections between familiar ideas
-- Conceptual transformation: reshaping conceptual frameworks without relying on luck
+### Capacity-Hostile Environments
+- Creating **narrow fields of affordances** that restrict capacity exercise
+- Undermining **agential control** through plan-following rather than plan-forming
+- Disrupting the **habituation process** essential for skill development
+- Reducing opportunities for **intersubjective learning** and shared valuing
+- Diminishing **embodied interaction** critical to social and moral capacities
 
-**Flourishing Role**:
-- Enable innovation and adaptation to novel situations
-- Support problem-solving in unexpected circumstances
-- Constitute intrinsic value through creative expression
+### Cumulative Impact
+The paper documents how AI's influence creates **systemic conditions** that:
+- **Systematically shrink** action possibilities across multiple domains
+- **Entrench shallow levels** of capacity development
+- **Undermine shared valuing** of capacities at societal scale
+- Create environments where individuals **cannot learn to value mastery**
 
-**AI Threats**:
-- Deskilling through over-reliance on AI content generation
-- Reduced opportunities for creative problem-solving when AI provides ready solutions
-- Narrowed conceptual spaces when AI systems reinforce existing patterns
+## Implications for Market Research
+In market research organizations, threats to human capacities manifest as:
+- **[[entry-level-squeeze]]** where AI automates foundational tasks
+- **[[human-operating-model-gap]]** between AI capabilities and human systems
+- **Erosion of critical thinking** documented in industry studies
+- **Weakened ethical sensitivity** as AI handles preliminary analysis
 
-### Volitional Capacity
-**Definition**: The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals.
+## Preserving Human Capacities
+Organizations can protect human capacities by:
+- Designing AI tools that **augment rather than replace** capacity exercise
+- Creating environments with **rich fields of affordances** for capacity development
+- Ensuring opportunities for **embodied, intersubjective habituation**
+- Preserving spaces for **plan-forming rather than plan-following**
+- Building **failure-tolerant environments** where mistakes become learning opportunities
 
-**Components**:
-- Effort exertion: applying sustained energy toward challenging goals
-- Difficulty overcoming: navigating obstacles and setbacks
-- Growth orientation: developing through challenges rather than avoiding them
-
-**Flourishing Role**:
-- Functions as meta-capacity necessary for developing all other capacities
-- Enables transition from novice to expert through habituation process
-- Constitutes intrinsic value through personal growth
-
-**AI Threats**:
-- Diminished perseverance when AI systems automate challenging tasks
-- Reduced growth opportunities when AI provides ready solutions
-- Weakened capacity for self-directed planning through AI life coaches
-
-## Structural Vulnerability
-Human capacities are particularly vulnerable to structural threats because:
-- They develop through **habituation process** requiring practice and failure
-- They depend on **intersubjectivity-in-skilling** for shared valuing
-- They require **embodiment-in-skilling** through physical interaction
-- They necessitate **agential control** over initiating capacity-development activities
-
-## AI Impact Framework
-The structural perspective reveals how AI systems can undermine capacities through:
-- Creating **capacity-hostile-environments** with narrow fields of affordances
-- Encouraging **plan-following** rather than **plan-forming** agency
-- Replacing embodied interaction with disembodied digital mediation
-- Automating routine tasks that provide necessary habituation opportunities
-
-## Preservation Strategies
-Protecting human capacities requires:
-- Designing AI systems that scaffold rather than replace capacity development
-- Creating **capacity-conducive-environments** with rich affordance fields
-- Preserving opportunities for embodied, intersubjective learning
-- Supporting public goods that encourage structured and unstructured capacity practice
+As Ferdman concludes, human capacities are not merely instrumental but constitutive of our flourishing. Protecting them requires societal commitment to fostering capacity-conducive environments in the age of AI.

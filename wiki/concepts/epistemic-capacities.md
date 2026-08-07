@@ -1,74 +1,70 @@
-# Epistemic Capacities
+# [[epistemic-capacities]]
 
-**First Observed**: 2026-07-18 | **Last Updated**: 2026-07-22
+## Definition
+The human capacities related to **knowledge, reasoning, and understanding**, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
 
-Epistemic capacities are the human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing rather than merely instrumental, and their deskilling represents a significant threat to human agency.
-
-## Core Components
+## Philosophical Foundation
+Ferdman identifies two essential components of epistemic capacities:
 
 ### Theoretical Rationality
-- Thinking, considering reasons to believe, forming beliefs, contemplating
-- Essential for acquiring knowledge and understanding truth
-- Enables critical evaluation of information sources and claims
-- Example: Analyzing research methodology to assess study validity
+- **Thinking** and considering reasons to believe
+- **Forming beliefs** based on evidence and reasoning
+- **Contemplating** complex ideas and concepts
+- Essential for acquiring and evaluating knowledge
 
 ### Practical Rationality (Phronesis)
-- Doing the right thing in the right way for the right reason
-- Involves wisdom in applying theoretical knowledge to practical situations
-- Requires accurate understanding of one's situation and circumstances
-- Example: Knowing when to apply general principles versus making exceptions
+- **Common sense or wisdom** in practical matters
+- Knowing the **effective means to one's ends**
+- Possessing **accurate understanding** of situations and circumstances
+- Having **discernment** about how good and bad apply in particular contexts
+- Essential for **critically reflecting** on conceptions of a flourishing life
 
-## Development Process
-Epistemic capacities develop through:
+As Ferdman explains: *'The epistemic capacities include theoretical rationality: thinking, considering reasons to believe, forming beliefs, contemplating; and practical rationality, manifesting in phronesis (common sense or wisdom): doing the right thing in the right way for the right reason.'*
 
-### Habituation Process
-- Gradual progression from novice to expert through practice
-- Involves encountering and overcoming intellectual disappointment and failure
-- Requires refinement through successive trials and learning from mistakes
-- Example: Developing research skills through iterative project work
+## Critical Role in Human Flourishing
+Epistemic capacities are constitutive of flourishing because:
+- They enable **competent exercise** of knowledge-related activities
+- Their development yields **intrinsic value** through truth and understanding
+- Impoverishment leads to **diminished capacity** to navigate complex realities
+- They are essential for **self-worth** and **mutual respect** in relationships
 
-### Intersubjective Learning
-- Becoming epistemically skilled typically requires mentors to instill both technical competence and appreciation for knowledge value
-- Shared valuing develops through relationships where both mentor and mentee view knowledge as intrinsically valuable
-- Example: Academic communities establishing shared valuing of intellectual rigor
+## Threats from AI Systems
+AI systems undermine epistemic capacities through:
 
-### Embodied Engagement
-- Proper cultivation requires environments affording opportunities for knowledge application
-- Libraries afford reading opportunities that trigger epistemic capacities
-- Public discourse spaces afford opportunities for testing and refining beliefs
+### Artificial Personal Assistants
+APAs disrupt epistemic development by:
+- **Offloading routine decision-making** that strengthens 'cognitive musculature'
+- Reducing opportunities for **self-deliberation** on values and goals
+- Creating dependency that **diminishes sense of personal competence**
+- Undermining **practical wisdom** through lack of real-world experience
 
-## AI Threat Analysis
-AI systems threaten epistemic capacities through:
+### Automation Design
+Many AI implementations threaten epistemic capacities by:
+- **Depriving users of routine opportunities** to practice judgment
+- Creating **exception-handling scenarios** without foundational skill development
+- **Narrowing the field of affordances** for epistemic exercise
+- Encouraging **plan-following rather than plan-forming**
 
-### Automated Reasoning
-- Erosion of critical thinking through over-reliance on AI-generated content
-- Diminished diagnostic reasoning in healthcare AI systems (NHS England 2023; Natali et al. 2025)
-- Reduced capacity for self-deliberation when using AI life planners
-- Example: Students using AI writing tools may struggle to develop independent argumentation skills
+## Evidence of Erosion
+Ferdman documents growing evidence of:
+- **Erosion of critical thinking** (Bonicalzi et al. 2023; Gerlich 2025; Lee et al. 2025)
+- **Decline in decision-making** and analytical reasoning (Zhai et al. 2024)
+- **Diminished diagnostic reasoning** in healthcare (NHS England 2023)
+- **Reduced retention** of tacit knowledge and ethical sensitivity
 
-### Narrowed Affordance Fields
-- Digital environments that fracture affordance space into disconnected fields
-- Social media algorithms that create epistemic bubbles
-- AI systems that provide ready answers without requiring reasoning process
-- Example: Search engines that prioritize quick answers over deep exploration
+## Implications for Market Research
+In market research organizations, threats to epistemic capacities manifest as:
+- **[[entry-level-squeeze]]** where AI automates foundational analysis tasks
+- **[[human-operating-model-gap]]** between AI capabilities and human systems
+- **Erosion of critical thinking** documented in industry studies
+- **Weakened ethical sensitivity** as AI handles preliminary analysis
 
-## Structural Implications
-The deskilling of epistemic capacities represents a structural problem because:
-- Environments with narrow affordance fields systematically undermine opportunities for epistemic development
-- Without proper mentoring and shared valuing, individuals cannot appreciate more masterful levels of epistemic skill
-- Capacity-hostile environments create conditions where truth navigation becomes increasingly difficult
-- Example: Educational environments that prioritize AI-generated content over thoughtful discussion
+## Preserving Epistemic Capacities
+Organizations can protect epistemic capacities by:
+- Designing AI tools with **intentional learning pathways**
+- Creating 'training wheels' approaches where AI support **decreases over time**
+- Ensuring researchers maintain **final decision authority** over analysis
+- Providing opportunities for **embodied deliberation** that cannot be fully automated
+- Building **failure-tolerant environments** where mistakes become learning opportunities
 
-## Contrast with Instrumentalist Views
-Unlike instrumentalist approaches that treat epistemic capacities as tools to achieve goals, the structural perspective recognizes:
-- The process of knowledge development has intrinsic value
-- Being a certain kind of epistemic agent matters more than merely achieving correct beliefs
-- Example: The value of research comes from the process of discovery, not just the findings
-
-## Preservation Strategies
-Protecting epistemic capacities requires:
-- Designing AI tools that scaffold rather than replace reasoning processes
-- Creating environments that encourage rather than discourage epistemic agency
-- Preserving opportunities for embodied, intersubjective knowledge development
-- Supporting public spaces that facilitate meaningful intellectual engagement
-- Example: Educational approaches that use AI as discussion partner rather than answer provider
+As Ferdman concludes, epistemic capacities are not merely instrumental but constitutive of human flourishing. Protecting them requires societal commitment to fostering capacity-conducive environments in the age of AI.

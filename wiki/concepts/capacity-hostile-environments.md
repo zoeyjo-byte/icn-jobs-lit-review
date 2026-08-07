@@ -1,33 +1,48 @@
 # [[capacity-hostile-environments]]
 
 ## Definition
-
-Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
+Environments that **restrict, limit, or create a narrow field of affordances** for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
 ## Characteristics
+- Provide **limited action possibilities** that discourage development of human capacities
+- Create conditions where users become **plan-followers rather than plan-formers**
+- Undermine **[[agential-control]]** by encouraging responses to environmental triggers
+- Restrict opportunities for **[[embodiment-in-skilling]]** and **[[intersubjectivity-in-skilling]]**
+- Lead to **capacity impoverishment** through systematic, enduring affordance shrinkage
 
-1. **Narrow field of affordances**: Provides limited action possibilities that restrict opportunities for developing and exercising human capacities
-2. **Discourages agential control**: Encourages habitual responses to environmental triggers rather than initiating activities with full control
-3. **Undermines habituation**: Creates conditions that prevent the gradual, practice-based development of capacities
-4. **Reduces intersubjectivity**: Limits opportunities for shared understanding and valuing of capacities through human relationships
-5. **Diminishes embodiment**: Restricts physical presence and sensory experience necessary for capacity development
+## Examples from Research
 
-## Examples in AI Context
+### Healthcare AI Systems
+As documented in [[ferdman-2026-ai-deskilling-structural-problem]], AI integration in healthcare affords offloading tasks to machines, leading to:
+- **Automation bias** where users attribute excessive trust to AI tools
+- **Loss of critical skills** necessary for unexpected scenarios like system malfunctions
+- Diminished diagnostic reasoning and clinical judgment (NHS England 2023)
 
-- **AI automation of routine tasks**: Deprives users of "routine opportunities to practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025), leaving them unprepared for exceptional circumstances
-- **Disembodied digital interactions**: Social media platforms that require "more discipline for a diminished experience" of technologically mediated virtue friendships (Grasso 2025)
-- **Artificial Personal Assistants**: Create environments where users become plan-followers rather than plan-formers, responding to AI-generated recommendations rather than initiating planning activities
+### Smartphone Interfaces
+The paper identifies smartphone interfaces as creating fragmented affordance spaces through:
+- **Disembodied interactions** like swiping, clicking, and scrolling
+- **Disconnected fields** that fracture cognitive and bodily skills
+- **Alienation** rather than opportunities for mutually informing skill development
 
-## Mechanisms of Capacity Impoverishment
+### Artificial Personal Assistants
+APAs create capacity-hostile environments by:
+- Providing constant availability that **discourages seeking alternative growth opportunities**
+- Offloading routine decision-making that strengthens 'cognitive musculature'
+- Reducing need for **self-deliberation** in life-planning activities
+- Creating dependency that undermines **[[volitional-capacity]]** development
 
-1. **Affordance shrinkage**: Systematic, enduring reduction in action possibilities that discourages users from finding compensatory avenues
-2. **Shallow valuation**: When persons develop capacities in shallow ways, they cannot learn to value masterful levels of those capacities
-3. **Structural discouragement**: Environments designed to herd users toward certain behaviors regardless of individual dispositions
+## Connection to Market Research
+In market research organizations, capacity-hostile environments manifest as:
+- **[[value-chain-shift]]** where AI handles foundational analysis tasks
+- **[[entry-level-squeeze]]** as traditional training grounds disappear
+- **Deskilling of junior researchers** who lack opportunities to develop through habituation
+- **Erosion of critical thinking** documented in multiple industry studies
 
 ## Contrast with Capacity-Conducive Environments
+Unlike **[[capacity-conducive-environments]]** which encourage structured and unstructured embodied interactions, capacity-hostile environments:
+- Fail to provide **shared experiences** necessary for shared valuing of capacities
+- Discourage the **habituation process** essential for skill development
+- Create conditions where individuals cannot learn to value mastery of capacities
 
-Unlike [[capacity-conducive-environments]], capacity-hostile environments fail to encourage structured and unstructured embodied interactions necessary for intersubjective habituation of capacities. They particularly undermine the development of [[social-capacities]] and [[epistemic-capacities]] that require physical presence and shared experiences.
-
-## Update: 2026-07-25
-
-Expanded with specific mechanisms from Ferdman's analysis, including detailed explanation of how narrow fields of affordances systematically undermine capacity development. Added concrete examples of AI systems that create capacity-hostile conditions, particularly focusing on the distinction between plan-forming versus plan-following behaviors. Incorporated analysis of how capacity-hostile environments undermine the volitional capacity by removing opportunities to exercise willpower in developing other capacities.
+## Implications
+Understanding capacity-hostile environments explains why the **[[human-operating-model-gap]]** persists despite AI adoption. Organizations must intentionally design socio-technical systems that avoid narrow affordance fields to prevent systemic deskilling of research professionals.
