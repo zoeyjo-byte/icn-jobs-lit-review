@@ -1,44 +1,82 @@
-# [[artificial-personal-assistants]]
+# Artificial Personal Assistants
 
-## Definition
-Artificial Personal Assistants (APAs) are AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
+AI systems based on Large Language Models designed to assist with personal organization, life planning, and decision-making, with critical implications for capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These tools can create capacity-hostile environments when they encourage users to become plan-followers rather than plan-formers.
 
-## Functionality
-APAs typically offer capabilities including:
-- Organizing daily schedules and routines
-- Providing life coaching and purpose-finding guidance
-- Offering social validation and interpersonal guidance
-- Serving as "always-on sounding boards" with preferred interaction tones
-- Integrating with other AI tools to create comprehensive personal assistance ecosystems
+## Definition and Characteristics
 
-## Structural Concerns
-Ferdman's analysis identifies critical concerns about how APAs may create [[capacity-hostile-environments]]:
-- They encourage users to become [[plan-followers]] rather than [[plan-formers]], undermining [[agential-control]]
-- They automate routine planning activities that are essential for developing "cognitive musculature"
-- They reduce opportunities for [[embodiment-in-skilling]] through disembodied interaction
-- They diminish the need for [[intersubjectivity-in-skilling]] with human mentors and peers
-- They may narrow the field of affordances for developing [[epistemic-capacities]] and [[practical-wisdom]]
+Artificial Personal Assistants (APAs) are:
 
-## Market Research Implications
-In the insights industry, the proliferation of APAs has implications for:
-- The [[entry-level-squeeze]] as foundational planning skills are automated
-- The [[human-operating-model-gap]] between AI capabilities and human skill development
-- The potential deskilling of junior researchers who rely on AI for planning research activities
-- The changing nature of mentorship as AI systems replace human guidance
+- AI systems built on Large Language Models (LLMs) like ChatGPT, Claude.ai, and Gemini
+- Designed to assist with life-planning, organization, and decision-making
+- Characterized by constant availability and adaptability to individual user needs
+- Capable of tailoring advice based on user responses, habits, and preferences
+- Often described as "an always-on sounding board with whatever subject-matter expertise you need"
 
-## Examples
-Notable APA implementations include:
-- Sunsama: A scheduling app that plans daily activities and reminds users of tasks
-- Various LLM-based personal coaching tools that help users "find purpose" and "organize life"
-- AI systems that prompt journal entries about accomplishments
+APAs represent one of the fastest growing uses of LLMs, with users reporting reliance on them for social validation, self-regulation, and interpersonal guidance.
 
-## Capacity-Conducive Design
-Ferdman suggests that APAs could be designed to support rather than undermine capacity development by:
-- Preserving opportunities for users to initiate planning activities
-- Providing scaffolding rather than complete solutions
-- Encouraging embodied interaction with human mentors
-- Creating opportunities for users to develop practical wisdom through experience
-- Affording but not replacing the habituation process
+## Key Features
 
-## Update
-2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how APAs may undermine capacity development through narrowed affordance fields, including specific implications for research practice and professional development.
+### Adaptability and Personalization
+
+- Adjust tone of interaction from "strict taskmaster to encouraging cheerleader"
+- Learn from user interactions to provide increasingly personalized advice
+- Integrate with other AI tools to provide comprehensive assistance
+
+### Scope of Functionality
+
+- Life-planning: helping users organize their lives and find purpose
+- Decision-making: providing advice on what users should do next
+- Problem reframing: helping users see problems from new perspectives
+- Task management: organizing daily schedules and priorities
+
+## Capacity Development Implications
+
+APAs can create capacity-hostile environments through several mechanisms:
+
+### Encouraging Plan-Following
+
+- Replacing user-initiated plan-forming with APA-provided plans
+- Creating environments where users respond to APA outputs rather than initiating activities
+- Undermining agential control over life-planning activities
+
+### Reducing Embodied Interaction
+
+- Decreasing opportunities for users to develop capacities in concert with other humans
+- Creating environments with limited opportunities for intersubjective habituation
+- Undermining the shared valuing that is intrinsic to being capacity-skilled
+
+### Automating Routine Decisions
+
+- Depriving users of routine opportunities to practice judgment
+- Reducing the "cognitive musculature" needed for exceptional circumstances
+- Leading to a reduced sense of personal competence
+
+## Case Examples
+
+### Sunsama Scheduling App
+
+- Displays tasks synced from various software alongside calendar
+- Prompts users to prioritize work and link tasks to objectives
+- Schedules tasks into available time slots, rescheduling when needed
+- Reminds users of meetings and prompts journal entries about accomplishments
+
+This system exemplifies how APAs encourage users to become plan-followers rather than plan-formers, as users respond to the app's prompts rather than initiating planning activities themselves.
+
+## Design Considerations
+
+To create APAs that support rather than undermine capacity development:
+
+- Preserve opportunities for users to initiate planning activities
+- Support rather than replace embodied interaction with others
+- Create interfaces that encourage habituation through practice
+- Avoid complete automation of routine decision-making that provides capacity development opportunities
+
+## Related Concepts
+
+- [[plan-forming-vs-plan-following]]
+- [[agential-control]]
+- [[capacity-hostile-environments]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[human-capacities]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]

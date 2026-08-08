@@ -51,3 +51,4 @@ Chronological record of every ingest operation.
 2026-08-06: Ingested s00146-025-02686-z.txt. Created 0, updated 5. Synthesized Ferdman's analysis of capacity-hostile environments across concept and entity pages, with particular focus on the plan-forming vs. plan-following distinction and its implications for AI's impact on human capacity development.
 2026-08-07: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-07: Ingested s00146-025-02686-z.txt. Updated 15 concept pages, 2 entity pages, and 1 study page with detailed analysis from Ferdman's structural perspective on AI deskilling. Added specific examples of how AI systems create capacity-hostile environments in professional contexts, with implications for research practice, mentorship, and capacity development.
+2026-08-08: Ingested s00146-025-02686-z.txt. Created 0, updated 15.

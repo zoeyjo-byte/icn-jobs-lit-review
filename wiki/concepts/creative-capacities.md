@@ -1,43 +1,80 @@
-# [[creative-capacities]]
+# Creative Capacities
 
-## Definition
-Creative capacities are the human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and can be undermined by AI systems through reduced opportunities for embodied problem-solving.
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and require opportunities to respond to novel situations.
 
-## Key Characteristics
-Ferdman explains that creative capacities involve:
+## Definition and Characteristics
+
+Creative capacities encompass:
+
 - Making unfamiliar combinations of familiar ideas
 - Transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures
-- Responding to novel situations, surprises, and unexpected events
-- Generating innovative approaches to complex problems
+- The ability to reconsider and respond to novel situations, surprises, and unexpected events
+- Generating innovative solutions to complex problems
+- The capacity for conceptual transformation and innovation
 
-## Role in Life-Planning
-Ferdman emphasizes that creative capacities are essential for life-planning:
-- Planning is always incomplete and requires the ability to reconsider and respond to novel situations
-- Executing plans requires creativity in adapting to changing circumstances
-- Navigating unexpected events in life requires creative problem-solving
-- Transforming conceptual spaces enables reimagining one's life path
+These capacities are essential components of what Ferdman calls the "arts of personhood" - the abilities required to achieve competence in practical reason, self-worth, mutual respect, honesty, and justice.
 
-## Implications for AI Systems
-Ferdman argues that AI systems can undermine creative capacities through:
-- Providing ready-made solutions that reduce opportunities for creative problem-solving
-- Automating routine tasks that would otherwise develop creative approaches
-- Creating environments with narrow fields of affordances that limit creative exploration
-- Reducing embodied interaction that is essential for creative insight
+## Key Components
 
-## Professional Context
-In market research, creative capacities manifest as:
-- Developing innovative research methodologies
-- Generating novel insights from data
-- Adapting research approaches to unexpected challenges
-- Transforming conceptual frameworks for understanding consumer behavior
-- Creating compelling narratives from research findings
+### Conceptual Innovation
 
-## Capacity Development
-Creative capacities develop through:
-- Opportunities to encounter and overcome disappointment and failure
-- Environments that afford exploration and experimentation
-- Mentorship that encourages creative risk-taking
-- Embodied interaction that provides rich sensory input for creative connections
+- Creating novel combinations of familiar concepts
+- Generating ideas that transform existing conceptual spaces
+- Moving beyond mechanical procedures to genuine innovation
 
-## Update
-2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how AI systems can undermine creative capacities in professional contexts, with specific examples from research practice.
+### Adaptation to Novelty
+
+- The ability to reconsider plans in response to unexpected events
+- Responding creatively to surprises and changing circumstances
+- Transforming conceptual frameworks when faced with new information
+
+## Why Creative Capacities Matter
+
+These capacities are fundamental because:
+
+1. **They constitute flourishing**: Competent exercise of creative capacities manifests achievement of intrinsically valuable goods like beauty and innovation
+
+2. **They enable adaptation**: Creative capacities allow humans to respond to novel situations and changing environments
+
+3. **They require practice**: Like all capacities, creative capacities develop through habituation and cannot be learned through testimony alone
+
+4. **Their deskilling is harmful**: Unlike domain-specific skill obsolescence, creative capacity deskilling diminishes our ability to innovate and adapt
+
+## Threats from AI Systems
+
+AI systems threaten creative capacities through:
+
+- **Over-automation**: Systems that provide ready-made solutions eliminate opportunities for creative problem-solving
+- **Reduced novelty exposure**: Environments that filter unexpected events and surprises
+- **Shallow engagement**: Interfaces that encourage surface-level interaction with concepts
+- **Offloading innovation**: Depriving users of opportunities to transform conceptual spaces themselves
+
+## Case Study: Artificial Personal Assistants
+
+APAs threaten creative capacities by:
+
+- Providing ready-made plans that users follow without modification
+- Reducing opportunities for users to respond creatively to unexpected events
+- Creating environments where users don't need to transform conceptual spaces themselves
+- Eliminating the need to reconsider plans in response to novel situations
+
+As the paper states: "Planning one's life also involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events."
+
+## Implications for AI Design
+
+To protect creative capacities, AI systems should:
+
+- Support rather than replace creative problem-solving
+- Preserve opportunities for users to encounter and respond to novelty
+- Create interfaces that encourage conceptual transformation
+- Avoid systems that eliminate the need for creative adaptation
+
+## Related Concepts
+
+- [[conceptual-innovation]]
+- [[adaptation-to-novelty]]
+- [[habituation-process]]
+- [[human-capacities]]
+- [[ai-deskilling-structural-problem]]
+- [[capacity-hostile-environments]]
+- [[plan-forming-vs-plan-following]]

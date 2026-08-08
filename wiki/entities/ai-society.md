@@ -1,25 +1,49 @@
-# [[ai-society]]
+# AI & Society
+
+Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. Provides a venue for critical reflection on AI's societal impacts.
 
 ## Overview
-AI & Society is an academic journal published by Springer that focuses on the social, ethical, and philosophical implications of artificial intelligence and digital technologies. The journal serves as a critical forum for interdisciplinary scholarship examining how AI systems intersect with human values, social structures, and ethical frameworks.
+
+AI & Society is a peer-reviewed academic journal that:
+
+- Publishes research on the social, ethical, and philosophical dimensions of AI
+- Focuses on critical analysis of AI's impact on human flourishing
+- Provides interdisciplinary perspectives on AI development and deployment
+- Serves as a platform for scholars examining the broader implications of digital technologies
+
+The journal is particularly notable for publishing foundational work on AI ethics, human-AI interaction, and the societal consequences of technological development.
+
+## Key Contributions
+
+### Platform for Critical AI Scholarship
+
+- Publishes research that challenges purely technical approaches to AI
+- Encourages examination of AI's impact on human capacities and flourishing
+- Provides space for philosophical and ethical analysis of emerging AI applications
+
+### Ferdman 2026 Publication
+
+The journal published Avigail Ferdman's landmark paper "AI deskilling is a structural problem" (2026) 41:3001–3013, which introduced:
+
+- The distinction between capacity-hostile and capacity-conducive environments
+- The framework for understanding human capacities as skills
+- The analysis of how Artificial Personal Assistants create capacity-hostile environments
+
+This publication represents the journal's commitment to publishing research that examines AI's impact on fundamental human capacities.
 
 ## Relevance to Market Research
-AI & Society provides essential theoretical grounding for understanding the broader societal implications of AI adoption in market research and insights organizations. The journal's critical perspective helps contextualize the [[human-operating-model-gap]] that emerges as AI capabilities advance faster than human systems can adapt.
 
-## Key Publications
-The journal has published several landmark papers relevant to the market research industry, including:
-- [[ferdman-2026-ai-deskilling-structural-problem]]: A structural analysis of how AI systems can undermine human capacities through environmental conditions
-- Various analyses of AI ethics, governance, and societal impact that inform responsible AI adoption frameworks
+The journal's focus on AI's societal impacts is highly relevant to market research because:
 
-## Critical Perspective
-Unlike industry-focused publications, AI & Society maintains a critical distance from commercial AI applications, providing philosophical and ethical frameworks that help researchers evaluate AI systems beyond their immediate utility. This perspective is particularly valuable for addressing the [[entry-level-squeeze]] and other structural challenges in the insights industry.
+- It provides frameworks for understanding how AI affects human capacities essential for research (critical thinking, creativity, social understanding)
+- It offers conceptual tools for analyzing AI's impact on research methodologies and practices
+- It helps researchers anticipate how AI might reshape the skills required in the profession
 
-## Structural Analysis
-The journal's approach emphasizes:
-- Examining AI's impact through structural rather than individual lenses
-- Analyzing how socio-technical environments shape human capacities
-- Providing frameworks for evaluating AI applications based on conduciveness to human flourishing
-- Highlighting societal obligations to foster capacity-conducive environments
+## Related Concepts
 
-## Update
-2026-07-25: Added reference to Ferdman's structural analysis of AI deskilling and its implications for capacity development in professional contexts, including detailed discussion of capacity-hostile and capacity-conducive environments.
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+- [[ai-ethics]]
+- [[human-flourishing]]
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[ai-societal-impact]]
