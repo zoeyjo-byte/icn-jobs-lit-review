@@ -32,5 +32,6 @@ Cross-cutting ideas, trends, and frameworks in market research:
 | [[social-capacities]] | 2026-07-18 | 2026-07-22 | The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. |
 | [[creative-capacities]] | 2026-07-18 | 2026-07-22 | The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. |
 | [[volitional-capacity]] | 2026-07-18 | 2026-07-22 | The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. |
+| [[plan-following]] | 2026-07-25 | 2026-07-25 | Plan-following refers to the execution of pre-determined plans without exercising agential control over the planning process itself. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation. |
 
 See [[index|Home]] for the full catalog.

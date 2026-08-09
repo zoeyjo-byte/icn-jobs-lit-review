@@ -1,79 +1,65 @@
 # Habituation Process
 
-The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. Skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
+## Definition
 
-## Definition and Characteristics
+The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-The habituation process refers to:
+## Key Characteristics
 
-- A gradual, slow development of skill through repeated practice
-- Inculcation through continued attunement to the demands of individual cases
-- Refinement of action through successive trials and learning from mistakes
-- Development of flexible links between thought and action that evolve even after expertise is achieved
-
-This process is distinct from simple repetition or habit formation. As the paper states: "While becoming skilled in the capacities requires successive attempts at an activity, the process itself is one of growth rather than simple repetition."
+- **Gradual and slow**: Skill development occurs over extended periods through repeated practice
+- **Experience-dependent**: Requires "considerable time and living" rather than abstract instruction
+- **Failure-oriented**: Involves "encountering and overcoming disappointment and failure"
+- **Context-sensitive**: Progresses from rule-following in early stages to "rapid, fluid, involved engagement" in expert stages
+- **Non-repetitive**: A "process of growth rather than simple repetition"
 
 ## Two Essential Components
 
-The habituation process has two critical components that are essential for capacity development:
-
 ### 1. Intersubjectivity
 
-- Becoming skilled typically requires a mentor to guide the novice
-- Mentors instill not only mechanical aspects but also the value of the skill
-- Creates "shared valuing" of the skill through relationships with others
-- Social practices at societal scale provide mentoring environments (family, colleagues, citizens)
+- Requires mentorship for proper motivational structure
+- Involves "shared valuing" of both the skill and its outputs
+- Depends on social practices that generate moral reasons for action
+- Needs relationships where mentors instill not only mechanical aspects but also the value of the skill
 
 ### 2. Embodiment
 
-- Embodied interaction is constitutive of social cognition
-- "Participatory sense-making" is essential for moral attention to others
-- Physical presence enables recognition of others as moral agents through voice and gaze
-- Disembodied interactions make it harder to form meaningful relationships
+- Requires "embodied participatory sense-making" for social cognition
+- Depends on recognizing others as embodied beings through voice and gaze
+- Creates "embodied understanding" of others as similar loci of subjectivity
+- Enables spontaneity in recognizing others as moral agents
 
-## Why Habituation Cannot Be Automated
+## AI's Impact on Habituation
 
-The habituation process cannot be outsourced to AI systems because:
+AI systems can undermine the habituation process by:
 
-1. **It requires practice**: Skills cannot be learned through testimony alone but require "encountering and overcoming disappointment and failure"
+- **Automating routine tasks**: "Deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature"
+- **Reducing embodied interaction**: Makes it "harder to form meaningful friendship" and recognize others as moral agents
+- **Limiting intersubjectivity**: Reduces opportunities for shared valuing of capacities through human mentorship
+- **Encouraging plan-following**: Shifts users from initiating activities to responding to environmental triggers
 
-2. **It depends on intersubjective relationships**: The shared understanding dimension of skill development requires human connection
+## Implications for Market Research Training
 
-3. **It needs embodiment**: Physical presence is critical for recognizing others as moral agents
+The habituation process framework explains why traditional market research training methods may be disrupted by AI:
 
-4. **It involves growth**: The process is one of development rather than mere repetition
+- Junior researchers need opportunities to make small decisions that build "cognitive musculature"
+- Research methodology expertise develops through encountering and overcoming research challenges
+- Practical wisdom in research design requires embodied interaction with clients and respondents
+- Shared valuing of research ethics depends on intersubjective mentorship
 
-## Threats from AI Systems
+## Contrast with Habit Formation
 
-AI systems threaten the habituation process through:
+Habituation differs fundamentally from habit formation:
+- **Habituation**: Requires control over initiating activities, involves growth through practice
+- **Habits**: Triggered by environmental cues, lack control over initiation, represent automatic responses
 
-- **Automation of routine tasks**: Deprives users of routine opportunities to practice judgment and strengthen "cognitive musculature"
+## References
 
-- **Reduced embodied interaction**: Digital interfaces limit opportunities for physical presence essential for social and moral skill development
-
-- **Undermining intersubjectivity**: Replacing human mentors with AI systems prevents the transmission of shared valuing of skills
-
-- **Shallow skilling**: Creating environments that afford only superficial engagement with capacities
-
-## Case Study: Artificial Personal Assistants
-
-APAs threaten the habituation process by replacing the need for users to engage in routine, small-scale decision-making about organizing daily activities. As the paper states: "Overreliance on APAs could lead to a reduced sense of personal competence... undermining the habituation of the capacities necessary for trusting one's decisions on life-planning."
-
-## Implications for AI Design
-
-To support rather than undermine habituation:
-
-- Preserve opportunities for users to practice skills through routine tasks
-- Design systems that complement rather than replace embodied interaction
-- Facilitate human-to-human mentoring rather than replacing it with AI
-- Create interfaces that encourage growth through challenge rather than mere efficiency
-
-## Related Concepts
-
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
+- [[ferdman-2026-ai-deskilling-structural-problem]]
 - [[agential-control]]
-- [[capacity-hostile-environments]]
-- [[artificial-personal-assistants]]
-- [[human-capacities]]
-- [[developmental-perfectionism]]
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[plan-forming-vs-plan-following]]
+
+## Update Log
+
+2026-07-25: Expanded with detailed analysis of habituation components, specific AI disruption mechanisms, and market research training implications based on Ferdman study.

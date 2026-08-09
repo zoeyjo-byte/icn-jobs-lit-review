@@ -1,84 +1,72 @@
-# Ferdman 2026 - AI Deskilling is a Structural Problem
+# Ferdman (2026) - AI Deskilling is a Structural Problem
 
-Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Published in AI & Society (2026) 41:3001–3013, this landmark study introduces critical distinctions between capacity-hostile and capacity-conducive environments, analyzes the role of agential control and habituation in capacity development, and examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging plan-following rather than plan-forming.
+## Publication Details
 
-## Key Findings
+Published in [[ai-society]] (2026), Volume 41, pages 3001-3013. DOI: https://doi.org/10.1007/s00146-025-02686-z
 
-### Structural Perspective on Deskilling
+## Core Argument
 
-- Deskilling should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue
-- AI's influence creates systemic conditions that inhibit human capacity development
-- The concept of "capacity-hostile environments" identifies instances where AI mediation impedes capacity cultivation
+This landmark study argues that AI-induced deskilling should be understood as a **structural problem** rather than merely an individual responsibility issue. Ferdman introduces the critical distinction between **capacity-hostile environments** and **capacity-conducive environments** to analyze how AI systems can undermine human capacities through systemic conditions rather than individual failings.
 
-### Capacity-Hostile vs. Capacity-Conducive Environments
+## Key Contributions
 
-- **Capacity-hostile environments**: Restrict, limit, or create a narrow field of affordances for capacity development
-- **Capacity-conducive environments**: Actively encourage capacity development through rich opportunities for embodied interaction
-- The distinction moves beyond individual responsibility to focus on environmental conditions for capacity cultivation
+### Capacity-Skill Framework
 
-### Human Capacities Framework
+Ferdman develops a novel framework conceptualizing human capacities as skills, with two essential properties:
 
-- Identifies four core human capacities constitutive of flourishing:
-  * Epistemic capacities (theoretical and practical rationality)
-  * Social capacities (moral and relational)
-  * Creative capacities
-  * Volitional capacity (treated as a meta-capacity)
-- Deskilling of these core capacities is harmful because they constitute human flourishing
+1. **[[agential-control]]**: The ability to adjust execution as performance unfolds, distinguishing skills from mere habits
+2. **[[habituation-process]]**: The gradual development of capacities through practice, requiring both [[embodiment-in-skilling]] and [[intersubjectivity-in-skilling]]
 
-### Skill Development Process
+### Structural Analysis of Deskilling
 
-- Capacity development requires **agential control** (ability to adjust execution of actions)
-- The **habituation process** involves gradual skill development through practice
-- **Intersubjectivity** is essential: learning from mentors who instill value of capacities
-- **Embodiment** is critical: physical presence necessary for social and moral skill development
+The paper demonstrates how AI mediation can create environments that:
+- Restrict the **narrow-field-of-affordances** for capacity development
+- Undermine **agential control** by encouraging plan-following rather than plan-forming
+- Disrupt the **habituation process** by reducing opportunities for embodied, intersubjective learning
 
-### Plan-Forming vs. Plan-Following
+### Artificial Personal Assistants Analysis
 
-- **Plan-forming**: Involves self-deliberation, settling function, and coordination function
-- **Plan-following**: Responding to triggers in the environment
-- Artificial Personal Assistants encourage plan-following rather than plan-forming, undermining capacity development
+The study provides a detailed analysis of how [[artificial-personal-assistants]] can create capacity-hostile environments by:
+- Replacing routine planning activities that build "cognitive musculature"
+- Encouraging users to become plan-followers rather than plan-formers
+- Reducing opportunities for embodied interaction and shared valuing
+- Creating dependency that diminishes the exercise of [[volitional-capacity]]
 
 ## Methodology
 
-The study employs conceptual analysis drawing on:
-
-- Philosophy of skill (Dreyfus and Dreyfus, Sherman, Pavese)
+The paper employs philosophical analysis drawing on:
+- Philosophy of skill (Dreyfus, Sherman, Pavese)
 - Social epistemology
-- Neo-Aristotelian approach to human flourishing (Developmental Perfectionism)
-- Analysis of affordances in socio-technical environments
+- Neo-Aristotelian perfectionism
+- Enactive cognition theory
 
-The paper applies this framework to analyze Artificial Personal Assistants as a case study of how AI systems can create capacity-hostile environments.
+## Core Human Capacities Framework
 
-## Implications for AI Development
+Ferdman identifies four categories of human capacities essential for flourishing:
 
-### For AI Ethics
+| Capacity Type | Key Elements | AI Vulnerability |
+|---------------|--------------|------------------|
+| [[epistemic-capacities]] | Theoretical rationality, practical rationality (phronesis) | Reduced through offloading reasoning to AI |
+| [[social-capacities]] | Moral capacity, relational capacity, friendship | Diminished through disembodied interaction |
+| [[creative-capacities]] | Novel combinations of ideas, conceptual transformation | Constrained by AI's pattern-based generation |
+| [[volitional-capacity]] | Effort, perseverance, growth toward valuable goals | Undermined when AI removes challenges |
 
-- Calls for evaluating AI applications based on their conduciveness to capacity cultivation
-- Highlights need for critical reflection on values inherent in AI socio-technical systems
-- Emphasizes societal obligation to foster capacity-conducive environments
+## Implications for Market Research
 
-### For AI Design
-
-- Preserves opportunities for agential control rather than encouraging plan-following
-- Supports embodied interaction rather than replacing it with disembodied interfaces
-- Facilitates intersubjective learning rather than undermining shared valuing of capacities
-- Creates environments that afford habituation through practice
-
-## Limitations and Future Research
-
-- Primarily conceptual analysis requiring empirical validation
-- Focuses on specific AI applications (APAs) that may not generalize to all AI systems
-- Future research needed on measuring capacity-hostile vs. conducive environments
+This framework has significant implications for understanding AI's impact on research professions:
+- Traditional research skills development through mentorship may be disrupted by AI tools
+- The "entry-level squeeze" phenomenon may be exacerbated as AI handles foundational research tasks
+- Research quality could suffer as practical wisdom (phronesis) in research design diminishes
+- The [[human-operating-model-gap]] may widen as AI capabilities advance faster than human capacity development
 
 ## Related Concepts
 
 - [[ai-deskilling-structural-problem]]
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[intersubjectivity-in-skilling]]
-- [[embodiment-in-skilling]]
 - [[plan-forming-vs-plan-following]]
-- [[artificial-personal-assistants]]
-- [[human-capacities]]
+- [[developmental-perfectionism]]
+
+## Update Log
+
+2026-07-25: Expanded with detailed framework analysis, capacity categories table, and market research implications based on full text review.
