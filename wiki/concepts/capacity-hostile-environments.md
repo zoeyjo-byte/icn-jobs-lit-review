@@ -1,63 +1,48 @@
-# Capacity-Hostile Environments
+# [[capacity-hostile-environments]]
 
 ## Definition
+Capacity-hostile environments are environments that "restrict, limit or create a narrow field of affordances for the development and exercise of core human capacities," as defined in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
-Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
+## Characteristics
+According to Ferdman's analysis, capacity-hostile environments typically:
+- Provide a narrow field of affordances that limits action possibilities
+- Encourage [[plan-following]] rather than [[plan-forming-vs-plan-following]]
+- Reduce opportunities for [[embodiment-in-skilling]]
+- Limit [[intersubjectivity-in-skilling]] of capacities
+- Discourage the development of [[agential-control]] over capacities
+- Create conditions where users become "hard-pressed to recognize [others] spontaneously as moral agents"
 
-## Key Characteristics
+## Examples in AI Context
+Ferdman provides several examples of how AI systems can create capacity-hostile environments:
 
-- **Narrow field of affordances**: Limited action possibilities that restrict capacity development
-- **Reduced embodied interaction**: Diminished opportunities for physical presence and sensory experience
-- **Limited intersubjectivity**: Fewer opportunities for shared valuing and mentorship in capacity development
-- **Automation bias**: Encourages offloading of tasks that would otherwise build capacity
-- **Plan-following orientation**: Promotes responding to environmental triggers rather than initiating activities
+1. **AI Personal Assistants**: Tools like scheduling apps (e.g., Sunsama) that "display tasks synced from various software" and "intelligently reschedule them" can undermine users' development of practical wisdom by offloading small-scale decision-making.
 
-## How AI Creates Capacity-Hostile Environments
+2. **Social Media Platforms**: These create disembodied environments where "users still might find themselves as users in a position where they are being herded to behave in certain ways" due to targeted ads and filtered newsfeeds.
 
-As detailed in the Ferdman study, AI systems can create capacity-hostile environments through:
+3. **Automation of Routine Tasks**: As noted in the "Ironies of Automation" (Bainbridge 1983), automating routine tasks "deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied."
 
-1. **AI Automation and Affordance Narrowing**:
-   - "Automating routine tasks... deprives the user of the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise" (Lee et al. 2025)
-   - Systems designed to "do everything for the user" reduce opportunities to exercise capacities
-   - Cumulative automation across multiple spheres creates a systematically narrowed field of affordances
+## Structural vs. Individual Perspective
+A key insight from Ferdman's work is that capacity-hostile environments represent a structural problem rather than merely an individual failing. The paper argues that "framing the response to the threats to our humanness as an individual responsibility problem... misses the structural dimensions of the deskilling problem."
 
-2. **Reduced Embodied Engagement**:
-   - Disembodied interactions make it "harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience"
-   - Without "the return of the gaze of the other," recognizing others as moral agents becomes more difficult
-   - Diminished embodied interaction undermines the development of social capacities
+Rather than expecting individuals to be "virtuous superheroes" who resist deskilling, Ferdman emphasizes that "we cannot expect agents to properly cultivate their human capacities if their social environment does not value the full maturation of these capacities."
 
-3. **Limited Intersubjective Habituation**:
-   - Reduced opportunities to develop capacities "in concert with other humans"
-   - Interactions with non-human agents limit "the opportunity to develop an intersubjective valuing of the capacities"
-   - Shared experiences necessary for shared valuing are diminished
+## Implications for Market Research
+For the market research industry, capacity-hostile environments could manifest as:
+- AI tools that automate foundational analytical tasks, creating an [[entry-level-squeeze]] by removing traditional training grounds
+- Research platforms that encourage shallow data interpretation without developing deeper analytical reasoning
+- Disembodied collaboration tools that reduce opportunities for embodied interaction necessary for developing [[social-capacities]]
+- Automated reporting systems that undermine the development of communication and storytelling skills
 
-## Examples in Market Research Context
-
-- AI tools that automatically generate research questions without researcher input
-- Automated analysis platforms that provide ready-made interpretations without requiring researcher judgment
-- Research assistant tools that create complete project plans without researcher deliberation
-- Disembodied collaboration tools that replace face-to-face team interactions
-
-## Contrast with Capacity-Conducive Environments
-
-Capacity-hostile environments should be contrasted with [[capacity-conducive-environments]], which actively encourage capacity development through:
-- Rich opportunities for embodied interaction
-- Structured and unstructured practice opportunities
-- Mentorship and shared valuing of capacities
-- Gradual habituation through successive trials
-
-## Implications for Skills Gap Research
-
-Understanding capacity-hostile environments is critical for analyzing the "entry-level squeeze" phenomenon, where traditional training grounds for developing professional expertise are automated. This structural perspective moves beyond individual responsibility frameworks to examine how workplace environments either support or undermine capacity development.
+## Related Concepts
+- [[capacity-conducive-environments]]
+- [[ai-deskilling-structural-problem]]
+- [[narrow-field-of-affordances]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[plan-following]]
+- [[artificial-personal-assistants]]
+- [[entry-level-squeeze]]
 
 ## References
-
-- [[ferdman-2026-ai-deskilling-structural-problem]]
-- [[narrow-field-of-affordances]]
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
-- [[ai-deskilling-structural-problem]]
-
-## Update Log
-
-2026-07-25: Expanded with detailed mechanisms of how AI creates capacity-hostile environments, specific market research examples, and clearer contrast with capacity-conducive environments based on Ferdman study analysis.
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z

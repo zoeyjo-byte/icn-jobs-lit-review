@@ -1,50 +1,60 @@
 # [[narrow-field-of-affordances]]
 
 ## Definition
-A narrow field of affordances is an environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
+A narrow field of affordances is an environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create [[capacity-hostile-environments]] as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
-Ferdman explains that:
-- Affordances are action possibilities formed by the relationship between an agent and its environment
-- The environment one inhabits is a "world of affordances" that offers possibilities to persons
-- Affordances are not mere opportunities but invitations that influence agent behavior
-- A narrow field of affordances restricts the invitations for valuable activities
+## Core Characteristics
+Ferdman's analysis identifies several key features of narrow fields of affordances:
 
-## Key Characteristics
-Narrow fields of affordances typically:
-- Provide limited action possibilities for developing human capacities
-- Restrict opportunities for embodied interaction
-- Reduce intersubjective learning opportunities
-- Encourage habitual responses rather than skilled agency
-- Discourage users from finding ways to compensate for capacity shrinkage
+1. **Limited Action Possibilities**: Environments that "restrict, limit or create a narrow field of affordances for capacity development and exercise"
 
-## Examples in AI Systems
-Ferdman identifies several examples of narrow fields of affordances created by AI:
-- Healthcare AI that offloads tasks to machines, leading to automation bias and loss of critical skills
-- Smartphones that provide disconnected interaction possibilities (swiping, clicking, scrolling)
-- [[artificial-personal-assistants]] that replace human planning activities
-- Social media platforms that herd users into predictable behaviors
+2. **Shallow Skilling Opportunities**: These environments "afford opportunities for shallow skilling in the capacities, and restrict opportunities for a fuller, well-rounded development and exercise of capacities"
 
-## Structural Harm
-Ferdman argues that narrow fields of affordances are normatively problematic when they lead to "affordance shrinkage":
-- When the reduction in action possibilities is systematic and enduring
-- When the shrinkage is deeply entrenched in the socio-technical environment
-- When users are discouraged from finding ways to compensate for the shrinkage
-- When the environment fails to encourage rather than merely afford valuable activities
+3. **Compensation Discouragement**: Importantly, narrow fields not only restrict opportunities but also "discourage users from finding ways to compensate for the shrinkage"
 
-## Professional Context
-In market research, narrow fields of affordances manifest as:
-- AI tools that automate routine analysis tasks without providing opportunities for skill development
-- Research platforms that limit interaction possibilities to predefined templates
-- Disembodied research methods that reduce opportunities for embodied interaction with participants
-- Standardized reporting formats that discourage creative insight development
+4. **Systemic Nature**: The problem becomes normatively problematic when the reduction in action possibilities is "systematic, enduring and deeply entrenched," constituting "affordance shrinkage"
 
-## Capacity-Conducive Alternatives
-Ferdman suggests that capacity-conducive environments should:
-- Afford but also encourage valuable activities (not just provide opportunities)
-- Include public goods like community centers and quality public spaces
-- Provide structured and unstructured embodied interaction opportunities
-- Create invitations for activities that trigger multiple capacities simultaneously
+## Examples in AI Context
+Ferdman provides several concrete examples of narrow fields of affordances created by AI systems:
 
-## Update
-2026-07-25: Expanded with detailed analysis from Ferdman's structural perspective on how AI systems create narrow fields of affordances in professional contexts, with specific examples from research practice.
+1. **Healthcare AI**: Systems that "afford the possibility of offloading tasks to the machine" leading to "automation bias," which risks "the loss of the user's critical skills necessary for unexpected scenarios such as a system malfunction"
+
+2. **Smartphone Interfaces**: Providing "possibilities for interaction that are disconnected from other persons, such as swiping, clicking and scrolling" which "fractures the user's affordance space into disconnected fields, ultimately leading to alienation"
+
+3. **Artificial Personal Assistants**: Creating environments where users become "plan-followers rather than plan-formers" by offloading planning activities to AI systems
+
+## Cumulative Impact
+Ferdman emphasizes that the danger of narrow fields of affordances increases through cumulative effects:
+
+- **Multiple Sphere Automation**: "Automating multiple everyday human activities, across multiple spheres (e.g., writing, searching, planning, organizing, navigation, decision-making, entertainment, personal wellbeing)"
+- **Compensation Difficulty**: The cumulative effect makes it harder for users to find alternative avenues to compensate for capacity deskilling
+- **Systemic Entrenchment**: When narrow affordance fields become widespread, they create systemic conditions that are difficult for individuals to overcome
+
+## Contrast with Capacity-Conducive Environments
+While narrow fields restrict capacity development, [[capacity-conducive-environments]] actively encourage it by:
+- Providing rich opportunities for embodied interaction
+- Encouraging rather than merely affording action possibilities
+- Supporting intersubjective habituation of capacities
+- Creating public goods infrastructure like community centers and public libraries
+
+## Implications for Market Research
+For the market research industry, narrow fields of affordances could manifest as:
+
+- AI tools that automate foundational analytical tasks, creating an [[entry-level-squeeze]]
+- Research platforms that limit opportunities for creative problem-solving
+- Reporting systems that reduce opportunities for developing communication skills
+- Client interaction tools that narrow the field of relational possibilities
+
+## Related Concepts
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[ai-deskilling-structural-problem]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[artificial-personal-assistants]]
+- [[entry-level-squeeze]]
+- [[human-operating-model-gap]]
+
+## References
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z

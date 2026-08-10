@@ -53,3 +53,4 @@ Chronological record of every ingest operation.
 2026-08-07: Ingested s00146-025-02686-z.txt. Updated 15 concept pages, 2 entity pages, and 1 study page with detailed analysis from Ferdman's structural perspective on AI deskilling. Added specific examples of how AI systems create capacity-hostile environments in professional contexts, with implications for research practice, mentorship, and capacity development.
 2026-08-08: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-09: Ingested s00146-025-02686-z.txt. Created 1, updated 5.
+2026-08-10: Ingested s00146-025-02686-z.txt. Updated 16 concept pages and 2 entity pages with detailed analysis from Ferdman's structural perspective on AI deskilling, including capacity-hostile/conducive environments, human capacities framework, and analysis of Artificial Personal Assistants.

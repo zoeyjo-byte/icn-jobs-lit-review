@@ -1,97 +1,75 @@
-# Human Capacities
+# [[human-capacities]]
 
-Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of flourishing, making their deskilling particularly harmful.
+## Definition
+Human capacities are core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing rather than merely instrumentally valuable.
 
-## Definition and Characteristics
+## Four Core Capacity Categories
+Ferdman's analysis, drawing on Developmental Perfectionism, identifies four fundamental categories of human capacities:
 
-Human capacities are:
+### Epistemic Capacities
+- **Theoretical Rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
+- **Practical Rationality (Phronesis)**: Doing the right thing in the right way for the right reason, common sense or wisdom
+- Critical for knowledge acquisition, truth navigation, and informed decision-making
 
-- Constitutive of human flourishing rather than merely instrumental
-- Developed through a gradual process of habituation
-- Exercised in activities yielding intrinsically valuable outcomes
-- Interconnected, rarely operating in isolation from each other
-- Required for competent exercise of practical reason and self-worth
+### Social Capacities
+- **Moral Capacity**: Recognizing others as moral agents, making ethical judgments
+- **Relational Capacity**: Forming meaningful relationships of friendship and love
+- Essential for communal life, understanding others' perspectives, and moral development
 
-Unlike domain-specific skills (like hunting or coding), the deskilling of these core capacities diminishes us as humans and undermines our flourishing.
-
-## The Four Core Capacities
-
-### 1. Epistemic Capacities
-
-- **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
-- **Practical rationality (phronesis)**: Doing the right thing in the right way for the right reason
-- Essential for navigating truth and making informed decisions
-- Manifest in self-deliberation on values and goals, and in coordinating plans with actions
-
-### 2. Social Capacities
-
-- **Moral capacity**: Recognizing others as moral agents, making ethical judgments
-- **Social and caring capacities**: Developing meaningful relationships of friendship and love
-- Essential for forming relationships and participating in communal life
-- Require embodied interaction for proper development
-
-### 3. Creative Capacities
-
+### Creative Capacities
 - Making unfamiliar combinations of familiar ideas
-- Transforming conceptual spaces without relying on luck or mechanical procedures
-- Essential for innovation and adaptation
-- Require the ability to reconsider and respond to novel situations
+- Transforming conceptual spaces without relying merely on luck or mechanical procedures
+- Enables innovation, adaptation, and novel problem-solving
 
-### 4. Volitional Capacity
-
+### Volitional Capacity
 - The ability to exert effort, overcome difficulty, persevere, and grow
 - Required to achieve intrinsically valuable goals
 - Functions as a meta-capacity necessary for developing all other capacities
-- Critical for initiating plan-forming rather than merely following plans
 
-## Why These Capacities Matter
+## Characteristics of Human Capacities
+Ferdman emphasizes several key characteristics:
 
-These capacities are fundamental because:
+1. **Constitutive of Flourishing**: These capacities are not merely instrumentally valuable but constitutive of human flourishing
 
-1. **They constitute flourishing**: "When humans competently develop and exercise [these capacities], they lead a flourishing life"
+2. **Developed Through Habituation**: Capacities develop through a gradual process of habituation involving practice and error
 
-2. **They enable the 'arts of personhood'**: Epistemic, social, moral and creative capacities required for practical reason, self-worth, mutual respect, honesty and justice
+3. **Intersubjective Development**: Capacity development requires mentorship and shared valuing with others
 
-3. **They are interconnected**: "The human capacities rarely operate in isolation from each other" - for example, knowledge involves theoretical and practical rationality, willpower, and physical capacities
+4. **Embodied Nature**: Full development requires embodied interaction and sensory experience
 
-4. **Their deskilling is harmful**: Unlike domain-specific skill obsolescence, capacity-deskilling diminishes us as humans
+5. **Agential Control**: Competent exercise requires control over initiating and adjusting activities
 
 ## Threats from AI Systems
+Ferdman identifies how AI systems can undermine human capacities:
 
-AI systems threaten human capacities through:
+- **Narrow Affordance Fields**: Environments that restrict opportunities for capacity exercise
+- **Disembodied Interaction**: Reduced opportunities for embodied interaction necessary for social capacities
+- **Habituation Disruption**: Automation that deprives users of routine practice opportunities
+- **Value Erosion**: Environments that fail to support shared valuing of capacities
 
-- **Automation bias**: Undermining epistemic capacities by encouraging trust in AI over critical evaluation
+## Implications for Market Research
+For the market research industry, understanding human capacities is critical because:
 
-- **Reduced embodied interaction**: Impairing social capacities by limiting face-to-face engagement
-
-- **Shallow skilling**: Creating environments that afford only superficial engagement with capacities
-
-- **Offloading decision-making**: Reducing opportunities to exercise volitional capacity through routine choices
-
-## Case Study: Artificial Personal Assistants
-
-APAs threaten multiple capacities:
-
-- **Epistemic**: By replacing self-deliberation on values and goals
-- **Social**: By reducing embodied interaction with others
-- **Creative**: By limiting opportunities to respond to novel situations
-- **Volitional**: By removing the need to exert effort in planning activities
-
-## Implications for AI Design
-
-To protect human capacities, AI systems should:
-
-- Preserve opportunities for exercising all four capacity types
-- Support rather than replace embodied interaction for social capacities
-- Create interfaces that encourage rather than automate epistemic deliberation
-- Maintain challenges that require volitional effort rather than complete automation
+- Research excellence depends on all four capacity categories
+- The [[entry-level-squeeze]] threatens traditional pathways for capacity development
+- AI tools must be evaluated based on their impact on capacity cultivation
+- The [[human-operating-model-gap]] reflects a mismatch between AI capabilities and human capacity requirements
 
 ## Related Concepts
-
 - [[epistemic-capacities]]
 - [[social-capacities]]
 - [[creative-capacities]]
 - [[volitional-capacity]]
-- [[human-flourishing]]
+- [[developmental-perfectionism]]
 - [[ai-deskilling-structural-problem]]
 - [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[agential-control]]
+- [[human-operating-model-gap]]
+- [[entry-level-squeeze]]
+
+## References
+Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
