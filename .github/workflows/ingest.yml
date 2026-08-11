@@ -43,6 +43,7 @@ jobs:
       - name: Run batch ingest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          MODEL: ${{ vars.ROUTINE_MODEL || 'qwen/qwen3-235b-a22b-2507' }}
           MAX_CHARS: 50000
           FALLBACK_TO_SINGLE: "1"
         run: python3 bin/ingest_batch.py

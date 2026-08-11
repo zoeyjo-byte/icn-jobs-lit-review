@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 
 # ── Config (template-friendly) ───────────────────────────────
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
-MODEL = os.environ.get("MODEL", "qwen/qwen3-235b-a22b-thinking-2507")
+MODEL = os.environ.get("MODEL", "qwen/qwen3-235b-a22b-2507")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 RAW_DIR = os.environ.get("RAW_DIR", "raw")
@@ -40,6 +40,9 @@ config = load_config()
 PROJECT_NAME = os.environ.get("PROJECT_NAME", config.get("PROJECT_NAME", "LLM Wiki"))
 DOMAIN = os.environ.get("DOMAIN", config.get("DOMAIN", "General"))
 MODEL = os.environ.get("MODEL", config.get("MODEL", MODEL))
+VISION_MODEL = os.environ.get("VISION_MODEL", config.get("VISION_MODEL", "google/gemini-3.6-flash"))
+REBUILD_MODEL = os.environ.get("REBUILD_MODEL", config.get("REBUILD_MODEL", "gpt-5.6-luna"))
+AUDIT_MODEL = os.environ.get("AUDIT_MODEL", config.get("AUDIT_MODEL", "gpt-5.6-sol"))
 STRICT_MODE = config.get("STRICT_MODE", False)
 
 

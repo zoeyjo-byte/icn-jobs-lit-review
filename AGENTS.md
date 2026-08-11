@@ -124,3 +124,76 @@ When new files appear in `raw/`:
 2. Check for stale pages not updated in 90+ days.
 3. Check for orphan pages (no incoming links) via `detect_orphans()`.
 4. Verify `wiki/index.md` matches actual wiki contents.
+
+## Planned Build: Model Routing and Wiki Rebuild
+
+This section records the agreed implementation plan for branch
+`codex/model-routing-rebuild`. Continue from this plan if work is handed to
+another tool or agent.
+
+### Model roles
+
+- **Vision extraction:** Gemini via OpenRouter. Default target:
+  `google/gemini-3.6-flash`.
+- **Routine synthesis:** Qwen via OpenRouter. Default target:
+  `qwen/qwen3-235b-a22b-2507` (Instruct; use the Thinking variant only when
+  explicitly requested for difficult analysis).
+- **Large rebuilds:** GPT-5.6 Luna through the direct OpenAI API and Batch API:
+  `gpt-5.6-luna`.
+- **High-stakes audit:** GPT-5.6 Sol through the direct OpenAI API only when
+  explicitly requested or when a difficult synthesis requires escalation:
+  `gpt-5.6-sol`.
+
+Never commit API keys. GitHub Actions secrets are `OPENROUTER_API_KEY` and
+`OPENAI_API_KEY`; model names may be configured as non-secret variables.
+
+### Implementation sequence
+
+1. Add explicit model-role configuration without breaking the existing
+   OpenRouter defaults.
+2. Keep `bin/preprocess.py` on the OpenRouter vision endpoint and make its
+   model selection explicit and reproducible.
+3. Keep routine `ingest.py` and `bin/ingest_batch.py` on OpenRouter/Qwen.
+4. Add a separate direct OpenAI Batch rebuild path. It must upload JSONL batch
+   requests, submit a batch, poll for completion, parse each result, and apply
+   changes only after the full batch response is validated.
+5. Add an explicit Sol audit path. It must never run automatically during
+   routine ingest.
+6. Before rebuilding, preserve the existing `wiki/` on the branch or in an
+   archive directory. Do not delete `sources/` or `raw/`; `raw/` is immutable.
+7. Rebuild canonical wiki pages from the source manifest rather than
+   repeatedly appending updates from the same raw file. Repair and regenerate
+   `wiki/.ingested.json`, `wiki/index.md`, category indexes, `wiki/sources.md`,
+   `wiki/figures/index.md`, and `wiki/log.md` as part of the rebuild.
+8. Remove duplicate or stale figure pages only after their source/image
+   mapping has been checked and the archived wiki remains recoverable.
+
+### Image requirements
+
+- Store extracted images at `wiki/figures/<source-slug>/fig-N.jpg`.
+- On a figure page located directly in `wiki/figures/`, reference the image as
+  `<source-slug>/fig-N.jpg`.
+- Do not generate a figure page unless its referenced image exists.
+- Every figure page must include the actual Markdown image, source study link,
+  source page number, and vision-model description.
+- Add validation that resolves every image reference against the source tree.
+
+### Required validation before merge
+
+- No uncommitted secrets or credentials.
+- Every `[[wikilink]]` resolves to a page or an intentionally documented
+  external/ unresolved reference.
+- Every Markdown image target resolves to a committed file.
+- No duplicate figure identity exists for the same source and figure number.
+- No unexpected orphan pages when `STRICT_MODE=true`.
+- `mkdocs build --strict` succeeds.
+- A representative study page and figure page are visually checked in the
+  rendered site.
+- Run a dry-run rebuild or fixture test before submitting a real OpenAI Batch
+  request, because Batch requests incur costs and are asynchronous.
+
+### Handoff state
+
+The work branch is `codex/model-routing-rebuild`. The current `main` branch is
+the last synchronized GitHub state. The OpenAI key has been added to GitHub
+Actions as `OPENAI_API_KEY`; do not request or print its value.

@@ -1,6 +1,9 @@
 {
   "PROJECT_NAME": "LLM Wiki",
   "DOMAIN": "General",
-  "MODEL": "qwen/qwen3-235b-a22b-thinking-2507",
+  "MODEL": "qwen/qwen3-235b-a22b-2507",
+  "VISION_MODEL": "google/gemini-3.6-flash",
+  "REBUILD_MODEL": "gpt-5.6-luna",
+  "AUDIT_MODEL": "gpt-5.6-sol",
   "STRICT_MODE": true
 }

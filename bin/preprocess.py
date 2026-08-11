@@ -39,7 +39,7 @@ WIKI_DIR = os.environ.get("WIKI_DIR", "wiki")
 
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-VISION_MODEL = os.environ.get("VISION_MODEL", "google/gemini-2.5-flash")
+VISION_MODEL = os.environ.get("VISION_MODEL", "google/gemini-3.6-flash")
 
 # Hard cap on number of pages sent to vision per file (cost guard).
 MAX_PAGES_PER_FILE = int(os.environ.get("MAX_PAGES_PER_FILE", 40))

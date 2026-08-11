@@ -7,3 +7,4 @@ wiki/index.md.bak
 # Local env / secrets
 .env
 .env.*
+__pycache__/

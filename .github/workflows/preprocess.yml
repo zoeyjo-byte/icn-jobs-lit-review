@@ -44,7 +44,7 @@ jobs:
         run: python3 bin/preprocess.py
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          VISION_MODEL: ${{ secrets.VISION_MODEL }}
+          VISION_MODEL: ${{ vars.VISION_MODEL || 'google/gemini-3.6-flash' }}
 
       - name: Commit raw outputs
         run: |
