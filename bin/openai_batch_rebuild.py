@@ -79,24 +79,19 @@ the page-relative image path <source-slug>/fig-N.jpg.
 def batch_request(prompt):
     body = {
         "model": MODEL,
-        "messages": [
-            {
-                "role": "system",
-                "content": (
-                    "You are the canonical wiki rebuild compiler. Return only "
-                    "valid JSON in the requested schema. Reconcile sources "
-                    "carefully and never invent image files."
-                ),
-            },
-            {"role": "user", "content": prompt},
-        ],
-        "temperature": 0.2,
-        "max_tokens": MAX_OUTPUT_TOKENS,
+        "instructions": (
+            "You are the canonical wiki rebuild compiler. Return only valid "
+            "JSON in the requested schema. Reconcile sources carefully and "
+            "never invent image files."
+        ),
+        "input": prompt,
+        "reasoning": {"effort": "medium"},
+        "max_output_tokens": MAX_OUTPUT_TOKENS,
     }
     line = {
         "custom_id": "wiki-rebuild",
         "method": "POST",
-        "url": "/v1/chat/completions",
+        "url": "/v1/responses",
         "body": body,
     }
     return (json.dumps(line, ensure_ascii=False) + "\n").encode("utf-8")
@@ -118,7 +113,7 @@ def submit(prompt):
         headers={**headers(), "Content-Type": "application/json"},
         json={
             "input_file_id": file_id,
-            "endpoint": "/v1/chat/completions",
+            "endpoint": "/v1/responses",
             "completion_window": "24h",
             "metadata": {"project": ingest.PROJECT_NAME, "purpose": "wiki-rebuild"},
         },
@@ -147,7 +142,17 @@ def wait_for_batch(batch_id, poll_seconds):
 def extract_result(batch):
     output_file_id = batch.get("output_file_id")
     if not output_file_id:
-        raise RuntimeError(f"Batch completed without output_file_id: {batch}")
+        error_file_id = batch.get("error_file_id")
+        detail = ""
+        if error_file_id:
+            error_response = requests.get(
+                f"{OPENAI_API_BASE}/files/{error_file_id}/content",
+                headers=headers(),
+                timeout=120,
+            )
+            error_response.raise_for_status()
+            detail = f" Error file: {error_response.text[:4000]}"
+        raise RuntimeError(f"Batch completed without output_file_id: {batch}.{detail}")
     response = requests.get(
         f"{OPENAI_API_BASE}/files/{output_file_id}/content",
         headers=headers(),
@@ -161,10 +166,13 @@ def extract_result(batch):
     if record.get("error"):
         raise RuntimeError(f"Batch request failed: {record['error']}")
     body = record.get("response", {}).get("body", {})
-    choices = body.get("choices", [])
-    if not choices or not choices[0].get("message", {}).get("content"):
-        raise RuntimeError("Batch response did not contain model content")
-    return choices[0]["message"]["content"]
+    if body.get("output_text"):
+        return body["output_text"]
+    for item in body.get("output", []):
+        for content in item.get("content", []):
+            if content.get("type") == "output_text" and content.get("text"):
+                return content["text"]
+    raise RuntimeError("Batch response did not contain model content")
 
 
 def validate_json(response_text):

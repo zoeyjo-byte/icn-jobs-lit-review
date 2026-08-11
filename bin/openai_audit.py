@@ -49,21 +49,30 @@ SOURCE ({args.source}):
 <<<SOURCE_END>>>
 """
     response = requests.post(
-        f"{API_BASE}/chat/completions",
+        f"{API_BASE}/responses",
         headers={"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"},
         json={
             "model": MODEL,
-            "messages": [
-                {"role": "system", "content": "You are a rigorous evidence auditor. Return only the audit report."},
-                {"role": "user", "content": prompt},
-            ],
-            "temperature": 0.1,
-            "max_tokens": 32000,
+            "instructions": "You are a rigorous evidence auditor. Return only the audit report.",
+            "input": prompt,
+            "reasoning": {"effort": "medium"},
+            "max_output_tokens": 32000,
         },
         timeout=600,
     )
     response.raise_for_status()
-    report = response.json()["choices"][0]["message"]["content"]
+    result = response.json()
+    report = result.get("output_text")
+    if not report:
+        for item in result.get("output", []):
+            for content in item.get("content", []):
+                if content.get("type") == "output_text" and content.get("text"):
+                    report = content["text"]
+                    break
+            if report:
+                break
+    if not report:
+        raise RuntimeError("OpenAI audit response did not contain output text")
     if args.output:
         with open(args.output, "w", encoding="utf-8") as fh:
             fh.write(report)
