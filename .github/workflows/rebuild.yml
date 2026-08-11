@@ -1,0 +1,57 @@
+name: rebuild-wiki
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply:
+        description: Apply the completed Batch output to wiki/
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    if: ${{ inputs.apply == true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Submit, wait for, and apply GPT-5.6 Luna Batch rebuild
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          REBUILD_MODEL: gpt-5.6-luna
+        run: python3 bin/openai_batch_rebuild.py --submit --wait --apply
+
+      - name: Validate rebuilt wiki
+        run: python3 bin/validate_wiki.py
+
+      - name: Commit rebuilt wiki
+        run: |
+          git add AGENTS.md config.json bin/ .github/workflows/rebuild.yml wiki/
+          if git diff --staged --quiet; then
+            echo "No rebuilt wiki changes to commit."
+          else
+            git commit -m "Rebuild wiki with GPT-5.6 Luna"
+            git push
+          fi
