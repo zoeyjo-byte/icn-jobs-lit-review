@@ -1,53 +1,50 @@
 # [[agential-control]]
 
 ## Definition
-Agential control is the ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-## Philosophical Foundation
-Ferdman's analysis draws on philosophical work that distinguishes between:
-- **Skills**: Activities where the agent has full control over initiating the activity
-- **Habits**: Activities triggered by something in the environment, where the agent performs the activity in response to the trigger
+The ability to **adjust the execution of an action as the performance unfolds**, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-As Ferdman explains: "The implication is that an agent who performs out of habit, in response to triggers in the environment, is less skilled compared to the agent who initiated the activity, who has full agential control over it."
+## Key Characteristics
 
-## Role in Capacity Development
-Agential control plays several critical roles in human capacity development:
+- Involves **flexible links between thought and action** that continue to evolve even after expertise is achieved
+- Enables **self-deliberation** about the planning process itself
+- Requires **initiating activities** rather than merely responding to environmental triggers
+- Allows for **adjustment during execution** based on unfolding circumstances
+- Develops through a process of **tuning and attuning** as agency develops
 
-1. **Initiation of Action**: The capacity to will oneself into initiating activities is fundamental to developing other capacities
+## Contrast with Habitual Action
 
-2. **Adjustment During Performance**: The ability to modify actions as circumstances change, rather than merely following predetermined patterns
+| Feature | Agential Control | Habitual Action |
+|---------|-----------------|----------------|
+| Initiation | Agent-controlled | Environment-triggered |
+| Adjustment | Possible during execution | Fixed pattern |
+| Cognitive Process | Flexible, deliberative | Automatic, routine |
+| Responsibility | Full ownership | Diffused responsibility |
+| Development | Requires practice and feedback | Forms through repetition |
 
-3. **Responsibility Taking**: When plans fail, having initiated them allows for self-criticism and improvement
+## AI Context
 
-4. **Distinction from Plan-Following**: Ferdman emphasizes that "in plan-forming, the capacity to will is involved in initiating the plan, whereas in plan-following, it is absent, because the user is responding to a trigger in the environment"
+Ferdman's analysis reveals how AI systems, particularly **[[artificial-personal-assistants]]**, can undermine agential control:
 
-## Threats from AI Systems
-Ferdman identifies how AI systems can undermine agential control:
+- By providing complete plans rather than scaffolding, encouraging **[[plan-following]]** instead of **[[plan-forming]]**
+- Through constant availability that discourages users from initiating planning activities themselves
+- By creating environments where users respond to AI outputs rather than initiating activities
+- When failures occur, users can shift responsibility to the AI system rather than engaging in self-critique
 
-- **Artificial Personal Assistants**: Create environments where users become "plan-followers rather than plan-formers," responding to AI outputs rather than initiating planning activities
+## Importance for Capacity Development
 
-- **Automation Bias**: When users attribute "authority or excessive trust to an AI tool over advice from other sources," reducing their own decision-making agency
+Agential control is essential for developing:
 
-- **Narrow Affordance Fields**: Environments that provide limited action possibilities, restricting opportunities to exercise agential control
-
-## Importance for Market Research
-For market research professionals, maintaining agential control is critical because:
-
-- Research requires adapting methodologies to unique contexts rather than following rigid protocols
-- Analytical reasoning depends on the ability to adjust interpretations as new evidence emerges
-- Client interactions demand responsive communication rather than scripted responses
-- Innovation in research design requires initiating novel approaches rather than following established patterns
+- **[[epistemic-capacities]]**: Particularly practical rationality (phronesis) in navigating complex situations
+- **[[social-capacities]]**: Forming authentic relationships requires initiating and adjusting social interactions
+- **[[volitional-capacity]]**: The ability to exert effort and overcome difficulty depends on initiating action
+- **[[creative-capacities]]**: Innovation requires deviating from established patterns
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]
-- [[plan-following]]
-- [[habituation-process]]
-- [[human-capacities]]
-- [[volitional-capacity]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[ai-deskilling-structural-problem]]
-- [[artificial-personal-assistants]]
 
-## References
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
+- [[plan-forming-vs-plan-following]]: The critical distinction in planning activities
+- [[habituation-process]]: How agential control develops through practice
+- [[embodiment-in-skilling]]: Physical presence enables agential control
+- [[human-operating-model-gap]]: Organizational implications of eroded agential control
+
+*Last updated with insights from Ferdman (2026) analysis of how AI impacts human agency.*

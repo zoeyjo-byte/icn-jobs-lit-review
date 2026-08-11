@@ -54,3 +54,4 @@ Chronological record of every ingest operation.
 2026-08-08: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-09: Ingested s00146-025-02686-z.txt. Created 1, updated 5.
 2026-08-10: Ingested s00146-025-02686-z.txt. Updated 16 concept pages and 2 entity pages with detailed analysis from Ferdman's structural perspective on AI deskilling, including capacity-hostile/conducive environments, human capacities framework, and analysis of Artificial Personal Assistants.
+2026-08-11: Ingested s00146-025-02686-z.txt. Created 1, updated 5. Added comprehensive analysis of Ferdman's structural approach to AI deskilling, with detailed updates to capacity-hostile-environments, capacity-conducive-environments, agential-control, habituation-process, and plan-following pages. Synthesized findings with existing concepts like human-operating-model-gap and entry-level-squeeze.

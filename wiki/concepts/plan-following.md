@@ -1,57 +1,51 @@
 # [[plan-following]]
 
 ## Definition
-Plan-following refers to the execution of pre-determined plans without exercising agential control over the planning process itself. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
 
-## Key Characteristics
-Ferdman's analysis identifies several critical features of plan-following:
+Plan-following refers to the **execution of pre-determined plans without exercising agential control over the planning process itself**. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
 
-- **Environmental Response**: Actions are triggered by something in the environment rather than initiated by the agent
-- **Limited Agential Control**: Users are "not initiating the two functions of planning: settling and coordinating, but merely responding to the APAs recommendations"
-- **Shallow Capacity Exercise**: "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities"
-- **Responsibility Avoidance**: "If an APA makes a plan that ends up failing, the user could more readily shift the responsibility to the APA, forgoing the opportunity for self-growth"
-- **Volitional Absence**: "In plan-following, [the capacity to will] is absent, because the user is responding to a trigger in the environment—the APA output"
+## Characteristics
+
+- **Environment-triggered**: Initiated by external prompts rather than self-directed action
+- **Limited adjustment**: Minimal capacity to modify plans during execution
+- **Reduced responsibility**: Ability to shift accountability when plans fail
+- **Shallow engagement**: Requires less cognitive and volitional investment
+- **Automation-friendly**: Easily codified and delegated to AI systems
 
 ## Contrast with Plan-Forming
-Plan-following differs fundamentally from [[plan-forming-vs-plan-following]]:
 
 | Feature | Plan-Forming | Plan-Following |
-|---------|--------------|----------------|
-| **Initiation** | Agent-controlled | Environment-triggered |
-| **Agential Control** | Full control over settling and coordinating | Limited control, responding to triggers |
-| **Capacity Engagement** | Deep engagement of multiple capacities | Shallow exercise of capacities |
-| **Responsibility** | Taking responsibility for outcomes | Shifting responsibility to external source |
-| **Volitional Role** | Requires capacity to will | Absence of volitional capacity |
+|---------|-------------|---------------|
+| Initiation | Self-directed | Environment-triggered |
+| Control | Full agential control | Limited adjustment |
+| Responsibility | Full ownership | Diffused accountability |
+| Cognitive Demand | High (self-deliberation) | Low (routine execution) |
+| Error Response | Self-critique and adaptation | Blame shifting |
+| Capacity Development | Builds multiple capacities | Maintains shallow skill level |
 
-## AI's Role in Promoting Plan-Following
-Ferdman identifies how AI systems, particularly Artificial Personal Assistants, encourage plan-following:
+## AI Context
 
-- **APA Design**: Systems like Sunsama that "display tasks synced from a variety of software" and "intelligently reschedule them" create environments where users respond to AI-generated plans
-- **Convenience Trap**: The constant availability of APAs "discourages the user from seeking out new opportunities for growth and exploration"
-- **Habit Formation**: Over-reliance on APAs may "over time, acclimate the user to merely responding to triggers in the environment rather than exercising agential control over the planning"
-- **Practical Wisdom Erosion**: "Constantly turning to APAs for advice... restricts the user's real-world experience and undermines the opportunity to develop practical wisdom"
+Ferdman's analysis demonstrates how **[[artificial-personal-assistants]]** encourage plan-following:
 
-## Implications for Market Research
-For the market research industry, the promotion of plan-following has significant implications:
+- By providing complete daily schedules rather than scaffolding for self-planning
+- Through constant availability that prompts users to seek external planning rather than self-initiation
+- When users ask "help me plan my day" or "how should I fill an unscheduled hour", they offload small-scale decisions that collectively build life-planning capacities
+- By creating environments where users respond to AI outputs rather than initiating planning activities
 
-- Research design requires plan-forming rather than plan-following to address novel challenges
-- Client consulting depends on the ability to form custom solutions rather than follow templates
-- Innovation in methodology requires active plan-forming capabilities
-- The [[entry-level-squeeze]] may push junior researchers toward plan-following roles as AI handles routine planning tasks
-- The [[human-operating-model-gap]] reflects a mismatch between AI capabilities and plan-forming requirements
+## Impact on Capacity Development
+
+Excessive plan-following undermines development of:
+
+- **[[epistemic-capacities]]**: Particularly practical rationality (phronesis) in navigating complex situations
+- **[[volitional-capacity]]**: The ability to exert effort and overcome difficulty requires initiating action
+- **[[social-capacities]]**: Authentic relationship building requires self-directed interaction
+- **[[creative-capacities]]**: Innovation requires deviating from established patterns
 
 ## Related Concepts
-- [[plan-forming-vs-plan-following]]
-- [[agential-control]]
-- [[artificial-personal-assistants]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[ai-deskilling-structural-problem]]
-- [[habituation-process]]
-- [[epistemic-capacities]]
-- [[volitional-capacity]]
-- [[entry-level-squeeze]]
-- [[human-operating-model-gap]]
 
-## References
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
+- [[agential-control]]: Essential for plan-forming but absent in plan-following
+- [[habituation-process]]: Plan-forming develops through gradual habituation
+- [[capacity-hostile-environments]]: Environments that encourage plan-following
+- [[human-operating-model-gap]]: Organizational consequences of plan-following culture
+
+*Last updated with insights from Ferdman (2026) analysis of how AI encourages plan-following behavior.*
