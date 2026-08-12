@@ -1,6 +1,6 @@
 # ramp-revelio-2026-fig-7-entry-level-headcount
 
-![Entry-Level Headcount](figures/ramp-revelio-ai-jobs-impact-2026/fig-7.jpg)
+![Entry-Level Headcount](ramp-revelio-ai-jobs-impact-2026/fig-7.jpg)
 
 ## Description
 This event study figure shows the impact of AI adoption on entry-level headcount for high-intensity adopters compared to later adopters in the same intensity group.

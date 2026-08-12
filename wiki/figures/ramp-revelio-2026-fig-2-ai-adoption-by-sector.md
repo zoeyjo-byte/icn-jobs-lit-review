@@ -1,6 +1,6 @@
 # ramp-revelio-2026-fig-2-ai-adoption-by-sector
 
-![AI Adoption by Sector](figures/ramp-revelio-ai-jobs-impact-2026/fig-2.jpg)
+![AI Adoption by Sector](ramp-revelio-ai-jobs-impact-2026/fig-2.jpg)
 
 ## Description
 This figure shows AI adoption rates by sector as of December 2025, measured as the percentage of firms adopting AI in each sector.

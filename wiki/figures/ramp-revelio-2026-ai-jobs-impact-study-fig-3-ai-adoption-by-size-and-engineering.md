@@ -1,6 +1,6 @@
 # Figure 3: AI Adoption by Size and Engineering Share
 
-![AI Adoption by Size and Engineering Share](figures/ramp-revelio-2026-ai-jobs-impact-study/fig-3.jpg)
+![AI Adoption by Size and Engineering Share](ramp-revelio-2026-ai-jobs-impact-study/fig-3.jpg)
 
 ## Description
 This dual-chart visualization shows AI adoption patterns by firm characteristics. The left chart demonstrates adoption increases with firm size, rising from 12% among firms below 10 workers to 41-43% among firms above 250 workers. The right chart shows adoption peaks at 38.5% among firms with 15-30% engineering share, declining slightly at higher engineering concentrations. This suggests AI adoption is most common among firms with mixed workforces - sufficient technical capacity to evaluate AI tools but enough non-engineering work to drive cross-functional experimentation.

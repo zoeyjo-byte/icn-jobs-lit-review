@@ -1,6 +1,6 @@
 # ramp-revelio-2026-fig-1-ai-adoption-benchmarks
 
-![AI Adoption Benchmarks](figures/ramp-revelio-ai-jobs-impact-2026/fig-1.jpg)
+![AI Adoption Benchmarks](ramp-revelio-ai-jobs-impact-2026/fig-1.jpg)
 
 ## Description
 This figure benchmarks the AI adoption rate in the linked Ramp-Revelio analytical panel against public survey estimates. It shows the percentage of firms adopting AI across different data sources from July 2021 to January 2026.

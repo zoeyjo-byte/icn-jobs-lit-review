@@ -1,6 +1,6 @@
 # Figure 7: Entry-Level Headcount Event Study
 
-![Entry-Level Headcount Event Study](figures/ramp-revelio-2026-ai-jobs-impact-study/fig-7.jpg)
+![Entry-Level Headcount Event Study](ramp-revelio-2026-ai-jobs-impact-study/fig-7.jpg)
 
 ## Description
 This event study chart reveals that high-intensity AI adoption increases entry-level headcount by 12.0% over 24 months. The effect becomes statistically significant around 6 months post-adoption and continues growing throughout the observation window. This finding directly contradicts predictions that AI adoption would reduce junior employment opportunities, showing instead that intensive AI users expand their entry-level workforce.

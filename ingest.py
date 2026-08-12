@@ -221,6 +221,7 @@ def apply_changes(response_text):
     sync_sources_page()
     sync_figures_page()
     ensure_reference_links()
+    normalize_figure_image_paths()
     
     if rejected:
         print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
@@ -256,6 +257,31 @@ def ensure_reference_links():
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(content.rstrip() + addition)
             print(f"  Restored reference link: {path} -> {link}")
+
+
+def normalize_figure_image_paths():
+    """Normalize figure-page image links to paths relative to wiki/figures/.
+
+    Figure pages live directly under wiki/figures/, so generated links must be
+    ``source-slug/fig-N.jpg``. Models sometimes prepend ``figures/`` because
+    the source description is relative to wiki/; that produces broken images
+    in MkDocs.
+    """
+    figures_dir = os.path.join(WIKI_DIR, "figures")
+    if not os.path.isdir(figures_dir):
+        return
+    pattern = re.compile(r"(!\[[^\]]*\]\()figures/([^)]*\)(?:\s*))")
+    for name in os.listdir(figures_dir):
+        if not name.endswith(".md") or name == "index.md":
+            continue
+        path = os.path.join(figures_dir, name)
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+        normalized = pattern.sub(r"\1\2", content)
+        if normalized != content:
+            with open(path, "w", encoding="utf-8") as fh:
+                fh.write(normalized)
+            print(f"  Normalized figure image paths: {path}")
 
 
 def git_commit_and_push(summary):

@@ -42,6 +42,27 @@ def validate_images():
     return errors
 
 
+def validate_figure_pages():
+    """Check image paths using the same page-relative semantics as MkDocs."""
+    errors = []
+    figures_dir = os.path.join(WIKI_DIR, "figures")
+    if not os.path.isdir(figures_dir):
+        return errors
+    for name in os.listdir(figures_dir):
+        if not name.endswith(".md") or name == "index.md":
+            continue
+        path = os.path.join(figures_dir, name)
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+        for target in IMAGE_RE.findall(content):
+            if target.startswith(("http://", "https://", "data:")):
+                continue
+            resolved = os.path.normpath(os.path.join(figures_dir, target))
+            if not os.path.isfile(resolved):
+                errors.append(f"{path}: missing figure image {target}")
+    return errors
+
+
 def validate_wikilinks():
     targets = page_targets()
     errors = []
@@ -63,6 +84,7 @@ def main():
     parser.add_argument("--images-only", action="store_true")
     args = parser.parse_args()
     errors = validate_images()
+    errors.extend(validate_figure_pages())
     if not args.images_only:
         errors.extend(validate_wikilinks())
     if errors:

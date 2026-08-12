@@ -1,6 +1,6 @@
 # ramp-revelio-2026-fig-6-total-headcount
 
-![Total Headcount](figures/ramp-revelio-ai-jobs-impact-2026/fig-6.jpg)
+![Total Headcount](ramp-revelio-ai-jobs-impact-2026/fig-6.jpg)
 
 ## Description
 This event study figure shows the impact of AI adoption on total headcount for high-intensity adopters compared to later adopters in the same intensity group.

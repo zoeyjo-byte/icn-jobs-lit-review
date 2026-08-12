@@ -25,7 +25,7 @@ You must identify and classify:
     - Methodologies used in research → wiki/methodologies/
     - Figures and charts → wiki/figures/
       - Create one page per figure: wiki/figures/<source-slug>-fig-<N>-short-title.md
-      - Embed the image with the path shown in the source (e.g. ![alt](figures/...))
+      - Embed the image with a path relative to the figure page (e.g. ![alt](<source-slug>/fig-N.jpg))
       - Meaningful page title including source name, figure number, and the chart title
       - Link figure pages back to their source study page
       - On every relevant wiki page that discusses data from a figure, add a cross-link:
