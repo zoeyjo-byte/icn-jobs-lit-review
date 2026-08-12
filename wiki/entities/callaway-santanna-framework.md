@@ -28,8 +28,8 @@ The Callaway-Sant'Anna framework is an econometric approach for analyzing treatm
 - Provided evidence against predictions that AI adoption would lead to broad job losses
 
 ## Related Concepts
-- [[staggered-treatment-timing]]
-- [[causal-inference-in-ai-studies]]
+- staggered-treatment-timing
+- causal-inference-in-ai-studies
 - [[ai-adoption-selection-bias]]
 
 ## Related Studies

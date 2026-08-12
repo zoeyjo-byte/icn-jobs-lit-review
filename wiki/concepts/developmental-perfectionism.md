@@ -70,5 +70,5 @@ The Developmental Perfectionism framework implies that AI systems should:
 - [[capacity-conducive-environments]]
 - [[capacity-hostile-environments]]
 - [[habituation-process]]
-- [[flourishing]]
-- [[intrinsic-value]]
+- flourishing
+- intrinsic-value

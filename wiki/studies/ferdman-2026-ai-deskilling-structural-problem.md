@@ -1,72 +1,33 @@
-# Ferdman (2026) - AI Deskilling is a Structural Problem
+# AI Deskilling Is a Structural Problem
 
-## Publication Details
+## Overview
 
-Published in [[ai-society]] (2026), Volume 41, pages 3001-3013. DOI: https://doi.org/10.1007/s00146-025-02686-z
+Avigail Ferdman's paper, “AI deskilling is a structural problem,” was published in *AI & Society* in 2026. It argues that the risks of AI deskilling cannot be addressed solely by asking individuals to resist automation or cultivate their capacities through personal discipline. AI systems can create socio-technical environments that systematically restrict the opportunities through which human capacities are developed and exercised.
 
-## Core Argument
+## Capacity-skilling framework
 
-This landmark study argues that AI-induced deskilling should be understood as a **structural problem** rather than merely an individual responsibility issue. Ferdman introduces the critical distinction between **capacity-hostile environments** and **capacity-conducive environments** to analyze how AI systems can undermine human capacities through systemic conditions rather than individual failings.
+Ferdman distinguishes ordinary skill obsolescence from the impoverishment of core human capacities. The relevant capacities include epistemic capacities for reasoning and practical wisdom, social and moral capacities for meaningful relationships and care, creative capacity for generating unfamiliar combinations, and volitional capacity for effort, perseverance, and growth. Drawing on developmental perfectionism, the paper treats competent exercise of these capacities as constitutive of human flourishing.
 
-## Key Contributions
+A skill involves agential control: the ability to initiate and adjust an activity as it unfolds. Skills are therefore different from habits, which are triggered by environmental cues. Skilled development also requires habituation, a gradual process of practice, feedback, mistakes, and adaptation. Habituation has intersubjective and embodied dimensions: people learn know-how and the value of a practice from mentors and communities, through shared and often physical interaction.
 
-### Capacity-Skill Framework
+## Capacity-hostile environments
 
-Ferdman develops a novel framework conceptualizing human capacities as skills, with two essential properties:
+Capacity-hostile environments restrict the field of affordances for capacity development. They may allow shallow performance while removing opportunities for fuller development, practice, responsibility, and shared valuing. Automation that removes routine opportunities to exercise judgment may leave people unprepared for exceptional cases. Disembodied systems can also reduce embodied and intersubjective interaction, making it harder to develop social and moral capacities.
 
-1. **[[agential-control]]**: The ability to adjust execution as performance unfolds, distinguishing skills from mere habits
-2. **[[habituation-process]]**: The gradual development of capacities through practice, requiring both [[embodiment-in-skilling]] and [[intersubjectivity-in-skilling]]
+Capacity-conducive environments instead encourage meaningful practice, embodied interaction, mentorship, shared valuing, and opportunities to exercise agency. The distinction provides a structural test for AI deployment: does a system merely increase immediate efficiency, or does it preserve and cultivate the capacities workers need over time?
 
-### Structural Analysis of Deskilling
+## Artificial personal assistants
 
-The paper demonstrates how AI mediation can create environments that:
-- Restrict the **narrow-field-of-affordances** for capacity development
-- Undermine **agential control** by encouraging plan-following rather than plan-forming
-- Disrupt the **habituation process** by reducing opportunities for embodied, intersubjective learning
+The paper applies the framework to Artificial Personal Assistants. Overreliance on an assistant for organizing life, defining goals, or making daily decisions may shift users from plan-formers to plan-followers. Plan-forming requires self-deliberation, practical wisdom, creativity, social reasoning, and volition. Plan-following responds to an externally generated recommendation and may provide less opportunity to develop those capacities. The paper emphasizes that occasional assistance is not automatically capacity-hostile; the concern is cumulative dependence and the replacement of human activity without alternative opportunities for growth.
 
-### Artificial Personal Assistants Analysis
+## Relevance to skills-gap research
 
-The study provides a detailed analysis of how [[artificial-personal-assistants]] can create capacity-hostile environments by:
-- Replacing routine planning activities that build "cognitive musculature"
-- Encouraging users to become plan-followers rather than plan-formers
-- Reducing opportunities for embodied interaction and shared valuing
-- Creating dependency that diminishes the exercise of [[volitional-capacity]]
+The argument extends the [[entry-level-squeeze]] concern beyond hiring numbers. If AI removes foundational research, drafting, checking, and decision practice, organizations may reduce the opportunities through which analysts develop judgment. It also complements [[human-intensive-skills]] and the [[human-operating-model-gap]] by showing why meaningful oversight requires environments that cultivate agency, reasoning, mentorship, and shared responsibility.
 
-## Methodology
+## Source
 
-The paper employs philosophical analysis drawing on:
-- Philosophy of skill (Dreyfus, Sherman, Pavese)
-- Social epistemology
-- Neo-Aristotelian perfectionism
-- Enactive cognition theory
+Ferdman, Avigail. “AI deskilling is a structural problem.” *AI & Society*, 41, 3001–3013, published online November 5, 2025 and analyzed here as a 2026 study.
 
-## Core Human Capacities Framework
+## Publication venue
 
-Ferdman identifies four categories of human capacities essential for flourishing:
-
-| Capacity Type | Key Elements | AI Vulnerability |
-|---------------|--------------|------------------|
-| [[epistemic-capacities]] | Theoretical rationality, practical rationality (phronesis) | Reduced through offloading reasoning to AI |
-| [[social-capacities]] | Moral capacity, relational capacity, friendship | Diminished through disembodied interaction |
-| [[creative-capacities]] | Novel combinations of ideas, conceptual transformation | Constrained by AI's pattern-based generation |
-| [[volitional-capacity]] | Effort, perseverance, growth toward valuable goals | Undermined when AI removes challenges |
-
-## Implications for Market Research
-
-This framework has significant implications for understanding AI's impact on research professions:
-- Traditional research skills development through mentorship may be disrupted by AI tools
-- The "entry-level squeeze" phenomenon may be exacerbated as AI handles foundational research tasks
-- Research quality could suffer as practical wisdom (phronesis) in research design diminishes
-- The [[human-operating-model-gap]] may widen as AI capabilities advance faster than human capacity development
-
-## Related Concepts
-
-- [[ai-deskilling-structural-problem]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[plan-forming-vs-plan-following]]
-- [[developmental-perfectionism]]
-
-## Update Log
-
-2026-07-25: Expanded with detailed framework analysis, capacity categories table, and market research implications based on full text review.
+See [[ai-society]] for the journal context.

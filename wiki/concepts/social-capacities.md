@@ -73,8 +73,8 @@ To protect social capacities, AI systems should:
 
 ## Related Concepts
 
-- [[moral-capacity]]
-- [[relational-capacity]]
+- moral-capacity
+- relational-capacity
 - [[embodiment-in-skilling]]
 - [[intersubjectivity-in-skilling]]
 - [[human-capacities]]

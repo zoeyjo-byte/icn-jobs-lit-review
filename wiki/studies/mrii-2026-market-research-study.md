@@ -1,41 +1,29 @@
-# MRII 2026 Market Research Study
+# MRII 2026 Global Market Research and Insights Study
 
 ## Overview
-The Market Research Institute International (MRII) 2026 global study represents the fourth annual comprehensive analysis of market research and insights professionals worldwide. Conducted by [[ed-keller]] and released at IIEX North America in May 2026, this research surveyed professionals across multiple regions to understand industry sentiment, AI adoption patterns, and evolving skill requirements in the insights sector.
 
-## Key Findings
+The [[mrii-2026-market-research-study]] is the fourth annual global study of market research and insights professionals, released by the Market Research Institute International and summarized by Ed Keller in Greenbook on May 1, 2026. It presents an industry that is optimistic about its future but not yet operationally ready for widespread AI integration.
 
-### Professional Optimism vs. AI Readiness
-- 58% of insights professionals believe their function will become **more important** in the future, demonstrating strong conviction in the field's relevance despite AI disruption
-- More than half report high levels of job satisfaction and expect the coming year to be better than the previous
-- This optimism exists alongside significant readiness challenges, creating what researchers describe as "the defining story of the insights industry today"
+## Optimism and anxiety
 
-### AI Adoption Patterns
-- Nearly 8 in 10 professionals report favorable views of generative AI
-- Approximately 50% use AI regularly in some capacity
-- Only 1 in 10 report AI is **fully embedded** in day-to-day workflows
-- Across 15 potential use cases (questionnaire design, data analysis, reporting), no single application has emerged as a dominant "killer app" (top adoption at ~40%)
+Fifty-eight percent of insights professionals believe their function will become more important in the future. More than half report high job satisfaction, and a majority expect the year ahead to be better than the last. At the same time, nearly two-thirds are concerned about job loss due to AI. The combination of confidence in the function and anxiety about employment suggests a transition rather than a settled consensus.
 
-### Skills Gap Analysis
-The study identified a critical disconnect between:
-- **Skills professionals want to develop**: AI/digital skills, advanced analytics, technical capabilities
-- **Skills leaders value most**: business acumen, communication, ability to influence decisions, connecting insights to outcomes
+## AI adoption and maturity
 
-This gap has significant consequences, as opportunities for learning and growth are among the biggest drivers of job satisfaction and retention.
+Nearly eight in ten professionals view generative AI favorably, and about half use it regularly in some capacity. However, only about one in ten say AI is fully embedded in day-to-day workflows. Across 15 potential use cases, including questionnaire design, data analysis, and reporting, no single application has become a dominant killer app; the most common use cases reach around 40% adoption. AI is therefore prominent in discussion and experimentation but not yet a core operating capability for most insights teams.
 
-### Value Chain Shift
-As articulated by [[pam-forbus]] of Mondelez: "AI will increasingly answer questions, deliver insights, execute projects, and support stakeholders faster and at lower cost than ever before. That doesn't diminish the role of insights teams; it fundamentally changes it."
+## The value-chain shift
 
-The study concludes that value is moving **upstream** - insights teams must evolve to shape decisions, drive growth, build AI-leveraging systems, and influence strategy rather than merely delivering answers.
+The study argues that AI will increasingly answer questions, deliver insights, execute projects, and support stakeholders faster and at lower cost. As answers become more accessible, value moves upstream toward shaping decisions, driving growth, building systems that leverage AI, influencing strategy, and connecting insight to action. See [[value-chain-shift]].
 
-## Methodology
-The study surveyed global market research professionals through structured questionnaires and follow-up interviews, with particular attention to AI exposure metrics and skill development priorities. It represents one of the most comprehensive longitudinal analyses of AI's impact on the insights industry.
+## Skills gap
 
-## Related Concepts
-- [[human-intensive-skills]]
-- [[seniorised-roles]]
-- [[value-chain-shift]]
-- [[ai-professionalization]]
+Professionals most often want to develop AI and digital skills, advanced analytics, and technical capabilities. Senior leaders place greater emphasis on business acumen, communication, influencing decisions, and connecting insights to outcomes. This mismatch is a central skills-gap finding. Learning and growth opportunities are among the strongest drivers of job satisfaction and differentiate highly satisfied professionals, yet motivation to pursue training has declined.
 
-## Citations
-Keller, E. (2026). *Optimistic, but Not Yet Ready: What Our Latest MRII Study Reveals about the Future of Insights*. Greenbook.
+## Implications
+
+The future insights professional must combine AI fluency with business understanding, communication, judgment, stakeholder influence, and the ability to scale insight through systems. These findings align with PwC's evidence that human-intensive skills are increasingly valuable in AI-exposed roles. They also reinforce the [[human-operating-model-gap]]: access to tools is advancing faster than workflow redesign, governance, and workforce development.
+
+## Source
+
+Keller, Ed. “Optimistic, but Not Yet Ready: What Our Latest MRII Study Reveals about the Future of Insights.” Greenbook, May 1, 2026.

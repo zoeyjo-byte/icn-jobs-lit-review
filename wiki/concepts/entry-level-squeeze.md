@@ -1,37 +1,21 @@
-The entry-level squeeze describes the growing pressure on traditional entry-level positions in knowledge work as AI capabilities automate foundational tasks that historically served as training grounds for developing professional expertise.
+# Entry-Level Squeeze
 
-## Capacity Development Challenges for Entry-Level Workers
+## Definition
 
-While recent evidence shows entry-level headcount is growing among high-intensity AI adopters, the nature of entry-level work is changing in ways that may affect capacity development for junior professionals.
+The [[entry-level-squeeze]] is the pressure on early-career knowledge-work roles when AI automates or accelerates the foundational tasks that traditionally served as training grounds for professional expertise. The concern is not limited to the number of junior jobs. It also concerns how people acquire judgment, learn what good work looks like, practice revision, and develop confidence under supervision.
 
-### Deskilling Risks in Entry-Level Roles
+## Evidence
 
-The [[ai-deskilling-structural-problem]] framework reveals several risks for entry-level workers:
+PwC's [[pwc-2026-global-ai-jobs-barometer]] finds that the most AI-exposed entry-level jobs are increasingly being [[seniorised-roles|seniorised]]. Such roles are seven times more likely than the least AI-exposed entry-level roles to require traditionally senior capabilities, including motivational leadership, team building, people management, stakeholder management, process management, mentorship, and data-driven decision-making. In the most AI-exposed quartile, roles requiring more than ten new traditionally senior skills grew 35% between 2019 and 2025, while non-seniorised roles declined 10%.
 
-- **Reduced habituation opportunities**: When AI automates routine tasks, entry-level workers lose "the routine opportunities to practice their judgment and strengthen their cognitive musculature" (Lee et al. 2025)
-- **Shallow skill development**: Entry into professions may become more superficial without proper mentoring
-- **Disembodied learning**: Digital workflows may limit embodied interaction necessary for social capacity development
-- **Affordance shrinkage**: Systematic reduction in action possibilities for developing practical wisdom
+The same barometer reports that 52% of new skills required in highly AI-exposed entry-level jobs are traditionally senior capabilities, compared with 7% for the least AI-exposed jobs. Globally, entry-level postings in the highest AI-exposure quartile have flatlined since 2022, although PwC cautions that the chart does not establish causality.
 
-### Structural Dimensions
+The Polymath Mind article connects this trend to the [[burning-glass-beyond-binary]] finding that junior workers traditionally build expertise through drafting reports, conducting initial research, and building models. If these activities disappear without a replacement apprenticeship model, organizations may weaken their future talent base.
 
-These challenges are not merely individual responsibility issues but stem from structural conditions:
+## Countervailing evidence
 
-> "We develop and exercise our epistemic, moral, social, and creative capacities in response to our social and material environment" (Ferdman 2026). When entry-level environments become [[capacity-hostile]], junior professionals may struggle to develop the "arts of personhood" required for long-term success.
+The [[ramp-revelio-2026-ai-jobs-impact-study]] finds that high-intensity AI adopters increased entry-level headcount by 12.0% over the first 24 months after adoption, while low-intensity adopters showed no statistically significant change. The findings indicate that outcomes depend on firm strategy, intensity, sector, and workflow redesign rather than on AI exposure alone.
 
-### Evidence from Research
+## Implications for market research
 
-Studies show that young people growing up with digital tools already struggle with "everyday but essential" skills like empathy, time management, speaking to others, problem-solving and critical thinking (Halliday 2025). AI tools like [[artificial-personal-assistants]] could potentially exacerbate this deskilling.
-
-### Implications for Market Research
-
-For market research organizations, these findings suggest:
-
-- Entry-level training programs must intentionally preserve opportunities for capacity development
-- Mentorship relationships are crucial for counteracting AI-mediated deskilling
-- Workflows should balance AI augmentation with human skill development
-- Organizations should design capacity-conducive environments for junior staff
-
-The structural perspective emphasizes that "we cannot expect agents to be what Mitcham (2024) calls 'virtuous superheroes' and properly cultivate their human capacities if their social environment does not value the full maturation of these capacities."
-
-See [[capacity-conducive-environments]] and [[habituation-process]] for related frameworks addressing these challenges.
+Insights organizations should redesign onboarding, mentorship, supervised practice, and progression criteria. Junior staff need structured opportunities to challenge outputs, check assumptions, revise analyses, conduct primary research, and observe how experienced researchers connect evidence to decisions.

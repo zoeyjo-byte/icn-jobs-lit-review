@@ -1,36 +1,21 @@
-Human-intensive skills such as empathy, creativity, and face-to-face presence are increasingly important in AI-exposed roles.
+# Human-Intensive Skills
 
-## AI Deskilling and Core Human Capacities
+## Definition
 
-Recent research reveals that AI adoption poses specific risks to human-intensive skills through what Ferdman (2026) terms "capacity impoverishment." Unlike skill obsolescence in domains like hunting or basket-weaving, the deskilling of core human capacities diminishes us as humans and undermines our flourishing.
+[[human-intensive-skills]] are capabilities that remain difficult to automate and are complementary to AI. In the EPOCH framework used by [[pwc-2026-global-ai-jobs-barometer]], they comprise Empathy and Emotional Intelligence; Presence, Networking and Connectedness; Opinion, Judgment and Ethics; Creativity and Imagination; and Hope, Vision and Leadership.
 
-### Core Capacities at Risk
+## Evidence
 
-The following capacities are particularly vulnerable to AI-mediated deskilling:
+PwC finds that skills required for the most AI-exposed occupations are changing more than twice as fast as those required for the least exposed occupations. New tasks added to the most AI-exposed roles since 2022 are 2.5 times more likely to rely on human-intensive capabilities. Average EPOCH scores for new tasks rise from 0.19 in the bottom AI-exposure quartile to 0.47 in the top quartile.
 
-- **Epistemic capacities**: Theoretical rationality (thinking, considering reasons, forming beliefs) and practical rationality (phronesis or wisdom)
-- **Social capacities**: Moral capacity and abilities for developing meaningful relationships
-- **Creative capacity**: Making unfamiliar combinations of familiar ideas
-- **Volitional capacity**: The ability to exert effort, overcome difficulty, and persevere
+Both democratised and professionalised roles increasingly require these capabilities. PwC reports average occupation-level EPOCH scores of 0.48 for democratised roles and 0.45 for professionalised roles, compared with 0.26 for low-exposure roles. The implication is not that technical skill becomes irrelevant. Rather, as AI absorbs routine and technical work, human capabilities become more important for deciding what should be done, interpreting ambiguity, building trust, and creating original value.
 
-These capacities differ from technical skills because they are constitutive of human flourishing. As Ferdman explains, "the deskilling of our core human capacities is bad because inadequate development of these capacities can lead to 'capacity impoverishment,' which, in turn, diminishes us as humans."
+## Market research relevance
 
-### Structural Dimensions of Deskilling
+The [[mrii-2026-market-research-study]] identifies business acumen, communication, decision influence, and the ability to connect insights to outcomes as capabilities valued by senior leaders. These are applied forms of judgment, connectedness, communication, and leadership. They enable research professionals to move along the [[value-chain-shift]] from delivering answers toward shaping decisions and growth.
 
-Deskilling is not merely an individual responsibility issue. AI creates systemic conditions that inhibit capacity development through:
+Human-intensive skills also require deliberate development. [[ferdman-2026-ai-deskilling-structural-problem]] argues that core capacities such as epistemic reasoning, social understanding, creativity, and volition develop through practice, mentorship, embodied interaction, and shared valuing. Organizations therefore need learning environments that preserve meaningful human responsibility rather than reducing people to passive reviewers of machine output.
 
-- **Capacity-hostile environments**: That restrict action possibilities for capacity cultivation
-- **Undermined habituation**: Short-circuiting the gradual process of skill development
-- **Reduced intersubjectivity**: Diminishing opportunities for shared valuing of capacities
-- **Disembodiment**: Limiting physical presence necessary for certain capacities
+## Related skills
 
-For market research professionals, this means AI tools that automate data interpretation without preserving opportunities for researchers to develop critical thinking may ultimately undermine the quality of insights produced.
-
-### Evidence of Deskilling
-
-Studies show AI dependence leads to:
-- Erosion of critical thinking (Bonicalzi et al. 2023)
-- Decline in decision-making and analytical reasoning (Zhai et al. 2024)
-- Reduced activity awareness and competence maintenance (Rinta-Kahila et al. 2023)
-
-See [[capacity-hostile-environments]] and [[ai-deskilling-structural-problem]] for related frameworks analyzing how AI affects human capacities.
+See [[ai-skills]], [[senior-skills]], [[business-acumen]], judgment-and-ethics, and communication-and-influence.

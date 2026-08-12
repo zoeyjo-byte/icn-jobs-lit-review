@@ -70,7 +70,7 @@ To preserve intersubjectivity in capacity development:
 
 - [[habituation-process]]
 - [[embodiment-in-skilling]]
-- [[shared-valuing]]
+- shared-valuing
 - [[capacity-hostile-environments]]
 - [[artificial-personal-assistants]]
 - [[human-capacities]]

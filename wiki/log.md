@@ -53,3 +53,4 @@ Chronological record of every ingest operation.
 2026-08-07: Ingested s00146-025-02686-z.txt. Updated 15 concept pages, 2 entity pages, and 1 study page with detailed analysis from Ferdman's structural perspective on AI deskilling. Added specific examples of how AI systems create capacity-hostile environments in professional contexts, with implications for research practice, mentorship, and capacity development.
 2026-08-08: Ingested s00146-025-02686-z.txt. Created 0, updated 15.
 2026-08-09: Ingested s00146-025-02686-z.txt. Created 1, updated 5.
+2026-08-12: Rebuilt canonical study, concept, and skills-gap pages from the complete supplied source set. Merged PwC, MRII, Burning Glass, Polymath Mind, Ramp–Revelio, and Ferdman findings. No figure pages were generated because image-file existence could not be verified from the supplied data alone.

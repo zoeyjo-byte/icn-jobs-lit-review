@@ -23,7 +23,7 @@ This event study figure shows the impact of AI adoption on total headcount for h
 This figure directly contradicts predictions that AI adoption will lead to broad job losses. Instead, it shows that substantial AI investments are associated with significant employment growth, particularly as firms gain experience with the technology.
 
 ## Related Concepts
-- [[high-intensity-ai-adopters]]
+- high-intensity-ai-adopters
 - [[superstar-effect]]
 - [[ai-professionalization]]
 

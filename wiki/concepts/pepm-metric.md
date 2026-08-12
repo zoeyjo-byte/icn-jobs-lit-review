@@ -33,8 +33,8 @@ Where:
 ## Related Concepts
 - [[ai-spend-per-employee-methodology]]
 - [[ai-adoption-intensity-terciles]]
-- [[high-intensity-ai-adopters]]
-- [[low-intensity-ai-adopters]]
+- high-intensity-ai-adopters
+- low-intensity-ai-adopters
 
 ## Related Studies
 - [[ramp-revelio-2026-ai-jobs-impact-study]]

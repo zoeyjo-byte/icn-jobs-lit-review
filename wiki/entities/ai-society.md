@@ -42,8 +42,8 @@ The journal's focus on AI's societal impacts is highly relevant to market resear
 ## Related Concepts
 
 - [[ferdman-2026-ai-deskilling-structural-problem]]
-- [[ai-ethics]]
-- [[human-flourishing]]
+- ai-ethics
+- human-flourishing
 - [[capacity-hostile-environments]]
 - [[capacity-conducive-environments]]
-- [[ai-societal-impact]]
+- ai-societal-impact

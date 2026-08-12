@@ -25,7 +25,7 @@ Revelio Labs provides granular workforce data that enables analysis of not just 
 
 ## Related Concepts
 - [[entry-level-jobs]]
-- [[high-intensity-ai-adopters]]
+- high-intensity-ai-adopters
 - [[ai-adoption-selection-bias]]
 
 ## Related Studies

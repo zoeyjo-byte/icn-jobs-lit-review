@@ -76,8 +76,8 @@ To protect epistemic capacities, AI systems should:
 
 ## Related Concepts
 
-- [[practical-wisdom]]
-- [[theoretical-rationality]]
+- practical-wisdom
+- theoretical-rationality
 - [[agential-control]]
 - [[plan-forming-vs-plan-following]]
 - [[human-capacities]]

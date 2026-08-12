@@ -16,5 +16,5 @@ See [[ramp-revelio-2026-ai-jobs-impact-study]]
 
 ## Related Concepts
 - [[ai-adoption-methodological-innovation]]
-- [[staggered-treatment-timing]]
-- [[causal-inference-in-ai-studies]]
+- staggered-treatment-timing
+- causal-inference-in-ai-studies

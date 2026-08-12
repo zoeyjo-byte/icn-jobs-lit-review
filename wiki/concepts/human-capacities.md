@@ -92,6 +92,6 @@ To protect human capacities, AI systems should:
 - [[social-capacities]]
 - [[creative-capacities]]
 - [[volitional-capacity]]
-- [[human-flourishing]]
+- human-flourishing
 - [[ai-deskilling-structural-problem]]
 - [[capacity-hostile-environments]]

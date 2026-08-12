@@ -23,7 +23,7 @@ As noted in the Ferdman study, "When much of the planning process is offloaded t
 
 ## Contrast with Plan-Forming
 
-Plan-following differs fundamentally from [[plan-forming]], which involves:
+Plan-following differs fundamentally from plan-forming, which involves:
 - Exercising control over initiating planning activities
 - Engaging in self-deliberation on values and goals
 - Developing practical wisdom through trial and error

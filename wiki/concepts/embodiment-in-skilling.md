@@ -69,7 +69,7 @@ To preserve embodiment in capacity development:
 - [[intersubjectivity-in-skilling]]
 - [[habituation-process]]
 - [[capacity-hostile-environments]]
-- [[disembodied-environments]]
+- disembodied-environments
 - [[artificial-personal-assistants]]
 - [[social-capacities]]
-- [[moral-capacity]]
+- moral-capacity

@@ -63,7 +63,7 @@ This distinction relates to broader philosophical concepts:
 
 - [[ferdman-2026-ai-deskilling-structural-problem]]
 - [[agential-control]]
-- [[practical-rationality]]
+- practical-rationality
 - [[developmental-perfectionism]]
 - [[plan-following]]
 

@@ -1,37 +1,21 @@
-The value chain shift refers to the fundamental repositioning of where value is created within market research and insights organizations as AI capabilities advance.
+# Value-Chain Shift in Insights Work
 
-## Sectoral Variations in AI Impact
+## Definition
 
-Recent research reveals that AI's impact on the value chain is unevenly distributed across sectors, with significant implications for how value is created within market research organizations.
+The [[value-chain-shift]] describes the movement of value in market research and insights away from producing answers and toward shaping decisions, strategy, systems, and business outcomes. As AI makes answers faster, cheaper, and more accessible, the answer itself becomes less differentiated. The scarce contribution increasingly lies upstream: defining the right question, connecting evidence to action, influencing stakeholders, and designing repeatable systems that scale insight.
 
-### Sectoral Employment Effects
+## Evidence from the insights industry
 
-The [[ramp-revelio-2026-ai-jobs-impact-study]] found that employment gains from AI adoption are concentrated in the Information sector:
+The [[mrii-2026-market-research-study]] reports a persistent gap between the skills professionals say they want to build and the capabilities senior leaders value most. Professionals emphasize AI and digital skills, advanced analytics, and technical capabilities. Senior leaders place greater weight on business acumen, communication, influencing decisions, and connecting insights to outcomes.
 
-- Information sector: 13.4% headcount growth among high-intensity AI adopters
-- Professional and technical services: Positive but non-significant growth
-- All other sectors: Near-zero or imprecise effects
+The study describes this not as a rejection of technical development but as a mismatch between technical readiness and impact readiness. Technical skills remain necessary for using AI and analytics, yet they do not by themselves ensure that research changes a decision or drives growth. Opportunities to learn and grow are also among the strongest drivers of job satisfaction, while motivation to pursue training has declined, creating a workforce-development risk.
 
-This pattern reflects the current state of AI adoption, which is "uniquely concentrated in Information" where "the most commercially mature AI gains appear clearest in coding-agent and software-engineering workflows."
+## Relationship to broader AI labor-market findings
 
-### Implications for Market Research Value Chain
+PwC's [[pwc-2026-global-ai-jobs-barometer]] describes a related professionalisation process: AI automates routine tasks while increasing the importance of human expertise, judgment, creativity, leadership, and teamwork. The Burning Glass analysis summarized in [[burning-glass-beyond-binary]] similarly finds that routine work may be compressed while interpretation, contextual reasoning, and communication become more valuable.
 
-For market research firms, this sectoral variation suggests:
+For market research organizations, the value-chain shift implies a redesign of roles and career paths. Analysts may spend less time preparing first-pass tables or summaries and more time framing problems, evaluating evidence quality, translating findings into decisions, and communicating implications. Research leaders must therefore combine AI fluency with commercial understanding and stakeholder influence.
 
-1. **Front-end transformation**: Research design and data collection may see earlier AI integration
-2. **Back-end resilience**: Interpretation and strategic recommendation may remain more human-intensive
-3. **Specialization opportunities**: Firms focusing on information-intensive research may adopt AI more rapidly
-4. **Competitive differentiation**: Early AI adopters in research may gain productivity advantages
+## Skills-gap implication
 
-The study notes that "it is still early in the AI adoption curve" and "AI use cases may diffuse more slowly outside software and media." This suggests market research firms should anticipate a gradual shift in where value is created, rather than an immediate transformation.
-
-### Strategic Considerations
-
-Market research organizations should consider:
-
-- Where their work aligns with sectors experiencing the strongest AI impacts
-- How to position themselves to benefit from productivity gains in information processing
-- When to invest in high-intensity AI adoption versus more limited applications
-- How to develop workforce strategies that align with sector-specific AI adoption patterns
-
-See [[human-operating-model-gap]] and [[ai-professionalization]] for related frameworks analyzing AI's impact on organizational value chains.
+A narrow training strategy focused only on tools risks widening the gap. Effective development should pair technical capabilities with business acumen, storytelling, facilitation, judgment, ethical reasoning, and the ability to influence action. These capabilities connect [[human-intensive-skills]] to the strategic role of insights teams.

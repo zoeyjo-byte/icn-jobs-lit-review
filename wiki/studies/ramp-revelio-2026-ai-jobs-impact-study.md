@@ -1,42 +1,29 @@
-# Ramp-Revelio 2026 AI Jobs Impact Study
+# Ramp–Revelio 2026 AI Jobs Impact Study
 
 ## Overview
-A comprehensive analysis of how AI adoption affects employment patterns across 21,559 U.S. firms, using observed AI spending data linked to workforce records. Published June 30, 2026 by Ara Kharazian (Ramp), Lisa Simon (Revelio Labs), and Ryan Stevens (Ramp).
 
-## Methodology
-- Linked Ramp's line-item spending data (identifying payments to AI vendors) with Revelio Labs' workforce records
-- Defined AI adoption as the first month of a three-consecutive-month spell where AI spend is at least $100 monthly
-- Measured adoption intensity as monthly AI spend per employee (PEPM) over first three months after adoption
-- Used Callaway-Sant'Anna framework for staggered treatment timing
-- Compared high-intensity adopters (top PEPM tercile) vs. low-intensity adopters (bottom two PEPM terciles)
+The Ramp–Revelio study, *A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment*, analyzes 21,559 US firms by linking Ramp corporate spending records to Revelio Labs workforce histories. It asks what happens to employment when firms adopt generative AI using observed firm-level spending rather than occupational exposure scores or survey responses.
 
-## Key Findings
-- High-intensity AI adopters grew employment by 10.2% following adoption
-- Entry-level headcount rose 12.0% for high-intensity adopters
-- Employment gains were broad across roles: engineering (+7.3%), sales (+10.3%), administration (+7.8%), customer service (+6.3%)
-- Gains emerged gradually, following what appears to be a "learning curve" as firms integrated AI tools
-- AI adoption is highly selected - adopters are larger, more technical, faster-growing firms
-- Early employment gains are concentrated in Information sector (13.4% growth for high-intensity adopters)
-- Low-intensity adopters showed no statistically significant change in employment
+## Main findings
 
-## Methodological Innovations
-- First study to combine observed firm-level AI spending with workforce records at scale
-- Introduced PEPM (AI spend per employee) metric to measure adoption intensity
-- Addressed selection bias by comparing early adopters to later adopters in the same intensity group
-- Provided evidence against the prediction that AI adoption will lead to broad job losses
+High-intensity AI adopters increased total headcount by 10.2% over the first 24 months after sustained adoption. Entry-level headcount rose 12.0%. Low-intensity adopters showed no statistically significant change in total or entry-level headcount. Employment gains were broad across functions among high-intensity adopters: sales increased 10.3%, administration 7.8%, engineering 7.3%, entry-level engineering 6.3%, customer service 6.3%, scientists 5.6%, finance 4.6%, and marketing 5.7%. Operations was the only listed category without a clear increase.
 
-## Related Concepts
-- [[high-intensity-ai-adopters]]
-- [[low-intensity-ai-adopters]]
-- [[ai-adoption-selection-bias]]
-- [[pepm-metric]]
-- [[callaway-santanna-framework]]
+The gains emerged gradually, consistent with a learning curve as firms established use cases, best practices, and workflow integration. The study finds the clearest sector-level effect in Information firms, where high-intensity adopters grew headcount approximately 13.4%.
 
-## Related Figures
-- See [[ramp-revelio-2026-fig-1-ai-adoption-benchmarks|Figure 1: AI Adoption Benchmarks]]
-- See [[ramp-revelio-2026-fig-2-ai-adoption-by-sector|Figure 2: AI Adoption by Sector]]
-- See [[ramp-revelio-2026-fig-6-total-headcount|Figure 6: Total Headcount]]
-- See [[ramp-revelio-2026-fig-7-entry-level-headcount|Figure 7: Entry-Level Headcount]]
+## Selection and interpretation
 
-## Update Log
-2026-07-15: Expanded with detailed methodology and key findings from source document.
+AI adopters were already larger, more technical, faster-growing, higher-paying, and more likely to be venture-backed than never-treated firms. Adoption was concentrated in Information, Finance and Insurance, and Professional, Scientific, and Technical Services. Consequently, comparisons with permanent non-adopters can confound adoption with pre-existing differences. The preferred analysis compares earlier adopters with later adopters that have not yet adopted, within eventual intensity groups and with sector fixed effects.
+
+The result does not imply that AI always creates jobs. It indicates that sustained, material investment can be associated with expansion, while light adoption may not produce measurable employment changes. This complements the [[entry-level-squeeze]] literature by showing that junior employment outcomes vary according to firm strategy and intensity.
+
+## Measurement
+
+Ramp identifies sustained adoption through a three-month spell with at least $100 of AI vendor spending per month. Adoption intensity is measured using PEPM—AI spend per employee during the first three post-adoption months. The study uses a Callaway–Sant'Anna staggered-treatment design and Revelio's seven-point seniority classification.
+
+## Source and methods
+
+Kharazian, Simon, and Stevens, *A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment*, Ramp and Revelio Labs, June 30, 2026. See [[ramp]], [[revelio-labs]], [[pepm-metric]], [[ai-adoption-intensity-terciles]], staggered-treatment-timing, and causal-inference-in-ai-studies.
+
+## Causal framework
+
+The study uses [[callaway-santanna-framework]] for staggered treatment timing.

@@ -56,5 +56,5 @@ To preserve agential control in AI systems:
 - [[habituation-process]]
 - [[capacity-hostile-environments]]
 - [[artificial-personal-assistants]]
-- [[practical-wisdom]]
+- practical-wisdom
 - [[human-capacities]]

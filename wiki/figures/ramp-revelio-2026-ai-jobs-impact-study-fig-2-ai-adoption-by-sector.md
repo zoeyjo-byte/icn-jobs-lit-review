@@ -16,5 +16,5 @@ See [[ramp-revelio-2026-ai-jobs-impact-study]]
 
 ## Related Concepts
 - [[value-chain-shift]]
-- [[sectoral-ai-adoption-patterns]]
+- sectoral-ai-adoption-patterns
 - [[ai-job-future-framework]]

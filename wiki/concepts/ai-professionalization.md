@@ -13,7 +13,7 @@ AI professionalization refers to the process where AI automates less expert task
 The [[mrii-2026-market-research-study]] provides compelling evidence of AI professionalization in the insights industry:
 - As AI handles routine analytical tasks, value is shifting **upstream** toward strategic functions
 - Insights teams must evolve from delivering answers to shaping decisions, driving growth, and influencing strategy
-- Pam Forbus of [[mondelez]] states: "AI will increasingly answer questions, deliver insights, execute projects, and support stakeholders faster and at lower cost than ever before. That doesn't diminish the role of insights teams; it fundamentally changes it."
+- Pam Forbus of mondelez states: "AI will increasingly answer questions, deliver insights, execute projects, and support stakeholders faster and at lower cost than ever before. That doesn't diminish the role of insights teams; it fundamentally changes it."
 
 This represents a specific manifestation of professionalization where AI automation of basic tasks elevates the importance of strategic human capabilities.
 

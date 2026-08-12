@@ -32,8 +32,8 @@ This methodology revealed a critical insight often missed in prior research: AI'
 
 ## Related Concepts
 - [[pepm-metric]]
-- [[high-intensity-ai-adopters]]
-- [[low-intensity-ai-adopters]]
+- high-intensity-ai-adopters
+- low-intensity-ai-adopters
 - [[ai-adoption-selection-bias]]
 
 ## Related Studies

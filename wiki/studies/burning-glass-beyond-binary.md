@@ -1,41 +1,25 @@
-# Burning Glass Institute: Beyond the Binary
+# Beyond the Binary: Automation and Augmentation in the Labor Market
 
 ## Overview
-Published in January 2026 by the [[burning-glass-institute]], "Beyond the Binary" represents a landmark analysis challenging the conventional wisdom that AI will either automate or augment jobs. Instead, the research demonstrates that automation and augmentation are frequently occurring **simultaneously within the same occupations**.
 
-## Methodology
-The study analyzed labor-market data from millions of job postings across 759 occupations, developing metrics to measure both automation exposure (tasks AI can perform) and augmentation exposure (tasks where AI enhances human capabilities).
+[[burning-glass-beyond-binary]] is a January 2026 analysis by the Burning Glass Institute that challenges the conventional framing of artificial intelligence as either a job-automation technology or a job-augmentation technology. The study draws on labor-market data covering 759 occupations and argues that automation and augmentation frequently occur within the same occupation rather than producing two cleanly separated groups of jobs.
 
-## Key Findings
+The study is particularly relevant to skills-gap research because it shifts attention from whether a role disappears to how the composition of work changes. Routine scheduling, status updates, first-pass drafting, basic analysis, and procedural coordination may be automated or accelerated, while strategic coordination, interpretation, testing, contextual judgment, problem framing, and communication become more valuable. A project manager, analyst, or consultant may therefore remain employed while facing a materially different capability profile.
 
-### Correlation of Automation and Augmentation
-- Exposure to automation and augmentation is **strongly positively correlated** across occupations
-- Jobs most exposed to automation are also highly exposed to augmentation
-- This finding validates the "automation-augmentation paradox" first identified by Raisch & Krakowski (2021)
+## Key findings
 
-### Skill Demand Shifts
-- Automation-exposed skills were **16% more likely** to see demand decline compared to baseline skills
-- Augmentation-exposed skills were **7% more likely** to see demand increase
-- This creates a net shift in the composition of work rather than simple job elimination
+- Exposure to automation and exposure to augmentation are strongly positively correlated across the 759 occupations studied.
+- Skills exposed to automation were 16% more likely to experience declining demand than baseline skills.
+- Skills exposed to augmentation were 7% more likely to experience increased demand.
+- Automation and augmentation can therefore happen simultaneously inside the same occupation.
+- Junior workers are especially vulnerable because foundational activities such as drafting reports, conducting initial research, and building models have traditionally provided the practice through which expertise develops.
 
-### The Entry-Level Challenge
-The report identifies a critical concern: junior workers traditionally built expertise through foundational tasks (drafting reports, conducting research, building models) that AI can now perform or accelerate. This threatens established apprenticeship models and expertise development pathways.
+## Implications for market research and insights
 
-### Real-World Examples
-- Project managers see routine scheduling automated while strategic coordination becomes more valuable
-- Analysts spend less time producing first-pass models but more time interpreting and communicating implications
-- Consultants can produce drafts instantly but face higher premium on the quality of underlying thinking
+For insights teams, AI may reduce the value of routine synthesis and first-pass production while increasing the premium on framing the business problem, interrogating outputs, understanding context, making trade-offs, judging consequences, and explaining decisions. This overlaps with the [[value-chain-shift]] described by [[mrii-2026-market-research-study]] and with the human-intensive capabilities identified in [[pwc-2026-global-ai-jobs-barometer]].
 
-## Implications
-The study concludes that AI is not neatly dividing the labor market but is **changing the composition of work inside jobs**. Organizations risk "automating the developmental tasks before they have redesigned the learning pathway," potentially gaining short-term efficiency while weakening their future talent base.
+The study also raises an [[entry-level-squeeze]] problem. If AI removes foundational work without replacing it with deliberate apprenticeship, organizations may gain short-term efficiency while weakening the future supply of experienced analysts and researchers. Training systems must therefore preserve opportunities to make mistakes, revise drafts, check assumptions, and observe senior judgment.
 
-## Related Concepts
-- [[human-operating-model-gap]]
-- [[entry-level-squeeze]]
-- [[automation-augmentation-paradox]]
-- [[skill-composition-shift]]
+## Source
 
-## Citations
-Burning Glass Institute. (2026). *Beyond the Binary: How AI is Simultaneously Automating and Augmenting Work*. https://www.burningglassinstitute.org/research/beyondthebinary
-
-Raisch, S., & Krakowski, S. (2021). Artificial intelligence and management: The automation–augmentation paradox. *The Academy of Management Review*, 46(1), 192–210.
+Burning Glass Institute, *Beyond the Binary* (January 2026), as summarized in [[human-operating-model-gap]] and the source file `The future is already here — just not evenly distributed.txt`.

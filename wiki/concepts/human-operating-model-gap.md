@@ -1,50 +1,23 @@
-The human operating model gap refers to the growing disparity between the rapid advancement of AI capabilities and the slower adaptation of human systems, processes, and skills required to leverage AI effectively within organizations.
+# Human Operating Model Gap
 
-## Workforce Composition Changes with AI Adoption
+## Definition
 
-Recent evidence reveals how AI adoption is reshaping workforce composition across roles, highlighting the growing gap between rapidly advancing AI capabilities and slower human system adaptation.
+The [[human-operating-model-gap]] is the disparity between the rapid advancement and adoption of AI capabilities and the slower adaptation of the human systems required to use those capabilities well. Those systems include decision rights, accountability, workflow design, management practices, training, oversight, incentives, and the skills needed to challenge and interpret AI outputs.
 
-### Role-Specific Employment Effects
+The concept is distinct from a simple technology-adoption gap. Organizations may provide access to AI tools, encourage experimentation, or report productivity improvements without embedding AI in core processes and decision-making. The central question is not whether a tool has been purchased, but whether the organization has redesigned work around it.
 
-The [[ramp-revelio-2026-ai-jobs-impact-study]] provides detailed evidence of how AI adoption affects different job functions:
+## Evidence across sources
 
-- **Broad-based growth**: High-intensity adopters showed growth across multiple roles:
-  - Sales headcount: +10.3%
-  - Administrative headcount: +7.8% 
-  - Engineering headcount: +7.3%
-  - Customer service headcount: +6.3%
-  - Scientist headcount: +5.6%
+The Polymath Mind article reports that 64% of UK organizations used AI in 2026, up from 52% the previous year, but only 24% of adopters had reached an advanced stage in which AI was embedded in core business processes and decision-making. It also reports that 49% of organizations identified AI and digital-skills shortages as the main adoption challenge. Accenture data cited in the same article found that only 3% of UK organizations were fully ready for advanced agentic AI, despite 82% of working hours being potentially enhanced by AI.
 
-- **Entry-level expansion**: Entry-level headcount rose 12.0% among high-intensity adopters
-- **Managerial shifts**: Manager-plus share fell by 1.52 percentage points despite overall growth
+The [[mrii-2026-market-research-study]] presents a parallel pattern in insights: nearly eight in ten professionals view generative AI favorably and about half use it regularly, but only about one in ten report that AI is fully embedded in day-to-day workflows. Across 15 use cases, no single application has become a dominant killer app; the most common use cases reach only around 40% adoption.
 
-### Structural Workforce Shifts
+## Skills implications
 
-These findings reveal several important patterns:
+The gap is partly a capability problem. Human oversight is meaningful only when people have the time, training, authority, and confidence to challenge outputs. Relevant capabilities include [[human-intensive-skills]], business acumen, communication, influence, data and AI fluency, judgment, and the ability to connect analysis to outcomes. It also includes managerial capabilities for redesigning roles and preserving learning pathways.
 
-1. **Non-binary impact**: AI adoption doesn't simply eliminate jobs but reshapes workforce composition
-2. **Intensity matters**: Only high-intensity adopters (top tercile of AI spend) showed significant growth
-3. **Gradual emergence**: Gains followed a learning curve, emerging 6-12 months after adoption
-4. **Sector concentration**: Effects were strongest in the Information sector
+The [[ramp-revelio-2026-ai-jobs-impact-study]] suggests that substantial, sustained investment can be associated with employment growth, but the result is concentrated among high-intensity adopters. This reinforces the distinction between access and organizational maturity: value depends on integration, learning curves, and workflow redesign rather than adoption alone.
 
-### Implications for Market Research
+## Source
 
-For market research organizations, these workforce shifts suggest:
-
-- AI is currently augmenting rather than replacing human capabilities in information work
-- Strategic AI investment may support growth across multiple functions
-- Entry-level positions may expand as firms scale with AI assistance
-- Workforce planning must account for the gradual nature of AI integration
-
-The study notes that "the earliest signs of growth emerge roughly 6-12 months after adoption, perhaps after firms establish best practices, integrate AI tools into workflows, and are subsequently able to make new investments and hire staff."
-
-### Bridging the Gap
-
-To address the human operating model gap, market research firms should:
-
-- Develop AI adoption strategies that align with workforce development
-- Create pathways for employees to develop AI-augmented capabilities
-- Recognize that successful integration requires time for habituation
-- Design capacity-conducive environments that preserve opportunities for skill development
-
-See [[value-chain-shift]] and [[ai-professionalization]] for related frameworks analyzing AI's impact on organizational structures.
+Synthesized from *The future is already here — just not evenly distributed*, the MRII study summary, PwC's 2026 barometer, and the Ramp–Revelio employment study.

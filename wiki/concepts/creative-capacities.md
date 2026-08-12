@@ -71,8 +71,8 @@ To protect creative capacities, AI systems should:
 
 ## Related Concepts
 
-- [[conceptual-innovation]]
-- [[adaptation-to-novelty]]
+- conceptual-innovation
+- adaptation-to-novelty
 - [[habituation-process]]
 - [[human-capacities]]
 - [[ai-deskilling-structural-problem]]

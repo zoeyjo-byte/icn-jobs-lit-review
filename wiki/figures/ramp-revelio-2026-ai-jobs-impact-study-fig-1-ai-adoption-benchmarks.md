@@ -15,6 +15,6 @@ This chart compares AI adoption rates across different measurement methodologies
 See [[ramp-revelio-2026-ai-jobs-impact-study]]
 
 ## Related Concepts
-- [[ai-adoption-measurement-challenges]]
+- ai-adoption-measurement-challenges
 - [[methodological-heterogeneity-in-ai-studies]]
 - [[ai-professionalization]]
