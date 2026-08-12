@@ -2,51 +2,58 @@
 
 ## Definition
 
-The **gradual process of becoming skilled through practice**, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
+The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
 
-## Key Stages
+## Key Characteristics
 
-1. **Novice**: Rule-following dominates, limited flexibility
-2. **Advanced Beginner**: Some recognition of situational patterns
-3. **Competent**: Ability to prioritize and manage tasks
-4. **Proficient**: Holistic understanding of situations
-5. **Expert**: Rapid, fluid, involved engagement with minimal conscious effort
+1. **Gradual progression**: Moves through stages from novice to expert (Dreyfus and Dreyfus 1986):
+   - Novice → Advanced beginner → Competent → Proficient → Expert
+   - Early stages: Rule-following dominates
+   - Later stages: Rapid, fluid, involved engagement
 
-## Essential Components
+2. **Requires practice**: "Skill generally cannot be learnt through testimony, and requires practice"
+   - Involves "refinement of the action through successive trials and learning from mistakes"
+   - Includes "encountering and overcoming disappointment and failure"
 
-- **Intersubjective Dimension**: Requires mentorship and shared valuing of the skill
-- **Embodied Dimension**: Depends on physical presence and sensory experience
-- **Gradual Progression**: Cannot be accelerated through shortcuts or testimony alone
-- **Error-Based Learning**: Requires encountering and overcoming disappointment and failure
-- **Contextual Adaptation**: Develops through successive trials in varying circumstances
+3. **Two critical components**:
 
-## AI Threats to Habituation
+   ### Intersubjectivity
+   - Requires mentor guidance: "A good mentor is typically necessary... to cultivate the proper motivational structure"
+   - Involves shared valuing: "the mentor instills not only mechanical aspects of the skill, but... the value of the skill"
+   - Social practices provide mentoring environments: "social practices are often what generates moral reasons for action"
 
-Ferdman identifies how AI systems undermine the habituation process:
+   ### Embodiment
+   - Requires physical presence: "being embodied is critical for becoming skilled"
+   - Enables participatory sense-making: "meaning is generated and transformed in the interplay between the unfolding interaction process and the individuals"
+   - Essential for moral recognition: "without the return of the gaze of the other we would be hard-pressed to recognize them spontaneously as moral agents"
 
-- **Automation of routine tasks** deprives users of "routine opportunities to practice their judgment and strengthen their cognitive musculature"
-- **Artificial Personal Assistants** offload small-scale decision-making that collectively builds life-planning capacities
-- **Disembodied interaction** reduces opportunities for embodied learning
-- **Complete solutions** rather than scaffolding prevent gradual skill development
-- **Responsibility shifting** when AI-generated plans fail, eliminating opportunities for self-critique
+## AI Disruption Mechanisms
 
-## Critical Implications
+| Mechanism | Impact on Habituation | Evidence |
+|-----------|------------------------|----------|
+| Task automation | Deprives users of routine opportunities to practice judgment | "Automating routine tasks... leaves [users] atrophied and unprepared when exceptions arise" (Lee et al. 2025) |
+| Plan-following interfaces | Reduces opportunities for self-initiated planning | APAs provide "an always-on sounding board" that discourages users from initiating planning activities |
+| Disembodied interaction | Limits embodied sense-making necessary for social capacities | "Disembodied interactions make it harder to form meaningful friendship" (Grasso 2025) |
+| Reduced failure opportunities | Eliminates learning from mistakes | Habituation "includes encountering and overcoming disappointment and failure" - AI often prevents these experiences |
 
-- Capacity development requires **time and living** - cannot be compressed
-- **Shared valuing** of capacities develops through intersubjective relationships
-- Without proper habituation, individuals cannot learn to value mastery of capacities
-- On societal scale, shallow habituation leads to devaluation of capacities
+## Market Research Implications
 
-## Contrast with
+The habituation process explains why the [[entry-level-squeeze]] occurs:
+- Traditional entry-level roles provided structured opportunities for habituation through:
+  - Client interaction (embodiment)
+  - Research design iterations (practice with failure)
+  - Mentorship from senior colleagues (intersubjectivity)
+- AI tools now handle many foundational tasks that served as habituation opportunities
+- Junior researchers lack the "gradual process of habituation" needed to develop [[practical-wisdom]]
+- Creates the [[human-operating-model-gap]] where AI capabilities advance faster than human capacity development
 
-- [[plan-following]]: Habitual execution without agential control
-- [[narrow-field-of-affordances]]: Environmental conditions that restrict habituation opportunities
+## Contrast with Related Concepts
 
-## Related Concepts
+- [[agential-control]]: The outcome of successful habituation
+- [[capacity-hostile-environments]]: Environments that disrupt the habituation process
+- [[plan-forming-vs-plan-following]]: Habituation develops the capacity for plan-forming
+- [[developmental-perfectionism]]: The philosophical framework explaining why habituation matters for human flourishing
 
-- [[intersubjectivity-in-skilling]]: The shared understanding dimension of habituation
-- [[embodiment-in-skilling]]: Physical presence requirements for effective habituation
-- [[agential-control]]: Developed through the habituation process
-- [[human-operating-model-gap]]: Organizational consequences of disrupted habituation
+## Update Log
 
-*Last updated with insights from Ferdman (2026) analysis of how AI disrupts skill development processes.*
+2026-07-25: Expanded with detailed habituation stages, AI disruption mechanisms table, and specific market research implications showing connection to entry-level squeeze. Added Ferdman's evidence about embodied interaction requirements.

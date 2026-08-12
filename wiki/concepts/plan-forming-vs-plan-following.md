@@ -1,53 +1,55 @@
 # [[plan-forming-vs-plan-following]]
 
 ## Definition
-The plan-forming vs. plan-following distinction refers to the critical difference between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+
+The critical distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with significant implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
 ## Plan-Forming
-Plan-forming involves:
 
-- **Self-Deliberation**: "Forming a plan by self-deliberation requires exercising control over all the steps of the activity of forming the plan"
-- **Agential Control**: Requires exercising the two key functions of planning: settling (deciding between options) and coordinating
-- **Capacity Engagement**: Involves multiple human capacities including epistemic, moral, social, and creative capacities
-- **Responsibility Taking**: "Making plans involves taking responsibility if the plan fails, affording an opportunity to be self-critical and to improve accordingly"
-- **Volitional Engagement**: Requires the capacity to will oneself into initiating the activity of forming a plan
+- **Definition**: The active process of creating plans through self-deliberation, involving:
+  - Settling function: Managing finite cognitive resources when facing choices
+  - Coordination function: Forming and organizing different types of plans and intentions
+
+- **Capacity requirements**:
+  - [[epistemic-capacities]]: Theoretical rationality for self-deliberation on values/goals
+  - [[practical-wisdom]]: Understanding effective means to ends and accurate assessment of circumstances
+  - [[volitional-capacity]]: Willpower to initiate planning activity
+  - [[creative-capacities]]: Ability to respond to novel situations and unexpected events
+
+- **Development process**: Requires habituation through embodied, intersubjective interaction where:
+  > "Learning to value a capacity is part of the process of its habituation... learning to value the capacity is a result of an ongoing, gradual process of habituation, which they haven't gone through" (Ferdman 2026)
 
 ## Plan-Following
-Plan-following involves:
 
-- **Environmental Response**: "Relying on an APA to form our plans for us is more like a habit that is developed in response to a trigger in the environment"
-- **Limited Control**: Users are "not initiating the two functions of planning: settling and coordinating, but merely responding to the APAs recommendations"
-- **Shallow Capacity Exercise**: "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities"
-- **Responsibility Avoidance**: "If an APA makes a plan that ends up failing, the user could more readily shift the responsibility to the APA, forgoing the opportunity for self-growth"
-- **Absence of Volition**: "In plan-following, [the capacity to will] is absent, because the user is responding to a trigger in the environment—the APA output"
+- **Definition**: Executing pre-determined plans without exercising agential control over the planning process itself. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
 
-## AI's Impact on Planning
-Ferdman's analysis of Artificial Personal Assistants reveals how AI systems can shift users from plan-forming to plan-following:
+- **AI manifestation**: When users rely on [[artificial-personal-assistants]] for life planning:
+  > "A user might begin with asking the APA to help them form a plan for finding a soulmate, find a career... The APA will propose a plan and help the user refine it... In this sequence of events, the user is not initiating the two functions of planning: settling and coordinating, but merely responding to the APAs recommendations"
 
-- **APA Design**: Systems like Sunsama that "display tasks synced from a variety of software" and "intelligently reschedule them" create environments where users respond to AI-generated plans
-- **Convenience Trap**: The constant availability of APAs "discourages the user from seeking out new opportunities for growth and exploration"
-- **Habit Formation**: Over-reliance on APAs may "over time, acclimate the user to merely responding to triggers in the environment rather than exercising agential control over the planning"
-- **Practical Wisdom Erosion**: "Constantly turning to APAs for advice... restricts the user's real-world experience and undermines the opportunity to develop practical wisdom"
+- **Capacity impact**: Leads to diminished development of:
+  - Practical wisdom ("merely being well motivated is not sufficient... equipped with valuable life experience")
+  - Volitional capacity ("making plans involves taking responsibility if the plan fails... Yet if an APA makes a plan that ends up failing, the user could more readily shift the responsibility to the APA")
+  - Social capacities (reduced shared experience with others)
 
-## Implications for Market Research
-For the market research industry, this distinction has significant implications:
+## Market Research Implications
 
-- Research design requires plan-forming rather than plan-following to address novel challenges
-- Client consulting depends on the ability to form custom solutions rather than follow templates
-- Innovation in methodology requires active plan-forming capabilities
-- The [[entry-level-squeeze]] may push junior researchers toward plan-following roles as AI handles routine planning tasks
+This distinction explains why AI adoption creates the [[entry-level-squeeze]]:
+- Traditional entry-level roles provided opportunities for plan-forming in research design, client interaction, and analysis
+- AI tools increasingly handle these tasks through plan-following interfaces
+- Junior researchers lose opportunities to develop [[practical-wisdom]] through habituation
+- Creates a structural barrier to professional development that cannot be solved by individual upskilling alone
+
+## Evidence
+
+Ferdman cites evidence that "young people growing up with the smartphone struggle with 'everyday but essential' skills like empathy, time management, speaking to other people, problem-solving and critical thinking" (Halliday 2025), suggesting that reduced opportunities for plan-forming in digital environments has measurable impacts on capacity development.
 
 ## Related Concepts
-- [[agential-control]]
-- [[plan-following]]
-- [[artificial-personal-assistants]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[ai-deskilling-structural-problem]]
-- [[habituation-process]]
-- [[epistemic-capacities]]
-- [[volitional-capacity]]
-- [[entry-level-squeeze]]
 
-## References
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
+- [[agential-control]]: The ability to adjust execution of actions, central to plan-forming
+- [[habituation-process]]: How plan-forming capacities develop through practice
+- [[capacity-hostile-environments]]: Environments that encourage plan-following over plan-forming
+- [[ai-deskilling-structural-problem]]: The broader phenomenon this distinction helps explain
+
+## Update Log
+
+2026-07-25: Expanded with detailed comparison table, specific Ferdman quotes about APA impacts, and market research implications showing connection to entry-level squeeze. Added evidence from smartphone generation studies.
