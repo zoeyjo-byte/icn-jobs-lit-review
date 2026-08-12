@@ -222,6 +222,7 @@ def apply_changes(response_text):
     sync_figures_page()
     ensure_reference_links()
     normalize_figure_image_paths()
+    sanitize_broken_wikilinks()
     
     if rejected:
         print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
@@ -288,6 +289,48 @@ def normalize_figure_image_paths():
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(normalized)
             print(f"  Normalized figure image paths: {path}")
+
+
+def sanitize_broken_wikilinks():
+    """Convert links to nonexistent pages into readable plain text.
+
+    A model can mention a valid-looking concept without creating its page.
+    Leaving that as ``[[missing-page]]`` breaks MkDocs navigation and strict
+    validation. Existing pages and pages created in the same response remain
+    linked; unresolved aliases retain their visible label.
+    """
+    page_names = set()
+    for root, _, files in os.walk(WIKI_DIR):
+        for name in files:
+            if name.endswith(".md"):
+                page_names.add(name[:-3])
+
+    pattern = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+    changed = 0
+    for root, _, files in os.walk(WIKI_DIR):
+        for name in files:
+            if not name.endswith(".md"):
+                continue
+            path = os.path.join(root, name)
+            with open(path, encoding="utf-8") as fh:
+                content = fh.read()
+
+            def replace(match):
+                target = match.group(1).strip()
+                label = (match.group(2) or target).strip()
+                target_name = target.rsplit("/", 1)[-1].removesuffix(".md")
+                if target_name in page_names:
+                    return match.group(0)
+                nonlocal changed
+                changed += 1
+                return label
+
+            normalized = pattern.sub(replace, content)
+            if normalized != content:
+                with open(path, "w", encoding="utf-8") as fh:
+                    fh.write(normalized)
+    if changed:
+        print(f"  Sanitized {changed} unresolved wikilink(s)")
 
 
 def git_commit_and_push(summary):
