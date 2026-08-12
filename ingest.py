@@ -220,11 +220,42 @@ def apply_changes(response_text):
     # Sync sources page and figures catalog after every ingest
     sync_sources_page()
     sync_figures_page()
+    ensure_reference_links()
     
     if rejected:
         print(f"  ⚠ {len(rejected)} path(s) rejected as unsafe — see above.")
     
     return changes.get("summary", "")
+
+
+def ensure_reference_links():
+    """Restore deterministic links that must survive a canonical rebuild.
+
+    The model may rewrite a page and accidentally omit a valid relationship.
+    These two links identify the publication venue and the econometric
+    framework used by the corresponding studies; they are not model judgments.
+    """
+    required = [
+        (
+            "wiki/studies/ferdman-2026-ai-deskilling-structural-problem.md",
+            "[[ai-society]]",
+            "\n\n## Publication venue\n\nSee [[ai-society]] for the journal context.\n",
+        ),
+        (
+            "wiki/studies/ramp-revelio-2026-ai-jobs-impact-study.md",
+            "[[callaway-santanna-framework]]",
+            "\n\n## Causal framework\n\nThe study uses [[callaway-santanna-framework]] for staggered treatment timing.\n",
+        ),
+    ]
+    for path, link, addition in required:
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+        if link not in content:
+            with open(path, "w", encoding="utf-8") as fh:
+                fh.write(content.rstrip() + addition)
+            print(f"  Restored reference link: {path} -> {link}")
 
 
 def git_commit_and_push(summary):

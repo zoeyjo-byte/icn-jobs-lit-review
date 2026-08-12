@@ -34,6 +34,9 @@ You must identify and classify:
 ## RULES
 - Use [[wikilinks]]
 - Prefer updating existing pages over creating duplicates
+- Preserve valid existing wikilinks when updating pages. Do not remove a
+  source, methodology, entity, or concept link merely because it is not
+  central to the current source.
 - Write rich, detailed pages — include data points, statistics, examples,
   and cross-references. Do NOT compress to one sentence. Aim for 200+
   words per page where the source material supports it.

@@ -11,6 +11,7 @@ import argparse
 import io
 import json
 import os
+import re
 import sys
 import time
 
@@ -25,6 +26,7 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 MODEL = os.environ.get("REBUILD_MODEL", ingest.REBUILD_MODEL)
 MAX_CHARS_PER_FILE = int(os.environ.get("MAX_CHARS_PER_FILE", "50000"))
 MAX_OUTPUT_TOKENS = int(os.environ.get("MAX_OUTPUT_TOKENS", "128000"))
+IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 
 
 def headers():
@@ -196,9 +198,44 @@ def apply_validated(response_text):
     if missing:
         raise ValueError(f"Batch JSON missing required fields: {sorted(missing)}")
     ingest.apply_changes(json.dumps(changes, ensure_ascii=False))
+    prune_invalid_figure_pages()
     orphans = ingest.detect_orphans()
     if orphans and ingest.STRICT_MODE:
         raise RuntimeError(f"Strict rebuild produced orphan pages: {orphans}")
+
+
+def prune_invalid_figure_pages():
+    """Remove stale generated figure pages whose embedded image is absent.
+
+    Figure images are the source of truth. Pages that point to missing images
+    are stale artifacts from prior ingests and cannot be published correctly.
+    Only direct Markdown figure pages are considered; image assets and source
+    files are never removed.
+    """
+    figures_dir = os.path.join(ingest.WIKI_DIR, "figures")
+    removed = []
+    if not os.path.isdir(figures_dir):
+        return
+    for name in os.listdir(figures_dir):
+        if not name.endswith(".md") or name == "index.md":
+            continue
+        path = os.path.join(figures_dir, name)
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+        targets = IMAGE_RE.findall(content)
+        if not targets:
+            continue
+        if any(
+            not os.path.isfile(os.path.normpath(os.path.join(figures_dir, target)))
+            for target in targets
+            if not target.startswith(("http://", "https://", "data:"))
+        ):
+            os.remove(path)
+            removed.append(path)
+    for path in removed:
+        print(f"  Removed stale figure page: {path}")
+    if removed:
+        ingest.sync_figures_page()
 
 
 def main():
