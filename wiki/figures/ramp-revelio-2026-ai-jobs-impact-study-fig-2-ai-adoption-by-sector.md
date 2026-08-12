@@ -1,6 +1,6 @@
 # Figure 2: AI Adoption by Sector
 
-![AI Adoption by Sector](ramp-revelio-2026-ai-jobs-impact-study/fig-2.jpg)
+![AI Adoption by Sector](ramp-revelio-ai-jobs-impact-2026/fig-2.jpg)
 
 ## Description
 This bar chart displays AI adoption rates across economic sectors as of December 2025. Information sector leads at 53.7%, followed by Finance and Insurance (43.6%) and Professional, Scientific, and Technical Services (36.0%). Adoption is lowest in Accommodation and Food Services (11.5%) and Arts, Entertainment, and Recreation (11.3%). The pattern aligns with a task-based interpretation of early AI demand - sectors with workforces concentrated in software, analytical, and information-processing work show higher adoption rates.

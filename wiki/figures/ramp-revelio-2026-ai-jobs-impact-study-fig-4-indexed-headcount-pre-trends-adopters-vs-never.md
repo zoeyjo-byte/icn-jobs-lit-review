@@ -1,6 +1,6 @@
 # Figure 4: Indexed Headcount and Pre-Trends: AI Adopters vs. Never Adopters
 
-![Indexed Headcount and Pre-Trends](ramp-revelio-2026-ai-jobs-impact-study/fig-4.jpg)
+![Indexed Headcount and Pre-Trends](ramp-revelio-ai-jobs-impact-2026/fig-4.jpg)
 
 ## Description
 This event study chart compares indexed total headcount for AI adopters versus calendar-matched never-adopters. The series are already separated before adoption (-12 to 0 months), with adopters on a faster growth trajectory while never-adopters remain comparatively flat. This pre-existing divergence demonstrates why using never-adopters as the counterfactual would confound AI adoption effects with pre-existing firm growth differences.

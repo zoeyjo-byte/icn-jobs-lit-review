@@ -270,7 +270,11 @@ def normalize_figure_image_paths():
     figures_dir = os.path.join(WIKI_DIR, "figures")
     if not os.path.isdir(figures_dir):
         return
-    pattern = re.compile(r"(!\[[^\]]*\]\()figures/([^)]*\)(?:\s*))")
+    pattern = re.compile(r"(!\[[^\]]*\]\()(?:figures/)?([^)]*\)(?:\s*))")
+    slug_aliases = {
+        "ramp-revelio-2026-ai-jobs-impact-study/":
+            "ramp-revelio-ai-jobs-impact-2026/",
+    }
     for name in os.listdir(figures_dir):
         if not name.endswith(".md") or name == "index.md":
             continue
@@ -278,6 +282,8 @@ def normalize_figure_image_paths():
         with open(path, encoding="utf-8") as fh:
             content = fh.read()
         normalized = pattern.sub(r"\1\2", content)
+        for old_slug, new_slug in slug_aliases.items():
+            normalized = normalized.replace(old_slug, new_slug)
         if normalized != content:
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(normalized)
