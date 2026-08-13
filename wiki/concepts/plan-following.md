@@ -1,51 +1,15 @@
-# [[plan-following]]
+## Update 2026-07-25
 
-## Definition
+Expanded definition based on Ferdman's analysis in [[ferdman-2026-ai-deskilling-structural-problem]]. Plan-following refers to the execution of pre-determined plans without exercising agential control over the planning process itself. As analyzed in the paper, this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
 
-Plan-following refers to the **execution of pre-determined plans without exercising agential control over the planning process itself**. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
+In market research contexts, plan-following manifests when researchers:
+- Rely on AI tools to generate research approaches without developing their own strategic thinking
+- Follow pre-packaged analytical templates without adapting to unique research challenges
+- Execute research processes mechanically without exercising judgment in unexpected scenarios
 
-## Characteristics
+Plan-following becomes problematic when it replaces plan-forming activities, as it:
+- Undermines the development of practical wisdom
+- Reduces opportunities for habituation through encountering research challenges
+- Creates capacity-hostile environments that restrict opportunities for skill development
 
-- **Environment-triggered**: Initiated by external prompts rather than self-directed action
-- **Limited adjustment**: Minimal capacity to modify plans during execution
-- **Reduced responsibility**: Ability to shift accountability when plans fail
-- **Shallow engagement**: Requires less cognitive and volitional investment
-- **Automation-friendly**: Easily codified and delegated to AI systems
-
-## Contrast with Plan-Forming
-
-| Feature | Plan-Forming | Plan-Following |
-|---------|-------------|---------------|
-| Initiation | Self-directed | Environment-triggered |
-| Control | Full agential control | Limited adjustment |
-| Responsibility | Full ownership | Diffused accountability |
-| Cognitive Demand | High (self-deliberation) | Low (routine execution) |
-| Error Response | Self-critique and adaptation | Blame shifting |
-| Capacity Development | Builds multiple capacities | Maintains shallow skill level |
-
-## AI Context
-
-Ferdman's analysis demonstrates how **[[artificial-personal-assistants]]** encourage plan-following:
-
-- By providing complete daily schedules rather than scaffolding for self-planning
-- Through constant availability that prompts users to seek external planning rather than self-initiation
-- When users ask "help me plan my day" or "how should I fill an unscheduled hour", they offload small-scale decisions that collectively build life-planning capacities
-- By creating environments where users respond to AI outputs rather than initiating planning activities
-
-## Impact on Capacity Development
-
-Excessive plan-following undermines development of:
-
-- **[[epistemic-capacities]]**: Particularly practical rationality (phronesis) in navigating complex situations
-- **[[volitional-capacity]]**: The ability to exert effort and overcome difficulty requires initiating action
-- **[[social-capacities]]**: Authentic relationship building requires self-directed interaction
-- **[[creative-capacities]]**: Innovation requires deviating from established patterns
-
-## Related Concepts
-
-- [[agential-control]]: Essential for plan-forming but absent in plan-following
-- [[habituation-process]]: Plan-forming develops through gradual habituation
-- [[capacity-hostile-environments]]: Environments that encourage plan-following
-- [[human-operating-model-gap]]: Organizational consequences of plan-following culture
-
-*Last updated with insights from Ferdman (2026) analysis of how AI encourages plan-following behavior.*
+See [[plan-forming-vs-plan-following]], [[agential-control]], and [[ai-deskilling-structural-problem]] for related concepts.
