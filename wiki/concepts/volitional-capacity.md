@@ -1,60 +1,63 @@
-# [[volitional-capacity]]
+# Volitional Capacity
 
 ## Definition
-Volitional capacity is the human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], this capacity is fundamental to human flourishing and particularly vulnerable to AI-mediated environments.
+The human capacity to exert effort, overcome difficulty, persevere, and grow in order to achieve intrinsically valuable goals, treated as a meta-capacity necessary for developing all other capacities. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], this capacity is essential for the habituation process of skill development and can be undermined by AI systems.
 
 ## Core Characteristics
-Ferdman's analysis identifies several critical aspects of volitional capacity:
 
-- **Effort Exertion**: The ability to apply sustained effort toward challenging goals
-- **Difficulty Overcoming**: Capacity to navigate obstacles and setbacks
-- **Perseverance**: Continued commitment to goals despite challenges
-- **Growth Orientation**: The capacity to develop and improve through effort
-- **Meta-Function**: "Developing and exercising any of the human capacities is difficult, which therefore requires the competent exercise of the capacity to will"
+### Effort and Perseverance
+- The ability to exert sustained effort toward challenging goals
+- Overcoming difficulty and persisting through obstacles
+- Maintaining focus and commitment despite setbacks
+- Growing through the process of striving toward valuable ends
 
-## Role in Capacity Development
-Volitional capacity plays several essential roles in human development:
+### Meta-Capacity Function
+- Required for developing and exercising all other human capacities
+- Enables the habituation process necessary for skill development
+- Supports the ability to initiate activities rather than merely responding to environmental triggers
+- Essential for taking responsibility for outcomes and learning from mistakes
 
-- **Capacity Initiation**: Required to initiate the development of other capacities
-- **Habituation Support**: Necessary for engaging in the "gradual process of habituation" that develops skills
-- **Error Navigation**: Critical for "encountering and overcoming disappointment and failure"
-- **Value Commitment**: Enables commitment to the value of capacities beyond immediate utility
+## Role in Planning and Skill Development
+Volitional capacity is essential for effective planning and skill acquisition:
+- Required to 'resist the temptation to outsource the activity of planning to an external entity or tool'
+- Necessary for initiating the planning activity itself (the 'settling' function)
+- Enables researchers to 'develop and exercise the aforementioned capacities'
+- Critical for the habituation process: 'skill generally cannot be learnt through testimony, and requires practice'
 
-## Threats from AI Systems
-Ferdman identifies several specific ways AI systems can undermine volitional capacity:
+## AI's Threat to Volitional Capacity
+Ferdman identifies how AI systems undermine volitional capacity:
+- Providing constant assistance that 'discourages the user from seeking out new opportunities for growth and exploration'
+- Creating environments where users 'respond to the APA's recommendations' rather than initiating activities
+- Offloading planning activities that would otherwise develop perseverance and effort
+- Reducing opportunities to encounter and overcome disappointment and failure
+- 'Long-term reliance on the APAs as a life coach/personal assistant would be problematic... as its convenience and constant availability may limit agents' ability to transition to develop the capacities on their own'
 
-- **Effort Reduction**: Environments that afford opportunities for users "not exercising their capacity to will"
-- **Automation Bias**: When technology "replaces human activity without encouraging users to seek alternative avenues to exercise their capacities"
-- **Plan-Following Environments**: Artificial Personal Assistants that encourage users to become "plan-followers rather than plan-formers"
-- **Convenience Culture**: APA systems that are "constantly available, designed to be helpful, always prompting the user to see if they could be of further assistance"
+## Market Research Implications
 
-## Structural Dimension
-Ferdman emphasizes that the threat to volitional capacity is structural rather than individual:
+### Entry-Level Development
+- AI automation of routine tasks eliminates opportunities for junior researchers to develop perseverance through successive attempts
+- Reduced need to overcome research challenges diminishes opportunities to build volitional capacity
+- Systems that provide instant answers reduce the need for sustained effort in problem-solving
 
-- Rather than expecting individuals to be "virtuous superheroes" who resist deskilling
-- Capacity-conducive environments should "encourage the volitional capacity without expecting agents to be virtuous superheroes"
-- The structural approach recognizes that environments must be designed to support volitional development
+### Research Excellence
+- Diminished volitional capacity leads to reduced ability to tackle complex, ambiguous research problems
+- Over-reliance on AI tools reduces opportunities to develop the perseverance necessary for breakthrough insights
+- Convenience of AI-generated reports diminishes motivation to pursue deeper understanding
 
-## Implications for Market Research
-For the market research industry, volitional capacity is particularly critical because:
+## Preserving Volitional Capacity
+Strategies to protect volitional capacity in AI-augmented research:
+- Design workflows that require researchers to persist through challenging problems
+- Create 'productive struggle' opportunities where AI tools don't provide immediate answers
+- Structure projects to include meaningful challenges that require sustained effort
+- Develop training that emphasizes the value of perseverance in research excellence
+- Ensure AI adoption preserves opportunities to encounter and learn from failure
 
-- Research excellence requires sustained effort through complex projects
-- Methodological innovation demands perseverance through trial and error
-- Client consulting often involves navigating difficult business challenges
-- The [[entry-level-squeeze]] threatens traditional pathways for developing volitional capacity through foundational work
-- The [[human-operating-model-gap]] reflects a mismatch between AI capabilities and volitional development needs
+## Connection to Capacity Development
+Volitional capacity is foundational to all other capacities:
+- Required for the **habituation process** of skill development
+- Necessary for exercising **agential control** over capacities
+- Essential for developing **practical wisdom** through real-world experience
+- Supports the ability to engage in **plan-forming** rather than **plan-following**
 
-## Related Concepts
-- [[human-capacities]]
-- [[developmental-perfectionism]]
-- [[ai-deskilling-structural-problem]]
-- [[capacity-hostile-environments]]
-- [[capacity-conducive-environments]]
-- [[habituation-process]]
-- [[agential-control]]
-- [[plan-forming-vs-plan-following]]
-- [[entry-level-squeeze]]
-- [[human-operating-model-gap]]
-
-## References
-Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001-3013. https://doi.org/10.1007/s00146-025-02686-z
+## Contrast with Technical Skills
+Unlike technical skills that may become obsolete, volitional capacity is fundamental to human flourishing. Its impoverishment leads to diminished lives, explaining why capacity-deskilling should always be a cause for worry. In market research, preserving volitional capacity is essential for maintaining the drive and perseverance necessary for high-quality, insightful research that goes beyond what AI systems can produce.

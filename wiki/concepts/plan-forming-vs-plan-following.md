@@ -1,55 +1,71 @@
-# [[plan-forming-vs-plan-following]]
+# Plan-Forming vs Plan-Following
 
 ## Definition
+The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-The critical distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with significant implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+## Philosophical Foundation
+Drawing on Bratman's theory of agency, Ferdman explains that:
+- Humans are 'essentially planning creatures,' and planning is a manifestation of practical rationality
+- Planning serves two agential functions: settling (managing finite cognitive resources) and coordination (imposing coherence constraints)
+- Planning facilitates coordination both over time and with other persons
+- Planning involves responding to unexpected events that can be sources of value and growth
 
 ## Plan-Forming
 
-- **Definition**: The active process of creating plans through self-deliberation, involving:
-  - Settling function: Managing finite cognitive resources when facing choices
-  - Coordination function: Forming and organizing different types of plans and intentions
+### Characteristics
+- Involves self-deliberation on values and goals
+- Requires exercising **agential control** over initiating the planning activity
+- Includes both settling (deciding between options) and coordinating functions
+- Involves taking responsibility for outcomes to enable self-critique and improvement
+- Requires the full exercise of **epistemic capacities**, **social capacities**, and **creative capacities**
 
-- **Capacity requirements**:
-  - [[epistemic-capacities]]: Theoretical rationality for self-deliberation on values/goals
-  - [[practical-wisdom]]: Understanding effective means to ends and accurate assessment of circumstances
-  - [[volitional-capacity]]: Willpower to initiate planning activity
-  - [[creative-capacities]]: Ability to respond to novel situations and unexpected events
-
-- **Development process**: Requires habituation through embodied, intersubjective interaction where:
-  > "Learning to value a capacity is part of the process of its habituation... learning to value the capacity is a result of an ongoing, gradual process of habituation, which they haven't gone through" (Ferdman 2026)
+### Capacity Development
+Plan-forming supports capacity development by:
+- Providing opportunities to exercise practical wisdom in assessing situations
+- Creating contexts for developing discernment through real-world experience
+- Allowing for growth through responding to unexpected events
+- Requiring the **volitional capacity** to overcome difficulty and persevere
 
 ## Plan-Following
 
-- **Definition**: Executing pre-determined plans without exercising agential control over the planning process itself. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], this represents a habitual mode of action where individuals respond to environmental triggers rather than initiating and adjusting plans through self-deliberation.
+### Characteristics
+- Executing pre-determined plans constructed by others
+- Responding to triggers in the environment rather than initiating activity
+- Absence of the capacity to will oneself into initiating the planning activity
+- More habitual than skilled, as it lacks control over initiating the task
 
-- **AI manifestation**: When users rely on [[artificial-personal-assistants]] for life planning:
-  > "A user might begin with asking the APA to help them form a plan for finding a soulmate, find a career... The APA will propose a plan and help the user refine it... In this sequence of events, the user is not initiating the two functions of planning: settling and coordinating, but merely responding to the APAs recommendations"
+### Capacity Deskilling
+Plan-following contributes to capacity deskilling by:
+- Reducing opportunities to develop practical wisdom through real-world experience
+- Diminishing the habituation process necessary for skill development
+- Creating environments where users 'respond to the APA's recommendations' rather than initiating planning
+- Undermining the development of **agential control** over capacities
 
-- **Capacity impact**: Leads to diminished development of:
-  - Practical wisdom ("merely being well motivated is not sufficient... equipped with valuable life experience")
-  - Volitional capacity ("making plans involves taking responsibility if the plan fails... Yet if an APA makes a plan that ends up failing, the user could more readily shift the responsibility to the APA")
-  - Social capacities (reduced shared experience with others)
+## AI's Impact on Planning
+Ferdman analyzes how AI tools like personal assistants threaten plan-forming:
+- APAs 'afford the replacement of many of the activities involved in both planning and executing one's plans'
+- Systems like Sunsama 'prompt you to prioritize today's work' and 'schedule tasks logically,' reducing user agency
+- Constant availability 'discourages the user from seeking out new opportunities for growth and exploration'
+- Long-term reliance limits 'agents' ability to transition to develop the capacities on their own'
 
 ## Market Research Implications
 
-This distinction explains why AI adoption creates the [[entry-level-squeeze]]:
-- Traditional entry-level roles provided opportunities for plan-forming in research design, client interaction, and analysis
-- AI tools increasingly handle these tasks through plan-following interfaces
-- Junior researchers lose opportunities to develop [[practical-wisdom]] through habituation
-- Creates a structural barrier to professional development that cannot be solved by individual upskilling alone
+### AI-Powered Research Tools
+- Systems that generate research questions, methodology, and conclusions without researcher input
+- Platforms that automate client reporting with minimal human oversight
+- Tools that offload analytical reasoning to AI without requiring researchers to justify conclusions
 
-## Evidence
+### Structural Solutions
+To preserve plan-forming in AI-augmented research:
+- Design tools that require researchers to explain and justify AI-generated insights
+- Structure workflows to maintain human oversight of critical planning decisions
+- Create 'red team' processes where alternative research approaches are deliberately sought
+- Ensure AI tools support rather than replace the researcher's role as ultimate decision-maker
+- Develop training that emphasizes the researcher's responsibility for planning and execution
 
-Ferdman cites evidence that "young people growing up with the smartphone struggle with 'everyday but essential' skills like empathy, time management, speaking to other people, problem-solving and critical thinking" (Halliday 2025), suggesting that reduced opportunities for plan-forming in digital environments has measurable impacts on capacity development.
-
-## Related Concepts
-
-- [[agential-control]]: The ability to adjust execution of actions, central to plan-forming
-- [[habituation-process]]: How plan-forming capacities develop through practice
-- [[capacity-hostile-environments]]: Environments that encourage plan-following over plan-forming
-- [[ai-deskilling-structural-problem]]: The broader phenomenon this distinction helps explain
-
-## Update Log
-
-2026-07-25: Expanded with detailed comparison table, specific Ferdman quotes about APA impacts, and market research implications showing connection to entry-level squeeze. Added evidence from smartphone generation studies.
+## Connection to Capacity Development
+The plan-forming vs plan-following distinction is central to understanding how AI affects capacity development:
+- Plan-forming environments support **capacity-conducive-environments**
+- Plan-following environments create **capacity-hostile-environments**
+- Preserving plan-forming opportunities is essential for addressing the **human-operating-model-gap**
+- Maintaining plan-forming capacity explains why high-intensity AI adopters grow entry-level roles by 12.0% - they preserve opportunities for junior researchers to develop through planning

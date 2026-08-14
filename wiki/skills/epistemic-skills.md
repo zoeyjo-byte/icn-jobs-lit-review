@@ -1,35 +1,64 @@
 # Epistemic Skills
 
-First Observed: 2026-07-25
+## Definition
+Human-intensive skills related to knowledge acquisition, critical thinking, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis). As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these skills are constitutive of human flourishing and can be undermined by AI systems when they create capacity-hostile environments.
 
-Epistemic skills represent the human capacities related to knowledge acquisition, critical thinking, reasoning, and understanding. Drawing on Ferdman's structural analysis in [[ferdman-2026-ai-deskilling-structural-problem]], these skills encompass both theoretical rationality (thinking, considering reasons to believe, forming beliefs, contemplating) and practical rationality (phronesis or practical wisdom): doing the right thing in the right way for the right reason.
+## Two Core Dimensions
 
-## In Market Research Context
+### Theoretical Rationality
+- Thinking, considering reasons to believe, forming beliefs, contemplating
+- The capacity to acquire and evaluate knowledge
+- Essential for developing accurate understanding of research contexts
+- Involves critical thinking, analytical reasoning, and evidence evaluation
 
-In the market research industry, epistemic skills are fundamental to producing valuable insights that drive business decisions. These include:
+### Practical Rationality (Phronesis)
+- Common sense or wisdom: doing the right thing in the right way for the right reason
+- The capacity to apply theoretical knowledge to practical research situations
+- Involves discernment: correct understanding of how research quality applies in particular circumstances
+- Necessary for critically reflecting on research methodologies and interpretations
 
-- **Critical analysis**: The ability to evaluate data quality, identify biases, and assess the validity of research findings
-- **Interpretive reasoning**: Making sense of complex data patterns and translating them into meaningful business implications
-- **Evidence-based decision making**: Using research findings to inform strategic choices rather than relying on intuition alone
-- **Theoretical knowledge application**: Appropriately applying research methodologies and frameworks to different business contexts
-- **Skepticism and verification**: Questioning assumptions and verifying findings through multiple data sources
+## Role in Market Research
+Epistemic skills are essential for:
+- Developing research questions that address genuine client needs
+- Evaluating data quality and methodological appropriateness
+- Interpreting findings with appropriate nuance and context
+- Making sound judgments about research validity and reliability
+- Communicating insights with appropriate confidence levels
 
-## Threats from AI
+## AI's Threat to Epistemic Skills
+Ferdman identifies how AI systems undermine epistemic skills:
+- Erosion of critical thinking and analytical reasoning through over-reliance on AI
+- Diminished diagnostic reasoning as systems automate routine analysis
+- Reduced retention of tacit knowledge as AI handles foundational tasks
+- Declining ethical sensitivity in research design and interpretation
+- 'Depriving the user of routine opportunities to practice their judgment and strengthen their cognitive musculature'
 
-As Ferdman argues, AI systems can create [[capacity-hostile-environments]] for epistemic skills when they:
+## Market Research Implications
 
-- Automate routine analytical tasks without providing opportunities for researchers to practice and develop their judgment
-- Present findings with high confidence that discourages critical evaluation (automation bias)
-- Replace the process of developing research questions with pre-packaged analytics
-- Reduce opportunities for researchers to engage in the [[habituation-process]] necessary for developing [[practical-wisdom]]
+### Entry-Level Positions
+- AI automation of data collection and basic analysis eliminates routine tasks that served as training grounds
+- Junior researchers miss opportunities to develop practical wisdom through successive attempts
+- Reduced opportunities for self-deliberation on research quality and methodology
 
-## Maintaining Epistemic Skills
+### AI-Powered Analysis Tools
+- Systems that generate insights without requiring researchers to justify conclusions
+- Platforms that present AI-generated recommendations as definitive rather than prompts for deliberation
+- Tools that offload analytical reasoning to AI without scaffolding for skill development
 
-To preserve and develop epistemic skills in an AI-augmented research environment:
+## Preserving Epistemic Skills
+Strategies to protect epistemic skills in AI-augmented research:
+- Design tools that require researchers to explain and justify AI-generated insights
+- Create 'red team' processes where alternative interpretations are deliberately sought
+- Structure projects to maintain human oversight of critical analytical decisions
+- Develop training that emphasizes the researcher's role in evaluating AI outputs
+- Ensure AI adoption preserves opportunities for self-deliberation on research quality
 
-- Create [[capacity-conducive-environments]] that encourage researchers to exercise [[agential-control]] over the research process
-- Design AI tools that support rather than replace the development of practical wisdom
-- Ensure opportunities for embodied, intersubjective learning through mentorship and team collaboration
-- Maintain spaces for critical discussion and debate about research findings
+## Connection to Capacity Development
+Epistemic skills are interdependent with other capacities:
+- Developing practical wisdom requires **volitional skills** to overcome difficulty
+- Effective research requires **social skills** for client communication and team collaboration
+- Responding to unexpected findings requires **creative skills**
+- Moral attention in research design requires **embodiment in skilling**
 
-See [[ai-deskilling-structural-problem]], [[agential-control]], and [[practical-wisdom]] for related concepts.
+## Contrast with Technical Skills
+Unlike technical skills that may become obsolete (e.g., specific analysis software), epistemic skills are fundamental to human flourishing. Their erosion leads to diminished research quality, explaining why capacity-deskilling should always be a cause for worry rather than a neutral technological development. High-intensity AI adopters grow entry-level roles by 12.0% precisely because they recognize the need to preserve epistemic skill development opportunities.
