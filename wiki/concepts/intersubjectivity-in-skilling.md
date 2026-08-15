@@ -1,57 +1,66 @@
-# Intersubjectivity in Skilling
+# [[intersubjectivity-in-skilling]]
 
 ## Definition
-The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
-Ferdman explains that skill habituation has an essential intersubjective component:
-- Becoming skilled typically requires a mentor to guide the novice into becoming an expert
-- Mentors instill not only mechanical aspects of the skill but, as importantly, the value of the skill
-- In the mentor-mentee relationship, both develop shared intentions and 'shared valuing' of the skill
-- Social practices performed by groups or whole societies provide a mentoring environment
+Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill. Skill development depends on shared intentions and "shared valuing" between mentor and mentee.
 
-As Alasdair MacIntyre noted, 'learning is carried out through the practices of the common life: becoming the kind of agent who is responsive to whatever it is that skillful action requires... has to be learned from teachers and exemplars who know how to communicate this kind of responsiveness to others through the habits of a common life.'
+## Key Characteristics
 
-## Two Levels of Intersubjectivity
+1. **Mentorship requirement**: "Becoming skilled typically requires a mentor to guide the novice into becoming an expert that engages in practice of the right kind"
+2. **Value transmission**: Mentors instill not just how to perform a skill but why it matters
+3. **Shared intentions**: Both mentor and mentee develop common goals for skill development
+4. **Social practice integration**: Skills are learned through participation in social practices of common life
 
-### Individual Level
-- Mentor-mentee relationships where shared valuing of both the skill and its outputs develops
-- The mentor helps the novice view the value of the skill as their own through guided practice
-- Shared experiences create the context for developing competence through successive attempts
+Ferdman explains: "In the relationship between mentor and novice, the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill, such that in the process of habituation, the skilled agent eventually comes to view the value of the skill as their own. In the relationship, both mentor and novice have shared intentions and they come to have 'shared valuing' of the skill."
 
-### Societal Level
-- Social practices performed by groups or whole societies provide mentoring environments
-- The family, colleagues, and citizens collectively generate moral reasons for action
-- Social practices have a constitutive aim or telos that ultimately helps people fare well
-- Shared valuing of capacities develops through participation in these practices
+## Societal Dimension
 
-## AI's Threat to Intersubjective Skilling
-Artificial Personal Assistants (APAs) and other AI tools threaten intersubjective skilling by:
-- Replacing human mentors with algorithmic guidance
-- Providing recommendations without shared understanding of value
-- Creating environments where users interact primarily with non-human agents
-- Undermining opportunities for shared experiences necessary for capacity development
+Intersubjectivity in skilling extends beyond individual mentorship to societal scales:
+- Social practices performed by groups provide mentoring environments
+- "Social practices are often what generates moral reasons for action, as they have a constitutive aim or telos"
+- Learning occurs through "the practices of the common life"
+- Shared valuing of capacities develops through societal engagement
 
-## Market Research Implications
-The **entry-level squeeze** occurs partly because AI automation reduces opportunities for:
-- Mentorship relationships between senior and junior researchers
-- Shared valuing of research quality through embodied interaction
-- Development of practical wisdom through social practices
-- Transmission of tacit knowledge through apprenticeship
+## Threats from AI Systems
 
-## Preserving Intersubjectivity
-Strategies to maintain intersubjective skilling in AI-augmented research:
-- Design workflows that preserve human mentorship even when using AI tools
-- Create structured opportunities for shared reflection on research quality
-- Ensure AI tools support rather than replace the transmission of tacit knowledge
-- Develop communities of practice where researchers share insights and develop shared understanding
-- Structure projects to maintain embodied interaction between researchers and clients
+AI systems threaten intersubjectivity in skilling by:
+- Replacing human mentors with disembodied AI guidance
+- Creating environments where "enough persons do not value excellence or mastery of a human capacity"
+- Undermining shared valuing through individualized, isolated learning
+- Reducing opportunities for embodied interaction necessary for shared understanding
 
-## Connection to Capacity Development
-Intersubjectivity is essential for developing:
-- **Social capacities** through relationships with others
-- **Epistemic capacities** through shared understanding of truth
-- **Practical wisdom** through guidance from experienced practitioners
-- **Volitional capacity** through shared motivation and accountability
+As Ferdman states: "On a societal scale, when enough persons do not value excellence or mastery of a human capacity (e.g., critical thinking), the capacity is in danger of atrophying."
 
-Without intersubjective skilling, researchers risk developing only shallow expertise that lacks the depth and adaptability required for complex market research challenges.
+## Implications for Market Research
+
+Intersubjectivity is critical for market research skill development because:
+- Ethical judgment in research contexts depends on shared values
+- Nuanced interpretation of qualitative data requires mentorship
+- Creative methodology development emerges from shared practice
+- Client relationship management depends on intersubjective understanding
+
+AI tools that automate research processes risk creating "capacity-hostile environments" by:
+- Replacing senior researcher guidance with algorithmic outputs
+- Reducing opportunities for shared valuing of research quality
+- Isolating researchers in individualized AI interactions
+- Undermining the transmission of tacit knowledge through mentorship
+
+## Preservation Strategies
+
+To maintain intersubjectivity in AI-augmented market research:
+- Design AI tools that facilitate rather than replace human mentorship
+- Create structured opportunities for shared research practice
+- Ensure AI outputs are discussed collectively rather than accepted individually
+- Maintain embodied interaction spaces for research teams
+- Develop evaluation frameworks that value shared understanding
+
+## Related Concepts
+
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[capacity-conducive-environments]]
+- [[shared-valuing]]
+
+## References
+- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
+- MacIntyre, A. (2017). Ethics in the Conflicts of Modernity: An Essay on Desire, Practical Reasoning, and Narrative. Cambridge University Press.

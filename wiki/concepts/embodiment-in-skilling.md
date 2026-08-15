@@ -1,57 +1,67 @@
-# Embodiment in Skilling
+# [[embodiment-in-skilling]]
 
 ## Definition
-The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Philosophical Foundation
-Ferdman draws on the Enactive Approach in cognition to establish that:
-- Embodied 'participatory sense-making' is constitutive of social cognition
-- Social interaction itself and its emergent dynamics constitute an essential part of the cognitive process
-- Meaning is generated and transformed 'in the interplay between the unfolding interaction process and the individuals engaged in it'
-- Without embodied interaction, recognizing others as moral agents requires more mental effort
+Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. As established in [[ferdman-2026-ai-deskilling-structural-problem]], embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, with significant implications for AI's impact on capacity development.
 
-## Critical Role in Capacity Development
-Embodiment is essential for developing:
+## Key Characteristics
 
-### Moral Capacities
-- Perceiving others as embodied beings similar to ourselves through voice and gaze
-- Developing 'embodied understanding' of others as similar loci of embodied subjectivity
-- Spontaneous recognition of others as moral agents through embodied interaction
+1. **Participatory sense-making**: "Embodied 'participatory sense-making' is constitutive of social cognition"
+2. **Moral recognition**: "The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction"
+3. **Shared history creation**: "Being embodied is critical for becoming skilled insofar as the process of 'shared valuing' of the skill requires some degree of doing something with the mentor(s), creating a shared history"
+4. **Reduced cognitive load**: Embodied interaction requires less mental effort for social understanding than disembodied interaction
 
-### Social Capacities
-- Forming meaningful friendships that are diminished in disembodied environments
-- Creating shared experiences necessary for shared valuing of capacities
-- Developing relational skills through physical presence and nonverbal communication
+Ferdman explains: "Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents. The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction, whereas disembodied interaction requires the agent to exercise more mental efforts in attributing moral agency to the other."
 
-### Epistemic Capacities
-- Developing practical wisdom through real-world, embodied experience
-- Cultivating discernment through embodied assessment of situations
-- Building trust through embodied interaction that cannot be replicated digitally
+## Contrast with Disembodied Interaction
 
-## AI's Threat to Embodied Skilling
-Digital environments threaten embodied skilling by:
-- Creating 'disembodied interactions' that make it harder to form meaningful relationships
-- Requiring more discipline for a diminished experience of virtue friendships
-- Fracturing the user's affordance space into disconnected fields
-- Leading to alienation rather than offering opportunities for mutually informing skills
+| Feature | Embodied Interaction | Disembodied Interaction |
+|---------|---------------------|------------------------|
+| Moral recognition | Spontaneous | Requires mental effort |
+| Relationship depth | Richer, more meaningful | Diminished experience |
+| Cognitive load | Lower for social understanding | Higher for social understanding |
+| Shared valuing | Easier to develop | More difficult to develop |
+| Skill development | More effective | Less effective |
 
-## Market Research Implications
-The shift to remote and AI-mediated research threatens capacity development through:
-- Reduced opportunities for embodied client interaction
-- Diminished development of social capacities necessary for relationship-based research
-- Weakened moral attention in research design and interpretation
-- Impoverished habituation process for junior researchers
+## Threats from AI Systems
 
-## Preserving Embodied Skilling
-Strategies to maintain embodied interaction in AI-augmented research:
-- Design research workflows that preserve opportunities for face-to-face client interaction
-- Create hybrid research models that combine digital tools with embodied engagement
-- Structure team collaboration to include regular in-person interaction
-- Develop training that emphasizes the irreplaceable value of embodied research practices
-- Ensure AI tools enhance rather than replace embodied aspects of research
+AI systems threaten embodiment in skilling by:
+- Creating disembodied research environments that reduce opportunities for physical interaction
+- Encouraging reliance on digital communication that "fractures the user's affordance space into disconnected fields"
+- Undermining the development of social and moral capacities through reduced embodied interaction
+- Creating environments where "technologically mediated virtue friendships require more discipline for a diminished experience"
 
-## Connection to Capacity-Hostile Environments
-Disembodied environments often constitute [[narrow-field-of-affordances]] that restrict opportunities for capacity development. As Ferdman explains, 'without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents.'
+As Ferdman states: "Disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience."
 
-## Contrast with Plan-Following
-Embodied skilling supports **plan-forming** (active creation of plans through self-deliberation) rather than **plan-following** (executing pre-determined plans). Physical presence enables researchers to adjust their approach based on real-time embodied interaction with clients and stakeholders, developing the agential control necessary for complex research challenges.
+## Implications for Market Research
+
+Embodiment is critical for market research because:
+- Qualitative research depends on embodied presence to read nonverbal cues
+- Client relationship building requires physical interaction for trust development
+- Ethical decision-making in research contexts depends on embodied moral recognition
+- Team collaboration benefits from shared physical space for spontaneous interaction
+
+AI tools that promote remote or disembodied research risk creating "capacity-hostile environments" by:
+- Reducing opportunities for embodied interaction in research settings
+- Undermining the development of social capacities necessary for nuanced insights
+- Creating narrow fields of affordances that limit capacity development
+
+## Preservation Strategies
+
+To maintain embodiment in AI-augmented market research:
+- Design hybrid research approaches that combine digital and physical interaction
+- Create physical spaces for team collaboration and mentorship
+- Ensure qualitative research maintains embodied interaction where appropriate
+- Develop evaluation metrics that value embodied research skills
+- Balance AI efficiency with opportunities for embodied practice
+
+## Related Concepts
+
+- [[intersubjectivity-in-skilling]]
+- [[habituation-process]]
+- [[capacity-conducive-environments]]
+- [[moral-capacity]]
+
+## References
+- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
+- De Jaegher, H., & Di Paolo, E. (2007). Participatory sense-making: An enactive approach to social cognition. Phenomenology and the Cognitive Sciences, 6(4), 485-507.

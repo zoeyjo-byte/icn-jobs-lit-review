@@ -1,63 +1,84 @@
-# Social Skills
+# [[social-skills]]
 
 ## Definition
-Human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these skills are constitutive of human flourishing and can be undermined by AI systems when they create capacity-hostile environments.
 
-## Two Core Components
+Social skills are human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these skills are essential for human flourishing and can be undermined by AI systems that create capacity-hostile environments with reduced opportunities for embodied interaction.
 
-### Moral Capacity
-- Recognizing clients and stakeholders as moral agents
-- Making ethical judgments in research design and interpretation
-- Developing moral attention through embodied client interaction
-- Understanding the ethical implications of research findings
+## Two Key Components
 
-### Relational Capacity
-- Forming meaningful client relationships based on trust
-- Understanding client perspectives and business contexts
-- Participating in the client's decision-making process
-- Developing the ability to communicate insights effectively
+### Moral Skills
+- Recognizing others as moral agents
+- Making ethical judgments in complex situations
+- Understanding moral reasons for action
+- As Ferdman states: "the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love (Hurka 1993)"
 
-## Role in Market Research
-Social skills are essential for:
-- Building client relationships that lead to repeat business
-- Understanding the nuanced context behind research requests
-- Communicating findings in ways that resonate with client needs
-- Navigating organizational politics within client companies
-- Transforming data into actionable business insights
+### Relational Skills
+- Forming and maintaining meaningful relationships
+- Understanding others' perspectives through embodied interaction
+- Participating in communal life and shared valuing
+- Essential for collaborative work and mentorship
 
-## AI's Threat to Social Skills
-Ferdman identifies how AI systems undermine social skills:
-- Creating disembodied environments that make it 'harder to form meaningful client relationships'
-- Reducing opportunities for 'embodied understanding' of clients as similar loci of subjectivity
-- Undermining the spontaneity of recognizing clients as moral partners
-- Diminishing shared experiences necessary for developing research rapport
-- 'AI mediation might come at the expense of human interaction, decreasing the opportunity to develop our capacities in concert with other humans'
+## Embodiment Requirement
 
-## Market Research Implications
+Social skills fundamentally depend on embodied interaction because:
+- "Embodied 'participatory sense-making' is constitutive of social cognition"
+- "Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents"
+- Disembodied interaction "requires the agent to exercise more mental efforts in attributing moral agency to the other"
+- "Disembodied interactions make it harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience"
 
-### Client Relationships
-- AI tools that replace face-to-face client interaction with chatbots
-- Platforms that automate client reporting without opportunities for embodied relationship building
-- Systems that reduce researchers' opportunities to develop trust with clients
+Ferdman explains: "The spontaneity of recognizing the other as moral agent is inherent in the embodied interaction, whereas disembodied interaction requires the agent to exercise more mental efforts in attributing moral agency to the other."
 
-### Team Collaboration
-- Remote work tools that diminish embodied interaction among research teams
-- AI systems that replace human mentorship with algorithmic guidance
-- Workflows that reduce opportunities for shared reflection on research quality
+## Threats from AI Systems
 
-## Preserving Social Skills
-Strategies to protect social skills in AI-augmented research:
-- Design research workflows that preserve opportunities for face-to-face client interaction
-- Create hybrid research models that combine digital tools with embodied engagement
-- Structure team collaboration to include regular in-person interaction
-- Develop mentorship programs that explicitly cultivate shared valuing of research quality
-- Ensure AI tools enhance rather than replace the relational aspects of research
+AI systems threaten social skills by:
+- Creating disembodied research environments that reduce physical interaction
+- Encouraging reliance on digital communication that "fractures the user's affordance space into disconnected fields"
+- Undermining opportunities for shared valuing through reduced mentorship
+- Creating narrow fields of affordances that limit social practice
 
-## Connection to Embodiment
-Social skills depend critically on **embodiment in skilling**:
-- 'Without being embodied in a social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize them spontaneously as moral agents'
-- Embodied interaction enables 'participatory sense-making' where meaning is generated through the interplay between participants
-- Physical presence creates opportunities for developing moral attention and relational skills
+As Ferdman states: "On a societal scale, when enough persons do not value excellence or mastery of a human capacity (e.g., critical thinking), the capacity is in danger of atrophying."
 
-## Contrast with Technical Skills
-Unlike technical skills that may become obsolete, social skills are fundamental to human flourishing and market research excellence. Their erosion leads to diminished client relationships and research impact, explaining why capacity-deskilling should always be a cause for worry. High-intensity AI adopters grow entry-level roles by 12.0% because they recognize that social skills cannot be fully automated and require intentional development opportunities.
+## Market Research Applications
+
+Social skills are critical for market research professionals because:
+- Moral skills support ethical research practices and participant treatment
+- Relational skills enable effective client relationship management
+- Embodied interaction is essential for nuanced qualitative research
+- Shared valuing develops through mentorship and team collaboration
+
+Specific applications include:
+- Conducting in-depth interviews that require reading nonverbal cues
+- Building trust with research participants to obtain honest responses
+- Navigating ethical dilemmas in research design and execution
+- Collaborating with cross-functional teams to translate research into business insights
+
+## Skill Development
+
+Social skills develop through:
+- Intersubjective mentorship where both mechanical aspects and value of the skill are transmitted
+- Embodied interaction that supports participatory sense-making
+- Habituation process involving successive trials and learning from social mistakes
+- Opportunities to exercise agential control in social situations
+
+Ferdman explains: "In the relationship between mentor and novice, the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill, such that in the process of habituation, the skilled agent eventually comes to view the value of the skill as their own."
+
+## Preservation Strategies
+
+To protect social skills in AI-augmented market research:
+- Design hybrid research approaches that maintain embodied interaction
+- Create physical spaces for team collaboration and mentorship
+- Ensure qualitative research maintains embodied presence where appropriate
+- Develop evaluation metrics that value relationship-building skills
+- Balance AI efficiency with opportunities for social practice
+
+## Related Concepts
+
+- [[embodiment-in-skilling]]
+- [[moral-skills]]
+- [[relational-skills]]
+- [[intersubjectivity-in-skilling]]
+
+## References
+- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
+- Hurka, T. (1993). Perfectionism. Oxford University Press.
+- De Jaegher, H., & Di Paolo, E. (2007). Participatory sense-making: An enactive approach to social cognition. Phenomenology and the Cognitive Sciences, 6(4), 485-507.

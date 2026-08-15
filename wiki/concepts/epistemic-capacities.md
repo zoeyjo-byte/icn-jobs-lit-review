@@ -1,64 +1,74 @@
-# Epistemic Capacities
+# [[epistemic-capacities]]
 
 ## Definition
-The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
 
-## Two Dimensions of Epistemic Capacities
+Epistemic capacities are the human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems that create capacity-hostile environments.
+
+## Two Key Components
 
 ### Theoretical Rationality
 - Thinking, considering reasons to believe, forming beliefs, contemplating
-- The capacity to acquire and evaluate knowledge
-- Essential for developing accurate understanding of situations
-- Involves critical thinking, analytical reasoning, and evidence evaluation
+- Essential for knowledge acquisition and critical evaluation
+- Enables discernment of truth and evidence assessment
+- As Ferdman states: "thinking, considering reasons to believe, forming beliefs, contemplating (Bradford 2025)"
 
 ### Practical Rationality (Phronesis)
 - Common sense or wisdom: doing the right thing in the right way for the right reason
-- The capacity to apply theoretical knowledge to practical situations
-- Involves discernment: correct understanding of how the good and bad apply in particular circumstances
-- Requires accurate assessment of testimony from others
-- Necessary for critically reflecting on conceptions of a flourishing life
+- Essential for applying knowledge in specific contexts
+- Involves accurate understanding of situations and circumstances
+- As Ferdman explains: "practical rationality (Bradford 2015, 2021), manifesting in phronesis (common sense or wisdom): doing the right thing in the right way for the right reason"
 
-## Role in Planning and Decision-Making
-Epistemic capacities are essential for effective planning:
-- Self-deliberation on values and goals requires theoretical rationality
-- Coordinating one's goals and intentions with one's actions requires practical wisdom
-- A wise person 'knows the effective means to one's ends and possesses an accurate understanding of their situation and circumstances'
-- Practical wisdom is 'necessary for critically reflecting on one's conceptions of a flourishing life, in order to set appropriate goals and strive to accomplish them in the right way'
+## Importance in Decision-Making
 
-## AI's Threat to Epistemic Capacities
-Ferdman identifies how AI systems undermine epistemic capacities:
-- Erosion of critical thinking and analytical reasoning through over-reliance on AI
-- Diminished diagnostic reasoning and clinical judgment in professional contexts
-- Reduced retention of tacit knowledge as systems automate routine tasks
-- Declining ethical sensitivity and weakened moral judgment
-- 'Depriving the user of routine opportunities to practice their judgment and strengthen their cognitive musculature'
+Epistemic capacities are critical for effective decision-making because:
+- They enable self-deliberation on values and goals
+- They support coordination of intentions with actions
+- They provide discernment: "correct understanding of how the good and the bad apply in particular circumstances"
+- They allow for critical reflection on conceptions of a flourishing life
 
-## Market Research Implications
+Ferdman notes: "A wise person knows the effective means to one's ends and possesses an accurate understanding of their situation and circumstances, especially in assessing the testimony of others; they also possess discernment."
 
-### Entry-Level Research Positions
-- AI automation of data collection and basic analysis eliminates routine tasks that served as training grounds for epistemic capacity development
-- Junior researchers miss opportunities to develop practical wisdom through successive attempts and learning from mistakes
-- Reduced opportunities for self-deliberation on research quality and methodology
+## Threats from AI Systems
 
-### AI-Powered Analysis Tools
-- Systems that generate insights without requiring researchers to justify conclusions
-- Platforms that present AI-generated recommendations as definitive rather than prompts for deliberation
-- Tools that offload analytical reasoning to AI without scaffolding for capacity development
+AI systems threaten epistemic capacities by:
+- Creating environments that encourage plan-following rather than plan-forming
+- Reducing opportunities for self-deliberation through automated decision support
+- Undermining practical wisdom through overreliance on AI recommendations
+- Creating narrow fields of affordances that limit epistemic practice opportunities
 
-## Preserving Epistemic Capacities
-Strategies to protect epistemic capacities in AI-augmented research:
-- Design tools that require researchers to explain and justify AI-generated insights
-- Create 'red team' processes where alternative interpretations are deliberately sought
-- Structure projects to maintain human oversight of critical analytical decisions
-- Develop training that emphasizes the researcher's role in evaluating AI outputs
-- Ensure AI adoption preserves opportunities for self-deliberation on research quality
+As Ferdman states: "Overreliance on APAs could lead to a reduced sense of personal competence... undermining the habituation of the capacities necessary for trusting one's decisions on life-planning."
 
-## Connection to Capacity Development
-Epistemic capacities are interdependent with other capacities:
-- Developing practical wisdom requires **volitional capacity** to overcome difficulty
-- Effective planning requires **social capacities** for coordination with others
-- Responding to unexpected events requires **creative capacities**
-- Moral attention in research design requires **embodiment in skilling**
+## Implications for Market Research
 
-## Contrast with Technical Skills
-Unlike technical skills that may become obsolete (e.g., specific programming languages), epistemic capacities are fundamental to human flourishing. Their impoverishment leads to diminished lives, explaining why capacity-deskilling should always be a cause for worry rather than a neutral technological development.
+Epistemic capacities are essential for market research because:
+- Theoretical rationality enables critical evaluation of research data
+- Practical wisdom supports nuanced interpretation of complex findings
+- Self-deliberation is necessary for ethical research design
+- Discernment helps assess the reliability of research sources and methods
+
+AI tools that automate research processes risk deskilling epistemic capacities when they:
+- Replace researcher judgment with algorithmic outputs
+- Reduce opportunities for researchers to develop practical wisdom
+- Eliminate routine tasks necessary for habituation of analytical skills
+- Undermine opportunities for self-deliberation in research design
+
+## Preservation Strategies
+
+To protect epistemic capacities in AI-augmented market research:
+- Design AI tools that require researcher approval at key decision points
+- Create opportunities for researchers to explain and justify AI recommendations
+- Maintain spaces for collective deliberation on research findings
+- Ensure researchers experience the full research cycle, including failures
+- Develop evaluation frameworks that value epistemic development
+
+## Related Concepts
+
+- [[practical-wisdom]]
+- [[theoretical-rationality]]
+- [[plan-forming-vs-plan-following]]
+- [[habituation-process]]
+
+## References
+- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
+- Bradford, G. (2025). The Value of Knowledge. Oxford University Press.
+- Hursthouse, R. (2022). Practical Wisdom: A Moral Psychology. Oxford University Press.

@@ -1,66 +1,78 @@
-# Creative Skills
+# [[creative-skills]]
 
 ## Definition
-Human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these skills are constitutive of human flourishing and can be undermined by AI systems when they create capacity-hostile environments.
 
-## Core Characteristics
+Creative skills are human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these skills are essential for human flourishing and can be undermined by AI systems that create environments hostile to creative development.
 
-### Novel Idea Generation
-- Creating research insights that are genuinely new rather than merely recombining existing elements
-- Going beyond what is mechanically possible to produce truly innovative concepts
-- Transforming how clients understand their markets and customers
+## Key Characteristics
 
-### Unfamiliar Combinations
-- Making connections between seemingly unrelated consumer behaviors or market trends
-- Breaking free from conventional industry frameworks
-- Creating syntheses that reveal new business opportunities
+1. **Novel combination**: "Making unfamiliar combinations of familiar ideas"
+2. **Conceptual transformation**: "Transforming a conceptual space (Boden 2004)"
+3. **Non-mechanical process**: "Without relying merely on luck, accidents, or mechanical procedures (Gaut, 2010)"
+4. **Purposeful innovation**: Directed toward intrinsically valuable goals
 
-### Transformation of Conceptual Spaces
-- Changing the framework within which business problems are understood
-- Creating new categories and ways of thinking about markets
-- Enabling paradigm shifts rather than incremental improvements
+Ferdman explains: "The capacity for creativity involves making unfamiliar combinations of familiar ideas, transforming a conceptual space (Boden 2004), without relying merely on luck, accidents, or mechanical procedures (Gaut, 2010)."
 
-## Role in Market Research
-Creative skills are essential for:
-- Developing research approaches that uncover hidden insights
-- Interpreting data in ways that reveal unexpected opportunities
-- Transforming raw data into compelling, actionable business stories
-- Helping clients see their markets from fresh perspectives
-- Creating research methodologies tailored to unique client challenges
+## Connection to Planning
 
-## AI's Threat to Creative Skills
-Ferdman identifies how AI systems undermine creative skills:
-- Providing pre-determined recommendations that reduce opportunities for novel idea generation
-- Creating environments where researchers 'respond to the AI's recommendations' rather than initiating creative processes
-- Automating routine analysis that previously served as foundations for creative development
-- Diminishing opportunities to encounter and overcome disappointment and failure, which are essential for creative growth
+Creative skills are essential for effective planning because:
+- Planning "involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events"
+- Creative problem-solving is necessary when plans encounter real-world complexities
+- Innovation in planning methods requires transforming conceptual spaces
 
-## Market Research Implications
+As Ferdman states: "Life-planning also involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events."
 
-### Research Design
-- AI tools that generate standardized research approaches without opportunities for innovation
-- Platforms that limit researchers' ability to develop novel methodologies
-- Systems that prioritize efficiency over creative exploration
+## Threats from AI Systems
 
-### Insight Generation
-- AI analysis tools that produce conventional interpretations rather than transformative insights
-- Reporting systems that follow formulaic templates without room for creative expression
-- Workflows that reduce opportunities to respond creatively to unexpected findings
+AI systems threaten creative skills by:
+- Providing predetermined solutions that reduce opportunities for novel combination
+- Creating environments that encourage plan-following rather than creative plan-forming
+- Automating routine tasks that provide essential practice for creative development
+- Generating outputs that satisfy immediate needs without requiring conceptual transformation
 
-## Preserving Creative Skills
-Strategies to protect creative skills in AI-augmented research:
-- Design tools that prompt researchers to generate alternative interpretations
-- Create 'sandbox' environments where researchers can experiment with novel approaches
-- Structure projects to include dedicated time for creative exploration
-- Develop training that emphasizes the value of creative risk-taking in research
-- Ensure AI adoption preserves opportunities to encounter and learn from failure
+Ferdman notes: "APAs afford the replacement of many of the activities involved in both planning and executing one's plans, that would otherwise require the proper cultivation and competent exercise of our... creative capacities."
 
-## Connection to Habituation Process
-Creative skills develop through the **habituation process**:
-- 'Skill generally cannot be learnt through testimony, and requires practice'
-- Creative development involves 'refinement of the action through successive trials and learning from mistakes'
-- Encountering and overcoming disappointment and failure are essential components
-- Creative expertise develops through stages from novice to expert
+## Market Research Applications
 
-## Contrast with Technical Skills
-Unlike technical skills that may become obsolete, creative skills are fundamental to human flourishing and market research value. Their erosion leads to commoditized research that fails to deliver unique business value, explaining why capacity-deskilling should always be a cause for worry. High-intensity AI adopters grow entry-level roles by 12.0% because they recognize that creative skills cannot be automated and require intentional development opportunities through the habituation process.
+Creative skills are critical for market research professionals because:
+- Developing innovative research methodologies requires conceptual transformation
+- Interpreting complex data often demands novel combinations of analytical approaches
+- Responding to unexpected research challenges requires creative problem-solving
+- Designing effective research instruments involves transforming conceptual spaces
+
+Specific applications include:
+- Creating novel research approaches for emerging market phenomena
+- Developing creative stimulus materials for qualitative research
+- Finding innovative ways to present research findings to stakeholders
+- Adapting research methodologies to unique client challenges
+
+## Skill Development
+
+Creative skills develop through:
+- Habituation process involving successive trials and learning from creative failures
+- Intersubjective mentorship where creative values are shared
+- Embodied interaction that supports conceptual exploration
+- Opportunities to exercise agential control over creative processes
+
+Ferdman explains: "Habituation involves inculcation through continued attunement to the demands of individual cases; refinement of the action through successive trials and learning from mistakes. This includes encountering and overcoming disappointment and failure."
+
+## Preservation Strategies
+
+To protect creative skills in AI-augmented market research:
+- Design AI tools that suggest rather than dictate research approaches
+- Create opportunities for researchers to develop and justify novel methodologies
+- Maintain spaces for brainstorming and creative problem-solving
+- Ensure researchers experience research challenges that require creative solutions
+- Develop evaluation frameworks that value creative contributions
+
+## Related Concepts
+
+- [[conceptual-transformation]]
+- [[novel-combination]]
+- [[plan-forming-vs-plan-following]]
+- [[research-innovation]]
+
+## References
+- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
+- Boden, M. A. (2004). The creative mind: Myths and mechanisms. Routledge.
+- Gaut, B. (2010). The philosophy of creativity. Philosophy Compass, 5(12), 1034-1046.
