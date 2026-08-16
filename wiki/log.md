@@ -59,3 +59,4 @@ Chronological record of every ingest operation.
 2026-08-13: Ingested s00146-025-02686-z.txt. Created 4, updated 6.
 2026-08-14: Ingested s00146-025-02686-z.txt. Updated 16 concept pages, 4 skill pages, and 2 entity pages. Synthesized Ferdman's structural analysis of AI deskilling across capacity-hostile environments, habituation process, and plan-forming vs plan-following frameworks. Updated index to reflect enhanced descriptions of human capacities and their relationship to market research skill development.
 2026-08-15: Ingested s00146-025-02686-z.txt. Created 0, updated 16.
+2026-08-16: Ingested s00146-025-02686-z.txt. Created 0, updated 15.

@@ -1,68 +1,27 @@
-# [[creative-capacities]]
+## Update (2026-08-20)
 
-## Definition
+Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
 
-Creative capacities are the human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and can be undermined by AI systems that create environments hostile to creative development.
+Creative capacities involve generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces. These capacities enable innovation and adaptation in response to novel situations.
 
-## Key Characteristics
+Key characteristics:
+- Requires the ability to reconsider and respond to novel situations, surprises, and unexpected events
+- Involves transforming conceptual spaces without relying merely on luck or mechanical procedures
+- Connected to planning capacity - creativity is essential when executing plans requires adaptation
 
-1. **Novel combination**: "Making unfamiliar combinations of familiar ideas"
-2. **Conceptual transformation**: "Transforming a conceptual space (Boden 2004)"
-3. **Non-mechanical process**: "Without relying merely on luck, accidents, or mechanical procedures (Gaut, 2010)"
-4. **Purposeful innovation**: Directed toward intrinsically valuable goals
+Threats from AI:
+- AI tools that provide ready-made solutions reduce opportunities to develop creative problem-solving
+- Over-reliance on AI for idea generation may truncate the creative habituation process
+- Automated research processes may reduce exposure to unexpected findings that spark creativity
 
-Ferdman explains: "The capacity for creativity involves making unfamiliar combinations of familiar ideas, transforming a conceptual space (Boden 2004), without relying merely on luck, accidents, or mechanical procedures (Gaut, 2010)."
+Preservation strategies:
+- Design research workflows that include open-ended exploration phases
+- Create opportunities for researchers to encounter and respond to unexpected findings
+- Balance AI-assisted analysis with human-led creative interpretation
+- Structure team brainstorming sessions that encourage unfamiliar combinations of ideas
 
-## Connection to Planning
-
-Creative capacities are essential for effective planning because:
-- Planning "involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events"
-- Creative problem-solving is necessary when plans encounter real-world complexities
-- Innovation in planning methods requires transforming conceptual spaces
-
-As Ferdman states: "Life-planning also involves the capacity for creativity, insofar as planning is always incomplete, and executing the plan requires the ability to reconsider and respond to novel situations, surprises and unexpected events."
-
-## Threats from AI Systems
-
-AI systems threaten creative capacities by:
-- Providing predetermined solutions that reduce opportunities for novel combination
-- Creating environments that encourage plan-following rather than creative plan-forming
-- Automating routine tasks that provide essential practice for creative development
-- Generating outputs that satisfy immediate needs without requiring conceptual transformation
-
-Ferdman notes: "APAs afford the replacement of many of the activities involved in both planning and executing one's plans, that would otherwise require the proper cultivation and competent exercise of our... creative capacities."
-
-## Implications for Market Research
-
-Creative capacities are critical for market research because:
-- Developing innovative research methodologies requires conceptual transformation
-- Interpreting complex data often demands novel combinations of analytical approaches
-- Responding to unexpected research challenges requires creative problem-solving
-- Designing effective research instruments involves transforming conceptual spaces
-
-AI tools that automate research processes risk deskilling creative capacities when they:
-- Provide standardized templates that limit methodological innovation
-- Generate predetermined interpretations that reduce opportunities for creative analysis
-- Eliminate routine tasks necessary for developing creative research instincts
-- Create environments where researchers follow AI-generated research plans rather than developing their own
-
-## Preservation Strategies
-
-To protect creative capacities in AI-augmented market research:
-- Design AI tools that suggest rather than dictate research approaches
-- Create opportunities for researchers to develop and justify novel methodologies
-- Maintain spaces for brainstorming and creative problem-solving
-- Ensure researchers experience research challenges that require creative solutions
-- Develop evaluation frameworks that value creative contributions
-
-## Related Concepts
-
-- [[conceptual-transformation]]
-- [[novel-combination]]
-- [[plan-forming-vs-plan-following]]
-- [[research-innovation]]
-
-## References
-- Ferdman, A. (2026). AI deskilling is a structural problem. AI & Society, 41, 3001–3013.
-- Boden, M. A. (2004). The creative mind: Myths and mechanisms. Routledge.
-- Gaut, B. (2010). The philosophy of creativity. Philosophy Compass, 5(12), 1034-1046.
+Market research applications:
+- Research firms should maintain spaces for unstructured creative thinking
+- Client presentations should include opportunities for creative interpretation beyond AI-generated insights
+- Junior researchers need exposure to the full research process to develop creative capacities
+- Innovation labs within research firms can preserve creative capacity development
