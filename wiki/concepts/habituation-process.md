@@ -1,22 +1,51 @@
-## Update (2026-08-20)
+# [[habituation-process]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases, with critical implications for AI's impact on skill development. Skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-The habituation process is the gradual development of skills through practice, involving inculcation through continued attunement to demands of individual cases. Ferdman emphasizes that skill development cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
+## Key Characteristics
+- Gradual, slow process requiring considerable time and living
+- Involves refinement through successive trials and learning from mistakes
+- Progresses through stages from novice to expert (Dreyfus and Dreyfus 5-stage model)
+- Requires concrete experience rather than abstract principles
+- Involves inculcation through continued attunement to individual cases
 
-Key components:
-- Requires considerable time and living - skills are developed through experience
-- Involves refinement of action through successive trials and learning from mistakes
-- Progresses through stages from novice to expert, with decreasing reliance on abstract principles
-- Has two critical dimensions: [[intersubjectivity-in-skilling]] and [[embodiment-in-skilling]]
+## Components
+### Intersubjectivity
+- Requires mentorship for proper motivational structure development
+- Mentors instill not only mechanical aspects but also the value of the skill
+- Shared valuing develops through mentor-mentee relationships
+- Social practices provide societal-scale mentoring environments
 
-Threats from AI:
-- Automation of routine tasks deprives users of "routine opportunities to practice their judgment and strengthen their cognitive musculature"
-- AI tools that provide instant answers reduce opportunities for learning through trial and error
-- Over-reliance on AI may truncate the habituation process, keeping users at novice or advanced beginner stages
+### Embodiment
+- Embodied interaction is constitutive of social cognition
+- 'Participatory sense-making' is essential for moral attention development
+- Recognition of others as moral agents requires embodied interaction
+- Shared history and embodied interaction enable shared valuing
 
-Preservation strategies:
-- Design AI tools that scaffold rather than replace the habituation process
-- Create opportunities for researchers to engage in deliberate practice with feedback
-- Maintain human oversight in research processes to ensure continued skill development
-- Structure research workflows to include opportunities for failure and learning
+## Threats from AI
+- AI automation deprives users of routine opportunities to practice judgment
+- Offloading tasks to AI systems weakens 'cognitive musculature'
+- Reduced embodied interaction limits opportunities for moral capacity development
+- AI tools that provide complete solutions prevent learning from failure
+- Plan-following environments undermine development of practical wisdom
+
+## Market Research Preservation Strategies
+- Design research workflows preserving opportunities for embodied client interaction
+- Implement structured mentorship programs with shared project experiences
+- Create 'failure-friendly' environments where researchers learn from mistakes
+- Balance AI assistance with opportunities for independent plan-forming
+- Evaluate research tools based on their support for gradual skill development
+
+## Related Concepts
+- [[agential-control]]
+- [[intersubjectivity-in-skilling]]
+- [[embodiment-in-skilling]]
+- [[capacity-hostile-environments]]
+- [[plan-forming-vs-plan-following]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of characteristics, components, threats from AI, preservation strategies, and market research applications from Ferdman's research

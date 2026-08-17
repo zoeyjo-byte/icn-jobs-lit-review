@@ -1,26 +1,58 @@
-## Update (2026-08-20)
+# [[social-capacities]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and require embodied interaction for proper development.
 
-Social capacities include the moral capacity as well as the social and caring capacities for developing meaningful relationships of friendship and love. These capacities are essential for participating in communal life and understanding others' perspectives.
+## Components
+### Moral Capacity
+- Recognizing others as moral agents
+- Paying moral attention to others
+- Understanding moral reasons for action
+- Developing shared valuing through social practices
 
-Key components:
-- Moral capacity: recognizing others as moral agents, making ethical judgments
-- Relational capacity: forming meaningful relationships, understanding others' perspectives
-- Requires embodied interaction for full development
+### Relational Capacity
+- Forming meaningful relationships of friendship and love
+- Participating in communal life
+- Developing shared intentions with others
+- Creating shared history through interaction
 
-Embodiment requirement:
-- The return of the gaze in embodied interaction enables spontaneous recognition of others as moral agents
+## Embodiment Requirement
+- Embodied 'participatory sense-making' is constitutive of social cognition
+- Recognition of others as moral agents requires embodied interaction
+- Spontaneous recognition is inherent in embodied interaction
 - Disembodied interaction requires more mental effort to attribute moral agency
 - Technologically mediated virtue friendships require more discipline for diminished experience
 
-Threats from AI:
-- Digital platforms create disembodied environments that make relationship formation harder
-- AI tools that replace human interaction reduce opportunities for moral capacity development
-- Social media algorithms create information bubbles that undermine moral reasoning
+## Market Research Implications
+- Essential for client relationship management
+- Critical for understanding research participants' perspectives
+- Necessary for team collaboration and knowledge sharing
+- Fundamental to ethical research practices
+- Required for developing research community standards
 
-Market research applications:
-- Research methods should preserve opportunities for embodied client interaction
-- Team collaboration should include face-to-face elements to maintain social capacity development
-- Research training should include opportunities to develop moral reasoning in complex situations
-- Firms should evaluate whether their AI tools support or undermine researchers' social capacities
+## Threats from AI
+- AI tools replacing in-person client consultations with chatbots
+- Reduced opportunities for embodied participant interactions
+- Disembodied research environments constituting narrow fields of affordances
+- Diminished opportunities for moral capacity development
+- Plan-following environments undermining shared valuing
+
+## Preservation Strategies
+- Design research methods preserving embodied client interactions
+- Create physical collaboration spaces for research teams
+- Balance digital tools with in-person team interactions
+- Implement structured opportunities for shared valuing
+- Evaluate AI research tools based on support for embodied interaction
+
+## Related Concepts
+- [[embodiment-in-skilling]]
+- [[intersubjectivity-in-skilling]]
+- [[human-capacities]]
+- [[capacity-conducive-environments]]
+- [[capacity-hostile-environments]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of components, embodiment requirement, threats from AI, preservation strategies, and market research applications from Ferdman's research

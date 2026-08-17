@@ -1,27 +1,45 @@
-## Update (2026-08-20)
+# [[narrow-field-of-affordances]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+An environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities, a key mechanism through which AI systems can create capacity-hostile environments as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-A narrow field of affordances is an environment that provides limited action possibilities, restricting opportunities for the development and exercise of human capacities. This is a key mechanism through which AI systems can create capacity-hostile environments.
+## Key Characteristics
+- Provides a restricted set of action possibilities
+- Limits opportunities for capacity development and exercise
+- May afford shallow skilling while restricting fuller development
+- Often results from indiscriminate automation of human activities
+- Can lead to 'affordance shrinkage' - systematic, enduring reduction in action possibilities
 
-Key characteristics:
-- Restricts the number of action possibilities available to agents
-- Discourages users from seeking alternative avenues to compensate for capacity shrinkage
-- May result from cumulative automation across multiple human spheres
-- Creates environments where persons respond to triggers rather than initiating activities
+## Mechanisms of Creation
+- **Automation bias**: Offloading tasks to AI systems deprives users of routine practice
+- **Digital mediation**: Replacing embodied interaction with disembodied interfaces
+- **Predetermined paths**: Providing limited options that constrain creative exploration
+- **Responsibility displacement**: Shifting accountability from users to AI systems
+- **Convenience culture**: Prioritizing efficiency over capacity development opportunities
 
-Mechanisms:
-- AI automation offloading routine tasks deprives users of habituation opportunities
-- Disembodied digital environments reduce opportunities for embodied interaction
-- AI tools designed for constant engagement herd users toward specific behaviors
+## Market Research Examples
+- AI tools that automatically generate survey questions with limited customization
+- Automated data analysis platforms providing fixed insight templates
+- Research platforms that schedule tasks without researcher input
+- Chatbots replacing in-person client consultations with standardized interactions
+- AI-powered reporting systems executing predetermined analysis paths
 
-Examples:
-- Healthcare AI that affords offloading diagnostic tasks, leading to diminished clinical judgment
-- Smartphone interfaces that afford disconnected, separate, repeatable tasks, leading to alienation
-- Artificial Personal Assistants that afford constant availability for planning, reducing opportunities for independent planning
+## Mitigation Strategies
+- Design research tools that expand rather than restrict action possibilities
+- Create hybrid research methods preserving embodied interaction
+- Implement 'affordance audits' for AI research tools
+- Balance efficiency with opportunities for capacity development
+- Evaluate AI implementations based on their support for rich affordance spaces
 
-Mitigation strategies:
-- Design AI tools that preserve opportunities for capacity exercise
-- Create work environments that afford multiple action possibilities
-- Balance automation with human-led activities that require capacity development
-- Evaluate AI systems based on whether they expand or narrow the field of affordances for capacity cultivation
+## Related Concepts
+- [[capacity-hostile-environments]]
+- [[capacity-conducive-environments]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[plan-forming-vs-plan-following]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of characteristics, mechanisms, examples, mitigation strategies, and market research applications from Ferdman's research

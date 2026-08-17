@@ -1,27 +1,45 @@
-## Update (2026-08-20)
+# [[intersubjectivity-in-skilling]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-Intersubjectivity in skilling refers to the shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill.
+## Key Characteristics
+- Requires mentorship for proper motivational structure development
+- Involves shared intentions between mentor and mentee
+- Creates 'shared valuing' of both the skill and its products
+- Develops through creating shared history and participatory sense-making
+- Occurs at both individual (mentor-mentee) and societal scales
 
-Key characteristics:
-- Requires a mentor-mentee relationship with shared intentions
-- Involves the mentor instilling not just the mechanics but the value of the skill
-- Creates "shared valuing" where the mentee eventually views the value of the skill as their own
-- Operates on societal scale through social practices that generate moral reasons for action
+## Societal Dimension
+- Social practices performed by groups provide mentoring environments
+- Family, colleagues, and citizens collectively generate moral reasons for action
+- Social practices have constitutive aims that help people fare well
+- Learning occurs through 'practices of common life' as noted by MacIntyre
+- Shared valuing of capacities develops through societal engagement
 
-Threats from AI:
-- [[artificial-personal-assistants]] replace human mentors, removing the shared valuing dimension
-- Digital environments reduce opportunities for embodied mentorship
-- AI tools that provide instant answers bypass the need for intersubjective learning
+## Threats from AI
+- AI tools replace human mentors with non-human agents
+- Reduced opportunities for shared valuing of research capacities
+- Diminished embodied interaction limits participatory sense-making
+- Plan-following environments undermine development of shared understanding
+- AI mediation creates distance from the 'telos' or constitutive aim of research practices
 
-Preservation strategies:
-- Maintain human mentorship programs alongside AI tools
-- Design AI systems that facilitate rather than replace human-to-human learning
-- Create opportunities for researchers to engage in shared valuing of research capacities
-- Structure research teams to preserve mentorship relationships
+## Market Research Preservation Strategies
+- Design research teams with structured mentorship opportunities
+- Create collaborative environments for shared insight development
+- Preserve opportunities for embodied team interactions
+- Evaluate AI tools based on their support for intersubjective learning
+- Implement 'shared valuing' rituals around research excellence
 
-Market research applications:
-- Research firms should prioritize mentorship programs that transmit not just technical skills but the value of research
-- Junior researchers need opportunities to learn from senior researchers through shared projects
-- AI tools should be designed to support rather than replace the mentor-mentee relationship
+## Related Concepts
+- [[habituation-process]]
+- [[embodiment-in-skilling]]
+- [[capacity-conducive-environments]]
+- [[agential-control]]
+- [[human-capacities]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of characteristics, societal dimension, threats from AI, preservation strategies, and market research applications from Ferdman's research

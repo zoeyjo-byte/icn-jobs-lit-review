@@ -1,27 +1,52 @@
-## Update (2026-08-20)
+# [[creative-capacities]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and cannot be reduced to mechanical procedures.
 
-Creative capacities involve generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces. These capacities enable innovation and adaptation in response to novel situations.
+## Key Characteristics
+- Generating novel ideas without relying merely on luck or accidents
+- Making unfamiliar combinations of familiar concepts
+- Transforming conceptual spaces in meaningful ways
+- Requiring the capacity to will for development and exercise
+- Involving response to novel situations and unexpected events
 
-Key characteristics:
-- Requires the ability to reconsider and respond to novel situations, surprises, and unexpected events
-- Involves transforming conceptual spaces without relying merely on luck or mechanical procedures
-- Connected to planning capacity - creativity is essential when executing plans requires adaptation
+## Connection to Planning
+- Planning involves incomplete frameworks requiring creative adaptation
+- Executing plans requires ability to reconsider and respond to surprises
+- Creative capacity enables transformation of conceptual spaces during planning
+- Essential for developing practical wisdom in complex situations
+- Required for navigating the 'settling' and 'coordination' functions of planning
 
-Threats from AI:
-- AI tools that provide ready-made solutions reduce opportunities to develop creative problem-solving
-- Over-reliance on AI for idea generation may truncate the creative habituation process
-- Automated research processes may reduce exposure to unexpected findings that spark creativity
+## Market Research Implications
+- Critical for innovative research design and methodology development
+- Essential for interpreting unexpected findings and generating novel insights
+- Necessary for adapting research approaches to changing market conditions
+- Fundamental to developing creative solutions for client challenges
+- Required for transforming conceptual spaces in market understanding
 
-Preservation strategies:
-- Design research workflows that include open-ended exploration phases
-- Create opportunities for researchers to encounter and respond to unexpected findings
-- Balance AI-assisted analysis with human-led creative interpretation
-- Structure team brainstorming sessions that encourage unfamiliar combinations of ideas
+## Threats from AI
+- AI tools providing predetermined analysis paths limiting creative exploration
+- Automated reporting systems executing mechanical procedures
+- Plan-following environments that reduce opportunities for creative adaptation
+- Diminished opportunities for responding to unexpected research findings
+- Narrow fields of affordances that constrain conceptual space transformation
 
-Market research applications:
-- Research firms should maintain spaces for unstructured creative thinking
-- Client presentations should include opportunities for creative interpretation beyond AI-generated insights
-- Junior researchers need exposure to the full research process to develop creative capacities
-- Innovation labs within research firms can preserve creative capacity development
+## Preservation Strategies
+- Design research workflows preserving opportunities for creative exploration
+- Create 'surprise-friendly' environments that value unexpected findings
+- Balance AI assistance with opportunities for independent creative thinking
+- Implement structured brainstorming sessions that encourage unfamiliar combinations
+- Evaluate AI research tools based on their support for conceptual space transformation
+
+## Related Concepts
+- [[plan-forming-vs-plan-following]]
+- [[human-capacities]]
+- [[agential-control]]
+- [[habituation-process]]
+- [[capacity-hostile-environments]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of characteristics, connection to planning, threats from AI, preservation strategies, and market research applications from Ferdman's research

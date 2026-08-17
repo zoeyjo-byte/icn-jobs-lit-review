@@ -1,28 +1,47 @@
-## Update (2026-08-20)
+# [[embodiment-in-skilling]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## Definition
+The essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-Embodiment in skilling refers to the essential role of physical presence and sensory experience in the development of human capacities, particularly social and moral skills. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships.
-
-Key characteristics:
+## Key Characteristics
 - Embodied 'participatory sense-making' is constitutive of social cognition
-- The return of the gaze in embodied interaction enables spontaneous recognition of others as moral agents
-- Disembodied interaction requires more mental effort to attribute moral agency to others
-- Embodied engagement creates shared history and participatory sense-making
+- Recognition of others as moral agents requires embodied interaction
+- Spontaneous recognition of moral agency is inherent in embodied interaction
+- Disembodied interaction requires more mental effort to attribute moral agency
+- Embodied interaction enables 'embodied understanding' of others
 
-Threats from AI:
-- Digital platforms create disembodied environments that make it harder to form meaningful relationships
-- AI tools that replace face-to-face interaction reduce opportunities for embodied learning
-- Social media platforms herd users to behave in certain ways without providing proper mentoring
+## Contrast with Disembodied Interaction
+| **Embodied Interaction** | **Disembodied Interaction** |
+|--------------------------|-----------------------------|
+| Enables spontaneous recognition of moral agency | Requires conscious effort to attribute moral agency |
+| Facilitates 'participatory sense-making' | Limits opportunities for shared meaning creation |
+| Creates shared history through physical presence | Creates distance from shared experiences |
+| Supports development of moral attention | Makes moral attention development more difficult |
+| Enables recognition of others as similar embodied beings | Requires more discipline for diminished experience |
 
-Preservation strategies:
-- Design workspaces that encourage embodied interaction
-- Balance digital tools with face-to-face collaboration opportunities
-- Create research environments that afford embodied interaction
-- Evaluate AI tools based on whether they preserve opportunities for embodied learning
+## Threats from AI
+- AI tools that replace in-person research with digital mediation
+- Reduced opportunities for embodied client interactions
+- Disembodied environments constituting narrow fields of affordances
+- Diminished opportunities for moral capacity development
+- AI tools that encourage plan-following rather than embodied plan-forming
 
-Market research applications:
-- Research firms should maintain physical spaces for team collaboration
-- Client workshops and in-person interviews preserve embodied interaction crucial for understanding
-- Remote research methods should incorporate video to maintain some level of embodiment
-- Research training should include opportunities for embodied learning through fieldwork
+## Market Research Preservation Strategies
+- Design research methods preserving embodied participant interactions
+- Create physical collaboration spaces for research teams
+- Balance digital tools with in-person team interactions
+- Evaluate AI research tools based on their support for embodied interaction
+- Implement 'embodiment audits' for research workflows
+
+## Related Concepts
+- [[habituation-process]]
+- [[intersubjectivity-in-skilling]]
+- [[capacity-conducive-environments]]
+- [[social-capacities]]
+- [[capacity-hostile-environments]]
+
+## Sources
+- [[ferdman-2026-ai-deskilling-structural-problem]]
+
+## Update History
+2026-08-20: Expanded with detailed analysis of characteristics, contrast with disembodied interaction, threats from AI, preservation strategies, and market research applications from Ferdman's research
