@@ -1,59 +1,70 @@
-# [[human-capacities]]
+# Human Capacities
 
-## Definition
-Core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of flourishing and their impoverishment leads to diminished lives.
+Human capacities are core abilities that constitute human flourishing, including epistemic, social, creative, and volitional capacities, which are fundamental to being human and can be undermined by AI systems. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of flourishing, meaning that impoverished capacities lead to impoverished lives.
 
 ## Core Capacities
+
+Ferdman identifies four core human capacities that are essential for flourishing:
+
 ### Epistemic Capacities
-- Theoretical rationality: thinking, considering reasons, forming beliefs
-- Practical rationality (phronesis): doing the right thing in the right way for the right reason
-- Essential for navigating truth and making informed decisions
+
+- **Theoretical rationality**: Thinking, considering reasons to believe, forming beliefs, contemplating
+- **Practical rationality (phronesis)**: Doing the right thing in the right way for the right reason; practical wisdom
+- **Critical for**: Navigating truth, making informed decisions, developing practical wisdom
 
 ### Social Capacities
-- Moral capacity: recognizing others as moral agents
-- Relational capacity: forming meaningful relationships of friendship and love
-- Essential for communal life and moral understanding
+
+- **Moral capacity**: Recognizing others as moral agents, making ethical judgments
+- **Relational capacity**: Forming meaningful relationships of friendship and love
+- **Critical for**: Participating in communal life, developing shared valuing, moral reasoning
 
 ### Creative Capacities
-- Generating novel ideas and making unfamiliar combinations
-- Transforming conceptual spaces without relying on luck
-- Essential for innovation and adaptation
+
+- **Novel combination**: Making unfamiliar combinations of familiar ideas
+- **Conceptual transformation**: Transforming conceptual spaces without relying on luck or mechanical procedures
+- **Critical for**: Innovation, adaptation, problem-solving in novel situations
 
 ### Volitional Capacity
-- Exerting effort, overcoming difficulty, persevering toward goals
-- Growing to achieve intrinsically valuable objectives
-- Functions as a meta-capacity necessary for developing all other capacities
 
-## Importance
-- Capacities are constitutive of human flourishing
-- Competent exercise yields intrinsically valuable goods
+- **Effort exertion**: The ability to exert effort, overcome difficulty, and persevere
+- **Growth orientation**: Growing to achieve intrinsically valuable goals
+- **Meta-capacity role**: Necessary for developing all other capacities, as capacity development is difficult
+
+## Importance for Flourishing
+
+According to Developmental Perfectionism (as analyzed by Ferdman), these capacities are constitutive of human flourishing:
+
+- The competent exercise of capacities manifests intrinsically valuable goods
 - Impoverished capacities lead to impoverished lives
-- Capacity development requires effort and growth
-- Capacities rarely operate in isolation from each other
+- Capacity development is a developmental process requiring habituation
+- The value of capacities is learned through shared valuing in the habituation process
 
 ## Threats from AI
-- Capacity-hostile environments that narrow fields of affordances
-- Automation that deprives users of routine practice opportunities
-- Disembodied interaction that limits moral capacity development
-- Plan-following environments that undermine practical wisdom
-- Reduced opportunities for intersubjective habituation
 
-## Market Research Preservation Strategies
-- Design research workflows preserving capacity development opportunities
-- Create hybrid research methods balancing AI assistance with human judgment
-- Implement mentorship programs supporting gradual capacity development
-- Evaluate research tools based on capacity cultivation conduciveness
-- Establish 'capacity impact assessments' for new AI implementations
+AI systems can undermine human capacities through:
 
-## Related Concepts
-- [[epistemic-capacities]]
-- [[social-capacities]]
-- [[creative-capacities]]
-- [[volitional-capacity]]
-- [[developmental-perfectionism]]
+- **Capacity-hostile environments**: Creating narrow fields of affordances that restrict capacity development
+- **Automation bias**: Encouraging offloading of tasks that are essential for habituation
+- **Disembodiment**: Reducing opportunities for embodied interaction necessary for social capacities
+- **Plan-following orientation**: Undermining opportunities for self-deliberation and plan-forming
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+## Preservation Strategies
 
-## Update History
-2026-08-20: Expanded with detailed analysis of core capacities, importance, threats from AI, preservation strategies, and market research applications from Ferdman's research
+To preserve human capacities in AI-augmented environments:
+
+1. **Design capacity-conducive environments**: Create settings that afford rich opportunities for capacity development
+2. **Maintain embodied interaction**: Preserve physical presence where it's critical for capacity development
+3. **Support intersubjective habituation**: Create mentorship opportunities and shared valuing of capacities
+4. **Balance automation**: Ensure AI tools support rather than replace the habituation process
+
+## Market Research Applications
+
+In market research contexts, preserving human capacities is critical for:
+
+- Developing researchers' ability to design effective research questions
+- Building capacity for nuanced interpretation of qualitative data
+- Cultivating practical wisdom for ethical decision-making
+- Developing the social capacities necessary for effective client interaction
+
+## Update: 2026-08-25
+Expanded with detailed analysis of core capacities, importance, threats from AI, preservation strategies, and market research applications from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might undermine each capacity in research contexts and strategies for preserving them.

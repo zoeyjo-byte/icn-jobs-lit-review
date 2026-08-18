@@ -1,52 +1,59 @@
-# [[epistemic-capacities]]
+# Epistemic Capacities
 
-## Definition
-The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities constitute a core component of human flourishing.
+Epistemic capacities are the human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
 
 ## Components
+
+According to Ferdman's analysis, epistemic capacities include:
+
 ### Theoretical Rationality
-- Thinking and considering reasons to believe
-- Forming and evaluating beliefs
-- Contemplating truth and knowledge
-- Essential for epistemic responsibility
+
+- **Thinking and contemplation**: The ability to consider reasons to believe and form beliefs
+- **Critical evaluation**: Assessing evidence and arguments for validity and relevance
+- **Conceptual understanding**: Developing deep comprehension of complex ideas
 
 ### Practical Rationality (Phronesis)
-- Doing the right thing in the right way for the right reason
-- Possessing discernment about how good and bad apply in circumstances
-- Understanding effective means to ends
-- Accurate assessment of testimony from others
-- Critical reflection on conceptions of a flourishing life
 
-## Importance in Market Research
-- Essential for designing valid research methodologies
-- Critical for interpreting data and generating meaningful insights
-- Necessary for evaluating the quality of AI-generated insights
-- Fundamental to maintaining research integrity and ethical standards
-- Required for developing practical wisdom in research practice
+- **Practical wisdom**: Doing the right thing in the right way for the right reason
+- **Situational judgment**: Accurate understanding of one's situation and circumstances
+- **Discernment**: Correct understanding of how the good and the bad apply in particular circumstances
+- **Effective means selection**: Knowing the effective means to one's ends
+
+## Importance for Flourishing
+
+Epistemic capacities are essential for human flourishing because:
+
+- They enable navigating truth and making informed decisions
+- Practical wisdom is necessary for critically reflecting on conceptions of a flourishing life
+- They support setting appropriate goals and striving to accomplish them in the right way
+- They are required for developing other capacities, as capacity development involves reasoning
 
 ## Threats from AI
-- Automated insight generation undermining researcher judgment
-- Reduced opportunities for developing practical wisdom through experience
-- Plan-following environments that limit self-deliberation on research values
-- Diminished opportunities for critical reflection on research goals
-- Offloading of small-scale decisions that build 'cognitive musculature'
+
+AI systems can undermine epistemic capacities through:
+
+- **Automation of reasoning**: Replacing opportunities for self-deliberation with AI-generated conclusions
+- **Reduced critical thinking**: Encouraging trust in AI outputs without sufficient evaluation
+- **Shallow engagement**: Providing quick answers that discourage deep contemplation
+- **Erosion of practical wisdom**: Limiting opportunities to develop situational judgment through real-world experience
 
 ## Preservation Strategies
-- Design research workflows preserving opportunities for researcher judgment
-- Create 'failure-friendly' environments where researchers learn from mistakes
-- Balance AI assistance with opportunities for independent plan-forming
-- Implement structured reflection sessions on research values and goals
-- Evaluate AI research tools based on their support for epistemic development
 
-## Related Concepts
-- [[agential-control]]
-- [[plan-forming-vs-plan-following]]
-- [[human-capacities]]
-- [[developmental-perfectionism]]
-- [[capacity-hostile-environments]]
+To preserve epistemic capacities in AI-augmented environments:
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+1. **Design for critical engagement**: Create AI tools that prompt users to evaluate and refine AI outputs
+2. **Maintain reasoning opportunities**: Ensure users still engage in meaningful reasoning processes
+3. **Support practical wisdom development**: Create opportunities for real-world experience and reflection
+4. **Balance automation**: Use AI for information processing while preserving opportunities for judgment
 
-## Update History
-2026-08-20: Expanded with detailed analysis of components, importance, threats from AI, preservation strategies, and market research applications from Ferdman's research
+## Market Research Applications
+
+In market research contexts, preserving epistemic capacities is critical for:
+
+- Developing researchers' ability to design effective research questions
+- Building capacity for nuanced interpretation of qualitative data
+- Cultivating practical wisdom for ethical decision-making
+- Developing the ability to critically evaluate research findings and their implications
+
+## Update: 2026-08-25
+Expanded with detailed analysis of components, importance, threats from AI, preservation strategies, and market research applications from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might undermine epistemic capacities in research contexts and strategies for preserving them.

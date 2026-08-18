@@ -1,58 +1,60 @@
-# [[social-capacities]]
+# Social Capacities
 
-## Definition
-The human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and require embodied interaction for proper development.
+Social capacities are the human capacities related to forming meaningful relationships, understanding others' perspectives, and participating in communal life, including moral capacity and relational capacity. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and have specific embodiment requirements that make them vulnerable to AI-mediated environments.
 
 ## Components
+
+According to Ferdman's analysis, social capacities include:
+
 ### Moral Capacity
-- Recognizing others as moral agents
-- Paying moral attention to others
-- Understanding moral reasons for action
-- Developing shared valuing through social practices
+
+- **Moral attention**: Paying attention to others as moral agents
+- **Moral reasoning**: Making ethical judgments and decisions
+- **Moral sensitivity**: Recognizing morally relevant features of situations
 
 ### Relational Capacity
-- Forming meaningful relationships of friendship and love
-- Participating in communal life
-- Developing shared intentions with others
-- Creating shared history through interaction
+
+- **Friendship formation**: Developing meaningful relationships of friendship and love
+- **Perspective-taking**: Understanding others' viewpoints and experiences
+- **Shared valuing**: Developing shared understanding of what is valuable
 
 ## Embodiment Requirement
-- Embodied 'participatory sense-making' is constitutive of social cognition
-- Recognition of others as moral agents requires embodied interaction
-- Spontaneous recognition is inherent in embodied interaction
-- Disembodied interaction requires more mental effort to attribute moral agency
-- Technologically mediated virtue friendships require more discipline for diminished experience
 
-## Market Research Implications
-- Essential for client relationship management
-- Critical for understanding research participants' perspectives
-- Necessary for team collaboration and knowledge sharing
-- Fundamental to ethical research practices
-- Required for developing research community standards
+A critical insight from Ferdman's analysis is that social capacities have essential embodiment requirements:
+
+- **Embodied understanding**: Recognizing others as similar loci of embodied subjectivity through voice and gaze
+- **Participatory sense-making**: Constitutive of social cognition through embodied interaction
+- **Spontaneous recognition**: The spontaneity of recognizing others as moral agents is inherent in embodied interaction
+- **Diminished experience**: Disembodied interactions provide a "diminished experience" of relationships, requiring more discipline
+
+Without being embodied in social interaction—without the return of the gaze of the other—we would be hard-pressed to recognize others spontaneously as moral agents.
 
 ## Threats from AI
-- AI tools replacing in-person client consultations with chatbots
-- Reduced opportunities for embodied participant interactions
-- Disembodied research environments constituting narrow fields of affordances
-- Diminished opportunities for moral capacity development
-- Plan-following environments undermining shared valuing
+
+AI systems can undermine social capacities through:
+
+- **Disembodied interaction**: Reducing opportunities for physical presence and sensory experience
+- **Reduced embodied engagement**: Limiting opportunities for participatory sense-making
+- **Shallow relationships**: Encouraging interactions that lack depth and shared history
+- **Automation of social functions**: Replacing opportunities for developing moral reasoning with AI advisors
 
 ## Preservation Strategies
-- Design research methods preserving embodied client interactions
-- Create physical collaboration spaces for research teams
-- Balance digital tools with in-person team interactions
-- Implement structured opportunities for shared valuing
-- Evaluate AI research tools based on support for embodied interaction
 
-## Related Concepts
-- [[embodiment-in-skilling]]
-- [[intersubjectivity-in-skilling]]
-- [[human-capacities]]
-- [[capacity-conducive-environments]]
-- [[capacity-hostile-environments]]
+To preserve social capacities in AI-augmented environments:
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+1. **Design for embodied interaction**: Create opportunities for physical presence where it's critical for social capacity development
+2. **Support shared experiences**: Foster environments that enable shared valuing through common activities
+3. **Balance digital mediation**: Ensure AI tools enhance rather than replace embodied interaction
+4. **Create reflection points**: Build in opportunities for reflection on social interactions and moral reasoning
 
-## Update History
-2026-08-20: Expanded with detailed analysis of components, embodiment requirement, threats from AI, preservation strategies, and market research applications from Ferdman's research
+## Market Research Applications
+
+In market research contexts, preserving social capacities is critical for:
+
+- Conducting effective qualitative research that requires deep understanding of participants
+- Building strong client relationships based on trust and shared understanding
+- Developing researchers' ability to navigate ethical dilemmas in research
+- Preserving the embodied interaction necessary for nuanced interpretation of nonverbal cues
+
+## Update: 2026-08-25
+Expanded with detailed analysis of components, embodiment requirement, threats from AI, preservation strategies, and market research applications from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might undermine social capacities in research contexts and strategies for preserving them.

@@ -1,55 +1,53 @@
-# [[plan-forming-vs-plan-following]]
+# Plan-Forming vs Plan-Following
 
-## Definition
 The distinction between actively creating plans through self-deliberation (requiring agential control) versus executing pre-determined plans (more habitual), with critical implications for AI's impact on capacity development as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Plan-Forming
-- Involves self-deliberation on values and goals
-- Requires exercising theoretical and practical rationality
-- Includes the 'settling function' (deciding between options)
-- Includes the 'coordination function' (organizing different plans)
-- Requires agential control over initiating the planning activity
-- Involves taking responsibility for plan outcomes
-- Enables development of practical wisdom through experience
+## Characteristics of Plan-Forming
 
-## Plan-Following
-- Involves responding to triggers in the environment
-- More like a habit than a skill
-- Lacks control over initiating the planning activity
-- Removes the settling and coordination functions
-- Avoids responsibility for plan outcomes
-- Limits opportunities for practical wisdom development
+Plan-forming involves:
+
+- **Self-deliberation**: The agent initiates the planning process through their own reasoning
+- **Agential control**: Full control over both settling functions (deciding between options) and coordination functions (organizing different types of plans)
+- **Responsibility**: Taking ownership of the plan and its outcomes
+- **Adaptability**: Ability to reconsider and respond to novel situations and unexpected events
+- **Capacity development**: Requires and develops epistemic, social, creative, and volitional capacities
+
+## Characteristics of Plan-Following
+
+Plan-following involves:
+
+- **Environmental triggers**: Initiated by something in the environment (e.g., an AI recommendation)
+- **Limited control**: Responding to pre-determined plans rather than initiating them
+- **Reduced responsibility**: Ability to shift responsibility to the plan creator when things go wrong
+- **Less adaptability**: Following a predetermined path with less flexibility for novel situations
+- **Shallow skilling**: Requires a shallower exercise of human capacities
+
+## AI's Impact on Planning
+
+According to Ferdman, AI systems like Artificial Personal Assistants (APAs) risk shifting users from plan-forming to plan-following:
+
+- APAs provide constant recommendations for daily activities, life goals, and problem-solving
+- Users become accustomed to responding to AI outputs rather than initiating their own planning
+- This shift undermines the development of practical wisdom and other capacities necessary for effective planning
+- The convenience and constant availability of APAs may limit agents' ability to transition to independent planning
 
 ## Market Research Implications
-- AI tools that provide predetermined research plans encourage plan-following
-- Automated insight generation systems remove need for researcher plan-forming
-- Research platforms that schedule tasks intelligently reduce planning opportunities
-- Plan-following environments undermine development of research expertise
-- Preserving plan-forming opportunities is critical for researcher capacity development
 
-## AI's Impact
-- APAs afford replacement of planning activities that require human capacities
-- Over-reliance on APAs leads to reduced sense of personal competence
-- Constant APA availability discourages seeking new growth opportunities
-- Plan-following becomes acclimated through repeated APA use
-- Diminished opportunities for developing practical wisdom in research
+In market research contexts, the plan-forming vs plan-following distinction is critical for:
+
+- **Research design**: Developing research questions that require genuine inquiry rather than following AI templates
+- **Analysis**: Interpreting data with flexibility rather than applying rigid AI-generated frameworks
+- **Client interaction**: Adapting research approaches based on client feedback rather than following predetermined paths
+- **Ethical decision-making**: Navigating complex ethical dilemmas that require practical wisdom
 
 ## Mitigation Strategies
-- Design research tools that preserve opportunities for plan-forming
-- Create hybrid research workflows balancing AI assistance with human planning
-- Implement structured reflection on research values and goals
-- Evaluate AI research tools based on their support for agential control
-- Establish 'planning rituals' that maintain researcher plan-forming opportunities
 
-## Related Concepts
-- [[agential-control]]
-- [[plan-following]]
-- [[habituation-process]]
-- [[epistemic-capacities]]
-- [[capacity-hostile-environments]]
+To preserve plan-forming capacity in AI-augmented research:
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+1. **Design AI tools** that prompt researchers to initiate their own thinking before providing suggestions
+2. **Create workflows** that require researchers to articulate their own plans before consulting AI
+3. **Implement training** that emphasizes the value of self-deliberation in research
+4. **Evaluate AI adoption** based on whether it supports or undermines researchers' plan-forming capacity
 
-## Update History
-2026-08-20: Expanded with detailed analysis of characteristics, AI's impact, market research implications, and mitigation strategies from Ferdman's research
+## Update: 2026-08-25
+Expanded with detailed analysis of characteristics, AI's impact, market research implications, and mitigation strategies from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might encourage plan-following in research contexts and strategies for preserving plan-forming capacity.

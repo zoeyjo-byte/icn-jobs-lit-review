@@ -1,44 +1,43 @@
-# [[capacity-hostile-environments]]
+# Capacity-Hostile Environments
 
-## Definition
-Capacity-hostile environments restrict, limit, or create a narrow field of affordances for the development and exercise of human capacities. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]].
+Capacity-hostile environments are settings that restrict, limit, or create a narrow field of affordances for the development and exercise of human capacities. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
-## Key Characteristics
-- Provide limited action possibilities that constrain capacity development
-- Restrict opportunities for embodied interaction necessary for social and moral capacities
-- Discourage intersubjective learning and shared valuing of capacities
-- Encourage habitual action rather than skilled action requiring agential control
-- May lead to 'affordance shrinkage' - systematic, enduring reduction in action possibilities
+## Characteristics
 
-## Mechanisms of Capacity Deskilling
-1. **Automation bias**: Offloading tasks to AI systems deprives users of routine opportunities to practice judgment (e.g., automated insight generation in market research)
-2. **Reduced embodied interaction**: Digital mediation limits opportunities for embodied sense-making (e.g., replacing in-person client consultations with chatbots)
-3. **Shallow habituation**: Environments that don't support gradual, intersubjective skill development (e.g., AI tools providing predetermined analysis paths)
-4. **Responsibility displacement**: When AI-generated plans fail, users shift blame rather than learning from failure
+According to Ferdman's structural analysis, capacity-hostile environments exhibit these key characteristics:
 
-## Market Research Examples
-- AI tools that automatically generate survey questions without researcher input
-- Automated data analysis platforms providing insights without requiring interpretation
-- Research platforms limiting opportunities for embodied interaction with participants
-- AI-powered reporting systems that execute predetermined templates
+- **Narrow field of affordances**: They provide limited action possibilities that restrict opportunities for developing and exercising human capacities
+- **Automation bias**: They encourage offloading of tasks to AI systems, reducing opportunities for habituation
+- **Disembodiment**: They minimize or eliminate physical presence and sensory experience necessary for certain capacities
+- **Reduced intersubjectivity**: They limit opportunities for shared valuing and mentorship in skill development
+- **Plan-following orientation**: They encourage responding to environmental triggers rather than initiating activities with agential control
+
+## Examples from Research
+
+Ferdman identifies several concrete examples of capacity-hostile environments:
+
+1. **Healthcare AI systems** that automate diagnostic reasoning, leading to diminished clinical judgment, reduced retention of tacit knowledge, and weakened moral judgment among medical professionals
+
+2. **Smartphone interfaces** that fracture the user's affordance space into disconnected fields through swiping, clicking, and scrolling, ultimately leading to alienation rather than offering opportunities for mutually informing cognitive and bodily skills
+
+3. **Artificial Personal Assistants (APAs)** that replace the process of life-planning, encouraging users to become plan-followers rather than plan-formers, thereby undermining the development of epistemic, social, and volitional capacities
+
+## Market Research Applications
+
+In the market research context, capacity-hostile environments might manifest as:
+
+- AI tools that automate the entire research process from question formulation to insight generation, leaving researchers with only exception-handling tasks
+- Digital research platforms that eliminate face-to-face interaction, undermining the development of social capacities necessary for effective qualitative research
+- Automated analysis tools that replace the gradual process of developing analytical skills through practice and mentorship
 
 ## Mitigation Strategies
-- Design research tools preserving opportunities for agential control
-- Create hybrid research processes maintaining embodied interaction
-- Implement mentorship programs to preserve intersubjective learning
-- Evaluate AI tools based on conduciveness to capacity cultivation
-- Establish 'capacity impact assessments' for new AI implementations
 
-## Related Concepts
-- [[capacity-conducive-environments]]
-- [[narrow-field-of-affordances]]
-- [[agential-control]]
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[artificial-personal-assistants]]
+To counter capacity-hostile environments in market research:
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
+1. **Design AI tools with capacity cultivation in mind**, ensuring they provide opportunities for researchers to develop agential control
+2. **Preserve embodied interaction** in research methods where it's critical for capacity development
+3. **Create structured mentorship programs** that maintain intersubjective habituation even when using AI tools
+4. **Evaluate AI adoption** using frameworks that consider capacity impact alongside efficiency metrics
 
-## Update History
-2026-08-20: Expanded with detailed analysis of mechanisms, examples, mitigation strategies, and AI tool evaluation criteria from Ferdman's research, including specific market research applications
+## Update: 2026-08-25
+Expanded with detailed analysis of mechanisms, examples, and mitigation strategies from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific market research applications and AI tool evaluation criteria. Incorporated the concept of "narrow field of affordances" and its relationship to cumulative automation effects across multiple human spheres.
