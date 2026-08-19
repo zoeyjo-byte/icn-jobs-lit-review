@@ -1,51 +1,49 @@
-# Creative Capacities
+# [[creative-capacities]]
 
-Creative capacities are the human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are essential for human flourishing and have specific connections to planning that make them vulnerable to AI-mediated environments.
+## 2026-08-26 Update
 
-## Characteristics
+The human capacities related to generating novel ideas, making unfamiliar combinations of familiar concepts, and transforming conceptual spaces, which enable innovation and adaptation in research and analysis, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-According to Ferdman's analysis, creative capacities include:
+### Characteristics
+- Involves making unfamiliar combinations of familiar ideas
+- Transforms conceptual spaces without relying merely on luck or mechanical procedures
+- Requires the ability to reconsider and respond to novel situations and unexpected events
+- Develops through a process of habituation involving trial and error
+- Depends on agential control to initiate and adjust creative processes
 
-- **Novel combination**: Making unfamiliar combinations of familiar ideas
-- **Conceptual transformation**: Transforming conceptual spaces without relying merely on luck, accidents, or mechanical procedures
-- **Adaptive innovation**: Generating solutions to novel problems through creative recombination
-- **Imaginative exploration**: Exploring possibilities beyond immediate practical constraints
+### Connection to Planning
+Creative capacities are essential for effective planning:
+- Planning is always incomplete and requires creative adaptation
+- Executing plans requires ability to respond to novel situations and surprises
+- Creative transformation of conceptual spaces enables innovative problem-solving
+- Without creativity, planning becomes rigid and unable to handle unexpected events
 
-## Connection to Planning
+### Threats from AI in Market Research
+Ferdman identifies specific AI-related threats:
+- **Template-based workflows**: Systems that limit opportunities for novel idea generation
+- **Automated insight generation**: Tools that provide ready-made interpretations without requiring creative analysis
+- **Predictive analytics**: Platforms that reduce need for creative problem-solving through unexpected data patterns
+- **Standardized reporting**: Formats that constrain creative presentation of insights
 
-A critical insight from Ferdman's analysis is the connection between creative capacities and planning:
+### Market Research Examples
+- AI-powered reporting tools that generate standardized insights without requiring creative interpretation
+- Template-based survey design systems that limit opportunities for innovative question formulation
+- Predictive analytics platforms that provide expected outcomes without requiring researchers to consider alternative explanations
+- Automated data visualization tools that produce conventional charts without encouraging creative representation
 
-- **Incomplete planning**: Planning is always incomplete, requiring creativity to respond to novel situations and unexpected events
-- **Surprise response**: Creativity is necessary for reconsidering and responding to surprises that arise during plan execution
-- **Goal transformation**: Creative capacities enable transforming goals themselves when circumstances change
-- **Conceptual reframing**: Allows for reframing problems when initial approaches prove inadequate
+### Preservation Strategies
+- Design AI tools that preserve spaces for creative interpretation
+- Create workflows requiring researchers to generate novel insights before seeing AI analysis
+- Implement training programs emphasizing creative problem-solving
+- Develop organizational practices that reward innovative approaches
+- Balance efficiency gains with opportunities for conceptual transformation
 
-## Threats from AI
+### Connection to Capacity Development
+Creative capacities develop through:
+- Gradual habituation involving inculcation through continued attunement
+- Opportunities to encounter and overcome disappointment and failure
+- Embodied, intersubjective learning environments
+- Agential control over initiating creative processes
+- Shared valuing of creative expression through mentorship
 
-AI systems can undermine creative capacities through:
-
-- **Template-based solutions**: Encouraging reliance on pre-existing patterns rather than novel combinations
-- **Reduced surprise exposure**: Minimizing opportunities to encounter and respond to unexpected events
-- **Automation of creative tasks**: Replacing opportunities for creative problem-solving with AI-generated solutions
-- **Narrowed conceptual space**: Limiting exposure to diverse perspectives necessary for creative recombination
-
-## Preservation Strategies
-
-To preserve creative capacities in AI-augmented environments:
-
-1. **Design for creative friction**: Create opportunities for encountering and responding to unexpected challenges
-2. **Support conceptual exploration**: Encourage exploration beyond immediate practical constraints
-3. **Balance AI assistance**: Use AI for information processing while preserving opportunities for creative synthesis
-4. **Foster diverse perspectives**: Ensure exposure to diverse viewpoints necessary for creative recombination
-
-## Market Research Applications
-
-In market research contexts, preserving creative capacities is critical for:
-
-- Developing innovative research methodologies that address novel business challenges
-- Interpreting ambiguous data through creative insight rather than template-based analysis
-- Adapting research approaches in response to unexpected findings or changing client needs
-- Generating novel insights that transform clients' conceptual understanding of their markets
-
-## Update: 2026-08-25
-Expanded with detailed analysis of characteristics, connection to planning, threats from AI, preservation strategies, and market research applications from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might undermine creative capacities in research contexts and strategies for preserving them.
+Ferdman argues that preserving creative capacities in market research requires structural solutions maintaining opportunities for researchers to engage in the full creative process. Organizations must balance AI efficiency with the need for spaces where researchers can make unfamiliar combinations of familiar concepts. The value of market research insights depends not just on accurate data but on the creative capacity exercise that transforms data into meaningful understanding. Capacity-conducive research environments intentionally preserve opportunities for creative transformation, recognizing that innovation in research methodology and insight generation is essential for staying relevant in a changing marketplace.

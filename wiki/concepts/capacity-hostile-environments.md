@@ -1,43 +1,35 @@
-# Capacity-Hostile Environments
+# [[capacity-hostile-environments]]
 
-Capacity-hostile environments are settings that restrict, limit, or create a narrow field of affordances for the development and exercise of human capacities. As established in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
+## 2026-08-26 Update
 
-## Characteristics
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
-According to Ferdman's structural analysis, capacity-hostile environments exhibit these key characteristics:
+### Characteristics
+- Provide limited action possibilities that systematically restrict capacity development
+- Encourage plan-following behavior rather than plan-forming
+- Reduce opportunities for embodied interaction essential for social capacity development
+- Create dependency on external systems for decision-making
+- Undermine the habituation process by replacing practice with automation
 
-- **Narrow field of affordances**: They provide limited action possibilities that restrict opportunities for developing and exercising human capacities
-- **Automation bias**: They encourage offloading of tasks to AI systems, reducing opportunities for habituation
-- **Disembodiment**: They minimize or eliminate physical presence and sensory experience necessary for certain capacities
-- **Reduced intersubjectivity**: They limit opportunities for shared valuing and mentorship in skill development
-- **Plan-following orientation**: They encourage responding to environmental triggers rather than initiating activities with agential control
+### Mechanisms in Market Research
+Ferdman identifies several mechanisms through which AI creates capacity-hostile environments in professional contexts:
+- **Automation bias**: AI tools in market research (e.g., automated survey analysis) encourage users to attribute excessive trust to algorithmic outputs over human judgment
+- **Affordance shrinkage**: Digital research platforms that replace face-to-face interaction with disembodied communication narrow opportunities for developing moral and social capacities
+- **Shallow skilling**: AI-powered reporting tools that generate insights without requiring researchers to engage in the full analytical process
+- **Responsibility displacement**: When AI-generated research recommendations fail, users can shift responsibility to the system rather than engaging in self-critique and improvement
 
-## Examples from Research
+### Examples
+- **Automated survey analysis tools** that provide instant insights without requiring researchers to engage with raw data
+- **AI-powered respondent matching systems** that eliminate the need for researchers to develop nuanced understanding of participant demographics
+- **Chatbot interview assistants** that reduce opportunities for developing active listening and rapport-building skills
+- **Predictive analytics platforms** that discourage researchers from developing practical rationality through trial and error
 
-Ferdman identifies several concrete examples of capacity-hostile environments:
+### Mitigation Strategies
+- Design AI tools with "training wheels" that gradually reduce assistance as user competence grows
+- Implement mandatory human review stages for AI-generated insights
+- Create hybrid research methods that preserve embodied interaction opportunities
+- Develop organizational practices that encourage plan-forming rather than plan-following
+- Conduct regular "capacity audits" of AI tools to assess their impact on human development
 
-1. **Healthcare AI systems** that automate diagnostic reasoning, leading to diminished clinical judgment, reduced retention of tacit knowledge, and weakened moral judgment among medical professionals
-
-2. **Smartphone interfaces** that fracture the user's affordance space into disconnected fields through swiping, clicking, and scrolling, ultimately leading to alienation rather than offering opportunities for mutually informing cognitive and bodily skills
-
-3. **Artificial Personal Assistants (APAs)** that replace the process of life-planning, encouraging users to become plan-followers rather than plan-formers, thereby undermining the development of epistemic, social, and volitional capacities
-
-## Market Research Applications
-
-In the market research context, capacity-hostile environments might manifest as:
-
-- AI tools that automate the entire research process from question formulation to insight generation, leaving researchers with only exception-handling tasks
-- Digital research platforms that eliminate face-to-face interaction, undermining the development of social capacities necessary for effective qualitative research
-- Automated analysis tools that replace the gradual process of developing analytical skills through practice and mentorship
-
-## Mitigation Strategies
-
-To counter capacity-hostile environments in market research:
-
-1. **Design AI tools with capacity cultivation in mind**, ensuring they provide opportunities for researchers to develop agential control
-2. **Preserve embodied interaction** in research methods where it's critical for capacity development
-3. **Create structured mentorship programs** that maintain intersubjective habituation even when using AI tools
-4. **Evaluate AI adoption** using frameworks that consider capacity impact alongside efficiency metrics
-
-## Update: 2026-08-25
-Expanded with detailed analysis of mechanisms, examples, and mitigation strategies from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific market research applications and AI tool evaluation criteria. Incorporated the concept of "narrow field of affordances" and its relationship to cumulative automation effects across multiple human spheres.
+### Connection to Market Research
+In market research, capacity-hostile environments threaten the industry's ability to produce genuinely human-centered insights. When researchers lose opportunities to develop practical rationality through direct engagement with data and respondents, the quality of insights diminishes despite apparent efficiency gains. The structural approach emphasizes that addressing this requires organizational and industry-wide solutions rather than individual adaptation.

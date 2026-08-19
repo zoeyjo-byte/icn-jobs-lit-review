@@ -1,24 +1,55 @@
-## Update (2026-08-20)
+# [[epistemic-skills]]
 
-Expanded with detailed analysis from [[ferdman-2026-ai-deskilling-structural-problem]]:
+## 2026-08-26 Update
 
-Epistemic skills encompass theoretical rationality (thinking, considering reasons to believe, forming beliefs, contemplating) and practical rationality (phronesis or wisdom) - doing the right thing in the right way for the right reason.
+Human-intensive skills related to knowledge acquisition, critical thinking, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), as expanded in [[ferdman-2026-ai-deskilling-structural-problem]]. These skills are increasingly important in AI-exposed roles as AI systems automate routine analytical tasks.
 
-Ferdman's analysis adds:
-- Epistemic capacities are essential for life-planning, which involves self-deliberation on values and goals
-- Practical wisdom requires real-world experience and cannot be fully outsourced to AI
-- Constantly turning to AI for advice restricts real-world experience and undermines opportunities to develop practical wisdom
-- Epistemic skills require agential control - the ability to adjust thinking as understanding develops
+### Components
+1. **Theoretical rationality**:
+   - Critical evaluation of evidence and sources
+   - Forming and testing hypotheses
+   - Distinguishing truth from falsehood
+   - Analytical reasoning and logical deduction
 
-Threats from AI in market research:
-- Over-reliance on AI for data analysis may erode researchers' ability to exercise theoretical rationality
-- AI-generated insights may reduce opportunities for researchers to develop practical wisdom in interpreting data
-- Automated reporting tools may encourage "plan-following" rather than critical evaluation of research findings
-- AI tools that provide instant answers reduce opportunities for learning through trial and error
+2. **Practical rationality (phronesis)**:
+   - Doing the right thing in the right way for the right reason
+   - Effective means to ends with accurate situational understanding
+   - Discernment: correct understanding of how good and bad apply in circumstances
+   - Wisdom in complex decision-making and research design
 
-Preservation strategies:
-- Maintain human review of AI-generated insights
-- Encourage researchers to articulate their own interpretations before consulting AI
-- Design research workflows that preserve opportunities for epistemic skill development
-- Create opportunities for researchers to learn from mistakes in interpretation
-- Structure research teams to include diverse perspectives that challenge assumptions
+### Development Process
+Epistemic skills develop through:
+- Gradual habituation involving inculcation through continued attunement
+- Embodied, intersubjective learning environments
+- Opportunities to exercise agential control over knowledge formation
+- Encountering and overcoming disappointment and failure
+- Shared valuing through mentorship and community
+
+### AI Threats in Market Research
+Ferdman identifies specific AI-related threats:
+- **Automated insight generation**: Tools that provide ready-made interpretations reduce opportunities to develop practical rationality
+- **Algorithmic data processing**: Systems that obscure the reasoning process behind insights
+- **Template-based analysis**: Workflows that limit opportunities for novel analytical approaches
+- **Over-reliance on AI recommendations**: Reducing opportunities to exercise theoretical rationality
+
+### Market Research Examples
+- Junior researchers using AI-powered survey analysis without developing manual interpretation skills
+- Automated reporting tools that generate insights without requiring researchers to engage in the full analytical process
+- Predictive analytics platforms that provide conclusions without showing the reasoning pathway
+- AI respondent matching that eliminates the need to develop nuanced understanding of demographic patterns
+
+### Preservation Strategies
+- Implement "progressive disclosure" of AI tools, starting with manual methods
+- Create opportunities for researchers to develop insights before seeing AI-generated analysis
+- Design workflows requiring researchers to explain their reasoning before accepting AI recommendations
+- Preserve spaces for critical evaluation of AI-generated insights
+- Develop mentorship programs focused on practical rationality development
+
+### Connection to Capacity Development
+Epistemic skills are particularly vulnerable to AI-induced deskilling because:
+- They require direct engagement with data and evidence
+- Practical rationality (phronesis) develops through trial and error
+- Theoretical rationality requires opportunities to form and test beliefs
+- AI tools that provide instant answers undermine the habituation process
+
+Ferdman's framework emphasizes that preserving epistemic skills in market research requires structural solutions maintaining opportunities for researchers to engage directly with data, develop their own interpretations, and learn from mistakes. Organizations must balance efficiency gains from AI with the need to preserve spaces for epistemic skill development, recognizing that the value of research insights comes not just from the outputs but from the competent epistemic skill exercise that produces them. Capacity-conducive research environments intentionally preserve opportunities for researchers to exercise theoretical and practical rationality, ensuring the industry maintains its ability to deliver genuinely human-centered insights.

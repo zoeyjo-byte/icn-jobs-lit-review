@@ -1,45 +1,42 @@
 # [[intersubjectivity-in-skilling]]
 
-## Definition
+## 2026-08-26 Update
+
 The shared understanding dimension of skill development, where learning occurs through relationships with others who guide and share the value of the skill. Becoming skilled typically requires a mentor to instill not only mechanical aspects but also the value of the skill, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-## Key Characteristics
+### Characteristics
 - Requires mentorship for proper motivational structure development
 - Involves shared intentions between mentor and mentee
-- Creates 'shared valuing' of both the skill and its products
-- Develops through creating shared history and participatory sense-making
-- Occurs at both individual (mentor-mentee) and societal scales
+- Creates "shared valuing" of the skill where the mentee comes to view the skill's value as their own
+- Operates on both individual (mentor-mentee) and societal scales
+- Essential for developing the "why" behind skills, not just the "how"
 
-## Societal Dimension
+### Societal Dimension
+Intersubjectivity in skilling extends beyond individual mentorship:
 - Social practices performed by groups provide mentoring environments
-- Family, colleagues, and citizens collectively generate moral reasons for action
-- Social practices have constitutive aims that help people fare well
-- Learning occurs through 'practices of common life' as noted by MacIntyre
-- Shared valuing of capacities develops through societal engagement
+- Family, colleagues, and citizens collectively shape skill valuing
+- Societal norms generate moral reasons for action through constitutive aims
+- Shared valuing of capacities emerges from common life practices
 
-## Threats from AI
-- AI tools replace human mentors with non-human agents
-- Reduced opportunities for shared valuing of research capacities
-- Diminished embodied interaction limits participatory sense-making
-- Plan-following environments undermine development of shared understanding
-- AI mediation creates distance from the 'telos' or constitutive aim of research practices
+### Threats from AI in Market Research
+Ferdman identifies several AI-related threats to intersubjective skilling:
+- **Disembodied interaction**: Remote research methods that replace face-to-face engagement with algorithmic matching
+- **Automated guidance**: AI tools that provide technical instruction without conveying the value of research capacities
+- **Reduced mentorship opportunities**: Workflow fragmentation that limits meaningful interaction between senior and junior researchers
+- **Value misalignment**: AI systems that prioritize efficiency over the deeper values of research excellence
 
-## Market Research Preservation Strategies
-- Design research teams with structured mentorship opportunities
-- Create collaborative environments for shared insight development
-- Preserve opportunities for embodied team interactions
-- Evaluate AI tools based on their support for intersubjective learning
-- Implement 'shared valuing' rituals around research excellence
+### Market Research Examples
+- Junior researchers learning survey design primarily through AI templates rather than through dialogue with experienced researchers
+- Automated analysis tools that provide technical guidance without explaining why certain analytical approaches are valuable
+- Remote research platforms that reduce opportunities for shared learning experiences during fieldwork
+- AI-powered reporting systems that generate insights without requiring researchers to engage in the shared valuing of research quality
 
-## Related Concepts
-- [[habituation-process]]
-- [[embodiment-in-skilling]]
-- [[capacity-conducive-environments]]
-- [[agential-control]]
-- [[human-capacities]]
+### Preservation Strategies
+- Design hybrid workflows that preserve opportunities for mentor-mentee interaction
+- Create spaces for shared reflection on research values and quality
+- Implement co-analysis sessions where senior and junior researchers discuss AI-generated insights
+- Develop organizational practices that emphasize the "why" behind research decisions
+- Foster community spaces for researchers to share methodological challenges and solutions
 
-## Sources
-- [[ferdman-2026-ai-deskilling-structural-problem]]
-
-## Update History
-2026-08-20: Expanded with detailed analysis of characteristics, societal dimension, threats from AI, preservation strategies, and market research applications from Ferdman's research
+### Connection to Capacity Development
+Intersubjectivity is essential for developing the shared valuing of research capacities. Without opportunities to learn from others who embody research excellence, market researchers cannot develop a deep understanding of why certain capacities matter. Ferdman argues that preserving intersubjective skilling requires structural solutions at the organizational level, particularly in designing AI systems that support rather than replace the relational aspects of research work. In market research specifically, this means creating environments where the value of human capacities remains visible and shared, even as AI tools automate technical aspects of the work.

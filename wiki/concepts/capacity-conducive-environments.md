@@ -1,46 +1,41 @@
-# Capacity-Conducive Environments
+# [[capacity-conducive-environments]]
 
-Capacity-conducive environments are settings that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities.
+## 2026-08-26 Update
 
-## Characteristics
+Environments that actively encourage the development and exercise of human capacities through rich opportunities for embodied interaction and shared valuing, providing alternatives to capacity-hostile conditions. These environments afford structured and unstructured embodied interactions necessary for intersubjective habituation of capacities, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-According to Ferdman's structural analysis, capacity-conducive environments exhibit these key characteristics:
+### Characteristics
+- Provide diverse action possibilities that encourage capacity development
+- Support both plan-forming and plan-following activities
+- Facilitate embodied interaction essential for social capacity development
+- Create opportunities for shared valuing of capacities through mentorship
+- Encourage the habituation process through graduated challenges
 
-- **Rich affordance space**: They provide diverse action possibilities that trigger multiple human capacities simultaneously
-- **Embodied interaction**: They facilitate physical presence and sensory experience critical for social and moral capacities
-- **Intersubjective habituation**: They support mentorship relationships and shared valuing of capacities
-- **Agential control**: They encourage initiating activities rather than merely responding to environmental triggers
-- **Plan-forming opportunities**: They provide space for self-deliberation and creating plans rather than just following pre-determined ones
+### Key Components
+1. **Embodied engagement**: Physical presence and sensory experience in skill development
+2. **Intersubjective learning**: Shared understanding dimension where capacities are cultivated through relationships
+3. **Agential control**: Opportunities to initiate and adjust activities rather than merely respond to triggers
+4. **Gradual habituation**: Structured progression from novice to expert with appropriate challenges
 
-## Examples from Research
+### Implementation in Market Research
+Ferdman's framework suggests several approaches for creating capacity-conducive environments in market research:
+- **Hybrid research methods**: Combining AI-powered data collection with human-led interpretation sessions
+- **Mentorship structures**: Formalizing knowledge transfer between senior and junior researchers through co-analysis of AI-generated insights
+- **Deliberate skill-building**: Creating opportunities for junior researchers to engage in full research cycles rather than specialized AI-assisted tasks
+- **Embodied interaction**: Preserving face-to-face client consultations and respondent interactions even when AI could automate them
 
-Ferdman identifies several concrete examples of capacity-conducive environments:
+### Examples
+- Research firms implementing "AI shadowing" where junior analysts first develop insights manually before comparing with AI outputs
+- Organizations creating community spaces for researchers to share methodological challenges and solutions
+- Training programs that begin with manual data analysis before introducing AI tools
+- Client workshops where researchers must defend their interpretations without relying solely on AI-generated reports
 
-1. **Community centers and public spaces** that encourage structured and unstructured embodied interactions
+### Evaluation Framework
+Ferdman proposes evaluating environments based on:
+- The extent to which they afford opportunities for agential control
+- The quality of embodied interaction they enable
+- The richness of intersubjective learning opportunities
+- The presence of graduated challenges supporting habituation
 
-2. **Public libraries** that afford opportunities for reading while also facilitating social interaction
-
-3. **Mentorship relationships** where a skilled agent guides a novice through the habituation process, instilling both mechanical aspects and the value of the skill
-
-4. **Social practices** performed by groups or whole societies that generate moral reasons for action and provide mentoring environments
-
-## Market Research Applications
-
-In the market research context, capacity-conducive environments might include:
-
-- Research workflows that intentionally preserve opportunities for embodied interaction with participants, even when using AI tools for analysis
-- Training programs that pair junior researchers with experienced mentors in real-world research settings
-- Research methodologies that require researchers to develop agential control over the entire research process, from question formulation to insight generation
-- Team structures that encourage shared valuing of research capacities through collaborative work
-
-## Implementation Strategies
-
-To create capacity-conducive environments in market research:
-
-1. **Design research workflows** that maintain embodied interaction where it's critical for capacity development
-2. **Implement structured mentorship** that preserves intersubjective habituation even when using AI tools
-3. **Create public goods** like research communities and shared spaces that encourage embodied interaction
-4. **Evaluate AI tools** not just for efficiency but for their ability to support capacity development
-
-## Update: 2026-08-25
-Expanded with detailed analysis of characteristics, examples, and implementation strategies from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific market research applications and organizational design principles. Incorporated the concept of intersubjective habituation and its critical role in developing shared valuing of research capacities.
+### Market Research Applications
+Capacity-conducive environments in market research preserve the industry's ability to deliver uniquely human insights. By maintaining opportunities for researchers to develop practical rationality through direct engagement with complex data and human respondents, organizations ensure their insights retain depth and contextual understanding that purely AI-generated analysis cannot replicate. The structural approach emphasizes that creating these environments requires intentional organizational design rather than accidental outcomes.

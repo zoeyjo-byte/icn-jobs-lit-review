@@ -1,42 +1,41 @@
 # [[ai-society]]
 
-## Publication Details
-- **Full Name**: AI & Society: Knowledge, Culture and Communication
-- **Publisher**: Springer
-- **Focus**: Social, ethical, and philosophical implications of artificial intelligence and digital technologies
-- **Relevance**: Key venue for critical reflection on AI's societal impacts
+## 2026-08-26 Update
 
-## Role in AI Ethics Research
-AI & Society serves as an important academic forum for examining the broader implications of AI beyond technical capabilities. The journal publishes interdisciplinary research that bridges philosophy, social sciences, and technology studies, providing critical perspectives on AI's impact on human capacities and flourishing.
+Academic journal published by Springer focusing on the social, ethical, and philosophical implications of artificial intelligence and digital technologies, where [[ferdman-2026-ai-deskilling-structural-problem]] was published. Provides a venue for critical reflection on AI's societal impacts.
 
-## Relevance to Market Research
-The journal's focus on human-AI interaction, ethical considerations, and societal impacts provides valuable frameworks for market researchers to:
-- Evaluate AI tools through ethical and human flourishing lenses
-- Understand how AI systems impact human capacities in research contexts
-- Develop frameworks for assessing the societal implications of AI-driven insights
-- Consider the structural dimensions of AI adoption beyond individual productivity
-- Design research methodologies that preserve human capacities
+### Relevance to Market Research
+The journal's focus on AI's societal implications has growing relevance for market research:
+- Publishes research on AI's impact on human capacities essential for quality research
+- Features analyses of structural issues in AI adoption relevant to research methodology
+- Provides philosophical frameworks for evaluating AI tools in research contexts
+- Offers critical perspectives on AI ethics applicable to research participant interactions
 
-## Key Contributions
-- Publishes research on AI deskilling and capacity development (e.g., [[ferdman-2026-ai-deskilling-structural-problem]])
-- Features interdisciplinary perspectives on AI ethics
-- Provides philosophical frameworks for evaluating AI systems
-- Examines the societal implications of AI adoption across sectors
-- Offers critical analysis of AI's impact on human capacities and flourishing
+### Key Contributions
+- Publishes interdisciplinary research bridging philosophy, social science, and technology studies
+- Features analyses of AI's impact on human flourishing and capacity development
+- Provides venues for structural critiques of AI systems beyond individual responsibility frameworks
+- Publishes research on embodiment, intersubjectivity, and other concepts critical to human-centered research
 
-## Usage in Research Contexts
-Market researchers can leverage AI & Society publications to:
-- Develop evaluation criteria for AI research tools based on capacity cultivation
-- Understand the structural dimensions of AI adoption in research organizations
-- Design research methodologies that preserve human capacities
-- Create frameworks for ethical AI implementation in insights generation
-- Evaluate AI tools based on their conduciveness to capacity development
+### Usage in Research Contexts
+Market researchers can leverage AI & Society for:
+- Evaluating AI tools through capacity cultivation frameworks
+- Understanding structural dimensions of AI adoption beyond efficiency metrics
+- Developing ethical guidelines for AI-assisted research
+- Informing organizational practices that balance AI adoption with human capacity development
 
-## Related Concepts
-- [[ai-deskilling-structural-problem]]
-- [[capacity-hostile-environments]]
-- [[developmental-perfectionism]]
-- [[human-capacities]]
+### Connection to Market Research
+The journal's focus on AI's societal implications directly addresses critical issues for market research:
+- How AI tools impact researchers' capacity development
+- Structural conditions affecting research quality in AI-assisted environments
+- Ethical considerations for AI-mediated researcher-participant interactions
+- Philosophical frameworks for evaluating AI's impact on research excellence
 
-## Update History
-2026-08-20: Expanded with detailed analysis of relevance to market research, usage in research contexts, and contributions to AI evaluation frameworks
+### Contributions to AI Evaluation Frameworks
+AI & Society provides valuable frameworks for market research organizations:
+- Capacity-hostile vs. capacity-conducive environment analysis
+- Plan-forming vs. plan-following evaluation criteria
+- Structural deskilling assessment tools
+- Developmental Perfectionism-based evaluation of AI tools
+
+Organizations should consider these frameworks when implementing AI systems to ensure they support rather than undermine the human capacities essential for producing high-quality, human-centered research insights. The journal represents an important resource for market research professionals seeking to navigate the complex ethical and practical dimensions of AI adoption in their field.

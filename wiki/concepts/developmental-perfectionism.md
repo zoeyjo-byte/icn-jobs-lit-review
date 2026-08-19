@@ -1,43 +1,50 @@
-# Developmental Perfectionism
+# [[developmental-perfectionism]]
 
-Developmental Perfectionism is a neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], this framework explains why impoverished capacities lead to impoverished lives.
+## 2026-08-26 Update
 
-## Principles
+Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-According to Ferdman's analysis, Developmental Perfectionism is based on these key principles:
+### Core Principles
+- Human flourishing is achieved through the competent exercise of human capacities
+- Capacities are intrinsically valuable as manifestations of intrinsically valuable goods
+- Flourishing involves a complex, unified, and well-rounded life (Hurka 1993)
+- The value of outcomes is gained from competent capacity exercise, not merely from outcomes themselves
+- Capacity impoverishment leads to impoverished lives
 
-- **Complex unity**: Human flourishing is a complex, unified, and well-rounded life rather than the maximization of isolated goods
-- **Intrinsic value**: Certain activities have intrinsic value because they manifest the competent exercise of human capacities
-- **Capacity constitutivity**: Human capacities are constitutive of flourishing; impoverished capacities lead to impoverished lives
-- **Developmental process**: Flourishing involves a developmental process of cultivating capacities through habituation
-- **Shared valuing**: The process of capacity development involves shared understanding of the value of the capacities
+### Connection to Human Capacities
+Developmental Perfectionism identifies four core human capacities:
+1. **Epistemic capacities**: Theoretical and practical rationality (phronesis)
+2. **Social capacities**: Moral capacity and relational capacity for meaningful relationships
+3. **Creative capacities**: Generating novel ideas and transforming conceptual spaces
+4. **Volitional capacity**: Meta-capacity for exerting effort and overcoming difficulty
 
-## Connection to Human Capacities
+### Why Deskilling is Harmful
+From a Developmental Perfectionism perspective:
+- Capacity-deskilling diminishes us as humans by undermining our flourishing
+- Impoverished capacities lead to impoverished lives
+- Deskilling is bad because capacities are constitutive of human flourishing
+- The value of being on the summit of Mt. Everest is gained from the competent exercise of capacities involved in climbing it, not from simply being there
 
-Developmental Perfectionism provides the foundation for understanding why the four core human capacities are essential:
+### Market Research Implications
+Ferdman applies Developmental Perfectionism to market research:
+- AI tools that undermine capacity development threaten researchers' ability to achieve professional flourishing
+- The competent exercise of research capacities (not just research outputs) constitutes professional flourishing
+- Capacity-hostile research environments create impoverished professional lives
+- Organizations have a responsibility to design workflows that support capacity development
 
-- **Epistemic capacities**: Enable knowledge acquisition and practical wisdom necessary for navigating truth
-- **Social capacities**: Enable forming meaningful relationships and participating in communal life
-- **Creative capacities**: Enable generating novel ideas and transforming conceptual spaces
-- **Volitional capacity**: Enables exerting effort, overcoming difficulty, and persevering to achieve intrinsically valuable goals
+### Evaluation Framework
+Developmental Perfectionism provides criteria for evaluating AI tools in market research:
+- Do they preserve opportunities for competent capacity exercise?
+- Do they support the development of practical rationality in research design?
+- Do they maintain spaces for meaningful professional relationships?
+- Do they encourage the volitional capacity necessary for professional growth?
 
-## Market Research Implications
+### Preservation Strategies
+- Design AI tools that require researchers to exercise practical rationality
+- Create workflows that preserve opportunities for meaningful professional relationships
+- Implement training programs that emphasize the intrinsic value of research capacities
+- Develop organizational practices that recognize capacity development as part of professional flourishing
+- Balance efficiency gains with opportunities for competent capacity exercise
 
-In market research contexts, Developmental Perfectionism provides:
-
-- **Evaluation framework**: A basis for evaluating AI tools not just for efficiency but for their impact on researchers' capacity development
-- **Research design guidance**: Principles for designing research methods that support rather than undermine capacity development
-- **Ethical considerations**: A framework for understanding why certain AI impacts on capacity development are normatively problematic
-- **Long-term perspective**: Emphasis on the developmental process rather than short-term productivity gains
-
-## AI Evaluation Criteria
-
-Using Developmental Perfectionism, market research organizations can evaluate AI tools based on:
-
-1. **Capacity impact**: Does the tool support or undermine the development of epistemic, social, creative, and volitional capacities?
-2. **Habituation preservation**: Does the tool maintain opportunities for the gradual habituation process necessary for skill development?
-3. **Agential control**: Does the tool support researchers' ability to initiate activities with self-deliberation?
-4. **Embodied interaction**: Does the tool preserve opportunities for embodied interaction where it's critical for capacity development?
-
-## Update: 2026-08-25
-Expanded with detailed analysis of principles, capacity connections, market research implications, and AI evaluation criteria from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how Developmental Perfectionism can guide AI adoption decisions in research organizations.
+### Connection to Structural Deskilling
+Developmental Perfectionism explains why AI-induced deskilling is problematic at a fundamental level. When AI systems create capacity-hostile environments in market research, they undermine researchers' ability to achieve professional flourishing through the competent exercise of their capacities. Ferdman argues that addressing this requires structural solutions that reshape research environments to be capacity-conducive rather than expecting individual researchers to overcome environmental limitations.

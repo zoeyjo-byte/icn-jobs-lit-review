@@ -1,59 +1,55 @@
-# Epistemic Capacities
+# [[epistemic-capacities]]
 
-Epistemic capacities are the human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], these capacities are constitutive of human flourishing and can be undermined by AI systems.
+## 2026-08-26 Update
 
-## Components
+The human capacities related to knowledge, reasoning, and understanding, including theoretical rationality and practical rationality (phronesis), which are essential for navigating truth and making informed decisions, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]].
 
-According to Ferdman's analysis, epistemic capacities include:
+### Components
+1. **Theoretical rationality**:
+   - Thinking, considering reasons to believe
+   - Forming beliefs, contemplating
+   - Critical evaluation of evidence
+   - Distinguishing truth from falsehood
 
-### Theoretical Rationality
+2. **Practical rationality (phronesis)**:
+   - Doing the right thing in the right way for the right reason
+   - Effective means to ends with accurate situational understanding
+   - Discernment: correct understanding of how good and bad apply in circumstances
+   - Wisdom in complex decision-making
 
-- **Thinking and contemplation**: The ability to consider reasons to believe and form beliefs
-- **Critical evaluation**: Assessing evidence and arguments for validity and relevance
-- **Conceptual understanding**: Developing deep comprehension of complex ideas
+### Development Process
+Epistemic capacities develop through:
+- Gradual habituation involving inculcation through continued attunement
+- Embodied, intersubjective learning environments
+- Opportunities to exercise agential control over knowledge formation
+- Encountering and overcoming disappointment and failure
+- Shared valuing through mentorship
 
-### Practical Rationality (Phronesis)
+### Threats from AI in Market Research
+Ferdman identifies specific AI-related threats:
+- **Automated insight generation**: Tools that provide ready-made interpretations reduce opportunities to develop practical rationality
+- **Algorithmic data processing**: Systems that obscure the reasoning process behind insights
+- **Template-based analysis**: Workflows that limit opportunities for novel analytical approaches
+- **Over-reliance on AI recommendations**: Reducing opportunities to exercise theoretical rationality
 
-- **Practical wisdom**: Doing the right thing in the right way for the right reason
-- **Situational judgment**: Accurate understanding of one's situation and circumstances
-- **Discernment**: Correct understanding of how the good and the bad apply in particular circumstances
-- **Effective means selection**: Knowing the effective means to one's ends
+### Market Research Examples
+- Junior researchers using AI-powered survey analysis without developing manual interpretation skills
+- Automated reporting tools that generate insights without requiring researchers to engage in the full analytical process
+- Predictive analytics platforms that provide conclusions without showing the reasoning pathway
+- AI respondent matching that eliminates the need to develop nuanced understanding of demographic patterns
 
-## Importance for Flourishing
+### Preservation Strategies
+- Implement "progressive disclosure" of AI tools, starting with manual methods
+- Create opportunities for researchers to develop insights before seeing AI-generated analysis
+- Design workflows requiring researchers to explain their reasoning before accepting AI recommendations
+- Preserve spaces for critical evaluation of AI-generated insights
+- Develop mentorship programs focused on practical rationality development
 
-Epistemic capacities are essential for human flourishing because:
+### Connection to Capacity Development
+Epistemic capacities are particularly vulnerable to AI-induced deskilling because:
+- They require direct engagement with data and evidence
+- Practical rationality (phronesis) develops through trial and error
+- Theoretical rationality requires opportunities to form and test beliefs
+- AI tools that provide instant answers undermine the habituation process
 
-- They enable navigating truth and making informed decisions
-- Practical wisdom is necessary for critically reflecting on conceptions of a flourishing life
-- They support setting appropriate goals and striving to accomplish them in the right way
-- They are required for developing other capacities, as capacity development involves reasoning
-
-## Threats from AI
-
-AI systems can undermine epistemic capacities through:
-
-- **Automation of reasoning**: Replacing opportunities for self-deliberation with AI-generated conclusions
-- **Reduced critical thinking**: Encouraging trust in AI outputs without sufficient evaluation
-- **Shallow engagement**: Providing quick answers that discourage deep contemplation
-- **Erosion of practical wisdom**: Limiting opportunities to develop situational judgment through real-world experience
-
-## Preservation Strategies
-
-To preserve epistemic capacities in AI-augmented environments:
-
-1. **Design for critical engagement**: Create AI tools that prompt users to evaluate and refine AI outputs
-2. **Maintain reasoning opportunities**: Ensure users still engage in meaningful reasoning processes
-3. **Support practical wisdom development**: Create opportunities for real-world experience and reflection
-4. **Balance automation**: Use AI for information processing while preserving opportunities for judgment
-
-## Market Research Applications
-
-In market research contexts, preserving epistemic capacities is critical for:
-
-- Developing researchers' ability to design effective research questions
-- Building capacity for nuanced interpretation of qualitative data
-- Cultivating practical wisdom for ethical decision-making
-- Developing the ability to critically evaluate research findings and their implications
-
-## Update: 2026-08-25
-Expanded with detailed analysis of components, importance, threats from AI, preservation strategies, and market research applications from [[ferdman-2026-ai-deskilling-structural-problem]]. Added specific examples of how AI tools might undermine epistemic capacities in research contexts and strategies for preserving them.
+Ferdman argues that preserving epistemic capacities in market research requires structural solutions that maintain opportunities for researchers to engage directly with data, develop their own interpretations, and learn from mistakes. Organizations must balance efficiency gains from AI with the need to preserve spaces for epistemic capacity development, recognizing that the value of research insights comes not just from the outputs but from the competent epistemic capacity exercise that produces them.
