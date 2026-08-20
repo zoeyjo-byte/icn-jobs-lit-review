@@ -1,43 +1,44 @@
 # [[agential-control]]
 
-## 2026-08-26 Update
+## Update 2026-08-26
 
 The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
 ### Characteristics
-- Involves flexible links between thought and action that continue to evolve even after expertise is achieved
-- Enables adjustment of execution as performance unfolds
-- Requires control over initiating the activity rather than merely responding to environmental triggers
-- Develops through a process of tuning and attuning as agency develops
+
+- **Initiation Control**: Skilled agents have full control over initiating activities, while habitual activities respond to environmental triggers
+- **Adjustment Capability**: Ability to modify performance in response to unfolding circumstances
+- **Self-Deliberation**: Involves active consideration of options rather than automatic response
+- **Responsibility Taking**: When plans fail, skilled agents take responsibility and learn, rather than shifting blame
+- **Future Orientation**: Connects present actions to future goals through intentional planning
 
 ### Contrast with Habitual Action
-| **Agential Control** | **Habitual Action** |
-|----------------------|---------------------|
-| Initiated by the agent | Triggered by environment |
-| Flexible adjustment possible | Fixed response pattern |
-| Requires conscious initiation | Automatic response |
-| Enables learning from failure | Limited learning opportunities |
-| Supports capacity development | Encourages shallow skilling |
 
-### Threats from AI in Market Research
-Ferdman identifies several ways AI systems undermine agential control in professional contexts:
-- **Automated insight generation**: Tools that provide ready-made interpretations reduce researchers' opportunities to initiate analytical processes
-- **Prescriptive research platforms**: Systems that dictate research methodology without allowing researcher adaptation
-- **AI-driven respondent selection**: Algorithms that automatically match respondents without researcher input
-- **Template-based reporting**: Systems that generate standardized reports without requiring researchers to formulate unique insights
+| Feature | Agential Control | Habitual Action |
+|---------|-----------------|----------------|
+| Initiation | Agent-controlled | Environment-triggered |
+| Adjustment | Flexible modification | Rigid execution |
+| Responsibility | Takes ownership of outcomes | Shifts blame for failures |
+| Learning | Self-critical improvement | Limited growth |
+| Future Orientation | Active planning | Reactive response |
 
 ### Market Research Implications
-When market researchers lose agential control over the research process:
-- They develop reduced practical rationality (phronesis) in research design
-- Their ability to handle unexpected research challenges diminishes
-- Critical evaluation of AI-generated insights becomes more difficult
-- The habituation process for research skills is disrupted
 
-### Preservation Strategies
-- Design AI tools with "initiation points" where researchers must consciously begin analytical processes
-- Implement mandatory reflection stages before accepting AI recommendations
-- Create workflows that require researchers to formulate hypotheses before seeing AI analysis
-- Develop training programs emphasizing the "why" behind research decisions, not just the "how"
+1. **Research Design**: AI tools that preserve researchers' ability to initiate and adjust research approaches support agential control, while those that generate complete research plans encourage plan-following
 
-### Connection to Capacity Development
-Agential control is foundational to the habituation process. Without opportunities to initiate and adjust research activities, market researchers cannot develop the deep expertise needed to handle novel research challenges. Ferdman argues that preserving agential control requires structural solutions at the organizational level, not just individual adaptation strategies. In market research specifically, this means designing AI systems that support rather than replace the researcher's role as the primary decision-maker in the research process.
+2. **Client Relationships**: Researchers maintaining agential control can better adapt to client needs in real-time, creating more valuable insights than those following rigid AI-generated protocols
+
+3. **Team Development**: Junior researchers develop faster in environments where they exercise agential control over research decisions rather than following AI recommendations
+
+4. **Innovation Capacity**: Market research organizations preserving agential control among staff are better positioned to develop novel methodologies in response to changing market conditions
+
+### AI Tool Evaluation Criteria
+
+When assessing research technology, organizations should consider:
+
+- Does the tool require researchers to initiate the research process, or does it present pre-formed recommendations?
+- Can researchers adjust the AI's suggestions based on unfolding research findings?
+- When research approaches fail, does the tool support learning or encourage blame-shifting?
+- Does the tool preserve opportunities for researchers to develop practical wisdom through experience?
+
+As Ferdman argues, AI systems that encourage plan-following rather than plan-forming create capacity-hostile environments that undermine researchers' ability to exercise agential control—the very foundation of skilled research practice.

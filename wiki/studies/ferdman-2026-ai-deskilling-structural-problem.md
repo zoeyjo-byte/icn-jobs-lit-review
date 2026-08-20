@@ -1,33 +1,45 @@
 # [[ferdman-2026-ai-deskilling-structural-problem]]
 
-## 2026-08-26 Update
+## Update 2026-08-26
 
-Avigail Ferdman's groundbreaking paper in [[ai-society]] presents a structural analysis of how AI systems undermine human capacities through systemic environmental conditions rather than individual failings. Published in AI & SOCIETY (2026) 41:3001–3013, this research introduces the critical distinction between [[capacity-hostile-environments]] and [[capacity-conducive-environments]], analyzing how AI mediation creates conditions that restrict human capacity development.
-
-### Methodology
-Ferdman employs a philosophical framework drawing on the philosophy of skill, social epistemology, and neo-Aristotelian ethics. The analysis constructs a capacity-skill framework where human capacities (epistemic, social, creative, and volitional) are treated as skills requiring specific developmental conditions. The research examines how AI systems, particularly [[artificial-personal-assistants]], alter the affordance landscape of human activity.
+Avigail Ferdman's groundbreaking paper in [[ai-society]] presents a structural analysis of how AI systems undermine human capacities through systemic environmental conditions rather than individual failings. The research introduces the critical distinction between [[capacity-hostile-environments]] and [[capacity-conducive-environments]], demonstrating how AI mediation creates conditions that impede human capacity cultivation.
 
 ### Key Findings
-1. **Structural nature of deskilling**: Capacity-deskilling is not merely an individual responsibility issue but a structural problem requiring societal solutions. AI systems create environments that systematically restrict opportunities for capacity cultivation.
 
-2. **Agential control distinction**: Skills require control over initiating activities, while habits respond to environmental triggers. AI systems often convert plan-forming (requiring [[agential-control]]) into plan-following, undermining capacity development.
+- **Structural Perspective**: Deskilling should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue. The paper argues that framing deskilling as a matter of individual willpower overlooks how AI creates systemic conditions that inhibit capacity development.
 
-3. **Habituation process**: Capacity development requires a gradual process of [[habituation-process]] involving embodied, intersubjective learning. AI mediation disrupts this process by replacing human interaction with algorithmic guidance.
+- **Capacity-Hostile Environments**: Ferdman identifies environments that restrict, limit, or create a [[narrow-field-of-affordances]] for capacity development. These environments afford opportunities for shallow skilling while restricting fuller development of capacities. Examples include AI systems that automate routine tasks, leading to "cognitive musculature" atrophy (Lee et al. 2025).
 
-4. **APA impact**: Artificial Personal Assistants create capacity-hostile environments by encouraging users to become plan-followers rather than plan-formers, particularly in life-planning activities. Heavy APA users show reduced development of [[practical-rationality]] and [[moral-capacity]].
+- **Agential Control**: The paper establishes that being skilled requires [[agential-control]]—the ability to adjust execution as performance unfolds. Skills differ from habits in that they require control over initiating the task, whereas habits respond to environmental triggers. AI systems often encourage plan-following rather than plan-forming.
+
+- **Habituation Process**: Capacity development occurs through a gradual [[habituation-process]] involving inculcation through continued attunement to individual cases. This process cannot be learned through testimony alone but requires practice, encountering and overcoming disappointment and failure.
+
+- **Intersubjective Dimension**: Skill development has a critical [[intersubjectivity-in-skilling]] component. Becoming skilled typically requires a mentor who instills not only mechanical aspects but also the value of the skill. Social practices performed by groups provide essential mentoring environments.
+
+- **Embodiment Requirement**: The paper emphasizes [[embodiment-in-skilling]] as essential for developing social and moral capacities. Embodied interaction is critical for recognizing others as moral agents and forming meaningful relationships. Disembodied environments make capacity development significantly harder.
 
 ### Market Research Implications
-The paper has profound implications for market research:
-- AI tools that automate data interpretation may undermine researchers' [[epistemic-capacities]] by reducing opportunities for developing practical rationality (phronesis)
-- Remote research methods that lack embodied interaction threaten the development of [[social-capacities]] essential for understanding human behavior
-- Automated reporting systems may create a [[narrow-field-of-affordances]] for junior researchers, limiting their habituation process in research design
-- The paper recommends evaluating AI tools using a "capacity cultivation" framework rather than purely efficiency metrics
 
-### Preservation Strategies
-Ferdman proposes structural solutions including:
-- Designing AI systems that preserve opportunities for [[embodiment-in-skilling]]
-- Creating hybrid workflows that maintain intersubjective mentorship
-- Developing organizational practices that encourage plan-forming rather than plan-following
-- Implementing "capacity audits" for AI tools to assess their impact on human development
+The research has profound implications for market research:
 
-*Source: Ferdman, A. (2026). AI deskilling is a structural problem. AI & SOCIETY, 41, 3001–3013. https://doi.org/10.1007/s00146-025-02686-z*
+- **Researcher Deskilling**: AI tools that automate data analysis may create capacity-hostile environments where researchers lose critical thinking skills needed for unexpected scenarios or system malfunctions.
+
+- **Client Interactions**: Disembodied research methods (e.g., purely digital surveys) may create narrow fields of affordances that limit researchers' ability to develop social capacities necessary for deep client relationships.
+
+- **Methodology Design**: Research methodologies should be evaluated based on their conduciveness to capacity cultivation. Tools that encourage plan-forming rather than plan-following better support researcher development.
+
+- **AI Implementation Framework**: Organizations should assess AI tools using Ferdman's framework across three axes: field of affordances, level of embodied user engagement, and level of intersubjectivity.
+
+### Evaluation Framework for Market Research AI Tools
+
+Ferdman's work provides criteria for evaluating whether AI tools create capacity-conducive or capacity-hostile environments:
+
+1. **Does the tool encourage rather than merely afford embodied interaction?** Tools that facilitate face-to-face client interactions while augmenting (not replacing) human judgment are preferable.
+
+2. **Does the tool support intersubjective habituation?** Tools that preserve opportunities for mentorship and shared valuing of research skills are better than those that isolate researchers.
+
+3. **Does the tool maintain opportunities for agential control?** Tools that require researchers to initiate and adjust analyses (rather than simply following AI-generated recommendations) better support capacity development.
+
+4. **Does the tool preserve the habituation process?** Tools that allow researchers to encounter and overcome challenges in analysis (rather than providing complete automated solutions) better support skill development.
+
+This research fundamentally shifts the conversation about AI in market research from pure efficiency gains to the preservation of human capacities essential for high-quality insights.
