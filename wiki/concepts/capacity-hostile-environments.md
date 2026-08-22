@@ -1,13 +1,57 @@
-## Update: 2026-09-15
+# Capacity-Hostile Environments
 
-The [[ferdman-2026-ai-deskilling-structural-problem]] paper provides concrete examples of capacity-hostile environments created by AI systems:
+## Definition
+Environments that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities, as analyzed in [[ferdman-2026-ai-deskilling-structural-problem]]. These environments afford opportunities for shallow skilling while restricting fuller development of capacities, with significant implications for AI's impact on human flourishing.
 
-1. **Healthcare AI systems**: These afford the possibility of offloading tasks to machines, leading to automation bias where users attribute excessive trust to AI tools. This risks the loss of critical skills necessary for unexpected scenarios like system malfunctions (Natali et al. 2025).
+## Characteristics
 
-2. **Smartphones**: These provide disconnected interaction possibilities (swiping, clicking, scrolling) that fracture the user's affordance space into disconnected fields, leading to alienation rather than offering opportunities for mutually informing cognitive and bodily skills (Butler 2024).
+### Narrow Field of Affordances
+Capacity-hostile environments provide limited action possibilities that systematically reduce opportunities for developing human capacities. As Ferdman explains, these environments:
+- Restrict the range of activities that trigger capacity development
+- Create conditions where "persons are discouraged from finding ways to compensate for the shrinkage"
+- Often result from cumulative automation across multiple human spheres
 
-3. **Artificial Personal Assistants (APAs)**: When users become overly dependent on APAs for life-planning and organization, these tools can create environments that encourage plan-following rather than plan-forming, undermining the development of [[epistemic-capacities]], [[social-capacities]], and [[volitional-capacity]].
+### Encouraging Plan-Following
+These environments frequently promote habitual responses to environmental triggers rather than agential control. Ferdman notes: "When much of the planning process is offloaded to the APA, it arguably requires a shallower exercise of the capacities that are ordinarily involved in making coherent plans."
 
-The paper introduces the concept of "affordance shrinkage" - when the reduction in action possibilities is systematic, enduring and deeply entrenched, discouraging users from finding ways to compensate for the shrinkage. This is particularly problematic in disembodied environments where cultivating social and moral capacities requires more effort for diminished achievement.
+### Disembodiment
+Many capacity-hostile environments lack sufficient embodied interaction, making it "harder to form meaningful friendship because technologically mediated virtue friendships require more discipline for a diminished experience" (Grasso 2025).
 
-As noted in the paper, capacity-hostile environments not only restrict opportunities for capacity development but also undermine the process of learning to value capacities, as this learning is a result of an ongoing, gradual process of habituation that users haven't gone through when capacities are shallowly developed. This creates a vicious cycle where shallowly developed capacities cannot be valued, further entrenching shallow development.
+## AI-Specific Mechanisms
+
+### Automation of Routine Tasks
+As Bainbridge noted in "Ironies of Automation" (1983), automating routine tasks deprives users of "the routine opportunities to practice their judgment and strengthen their cognitive musculature, leaving them atrophied and unprepared when the exceptions do arise" (Lee et al. 2025).
+
+### Narrowing of Decision-Making Opportunities
+AI systems like Artificial Personal Assistants (APAs) reduce opportunities for small-scale decision-making that over time build broader life-planning capacities. Users become acclimated to "merely responding to triggers in the environment" rather than exercising agential control.
+
+### Responsibility Shifting
+When AI systems make plans that fail, users can "more readily shift the responsibility to the APA, forgoing the opportunity for self-growth."
+
+## Market Research Implications
+
+### Deskilling of Critical Analysis
+AI tools that automate data analysis may create capacity-hostile environments for developing critical thinking skills among junior researchers. Without opportunities to practice interpreting raw data, researchers may become unprepared for unexpected analytical challenges.
+
+### Erosion of Embodied Research Skills
+Remote research methods powered by AI may diminish opportunities for embodied interaction essential to qualitative research. As Ferdman notes, "without being embodied in a social interaction... we would be hard-pressed to recognize [others] spontaneously as moral agents."
+
+### Threat to Intersubjective Learning
+Traditional mentorship in research relies on intersubjective habituation where "the mentor instills not only the mechanical aspects of the skill, but, as importantly, the value of the skill." AI-mediated research workflows may undermine this shared valuing process.
+
+## Mitigation Strategies
+
+### Design for Agential Control
+Research tools should preserve opportunities for researchers to initiate and adjust analytical processes rather than merely respond to AI suggestions.
+
+### Maintain Embodied Interaction Points
+Ensure research workflows include meaningful opportunities for face-to-face collaboration, particularly in complex or ambiguous research situations.
+
+### Create Reflection Opportunities
+Build in structured moments for researchers to evaluate AI outputs and articulate their own reasoning, preserving the habituation process.
+
+## Related Concepts
+See also: [[narrow-field-of-affordances]], [[plan-following]], [[embodiment-in-skilling]], [[habituation-process]], and [[ai-deskilling-structural-problem]]
+
+## Update
+2026-09-20: Expanded with detailed analysis from Ferdman's structural perspective on capacity development, including specific market research applications and AI tool evaluation criteria. Added concrete examples of capacity-hostile conditions in research workflows and practical mitigation strategies.

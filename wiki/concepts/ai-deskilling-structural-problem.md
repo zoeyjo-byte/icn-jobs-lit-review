@@ -1,50 +1,93 @@
-# [[ai-deskilling-structural-problem]]
+# AI Deskilling as a Structural Problem
 
-## 2026-08-26 Update
-
+## Definition
 The phenomenon where AI systems undermine human capacities through systemic conditions that create environments hostile to capacity cultivation, as established in [[ferdman-2026-ai-deskilling-structural-problem]]. This should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue.
 
-### Core Argument
+## Core Argument
 Ferdman challenges the individual responsibility framing of AI-induced deskilling, arguing that:
-- Capacity cultivation depends on environmental conditions, not just individual will
-- AI systems create structural conditions that restrict opportunities for capacity development
-- Deskilling occurs through systemic environmental factors rather than individual failings
-- Solutions must address the structural conditions, not just individual adaptation
+- Deskilling results from systemic environmental conditions rather than individual failings
+- The problem lies in "how AI's influence creates systemic conditions that could inhibit the development and exercise of human capacities"
+- Solutions must address the structural dimensions of the problem rather than expecting individuals to "be virtuous superheroes"
 
-### Key Mechanisms
-1. **Narrow field of affordances**: AI systems reduce action possibilities for capacity development
-2. **Automation bias**: Users attribute excessive trust to AI outputs over human judgment
-3. **Plan-following encouragement**: Systems convert plan-forming into plan-following behavior
-4. **Disembodied interaction**: Digital environments that replace embodied engagement
-5. **Responsibility displacement**: Users shift accountability for failures to AI systems
+## Capacity Impoverishment Framework
 
-### Market Research Applications
-In market research, the structural deskilling problem manifests through:
-- AI tools that automate data interpretation, reducing opportunities to develop practical rationality
-- Remote research methods that eliminate embodied interaction essential for social capacity development
-- Automated reporting systems that create a narrow field of affordances for junior researchers
-- Algorithmic respondent matching that reduces opportunities to develop nuanced demographic understanding
+### Core Human Capacities
+Ferdman identifies four interrelated capacities essential to human flourishing:
+- **Epistemic capacities**: Theoretical rationality (thinking, forming beliefs) and practical rationality/phronesis (doing the right thing for the right reason)
+- **Social capacities**: Moral capacity and capacities for meaningful relationships
+- **Creative capacity**: Generating novel ideas and transforming conceptual spaces
+- **Volitional capacity**: Exerting effort, overcoming difficulty, and persevering to achieve intrinsically valuable goals
 
-### Evidence from Research
-Ferdman cites evidence that:
-- Heavy APA users show reduced development of practical rationality
-- Disembodied interaction requires more mental effort for moral attribution
-- Automation of routine tasks deprives users of "cognitive musculature" development
-- Plan-following behavior undermines the habituation process necessary for skill development
+### Capacity-Skilling Process
+Becoming capacity-skilled requires:
+- **Agential control**: Ability to adjust execution as performance unfolds
+- **Habituation**: Gradual process of becoming skilled through practice
+- **Intersubjectivity**: Learning from others who guide and share the value of the skill
+- **Embodiment**: Physical presence and sensory experience in skill development
 
-### Structural Solutions
-Rather than expecting individuals to be "virtuous superheroes," Ferdman proposes:
-- Designing AI systems that preserve opportunities for agential control
-- Creating hybrid workflows that maintain intersubjective mentorship
-- Developing organizational practices that encourage plan-forming
-- Implementing "capacity audits" for AI tools
-- Fostering environments that afford embodied interaction
+## Structural Dimensions of Deskilling
 
-### Connection to Market Research
-The structural deskilling problem has profound implications for market research:
-- Threatens the industry's ability to produce genuinely human-centered insights
-- Undermines the development of junior researchers through reduced habituation opportunities
-- Creates capacity-hostile environments that devalue the "arts of personhood"
-- Requires industry-wide solutions rather than individual adaptation strategies
+### Capacity-Hostile Environments
+AI creates environments that:
+- Restrict, limit, or create a narrow field of affordances for capacity development
+- Encourage plan-following rather than plan-forming
+- Reduce opportunities for embodied interaction
+- Undermine intersubjective valuing of capacities
 
-Ferdman's framework provides a critical lens for evaluating AI adoption in market research, emphasizing that efficiency gains must be balanced against potential capacity deskilling effects. Organizations must intentionally design AI systems that support rather than undermine the development of human capacities essential for quality research.
+### Affordance Shrinkage
+Ferdman identifies "affordance shrinkage" as a key mechanism:
+- Systematic, enduring reduction in action possibilities
+- Deeply entrenched limitations on capacity development
+- Cumulative effect across multiple human spheres
+
+### Automation Ironies
+Drawing on Bainbridge's "Ironies of Automation" (1983), Ferdman explains how AI automation:
+- Deprives users of routine opportunities to practice judgment
+- Weakens "cognitive musculature" needed for exceptional circumstances
+- Creates dependency that undermines capacity development
+
+## Market Research Applications
+
+### Value Chain Shift
+AI deskilling manifests in the [[value-chain-shift]] as research organizations reposition where value is created:
+- Traditional research execution skills become automated
+- New capacities for AI orchestration emerge
+- Risk of capacity impoverishment in foundational research skills
+
+### Entry-Level Squeeze
+The [[entry-level-squeeze]] intensifies as AI automates foundational research tasks:
+- Junior researchers miss opportunities for habituation through practice
+- Reduced embodied interaction limits social capacity development
+- Plan-following behaviors replace plan-forming research design
+
+### Methodological Implications
+Research organizations must address:
+- How AI tools impact capacity development across career stages
+- Whether research workflows preserve opportunities for agential control
+- How to maintain intersubjective learning in AI-mediated environments
+
+## Solutions Framework
+
+### Structural Interventions
+Rather than individual responsibility approaches, solutions should include:
+- Redesigning AI tools to preserve capacity development opportunities
+- Creating organizational structures that support embodied interaction
+- Developing evaluation frameworks for AI's impact on human capacities
+
+### Capacity-Conducive Design
+Research organizations should:
+- Ensure AI tools encourage rather than merely afford valuable activities
+- Maintain public goods that support embodied interaction
+- Preserve opportunities for volitional capacity development
+
+### Societal Obligation
+Ferdman concludes with a call for "societal obligation to foster capacity-conducive environments in the age of AI," recognizing that:
+- "We cannot expect agents to be what Mitcham (2024) calls 'virtuous superheroes'"
+- Structural solutions are needed to address systemic capacity threats
+- Evaluation of AI must consider "conduciveness or hostility to capacity cultivation"
+
+## Related Concepts
+See also: [[capacity-hostile-environments]], [[capacity-conducive-environments]], [[agential-control]], [[habituation-process]], and [[developmental-perfectionism]]
+
+## Update
+2026-09-20: Expanded with detailed analysis of mechanisms, examples, implications, and market research applications from Ferdman's research. Added concrete examples of structural deskilling in research workflows and specific organizational interventions.
