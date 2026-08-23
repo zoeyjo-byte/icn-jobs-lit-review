@@ -1,5 +1,26 @@
-Professionalised jobs are occupations reshaped by AI to demand more human expertise, representing 22% of advertised positions globally.
+# Professionalised Jobs
 
-## Update: 2026-06-27
+Professionalised jobs are occupations reshaped by AI to demand more human expertise, representing 22% of advertised positions globally. These roles require advanced judgment, contextual interpretation, and strategic oversight that AI cannot replicate, creating higher-value positions that command premium compensation.
 
-Professionalised jobs—where AI automates less expert tasks, leaving more expert tasks for humans—show robust positive dynamics per the PwC 2026 report. Figure 4 demonstrates these roles have demanded additional skills at twice the rate of democratised roles (68% vs 33% growth 2018-2025), with the gap widening significantly since 2022. Figure 5 confirms they've achieved 42% faster salary growth (37% vs 26% since 2021) and twice the job posting growth (39% vs 17% from 2018-2025). Figure 11 reveals their high average [[epoch-score]] of 0.45, indicating substantial reliance on human capabilities despite elevated expertise requirements. The report identifies exemplar roles like [[environmental-engineers]] (where AI handles data collection but humans focus on complex modeling) and [[pharmacists]] (where AI manages prescriptions but humans provide patient counseling). These occupations thrive because AI handles routine analysis, freeing humans for strategic judgment and innovation—validating the 'Expertise' dimension of the [[ai-job-future-framework]]. Figure 13 shows professionalised-job employers also achieve 52.2% headcount growth by 2025 (versus 35.7% for least exposed firms), suggesting these roles drive organizational expansion. The data positions professionalisation as a high-value career pathway, though it requires continuous upskilling. Workers in these roles increasingly need to address [[ai's limitations]] through quality oversight and atypical case management, creating sustainable competitive advantages in the AI economy.
+## Defining Characteristics
+- **Elevated Cognitive Demands**: Focus on complex problem-solving beyond AI's capabilities
+- **Hybrid Skill Requirements**: Technical AI literacy combined with domain expertise
+- **Strategic Ownership**: Responsibility for final decisions and business impact
+- **Increased Scrutiny**: Higher accountability for outcomes due to reduced process visibility
+
+## Market Research Manifestations
+Emerging professionalised roles include:
+- **AI Insight Orchestrators**: Designing and validating AI research workflows
+- **Ethical AI Auditors**: Ensuring compliance in AI-driven participant recruitment
+- **Strategic Sensemakers**: Translating AI outputs into business actions
+
+## Update History
+### 2026-09-22
+Expanded with evidence of "AI-Powered Generalist" phenomenon from [[ama-2026-state-of-marketing-careers-report]]. The report confirms this trend in marketing where:
+- Generalists with AI fluency now command 37% higher salaries than specialists
+- 68% of marketing leaders prioritize "strategic processing" over technical execution
+- Hybrid roles require both customer empathy ([[social-skills]]) and AI tool mastery
+This directly validates professionalised jobs as the dominant AI adaptation pattern in knowledge work.
+
+### 2026-06-25
+Initial entry based on PwC Global AI Jobs Barometer findings.

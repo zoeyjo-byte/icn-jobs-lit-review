@@ -6,7 +6,7 @@ Source files processed from `raw/`:
 |------|------|--------|
 | — | 2026-global-ai-jobs-barometer-full-report.figures.md | Processed |
 | — | 2026-global-ai-jobs-barometer-full-report.txt | Processed |
-| — | Download the 2026 AMA State of Marketing Careers Report.figures.md | Pending |
+| — | Download the 2026 AMA State of Marketing Careers Report.figures.md | Processed |
 | — | Download the 2026 AMA State of Marketing Careers Report.txt | Pending |
 | — | Optimistic, but Not Yet Ready_ What Our Latest MRII Study Reveals about the Future of Insights — Greenbook.figures.md | Processed |
 | — | Optimistic, but Not Yet Ready_ What Our Latest MRII Study Reveals about the Future of Insights — Greenbook.txt | Processed |
