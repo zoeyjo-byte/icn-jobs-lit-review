@@ -1,18 +1,44 @@
-## Update: 2026-09-15
+# Ferdman (2026): AI Deskilling is a Structural Problem
 
-This study was published in [[ai-society]] (2026) 41:3001-3013 with DOI: https://doi.org/10.1007/s00146-025-02686-z. It was received on June 24, 2025, accepted on October 6, 2025, and published online on November 5, 2025.
+**Published in:** AI & SOCIETY (2026) 41:3001–3013  
+**DOI:** https://doi.org/10.1007/s00146-025-02686-z  
+**Author:** Avigail Ferdman (Technion – Israel Institute of Technology)
 
-The paper introduces the concept of "capacity-hostile environments" to identify instances where AI mediation impedes human capacity cultivation. It argues that AI's influence creates systemic conditions that inhibit the development and exercise of human capacities by undermining the process of capacity cultivation.
+## Methodology
 
-Key methodological approaches in the paper include:
-- Drawing on philosophy of skill to construct a framework for understanding human capacities as skills
-- Applying a structural lens to distinguish between environments conducive or hostile to capacity cultivation
-- Using [[artificial-personal-assistants]] as a case study to examine AI's impact on capacity development
+This philosophical analysis draws on the philosophy of skill and social epistemology to develop a structural perspective on AI-induced deskilling. Ferdman examines how AI systems create environments that undermine human capacity cultivation, moving beyond individual responsibility frameworks to identify systemic conditions that impede the development and exercise of core human capacities.
 
-The paper makes several important contributions to understanding AI's impact on human capacities:
-1. It moves beyond individual responsibility, demonstrating how AI creates systemic conditions that inhibit capacity development
-2. It introduces the critical distinction between [[capacity-hostile-environments]] and [[capacity-conducive-environments]]
-3. It analyzes the role of [[agential-control]] and [[habituation-process]] in capacity development
-4. It examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging [[plan-following]] rather than [[plan-forming]]
+## Key Findings
 
-The paper concludes with a call for evaluating AI applications based on their conduciveness to capacity cultivation and emphasizes the societal obligation to foster capacity-conducive environments in the age of AI.
+### Capacity-Hostile Environments
+Ferdman introduces the concept of "capacity-hostile environments" to identify instances where AI mediation impedes human capacity cultivation. These environments restrict, limit, or create a narrow field of affordances for capacity development and exercise, affording opportunities for shallow skilling while restricting fuller development.
+
+### Structural Nature of Deskilling
+The paper argues that deskilling should be understood as a structural problem requiring societal solutions, not merely an individual responsibility issue. Rather than focusing only on how human agents ought to engage with AI tools, we should ask what kind of socio-technical environments would be best for the cultivation of our personhood.
+
+### Capacity-Skilling Framework
+Ferdman develops a framework for understanding human capacities as skills, emphasizing two key properties:
+- **Agential control**: The ability to adjust the execution of an action as the performance unfolds
+- **Habituation**: The gradual process of becoming skilled through practice, involving inculcation through continued attunement to demands of individual cases
+
+### Artificial Personal Assistants Analysis
+The paper applies this framework to artificial personal assistants (APAs), showing how they can create capacity-hostile environments by:
+- Encouraging plan-following rather than plan-forming
+- Narrowing the field of affordances for capacity development
+- Reducing opportunities for embodied, intersubjective habituation
+- Undermining the development of practical wisdom through offloading life-planning
+
+## Market Research Implications
+
+This research has significant implications for market research:
+- AI tools used in research processes may create capacity-hostile environments for researchers
+- The deskilling of epistemic, social, creative, and volitional capacities could undermine research quality
+- Research organizations need to evaluate AI tools based on their conduciveness to capacity cultivation
+- Methodologies should incorporate structural considerations of how AI affects researcher capacities
+
+## Connection to Other Research
+
+This work complements the [[ama-2026-state-of-marketing-careers-report]] which documents parallel deskilling dynamics in marketing, particularly in the section "Will AI Make Us Dumb?" The structural perspective provides a theoretical foundation for understanding the skills gap emerging in AI-adopting organizations.
+
+## Update Log
+2026-09-25: Initial creation from Ferdman (2026) source material

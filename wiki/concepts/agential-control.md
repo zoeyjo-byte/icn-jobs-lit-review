@@ -1,11 +1,57 @@
-## Update: 2026-09-15
+# Agential Control
 
-[[ferdman-2026-ai-deskilling-structural-problem]] provides a clear distinction between skills requiring agential control and habitual actions:
+**First Observed:** 2026-07-03  
+**Last Updated:** 2026-09-25
 
-"To be skilled in something is to have agential control over it, the ability to adjust the execution of the action as the performance unfolds... Skills are therefore distinct from habits in an important respect: skills require control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers."
+## Definition
 
-The paper explains that as agency develops, "the balance between automaticity and control shifts through a process of tuning and attuning." This means that even after expertise is achieved, the flexible links between thought and action continue to evolve.
+The ability to adjust the execution of an action as the performance unfolds, a key component of being skilled that distinguishes skills from habits, as detailed in [[ferdman-2026-ai-deskilling-structural-problem]]. Skills require control over initiating the task, whereas habits are merely triggered by environmental cues.
 
-Ferdman uses this distinction to analyze how AI systems can undermine capacity development. When users respond to AI outputs as environmental triggers rather than initiating activities themselves, they engage in habitual rather than skilled behavior. For example, when users follow plans created by [[artificial-personal-assistants]] rather than forming their own plans through self-deliberation, they are operating in habit mode rather than skill mode.
+## Characteristics
 
-This has significant implications for market research: when researchers rely on AI tools to generate research questions, analyze data, or interpret findings without exercising agential control over these processes, they risk developing shallow expertise that cannot be adapted to novel research challenges. True research expertise requires the ability to initiate and adjust research approaches based on the specific context and unexpected findings.
+Ferdman (2026) elaborates on the nature of agential control:
+
+- **Initiation**: Skilled agents have full control over initiating activities, while habitual activities are triggered by something in the environment
+- **Adjustment**: The ability to modify execution as performance unfolds
+- **Balance**: As agency develops, "the balance between automaticity and control shifts through a process of tuning and attuning"
+- **Flexible links**: Development of "flexible links between thought and action, such that continue to evolve even after expertise has been achieved"
+
+## Contrast with Habitual Action
+
+The paper makes a crucial distinction between skills and habits:
+
+> "Skills are therefore distinct from habits in an important respect: skills require control over initiating the task, whereas mere habits do not: they are elicited in response to environmental triggers. A habitual activity is an activity that is triggered by something in the environment, where the agent performs the activity in response to the trigger. A skilled activity is one where the agent has full control over initiating the activity."
+
+This distinction is critical for understanding how AI can undermine capacity development by encouraging habitual responses rather than skilled action.
+
+## Market Research Implications
+
+In market research contexts, agential control is essential for:
+
+- Designing research methodologies that respond to specific client needs
+- Interpreting ambiguous qualitative data
+- Making judgment calls when unexpected issues arise during fieldwork
+- Adapting research approaches based on emerging findings
+
+AI tools that automate research processes without preserving opportunities for researcher initiation and adjustment threaten these critical capacities.
+
+## AI Tool Design Considerations
+
+Ferdman's analysis suggests specific design principles for AI tools in market research:
+
+1. **Preserve initiation points**: Ensure researchers maintain control over starting key research activities
+2. **Support adjustment**: Design tools that facilitate researcher modification of AI-generated outputs
+3. **Avoid complete automation**: Maintain human oversight at critical decision points
+4. **Provide transparency**: Enable researchers to understand how AI reached conclusions to support adjustment
+
+## Connection to Related Concepts
+
+- [[plan-forming-vs-plan-following]]: Agential control is essential for plan-forming rather than plan-following
+- [[habituation-process]]: The development of agential control occurs through habituation
+- [[capacity-hostile-environments]]: Environments that undermine agential control become capacity-hostile
+- [[ai-specialist-roles]]: Roles requiring strong agential control may become more valuable as AI adoption increases
+
+## Update Log
+2026-07-03: Initial creation
+2026-09-15: Expanded with detailed analysis of characteristics, contrast with habitual action, and market research implications
+2026-09-25: Added specific AI tool design considerations and examples from Ferdman (2026)

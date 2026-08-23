@@ -68,3 +68,4 @@ Chronological record of every ingest operation.
 2026-08-22: Ingested s00146-025-02686-z.txt and Download the 2026 AMA State of Marketing Careers Report.txt. Created 1 new study page, updated 4 concept/entity pages with detailed analysis from Ferdman's structural perspective on AI deskilling. Synthesized findings across sources to expand market research implications of capacity-hostile environments, capacity-conducive environments, AI deskilling as a structural problem, and artificial personal assistants. Added cross-references between AMA report findings and existing concepts like value-chain-shift and entry-level-squeeze.
 2026-08-23: Ingested Download the 2026 AMA State of Marketing Careers Report.figures.md. Created 0, updated 1.
 2026-08-23: Ingested Download the 2026 AMA State of Marketing Careers Report.txt. Created 1, updated 9.
+2026-08-23: Ingested s00146-025-02686-z.txt. Created 1, updated 11.
