@@ -1,59 +1,18 @@
 # Developmental Perfectionism
 
-**First Observed:** 2026-07-15  
-**Last Updated:** 2026-09-25
+Developmental Perfectionism is a neo-Aristotelian philosophical approach to human flourishing that provides the normative foundation for understanding why capacity-deskilling is harmful. As detailed in [[ferdman-2026-ai-deskilling-structural-problem]], flourishing is understood as a complex, unified, and well-rounded life where humans exercise their capacities in activities that yield outcomes with intrinsic value.
 
-## Definition
+## Core Principles
+- **Intrinsic Value of Capacities:** The competent exercise of human capacities (epistemic, social, creative, volitional) is intrinsically valuable. The value lies not just in the outcome, but in the process of competent exercise itself.
+- **Capacity Impoverishment Leads to Impoverished Lives:** When capacities are deskilled or atrophied, individuals experience a diminished capacity for flourishing. This is why capacity-deskilling is fundamentally bad, distinct from mere skill obsolescence.
+- **Unified Flourishing:** Flourishing requires the integrated exercise of multiple capacities. For example, knowledge involves theoretical rationality, practical rationality, and the volitional capacity to pursue it.
 
-Neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life, providing the philosophical foundation for understanding why capacity-deskilling is harmful. Expanded with detailed analysis of principles, capacity connections, market research implications, and AI evaluation criteria from Ferdman's research.
+## Application to AI & Market Research
+In the context of AI adoption, developmental perfectionism argues that organizations must evaluate tools not just by efficiency metrics, but by their impact on human flourishing. AI implementations that automate away the competent exercise of capacities contribute to capacity impoverishment and undermine the professional development of insights practitioners. Preserving environments that allow for the rich, integrated exercise of human capacities is essential for maintaining the 'arts of personhood' in knowledge work.
 
-## Principles
+## Evaluation Criteria for AI Tools
+- Does the tool encourage or discourage the competent exercise of epistemic, social, creative, and volitional capacities?
+- Does it support the gradual process of habituation, or does it shortcut practice and failure?
+- Does it foster embodied, intersubjective engagement, or does it promote disembodied, isolated interaction?
 
-Ferdman (2026) explains Developmental Perfectionism as:
-
-> "A neo-Aristotelian approach to human flourishing (Kauppinen 2025), where flourishing is understood as a complex, unified, and well-rounded life (Hurka 1993). Humans exercise their capacities in activities that yield outcomes that have intrinsic value like knowledge, beauty, morality, friendship (Kraut 2013; Bradford 2016, 2021; Fletcher 2016)."
-
-Key principles:
-
-- **Intrinsic value**: The competent exercise of human capacities manifests intrinsically valuable goods
-- **Constitutive relationship**: Human capacities are constitutive of flourishing, not merely instrumental
-- **Complex unity**: Flourishing involves a complex, unified integration of capacities
-- **Developmental process**: Flourishing emerges through the development and exercise of capacities
-
-## Connection to Human Capacities
-
-Ferdman establishes why deskilling is harmful through this framework:
-
-> "Developmental Perfectionism neatly captures why deskilling is bad: capacity-deskilling is bad because our human capacities are constitutive of our flourishing. Impoverished capacities (i.e., capacity-deskilling), therefore, lead to impoverished lives."
-
-The framework explains why the deskilling of core human capacities (epistemic, social, creative, volitional) is particularly harmful compared to the obsolescence of domain-specific skills.
-
-## Market Research Implications
-
-This perspective has significant implications for market research:
-
-- **Evaluation framework**: Provides criteria for evaluating whether AI tools support or undermine researcher flourishing
-- **Quality assessment**: Helps distinguish between efficiency gains that preserve capacity development and those that undermine it
-- **Career development**: Informs how research organizations should structure career paths to support capacity development
-- **Ethical guidelines**: Offers philosophical grounding for ethical AI adoption in research contexts
-
-## AI Evaluation Criteria
-
-Ferdman's application of Developmental Perfectionism suggests specific criteria for evaluating AI tools in market research:
-
-1. **Capacity preservation**: Does the tool preserve opportunities for developing core human capacities?
-2. **Flourishing alignment**: Does the tool support rather than undermine researcher flourishing?
-3. **Structural impact**: Does the tool create environments conducive to capacity development?
-4. **Holistic integration**: Does the tool support the complex unity of researcher capacities rather than fragmenting them?
-
-## Connection to Related Concepts
-
-- [[human-capacities]]: The core capacities whose development constitutes flourishing
-- [[ai-deskilling-structural-problem]]: The phenomenon where AI undermines these capacities
-- [[capacity-conducive-environments]]: Environments designed to support capacity development and flourishing
-- [[value-chain-shift]]: The repositioning of value creation must align with capacity development
-
-## Update Log
-2026-07-15: Initial creation
-2026-08-26: Expanded with detailed analysis of principles, capacity connections, and market research implications
-2026-09-25: Added specific AI evaluation criteria and philosophical grounding from Ferdman (2026)
+See also [[human-capacities]], [[ai-deskilling-structural-problem]], and [[capacity-conducive-environments]].

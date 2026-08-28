@@ -69,3 +69,4 @@ Chronological record of every ingest operation.
 2026-08-23: Ingested Download the 2026 AMA State of Marketing Careers Report.figures.md. Created 0, updated 1.
 2026-08-23: Ingested Download the 2026 AMA State of Marketing Careers Report.txt. Created 1, updated 9.
 2026-08-23: Ingested s00146-025-02686-z.txt. Created 1, updated 11.
+2026-08-28: Ingested s00146-025-02686-z.txt. Created 0, updated 11. Synthesized Ferdman's structural analysis of AI deskilling, capacity-hostile/conducive environments, agential control, habituation, and APA impacts.
