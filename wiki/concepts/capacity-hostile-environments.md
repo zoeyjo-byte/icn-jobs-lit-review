@@ -1,17 +1,23 @@
-# Capacity-Hostile Environments
+# [[capacity-hostile-environments]]
 
-Capacity-hostile environments are socio-technical contexts that restrict, limit, or create a narrow field of affordances for the development and exercise of core human capacities. As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], these environments afford opportunities for shallow skilling while systematically restricting fuller, well-rounded development.
+## Structural Characteristics
+As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], these environments:
 
-## Characteristics
-- **Narrow Field of Affordances:** Provides limited action possibilities, often through automation that offloads tasks without encouraging compensation or alternative capacity exercise.
-- **Shallow Skilling:** Encourages users to operate at a superficial level of competence, preventing them from learning to value more masterful levels of the capacity.
-- **Disembodied Interaction:** Relies heavily on digital mediation, making it harder to recognize others as moral agents and form meaningful relationships.
-- **Automation Bias:** Users attribute excessive authority to AI tools, leading to atrophied judgment and unpreparedness for system malfunctions or edge cases.
+1. **Restrict affordance fields** - Limit opportunities for meaningful human action
+2. **Undermine intersubjectivity** - Replace human mentorship with algorithmic guidance
+3. **Discourage embodiment** - Prioritize digital interaction over physical presence
+4. **Erode volitional capacity** - Reduce need for perseverance and effort
 
-## Examples in AI Contexts
-- **Social Media Platforms:** Designed to keep users engaged through predictable, filtered content, herding behavior and maintaining ignorance through targeted algorithms.
-- **Artificial Personal Assistants (APAs):** Constantly available tools that invite users to become plan-followers, replacing self-deliberation with algorithmic recommendations and eroding practical wisdom.
-- **Healthcare AI Systems:** Over-reliance on diagnostic AI can diminish clinical judgment, ethical sensitivity, and retention of tacit knowledge among practitioners.
+## Examples in Market Research
+- AI tools that automate research design without human deliberation
+- Automated reporting systems that eliminate critical analysis
+- Virtual focus groups lacking embodied interaction
+- Algorithmic sampling methods without human judgment
 
 ## Mitigation Strategies
-To counter capacity-hostile conditions, environments must be redesigned to encourage rather than merely afford activity. This includes integrating public goods like community centers, preserving mentorship structures, and designing AI tools that act as scaffolding rather than replacements. See [[capacity-conducive-environments]] for contrasting features.
+1. Design **capacity-conducive AI** systems that preserve agential control
+2. Implement hybrid workflows combining AI efficiency with human judgment
+3. Create organizational structures that value embodied expertise
+4. Develop training programs emphasizing habituation processes
+
+See [[ferdman-2026-ai-deskilling-structural-problem]] for detailed case analysis.
