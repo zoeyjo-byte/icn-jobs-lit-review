@@ -1,1 +1,17 @@
-wiki/index.md
+# ICN Jobs Literature Review — Index
+
+## Studies
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's structural analysis of AI deskilling, introducing capacity-hostile environments, analyzing habituation processes, and examining APAs' impact on human capacities. Expanded with detailed methodology, key findings, and philosophical frameworks including Developmental Perfectionism. |
+
+## Concepts
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[capacity-hostile-environment]] | 2026-09-25 | 2026-09-25 | Structural analysis of environments undermining human capacity development through narrow affordances, automation, and disembodied interaction |
+| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Neo-Aristotelian framework connecting human flourishing to core capacities (epistemic, social, creative, volitional) requiring habituation and intersubjective valuing |
+
+## Roles
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[artificial-personal-assistant]] | 2026-09-25 | 2026-09-25 | Analysis of LLM-based APAs as capacity-hostile environments through plan-following design, agential control reduction, and intersubjective displacement |
