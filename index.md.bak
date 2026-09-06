@@ -1,22 +1,68 @@
 # ICN Jobs Literature Review — Index
 
+Master catalog of all wiki pages and their relationships. Populated automatically after ingest.
+
 ## Studies
+
+Key research studies and reports:
+
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper introducing capacity-hostile environments framework, analyzing AI's structural impact on human capacities, and examining APAs as deskilling systems. Expanded with methodology, key findings, and market research implications. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Introduces the critical distinction between capacity-hostile and capacity-conducive environments, analyzes the role of agential control and habituation in capacity development, and examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging plan-following rather than plan-forming. The paper argues that deskilling should be understood as a structural problem requiring societal solutions rather than merely an individual responsibility issue. Expanded with detailed analysis of methodology, key findings, market research implications, specific examples, and evaluation frameworks for AI tools. |
 
 ## Concepts
-| Page | Description |
-|------|-------------|
-| [[developmental-perfectionism]] | Neo-Aristotelian framework connecting human capacities to flourishing |
-| [[capacity-hostile-environment]] | Environments restricting capacity development opportunities |
+
+Cross-cutting ideas, trends, and theoretical frameworks:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[capacity-hostile-environments]] | 2026-09-25 | 2026-09-25 | Socio-technical contexts that restrict action possibilities, encourage shallow skilling, and discourage compensation for lost capacities. Linked to automation bias, disembodied interaction, and affordance shrinkage. |
+| [[capacity-conducive-environments]] | 2026-09-25 | 2026-09-25 | Socio-technical contexts that actively encourage capacity cultivation through broad affordances, embodied interaction, and intersubjective habituation. Emphasizes public goods and mentorship. |
+| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Neo-Aristotelian approach to human flourishing where flourishing is achieved through the competent exercise of core human capacities (epistemic, social, creative, volitional). |
+| [[affordance-shrinkage]] | 2026-09-25 | 2026-09-25 | Systematic reduction in action possibilities within socio-technical environments, discouraging users from compensating for lost capacity-exercising opportunities. |
+| [[arts-of-personhood]] | 2026-09-25 | 2026-09-25 | Epistemic, social, moral, and creative capacities required for practical reason, self-worth, and mutual respect. Diminished by AI-induced deskilling. |
+| [[life-planning]] | 2026-09-25 | 2026-09-25 | The activity of developing long-term intentions and coordinating goals. Distinguishes between instrumentalist and non-instrumentalist views, highlighting risks of outsourcing to APAs. |
 
 ## Skills
-| Page | Description |
-|------|-------------|
-| [[epistemic-capacities]] | Theoretical/practical rationality and critical thinking capacities |
+
+Skills, competencies, and requirements identified in the literature:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[epistemic-capacities]] | 2026-09-25 | 2026-09-25 | Cognitive abilities for acquiring, evaluating, and applying knowledge. Includes theoretical rationality and practical wisdom (phronesis). Eroded by AI dependence. |
+| [[social-capacities]] | 2026-09-25 | 2026-09-25 | Moral, caring, and relational abilities developed through embodied, intersubjective habituation. Essential for friendship, love, and collaboration. |
+| [[volitional-capacity]] | 2026-09-25 | 2026-09-25 | Meta-capacity for exerting effort, persevering, and initiating action. Required to develop other capacities. Undermined by AI convenience and offloading. |
+| [[critical-thinking]] | 2026-09-25 | 2026-09-25 | Ability to analyze information, evaluate arguments, and form independent judgments. Linked to theoretical rationality and practical wisdom. |
+| [[life-planning-skills]] | 2026-09-25 | 2026-09-25 | Cognitive and volitional abilities for formulating, coordinating, and executing long-term goals. Distinguishes plan-forming from plan-following. |
 
 ## Entities
-| Page | Description |
-|------|-------------|
-| [[artificial-personal-assistants]] | LLM-based systems mediating life planning and decision-making |
+
+Companies, tools, platforms, and organizations:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[openai]] | 2026-09-25 | 2026-09-25 | Developer of ChatGPT. Vision of personal AI teams raises concerns about capacity-hostile environments and affordance shrinkage. |
+| [[anthropic]] | 2026-09-25 | 2026-09-25 | Developer of Claude. Focus on AI safety and helpfulness, but constant availability may encourage overreliance and undermine volitional capacity. |
+| [[google]] | 2026-09-25 | 2026-09-25 | Developer of Gemini. Deep integration into productivity suites and search shapes information consumption and planning habits. |
+| [[sunsama]] | 2026-09-25 | 2026-09-25 | AI-powered scheduling app. Encourages plan-following over plan-forming, reducing agential control and opportunities for deliberate decision-making. |
+
+## Methodologies
+
+Research methodologies and analytical frameworks:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[philosophical-analysis]] | 2026-09-25 | 2026-09-25 | Application of philosophy of skill, social epistemology, and ethics to evaluate AI's impact on human capacities and flourishing. |
+| [[structural-analysis]] | 2026-09-25 | 2026-09-25 | Examination of how socio-technical environments shape behavior and skill development through affordances, embodiment, and intersubjectivity. |
+
+## Figures
+
+No figures extracted in this batch.
+
+## Synthesis
+
+Timeline pages, trend reports, and gap analysis:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| (No synthesis pages created in this batch) | - | - | - |
