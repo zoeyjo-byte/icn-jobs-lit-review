@@ -8,6 +8,67 @@ Key research studies and reports:
 
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Introduces the critical distinction between capacity-hostile and capacity-conducive environments, analyzes the role of agential control and habituation in capacity development, and examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging plan-following rather than plan-forming. The paper argues that deskilling should be understood as a structural problem requiring societal solutions rather than merely an individual responsibility issue. Expanded with detailed analysis of methodology, key findings, market research implications, specific examples, and evaluation frameworks for AI tools. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper in AI & Society presenting a structural analysis of how AI systems can undermine human capacities through systemic environmental conditions rather than individual failings. Introduces the critical distinction between capacity-hostile and capacity-conducive environments, analyzes the role of agential control and habituation in capacity development, and examines how Artificial Personal Assistants may create capacity-hostile environments by encouraging plan-following rather than plan-forming. The paper argues that deskilling should be understood as a structural problem requiring societal solutions rather than merely an individual responsibility issue. |
 
-[Other index entries unchanged for brevity]
+## Concepts
+
+Cross-cutting ideas, trends, and frameworks:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[capacity-hostile-environments]] | 2026-09-25 | 2026-09-25 | Socio-technical contexts that restrict affordances for capacity development, encouraging shallow skilling and automation bias. |
+| [[capacity-conducive-environments]] | 2026-09-25 | 2026-09-25 | Contexts that afford and encourage opportunities for cultivating core human capacities through embodied, intersubjective habituation. |
+| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Neo-Aristotelian approach to human flourishing where competent exercise of core capacities yields intrinsically valuable outcomes. |
+| [[agential-control]] | 2026-09-25 | 2026-09-25 | Ability to adjust action execution and initiate activities voluntarily, distinguishing skill from habit. |
+| [[habituation]] | 2026-09-25 | 2026-09-25 | Gradual process of skill inculcation through practice, attunement, intersubjectivity, and embodiment. |
+| [[affordances-and-affordance-shrinkage]] | 2026-09-25 | 2026-09-25 | Action possibilities formed by agent-environment relationships; shrinkage occurs when reduction becomes systematic and entrenched. |
+| [[life-planning]] | 2026-09-25 | 2026-09-25 | Activity of developing long-term goals and strategies, involving settling, coordinating, and self-deliberation functions. |
+
+## Skills
+
+Skills, competencies, and requirements:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[critical-thinking]] | 2026-09-25 | 2026-09-25 | Epistemic capacity for rigorous analysis and evaluation; eroded by AI over-reliance and automation bias. |
+| [[practical-wisdom]] | 2026-09-25 | 2026-09-25 | Phronesis: ability to do the right thing in the right way for the right reason; requires real-world experience. |
+| [[life-planning-skills]] | 2026-09-25 | 2026-09-25 | Competencies for settling, coordinating, and executing long-term goals; integrated exercise of multiple capacities. |
+| [[empathy]] | 2026-09-25 | 2026-09-25 | Social/moral capacity to understand others' perspectives; develops through embodied, intersubjective habituation. |
+| [[time-management]] | 2026-09-25 | 2026-09-25 | Volitional/practical capacity to organize and allocate time; tied to capacity to will and self-regulation. |
+| [[problem-solving]] | 2026-09-25 | 2026-09-25 | Integrated capacity to identify challenges and implement solutions; requires agential control and responsibility. |
+
+## Roles
+
+Job roles, positions, and career paths:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[mentor]] | 2026-09-25 | 2026-09-25 | Experienced guide who facilitates habituation, instills shared valuing, and provides guided practice. |
+| [[plan-former-vs-plan-follower]] | 2026-09-25 | 2026-09-25 | Distinction between initiating planning activities vs responding to AI outputs; impacts agential control. |
+
+## Entities
+
+Companies, research firms, tools, and platforms:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[openai]] | 2026-09-25 | 2026-09-25 | AI research company behind ChatGPT; envisions personal AI teams for daily life integration. |
+| [[chatgpt-claude-gemini]] | 2026-09-25 | 2026-09-25 | Prominent LLMs used as APAs for life-planning, scheduling, and decision-support. |
+| [[sunsama]] | 2026-09-25 | 2026-09-25 | AI-integrated scheduling app that prompts prioritization and intelligent task scheduling. |
+
+## Methodologies
+
+Research methodologies and theoretical frameworks:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[philosophy-of-skill]] | 2026-09-25 | 2026-09-25 | Theoretical framework analyzing skill acquisition, agential control, and habituation processes. |
+| [[enactive-approach]] | 2026-09-25 | 2026-09-25 | Cognitive framework emphasizing participatory sense-making and embodied interaction in social cognition. |
+
+## Synthesis
+
+Timeline pages, trend reports, and gap analysis:
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[ai-deskilling-structural-gap-analysis]] | 2026-09-25 | 2026-09-25 | Synthesis of structural deskilling risks in market research, highlighting capacity-hostile environments and mitigation strategies. |
