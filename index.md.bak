@@ -1,0 +1,29 @@
+# ICN Jobs Literature Review — Index
+
+Master catalog of all wiki pages and their relationships. Populated automatically after ingest.
+
+## Studies
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper introducing capacity-hostile environments, analyzing AI's structural impact on human capacities through habituation and agential control frameworks, with expanded methodology, key findings, and evaluation frameworks for AI tools. |
+
+## Concepts
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[capacity-hostile-environment]] | 2026-09-26 | 2026-09-26 | Environments restricting capacity development through narrow affordances, plan-following automation, and reduced habituation opportunities. |
+| [[developmental-perfectionism]] | 2026-09-26 | 2026-09-26 | Neo-Aristotelian framework identifying core capacities constitutive of human flourishing and their cultivation requirements. |
+
+## Skills
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[agential-control]] | 2026-09-26 | 2026-09-26 | Ability to initiate and adjust actions with flexible thought-action links, distinguishing skills from habits. |
+| [[habituation]] | 2026-09-26 | 2026-09-26 | Gradual skill acquisition process requiring embodied practice, mentorship, and mistake correction across five developmental stages. |
+
+## Entities
+
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[artificial-personal-assistants]] | 2026-09-26 | 2026-09-26 | LLM-based systems like ChatGPT and Gemini that automate life-planning functions while creating capacity-hostile environments. |
