@@ -3,26 +3,16 @@
 ## Studies
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's structural analysis of AI deskilling, introducing capacity-hostile environments, agential control, and habituation challenges. Expanded with methodology, market research implications, and APA analysis. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Expanded analysis of capacity-hostile environments, developmental perfectionism framework, and APA system impacts. Includes detailed methodology, habituation disruption, and policy implications. |
 
 ## Concepts
-| Page | Description |
-|------|-------------|
-| [[capacity-hostile-environment]] | Systemic conditions where AI impedes capacity cultivation through narrow affordances and automation bias |
-| [[developmental-perfectionism]] | Neo-Aristotelian framework linking human flourishing to core capacity development |
-| [[habituation]] | Gradual skill acquisition process requiring embodied practice and mentorship |
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[capacity-hostile-environment]] | 2026-09-25 | 2026-09-25 | Structural conditions that systematically limit capacity development through affordance shrinkage and disembodied interaction |
+| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Neo-Aristotelian framework connecting human capacities to flourishing through habituation and shared valuing |
 
-## Entities
-| Page | Description |
-|------|-------------|
-| [[artificial-personal-assistants]] | LLM-based systems creating capacity-hostile environments through automated life-planning |
-
-## Synthesis
-| Page | Topic |
-|------|-------|
-| [[ai-impact-on-human-capacities]] | Structural analysis of AI's effects on epistemic, social, and creative capacities |
-
-## Figures
-| Page | Source | Description |
-|------|--------|-----------|
-| [[ferdman-2026-fig-1-capacity-environment-model]] | Ferdman 2026 | Conceptual model contrasting capacity-hostile and conducive environments |
+## Skills
+| Page | First Observed | Last Updated | Description |
+|------|---------------|-------------|-------------|
+| [[agential-control]] | 2026-09-25 | 2026-09-25 | Ability to initiate and adjust actions with flexible thought-action links, threatened by automation bias |
+| [[habituation]] | 2026-09-25 | 2026-09-25 | Gradual skill development through practice, mentorship, and embodied interaction disrupted by AI systems |
