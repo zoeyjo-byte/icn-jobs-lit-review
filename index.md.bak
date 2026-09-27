@@ -1,41 +1,23 @@
 # ICN Jobs Literature Review — Index
 
-Master catalog of all wiki pages and their relationships. Populated automatically after ingest.
-
 ## Studies
-
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-09-25 | 2026-09-25 | Avigail Ferdman's 2026 paper introducing capacity-hostile environments, analyzing APA risks, and expanding structural analysis methodology. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's structural analysis of AI-induced deskilling, introducing capacity-hostile environments framework, analyzing APAs' impact on human capacities, and proposing developmental perfectionism approach. Expanded with detailed methodology, key findings, and synthesis across 8 pages. |
 
 ## Concepts
-
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[capacity-hostile-environments]] | 2026-09-25 | 2026-09-25 | Systemic conditions restricting capacity development through affordance shrinkage, disembodiment, and automation feedback loops. |
-| [[artificial-personal-assistants]] | 2026-09-25 | 2026-09-25 | LLMs mediating life-planning that create capacity-hostile environments through habit formation and reduced agential control. |
+| [[capacity-hostile-environment]] | 2026-09-25 | 2026-09-25 | Structural conditions undermining capacity cultivation through automation, narrow affordances, and disembodied interaction |
+| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Framework linking human flourishing to competent exercise of epistemic, social, creative, and volitional capacities |
 
 ## Skills
-
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[life-planning]] | 2026-09-25 | 2026-09-25 | Self-constituting activity requiring epistemic, social, creative, and volitional capacities. Threatened by APA-mediated plan-following. |
+| [[epistemic-capacities]] | 2026-09-25 | 2026-09-25 | Theoretical/practical rationality, critical thinking, and analytical reasoning threatened by AI automation |
+| [[volitional-capacity]] | 2026-09-25 | 2026-09-25 | Meta-capacity for willpower development challenged by APA offloading |
 
 ## Entities
-
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[openai]] | 2026-09-25 | 2026-09-25 | Creator of ChatGPT, driving APA adoption with "personal AI teams" vision that risks structural deskilling. |
-| [[sunsama]] | 2026-09-25 | 2026-09-25 | Scheduling app exemplifying plan-following over plan-forming through automated rescheduling and prompts. |
-
-## Methodologies
-
-| Page | First Observed | Last Updated | Description |
-|------|---------------|-------------|-------------|
-| [[structural-analysis-of-ai]] | 2026-09-25 | 2026-09-25 | Evaluates AI tools using axes of affordances, embodiment, and intersubjectivity to identify capacity-hostile environments. |
-
-## Synthesis
-
-| Page | First Observed | Last Updated | Description |
-|------|---------------|-------------|-------------|
-| [[ai-deskilling-structural-gap-analysis]] | 2026-09-25 | 2026-09-25 | Synthesis of structural deskilling risks in market research, emphasizing APA threats and need for capacity-conducive AI integration. |
+| [[ai-personal-assistants]] | 2026-09-25 | 2026-09-25 | LLM-based systems acting as life planners and moral advisors creating capacity-hostile environments |
