@@ -71,3 +71,4 @@ Chronological record of every ingest operation.
 2026-08-23: Ingested s00146-025-02686-z.txt. Created 1, updated 11.
 2026-08-28: Ingested s00146-025-02686-z.txt. Created 0, updated 11. Synthesized Ferdman's structural analysis of AI deskilling, capacity-hostile/conducive environments, agential control, habituation, and APA impacts.
 2026-08-30: Ingested s00146-025-02686-z.txt. Created 1 new study page, updated 4 concept pages with structural analysis of AI deskilling from Ferdman's research.
+2026-09-28: Ingested s00146-025-02686-z.txt. Created 5 new pages, updated 1 page.
