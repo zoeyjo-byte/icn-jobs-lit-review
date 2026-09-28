@@ -3,21 +3,20 @@
 ## Studies
 | Page | First Observed | Last Updated | Description |
 |------|---------------|-------------|-------------|
-| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's structural analysis of AI-induced deskilling, introducing capacity-hostile environments framework, analyzing APAs' impact on human capacities, and proposing developmental perfectionism approach. Expanded with detailed methodology, key findings, and synthesis across 8 pages. |
+| [[ferdman-2026-ai-deskilling-structural-problem]] | 2026-07-10 | 2026-09-25 | Avigail Ferdman's 2026 paper analyzing AI's structural impact on human capacities, introducing capacity-hostile environments, agential control analysis, and APA case studies. Expanded with methodology details, market research implications, and evaluation frameworks.
 
 ## Concepts
-| Page | First Observed | Last Updated | Description |
-|------|---------------|-------------|-------------|
-| [[capacity-hostile-environment]] | 2026-09-25 | 2026-09-25 | Structural conditions undermining capacity cultivation through automation, narrow affordances, and disembodied interaction |
-| [[developmental-perfectionism]] | 2026-09-25 | 2026-09-25 | Framework linking human flourishing to competent exercise of epistemic, social, creative, and volitional capacities |
+| Page | Description |
+|------|-------------|
+| [[capacity-hostile-environment]] | Systemic conditions impeding capacity development
+| [[developmental-perfectionism]] | Framework for human flourishing through capacity cultivation
 
 ## Skills
-| Page | First Observed | Last Updated | Description |
-|------|---------------|-------------|-------------|
-| [[epistemic-capacities]] | 2026-09-25 | 2026-09-25 | Theoretical/practical rationality, critical thinking, and analytical reasoning threatened by AI automation |
-| [[volitional-capacity]] | 2026-09-25 | 2026-09-25 | Meta-capacity for willpower development challenged by APA offloading |
+| Page | Core Components |
+|------|----------------|
+| [[epistemic-capacities]] | Critical thinking, rationality, analytical reasoning
 
-## Entities
-| Page | First Observed | Last Updated | Description |
-|------|---------------|-------------|-------------|
-| [[ai-personal-assistants]] | 2026-09-25 | 2026-09-25 | LLM-based systems acting as life planners and moral advisors creating capacity-hostile environments |
+## Roles
+| Page | Key Responsibilities |
+|------|---------------------|
+| [[artificial-personal-assistant]] | Life planning, decision support, schedule optimization
