@@ -31,5 +31,6 @@ Catalog of all figures extracted from source documents.
 | [[ramp-revelio-2026-fig-2-ai-adoption-by-sector]] | ramp-revelio-2026-fig-2-ai-adoption-by-sector |
 | [[ramp-revelio-2026-fig-6-total-headcount]] | ramp-revelio-2026-fig-6-total-headcount |
 | [[ramp-revelio-2026-fig-7-entry-level-headcount]] | ramp-revelio-2026-fig-7-entry-level-headcount |
+| [[s00146-025-02686-z-fig-1-ai-affordance-space]] | Figure 1: AI Affordance Space |
 
 See [[index|Home]] for the full catalog.

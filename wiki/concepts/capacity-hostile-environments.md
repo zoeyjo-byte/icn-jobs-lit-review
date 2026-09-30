@@ -1,23 +1,11 @@
-# [[capacity-hostile-environments]]
+## Capacity-Hostile Environments
 
-## Structural Characteristics
-As analyzed in [[ferdman-2026-ai-deskilling-structural-problem]], these environments:
+A structural framework for analyzing environments that systematically undermine human capacity development. Key characteristics:
 
-1. **Restrict affordance fields** - Limit opportunities for meaningful human action
-2. **Undermine intersubjectivity** - Replace human mentorship with algorithmic guidance
-3. **Discourage embodiment** - Prioritize digital interaction over physical presence
-4. **Erode volitional capacity** - Reduce need for perseverance and effort
+- **Narrow Affordance Fields**: Restrict opportunities for meaningful human activity through automation bias and shallow task design
+- **Disembodied Interaction**: Digital interfaces that reduce embodied social engagement (e.g., social media platforms)
+- **Automation Feedback Loops**: Systems like APAs that replace routine decision-making, weakening cognitive musculature (Bainbridge 1983)
 
-## Examples in Market Research
-- AI tools that automate research design without human deliberation
-- Automated reporting systems that eliminate critical analysis
-- Virtual focus groups lacking embodied interaction
-- Algorithmic sampling methods without human judgment
+See [[s00146-025-02686-z|Figure 1: AI Affordance Space]] for visual representation. Contrasts with [[capacity-conducive-environments]].
 
-## Mitigation Strategies
-1. Design **capacity-conducive AI** systems that preserve agential control
-2. Implement hybrid workflows combining AI efficiency with human judgment
-3. Create organizational structures that value embodied expertise
-4. Develop training programs emphasizing habituation processes
-
-See [[ferdman-2026-ai-deskilling-structural-problem]] for detailed case analysis.
+*First observed in*: [[s00146-025-02686-z]] (Ferdman, 2026)

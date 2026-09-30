@@ -1,23 +1,14 @@
-# [[developmental-perfectionism]]
+## Developmental Perfectionism
 
-## Framework
-Neo-Aristotelian approach to human flourishing through:
-- Cultivation of core capacities:
-  - Epistemic (critical thinking)
-  - Social (moral reasoning)
-  - Creative (novel combinations)
-  - Volitional (willpower)
+A neo-Aristotelian framework for human flourishing through capacity cultivation. Core tenets:
 
-## Key Principles
-- Capacities are constitutive of flourishing
-- Requires **embodied habituation**
-- Depends on **intersubjective mentorship**
+1. **Intrinsic Value of Capacities**: Human capacities (epistemic, social, creative) are constitutive of flourishing
+2. **Competent Exercise**: Requires agential control and habituation processes
+3. **Meta-Capacity**: The volitional capacity to will oneself through skill development
 
-## Application
-Used to evaluate AI systems' impact on:
-- Knowledge acquisition
-- Moral development
-- Creative problem-solving
-- Self-regulation
+Key applications:
+- Explaining why deskilling diminishes personhood
+- Framework for evaluating AI systems' impact on human development
+- Basis for [[capacity-conducive-environments]] design
 
-See [[ferdman-2026-ai-deskilling-structural-problem]]
+*First observed in*: [[s00146-025-02686-z]] (Ferdman, 2026)
