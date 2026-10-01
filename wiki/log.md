@@ -73,3 +73,4 @@ Chronological record of every ingest operation.
 2026-08-30: Ingested s00146-025-02686-z.txt. Created 1 new study page, updated 4 concept pages with structural analysis of AI deskilling from Ferdman's research.
 2026-09-28: Ingested s00146-025-02686-z.txt. Created 5 new pages, updated 1 page.
 2026-09-30: Ingested s00146-025-02686-z.txt. Created 6 pages (3 concepts, 1 skill, 1 entity, 1 study, 1 figure).
+2026-10-01: Ingested s00146-025-02686-z.txt. Created 3, updated 2.

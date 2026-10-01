@@ -1,16 +1,16 @@
-## Artificial Personal Assistants (APAs)
+# Artificial Personal Assistants (APAs)
 
-LLM-based systems that mediate life planning and decision-making. Key examples:
-- ChatGPT
-- Claude.ai
-- Gemini
-- Sunsama scheduling app
+## Overview
+Large Language Model-based systems functioning as life coaches, planners, and decision advisors that risk creating capacity-hostile environments.
 
-Functional risks:
-- Habituation displacement through plan-following over plan-forming
-- Reduced agential control in decision-making processes
-- Erosion of practical wisdom through constant AI mediation
+## Functional Risks
+- **Plan-Following Habituation**: Replaces agential control with environmental triggers
+- **Decision Offloading**: Reduces opportunities for practical wisdom development
+- **Intersubjectivity Erosion**: Diminishes shared experience through human-AI interaction
 
-See [[s00146-025-02686-z|Figure 3: APA Interaction Dynamics]].
+## Case Example
+Sunsama scheduling app: Automates daily planning while discouraging self-initiated habituation
 
-*First observed in*: [[s00146-025-02686-z]] (Ferdman, 2026)
+## Research Context
+- [[studies/s00146-025-02686-z]]
+- [[concepts/capacity-hostile-environments]]
