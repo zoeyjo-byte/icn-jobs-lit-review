@@ -1,48 +1,7 @@
-# LLM Wiki Index
-
-## Concepts
-| Page | Description |
-|------|-------------|
-| [[concepts/capacity-hostile-environments]] | Environments that restrict affordances for capacity development |
-| [[concepts/developmental-perfectionism]] | Neo-Aristotelian framework for human flourishing |
-
-## Skills
-| Page | Description |
-|------|-------------|
-| [[skills/epistemic-capacities]] | Theoretical and practical rationality |
-| [[skills/social-capacities]] | Moral, social, and caring abilities |
-| [[skills/creative-capacity]] | Transforming conceptual spaces without mechanical procedures |
-| [[skills/volitional-capacity]] | Ability to exert effort and persevere toward goals |
-
-## Entities
-| Page | Description |
-|------|-------------|
-| [[entities/artificial-personal-assistants]] | LLM-powered personal assistants and life planners |
-| [[entities/openai]] | AI research organization behind ChatGPT |
-| [[entities/sunsama]] | AI-integrated scheduling application |
-
-## Studies
-| Page | Description |
-|------|-------------|
-| [[studies/s00146-025-02686-z]] | Ferdman (2025) on AI deskilling as a structural problem |
-
-## Figures
-| Page | Description |
-|------|-------------|
-| [[figures/s00146-025-02686-z-fig-1-ai-affordance-space]] | Mapping AI affordance spaces and capacity cultivation |
-
-## Methodologies
-| Page | Description |
-|------|-------------|
-| [[methodologies/philosophical-analysis]] | Ethical and epistemological evaluation of tech impacts |
-| [[methodologies/enactive-approach]] | Cognitive framework emphasizing embodied interaction |
-
-## Sources
-| Source | Status |
-|--------|--------|
-| s00146-025-02686-z.txt | Processed |
-
-## Log
-| Date | Action |
-|------|--------|
-| 2025-11-05 | Ingested s00146-025-02686-z.txt. Created 8, updated 7. |
+| Type | Page |
+|------|------|
+| **Concepts** | [[concepts/capacity-hostile-environments]], [[concepts/developmental-perfectionism]] |
+| **Skills** | [[skills/epistemic-capacities]] |
+| **Entities** | [[entities/artificial-personal-assistants]] |
+| **Studies** | [[studies/s00146-025-02686-z]] |
+| **Figures** | [[figures/s00146-025-02686-z-fig-1-ai-affordance-space]] |
