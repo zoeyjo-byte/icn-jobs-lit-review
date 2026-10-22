@@ -74,3 +74,4 @@ Chronological record of every ingest operation.
 2026-09-28: Ingested s00146-025-02686-z.txt. Created 5 new pages, updated 1 page.
 2026-09-30: Ingested s00146-025-02686-z.txt. Created 6 pages (3 concepts, 1 skill, 1 entity, 1 study, 1 figure).
 2026-10-01: Ingested s00146-025-02686-z.txt. Created 3, updated 2.
+2026-10-22: Ingested s00146-025-02686-z.txt. Created 0, updated 5. Added analysis of APAs, capacity-hostile environments, developmental perfectionism, and epistemic capacities.
