@@ -1,20 +1,14 @@
 # Developmental Perfectionism
 
-**Definition:** A neo-Aristotelian approach to human flourishing where flourishing is understood as a complex, unified, and well-rounded life. Humans exercise their capacities in activities that yield outcomes with intrinsic value, such as knowledge, beauty, morality, and friendship.
+**Developmental perfectionism** is a neo-Aristotelian ethical framework used to evaluate human flourishing and the moral implications of AI systems. It posits that flourishing is a complex, unified, and well-rounded life achieved through the competent exercise of core human capacities.
 
-## Core Principles
-- **Intrinsic Value of Capacities:** The competent exercise of human capacities is the manifestation of intrinsically valuable goods, making the capacities themselves intrinsically valuable.
-- **Capacity-Deskilling as Harm:** Impoverished capacities lead to impoverished lives. Deskilling of core human capacities is bad because these capacities are constitutive of our flourishing.
-- **Core Human Capacities:** The framework identifies several core capacities required for a flourishing life:
-  - [[skills/epistemic-capacities|Epistemic Capacities]]: Theoretical rationality (thinking, forming beliefs) and practical rationality (phronesis/common sense).
-  - [[skills/social-capacities|Social Capacities]]: Moral capacity, and capacities for developing meaningful relationships of friendship and love.
-  - [[skills/creative-capacity|Creative Capacity]]: Making unfamiliar combinations of familiar ideas, transforming conceptual space without relying on luck or mechanical procedures.
-  - [[concepts/volitional-capacity|Volitional Capacity]]: The ability to exert effort, overcome difficulty, and persevere to achieve intrinsically valuable goals. Treated as a meta-capacity.
+## Core Tenets
+- **Intrinsic Value of Capacities**: Human capacities (epistemic, moral, social, creative) are intrinsically valuable because their competent exercise yields outcomes with intrinsic value, such as knowledge, beauty, morality, and friendship.
+- **Capacity-Deskilling as Harm**: Impoverishing these capacities leads to impoverished lives. Unlike skill obsolescence (e.g., basket-weaving), which may be innocuous or even liberating, **capacity-deskilling** diminishes us as humans and undermines our flourishing.
+- **Flourishing as Achievement**: The value of an outcome is gained from the competent exercise of capacities involved in achieving it, not merely from attaining the outcome. For example, reaching a summit by helicopter lacks the value of climbing it, because the latter requires the exercise of multiple capacities.
 
-## Implications for AI
-Under developmental perfectionism, AI deskilling is not merely an inconvenience but a threat to human flourishing. The framework emphasizes that socio-technical environments must be evaluated based on their conduciveness to capacity cultivation. Environments that encourage the competent exercise of these capacities foster flourishing, while those that promote shallow skilling or offloading lead to capacity impoverishment.
+## Application to AI
+Under this framework, AI systems should be evaluated based on whether they support or hinder the developmental process of human capacities. Tools that replace effortful practice, bypass the need for **[[volitional-capacity]]**, or discourage deep habituation are ethically problematic. Developmental perfectionism provides a normative standard for designing **[[capacity-conducive]]** socio-technical environments that foster rather than replace human excellence.
 
-## Update (2025-11-05)
-- Expanded definition to include the four core human capacities and their role in flourishing.
-- Clarified the distinction between skill obsolescence (potentially innocuous) and capacity-deskilling (always harmful).
-- Linked to [[concepts/capacity-hostile-environments]] to explain how AI environments can undermine perfectionist flourishing.
+## Update
+*Added 2024-05-20: Mapped neo-Aristotelian principles to AI ethics and capacity cultivation.*

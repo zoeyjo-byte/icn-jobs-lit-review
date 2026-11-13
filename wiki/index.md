@@ -6,6 +6,8 @@
 - [[concepts/affordance-shrinkage]]
 - [[concepts/volitional-capacity]]
 - [[concepts/embodied-habituation]]
+- [[concepts/life-planning]]
+- [[concepts/agential-control]]
 
 ## Skills
 - [[skills/epistemic-capacities]]
@@ -18,6 +20,10 @@
 
 ## Studies
 - [[studies/s00146-025-02686-z]]
+
+## Methodologies
+- [[methodologies/philosophy-of-skill]]
+- [[methodologies/enactive-approach]]
 
 ## Figures
 - [[figures/s00146-025-02686-z-fig-1-ai-affordance-space]]
